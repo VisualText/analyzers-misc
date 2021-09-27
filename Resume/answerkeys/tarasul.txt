@@ -1,0 +1,61 @@
+
+CONTACT:
+
+Contact Name: Alexander Tarasul
+First Name: Alexander
+Last Name: Tarasul
+
+Email:       shleym@ripco.com
+URL:         http://pages.ripco.com/~shleym
+
+EDUCATION:
+
+Date: 1990
+School Name: ODESSA UNIVERSITY Odessa
+School Location: Odessa, Ukraine
+Degree: M.S. 
+Major: Computer Science and Mathematics    
+Honors: Honor    
+
+Date: 1983
+School Name: Mathematical High School Odessa
+School Location: Odessa, Ukraine
+Degree: Diploma
+Honors: Honor
+
+EXPERIENCE:
+
+Date: 01/1999 - present
+Company: Consulting Company
+Position: Project Leader
+Location: Chicago, IL
+
+Date: 09/1997 - 01/1999
+Position: Consultant
+
+Date: 11/1996 - 9/97
+Company: Records Storage Company
+Position: Senior System Analyst
+Location: Chicago, IL
+
+Date: 05/1996 - 10/96
+Position: Software developer
+
+Date: 11/1995 - 05/1996
+Position: Consultant
+
+Date: 02 / 1993 - 07 / 1995
+Company: Retail Company
+Position: System Consultant
+Location: Odessa, Ukraine
+
+Date: 09 / 1987 - 02 / 1993
+Company: Software Development Company 
+Position: Senior Programmer/Analyst
+Location: Odessa, Ukraine
+
+Date: 01 / 1990 -05 / 1995
+Company: Private School
+Position: Teacher, Computer Science
+Location: Odessa, Ukraine
+

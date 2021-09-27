@@ -1,0 +1,14 @@
+                                   Emery Lapinski
+                                1333 Thomas Ave #22
+                                San Diego, CA 92109
+                               e-mail: ewl@panix.com
+                                phone: 619.270.1728
+
+                                  Career History
+ Nicholas-Applegate Capital Management (via Cafésoft), San Diego, CA Jan 97-Feb 99
+   Designed and implemented internal Java applets and middleware.
+   Designed and implemented Java applet for report management project
+   using JDBC for Sybase and CGI scripts to generate reports with
+   Platinum InfoReports. Designed and implemented Java applet and server
+   for program trading group using CORBA and JDBC for Sybase. Currently
+   working with Middleware group to support application development.

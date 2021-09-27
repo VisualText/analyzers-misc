@@ -1,0 +1,113 @@
+
+Philippe CONVERSET                                                  [Image]
+14, villa Gaudelet
+75011 PARIS
+FRANCE
+Ph. : 33 (0) 1 48 06 77
+69
+Email : plc@ina.fr
+Web : phil.citeweb.net
+
+OBJECTIVE
+---------------------------------------------------------------------------
+Object architect and computer graphics engineer in a high-tech multimedia
+company.
+
+
+WORK EXPERIENCE
+---------------------------------------------------------------------------
+1996-1999  INA (Institut National de l’Audiovisuel), Audiovisual archive
+and research.
+
+     Software architect & technical lead (since September 97)
+     Designed and developed Clap, professional cartoon production
+     software, from storyboard to layout, written in Objective-C on
+     Windows NT (Apple Yellow Box), 5 member team :
+
+        * developed in collaboration with the Belgian company Neurones
+          Animation, for commercial productions;
+        * designed the whole object architecture, wrote database
+          access layer using EOF/ODBC, interfaces, QuickTime sound
+          integration, groupware in client/server mode, drawing
+          optimizations;
+        * tests conducted at "France Animation" studio, Paris.
+
+     Software engineer (June 96 - August 97)
+     Developed Anim2000, professional cartoon production software for
+     the layout phase, written in C++ on Silicon Graphics (XWindow,
+     OpenGL), 5 member team :
+
+        * wrote the database access layer and groupware using Versant
+          ODBMS, interfaces, user manager;
+        * tests conducted at "France Animation" studio, Paris.
+
+1993-1996  Alcatel ISR, industry leader in military software systems.
+
+     Software engineer (December 92 – May 96)
+     Developed an application dedicated to transfer data between
+     heterogeneous databases, written in C++ on HP WorkStation, 2
+     member team :
+
+        * OMT conception, interfaces using ILOG Views.
+
+     Developed a multimedia object database management system, written
+     in C++ on HP WorkStation, 8 member team :
+
+        * wrote parts of database engine (events management system,
+          concurrency control, RPC users controlling, data
+          distribution), Windows NT port.
+
+     Developed a tool to build 3D models from aerial shots, written in
+     C++ on Silicon Graphics (OpenGL, UIM/X)
+
+1992  DGA (Direction Générale de l'Armement), Paris
+
+     military service
+     Conducted internal computer trainings, installed network.
+
+SKILLS
+---------------------------------------------------------------------------
+Operating Systems : Windows NT, MacOs X, Unix, X/Motif, DOS.
+Languages : C, C++, Objective-C , Java, Ada, Pascal, Basic, Lisp, Perl,
+SGML, HTML, ...
+SDK : openGL, QuickTime, Apple Yellow Box.
+Methodologies : OMT, UML.
+Softwares : Borland C++, Visual C++, Visual Age, Word, Excel, Access,
+Photoshop.
+English : fluent in spoken and written English, TOEFL 590 (Test of English
+as a Foreign Langage, max level 677)
+French : native langage.
+
+
+EDUCATION
+---------------------------------------------------------------------------
+1993 Software engineer at Ecole pour les Etudes et la Recherche en
+     Informatique et Electronique (EERIE), equivalent to M.S. in Software
+     and Electrical Engineering.
+
+
+INTERESTS & ACTIVITIES
+---------------------------------------------------------------------------
+1998    Wrote reference documentation for UnrealScript on French site
+        xanaweb.
+1997    Creation and daily updates of a personal Web site dedicated to
+        graphic processor 3dfx (2000 hits per months).
+1990-91 Founder and president of a computer services association for
+        students.
+1989-91 Co-founder, writer and designer of a student magazine.
+Sports  Swimming, diving (international license), windsurfing (I shaped my
+        own board).
+Hobbies Design and realization of customized shelves, french comics
+        collection (about 300), computer graphics (wrote metaballs renderer
+        and warping software).
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,226 @@
+   207 Washington St,         Elliot Joel Berk       13193 Weatherfield Dr
+        Apt #15         ejberk@alumni.princeton.edu   St. Louis, MO 63146
+   Hoboken, NJ 07030
+     (201)659-1395
+
+EXPERIENCE
+D.E. Shaw & Co., New York, New York, June 1997-present
+· Technical member of proprietary trading group within the D.E. Shaw & Co.
+hedge fund operation, executing a number of quantitative arbitrage
+strategies, in role combining quantitative research, systems programming,
+and trading.
+· Created a profitable quantitative trading strategy, handling all aspects
+of research, development, trading, and support. This market-neutral
+strategy, developed within the context of the D.E. Shaw & Co. hedge fund
+business, was a self-contained, one-person operation.
+· Traded bond futures, equity options, stocks, corporate bonds, and other
+equity-linked securities in the context of a quantitative proprietary
+trading operation.
+· Developed multiple currency interest rate risk management system, which
+recommends a set of bond futures positions to hedge the interest rate
+exposure of a portfolio of straight corporate bonds, convertible corporate
+bonds, warrants, and other equity-linked securities.
+· Developed credit risk management system, which recommends a short
+position in a high yield total return swap to hedge the long credit
+exposure of a portfolio of corporate securities.
+· Developed a front-end system for the trading of equity-linked securities,
+which manages orders and fills, aids in valuation, and recommends trades
+for dynamic rehedging.
+· Designed and implemented a Hull-White lattice for the pricing of
+corporate bonds and the calculation of price-implied credit spreads.
+· Developed an international black box credit spread model for corporate
+securities based upon fundamental issuer data and technical market
+information, which calculates the appropriate credit spread for a given
+security, as justified by market information.
+· Developed a black box credit rating model for corporate securities based
+upon fundamental issuer data and technical market information, which
+calculates the appropriate credit rating for a given security.
+· Supported a number of equity-linked proprietary trading strategies within
+the D.E. Shaw & Co. hedge fund operation.
+Princeton University Computer Science Department, Princeton, New Jersey,
+January 1997-June 1997
+· Consultant to Princeton University. Developed an experimental online card
+catalog for the Princeton University library. This interactive system
+allows the Internet user to search and to browse large databases of
+bibliographical records by way of the World Wide Web.
+Princeton University Computer Science Department, Princeton, New Jersey,
+January 1996-June 1997
+· Teaching assistant for various Computer Science courses.
+Microsoft Corporation, Seattle, Washington, May-August 1995, May-August
+1996
+· Two summer internships, involving significant programming projects, as
+member of development group producing database design tools for Internet
+development.
+National Science Foundation Summer Research Program, Washington University,
+St. Louis, Missouri, July-August 1994
+· Conducted optimization of Tennessee Eastman Industrial Challenge Problem
+using FORTRAN optimization routines in the process control lab of Dr. Babu
+Joseph of the Chemical Engineering Department of the Washington University
+Engineering School.
+Washington University, St. Louis, Missouri, July-August 1993
+· Research assistant in lab of Dr. Gary K. Ackers, head of Department of
+Biochemistry and Molecular Biophysics of Washington University School of
+Medicine
+The U.S. Department of Energy High School Science Scholars Honors Program,
+Argonne National Labs, Chicago, Illinois, June 1993
+· 1993 U.S. Department of Energy Science Scholar. Conducted analysis of
+organic superconductors.
+The George Engelmann Mathematics and Science Institute, University of
+Missouri-St. Louis, St. Louis, Missouri, June-August 1992
+· 1992 National Science Foundation Scholar. Conducted analysis of
+diamond-like carbon films.
+
+EDUCATION
+Princeton University, Princeton, New Jersey, 1993-1997
+· Graduation in June, 1997. Major with Highest Honors in Computer Science.
+Undergraduate Certificate in Applied and Computational Mathematics.
+Cumulative GPA 4.01 on 4.0 scale. Computer Science Departmental GPA 4.17.
+Applied Mathematics Departmental GPA 4.27. GRE Computer Science subject
+820.
+Parkway North High School, St. Louis, Missouri, 1989-1993
+· Valedictorian. Cumulative GPA 4.7 on a weighted 4.0 scale. Class Rank
+1/332. SAT math 800, verbal 670.
+
+HONORS
+Princeton University, Princeton, New Jersey, 1993-1997
+· Awarded National Science Foundation (NSF) Graduate Fellowship in March
+1997 for graduate study in computer science at Stanford University.
+Distinction earned for overall accomplishment as a undergraduate and
+evidence of outstanding ability in a technical field.
+· Inducted in Spring 1997 into the Princeton chapter of Phi Beta Kappa. Phi
+Beta Kappa is a college honors society with a long tradition of recognizing
+outstanding academic achievement.
+· Awarded Highest Honors upon graduation from the Department of Computer
+Science at Princeton University.
+· Awarded the 1996-1997 Andersen Consulting Prize in Computer Science. This
+prize is given annually by the Princeton University Computer Science
+Department to the senior with the most distinguished record of achievement
+in academics and independent work.
+· Inducted in Spring 1997 as an associate member of the Princeton Chapter
+of Sigma Xi, an international research society with 90,000 members in more
+than 500 chapters at colleges and universities, industrial research centers
+and government laboratories. Sigma Xi was founded in 1886 as an honor
+society for science and engineering, and now inducts new members by
+invitation.
+· Member of the Be developer program. As Be builds "bleeding edge"
+information systems, the company distributes development tools for its
+platform through this program, in advance of the public release of these
+products.
+· Nominated as a sophomore and junior for national Barry Goldwater
+Scholarship in mathematics, science, and engineering. One of only twelve
+sophomores and juniors from Princeton University nominated for this
+competition.
+· Winner of Domineering tournament held by Professor John H. Conway of the
+Mathematics Department, in conjunction with Mathematics 299 On Numbers and
+Games. Awarded $50 prize as tournament champion. Domineering is a
+two-person game illustrative of the concepts of his class.
+· Winner of The Princeton Tory Freshman Writing Contest.
+· Member of the Princeton University student chapter of the Association for
+Computing Machinery (ACM).
+
+Parkway North High School, St. Louis, Missouri, 1989-1993
+· National Merit Finalist. Harvard Book Award. Mega Bank Merit Scholarship.
+Robert C. Byrd Scholarship. Varsity Member of Cross Country Team qualifying
+for Missouri State Meet. President of International Club. Chairperson of
+Parkway North Academic Team. Secretary of Mu Alpha Theta Math Honors
+Society.
+
+RESEARCH
+Scratch Removal, Spring 1997
+· Developed an interactive scratch removal system based upon techniques of
+wavelet analysis. Research conducted in conjunction with graduate seminar
+Computer Science 598d Advanced Topics in Computer Science: Wavelets for
+Computer Graphics.
+Texture Synthesis, Spring 1997
+· Designed and implemented a texture synthesis system involving functional
+decomposition within the steerable pyramid architecture. Research conducted
+in conjunction with graduate seminar Computer Science 598d Advanced Topics
+in Computer Science: Wavelets for Computer Graphics.
+Browser Security Against Untrusted Java Applets, Fall 1996 - Spring 1997
+· Development of a screening and certification system for untrusted Java
+applets. This security tool is designed to identify malicious applets
+statically through an analysis of their bytecodes. Research undertaken in
+conjunction with Professor Edward Felten and the Safe Internet Programming
+team at Princeton University.
+Ray Tracer, Fall 1996
+· Implemented a sophisticated ray tracer, supporting reflections,
+transparency, texture mapping, anti-aliasing, adaptive oversampling, and an
+interactive graphical user interface depicting image generation in
+progress. Work completed in a two-person team with Peter J. Creath,
+undergraduate class of 1997, for Computer Science 426 Computer Graphics.
+See http://www.cs.princeton.edu/~ejberk/RayTracer/ for generated images.
+Java-Lex: A Lexical Analyzer Generator for Java, Spring 1996
+· Developed the first lexical analyzer generator for Java. Currently used
+in Java language compiler courses taught at Princeton University and the
+University of Arizona. Mentioned in the lexical analysis section of the
+upcoming book Modern Compiler Implementation in Java by Professor Andrew
+Appel of the Princeton University Computer Science Department. Publicly
+available at http://www.cs.princeton.edu/~appel/modern/java/JavaLex/.
+Java-Lex is also accessible through a number of Internet sites devoted to
+Java resources, such as Yahoo's Java utilities page.
+Speech Compression, Spring 1996
+· Developed speech compression software using techniques of mathematical
+signal processing. Experimented with adaptive techniques for applying
+wavelets and local trigonometric bases to the compression problem. Research
+performed in association with a graduate-level mathematics class on
+wavelets.
+Random Bits and Cryptographically Strong Generators, Fall 1995
+· Explored recent cryptographic results providing the theoretical basis for
+provably good random number generators. These random number generators can
+be shown to be random enough for any polynomial time application.
+Implemented a simple but fast generator of this kind.
+Garbage Collecting Compiler in ML, Fall 1995
+· Implemented a modularized compiler in Standard ML of New Jersey for the
+Algol-based Toy language. Added garbage collecting capabilities as an extra
+independent project. Developed in conjunction with Computer Science 320
+Compiling Techniques.
+Artificial Intelligence, Fall 1995
+· Designed and implemented an intelligent checkers-playing program,
+applying techniques of alpha-beta pruning. Developed a handwriting
+recognition system for processing handwritten image files by way of trained
+neural networks. Wrote a newsgroup routing system that routed articles
+through the rec hierarchy by analyzing each article's text. Projects
+undertaken as part of Computer Science 302 Artificial Intelligence.
+X-Gauntlet, Spring 1995
+· Developed the arcade game Gauntlet for the X-Windows environment. Seven
+person group effort in conjunction with Computer Science 333 Advanced
+Programming Techniques, a class addressing large-scale software engineering
+projects. Implemented a sophisticated multi-player replica of the original
+game from scratch, complete with a distributed client/server architecture,
+networking, sound effects, and sprites depicting characters and monsters.
+
+SKILLS
+· Expertise in the research, development, support, and trading of a
+proprietary trading operation, especially quantitative arbitrage
+strategies.
+· Programming experience in C/C++, Java, Tcl/Tk, and many other languages,
+along with the computer science knowledge to learn new languages rapidly.
+· Familiarity with the all of core topics of computer science, such as
+compilers, programming languages, networking, distributed systems, computer
+architecture, graphics, artificial intelligence, algorithm design and
+analysis, and data structures.
+· Knowledge of academic subjects in economics and finance, such as
+derivative pricing models, microeconomics, macroeconomics, corporate
+finance, financial intermediation by commercial and investment banks, and
+monetary policy.
+· General mathematical sophistication and academic work in such areas as
+discrete mathematics, advanced calculus, real analysis, complex analysis,
+and wavelet analysis.
+
+ACTIVITIES AND COMMUNITY SERVICE
+· Princeton Young Achievers, 1994-1995
+Volunteer tutor for underprivileged area youth.
+· The Princeton Tory, Senior Staff, 1993-1995
+Senior staff member for publication concerned with political issues and
+current events.
+· The Daily Princetonian Campus Newspaper, Arts Staff, 1994-1996
+Reviewed books for the weekly arts section.
+· The Student Course Guide, Contributing Reviewer, 1994-1996
+Reviewed Computer Science and Mathematics courses for student publication
+giving a student's perspective on the Princeton course offerings.
+· The Eclectic, Contributing Writer, 1993-1995
+Contributed political essays to Princeton University campus magazine with a
+wide variety of content and readership.
+
+HOBBIES AND INTERESTS
+· Drawing, reading, art history, running.

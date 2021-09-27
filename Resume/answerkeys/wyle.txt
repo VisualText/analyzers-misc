@@ -1,0 +1,76 @@
+
+CONTACT:
+
+Contact Name: MITCHELL F. WYLE
+First Name: MITCHELL
+Middle Name: F  
+Last Name: WYLE
+
+Number:      40755
+Street:      Marino
+Road:        Ct
+City:        Fremont
+State:       CA
+Zip:         94539
+Work phone:  408 383 1870 ext 
+Email:       wyle@vhdl.org
+
+EDUCATION:
+
+Date: October 1995
+School Name: LaSalle University
+School Location: Mandeville, LA
+Degree: Ph.D. 
+Major: Computer Science   
+
+Date: 1986
+School Name: Villanova University
+School Location: Villanova, PA
+Degree: M.Sc. 
+Major: Computer Science
+
+Date: 1981
+School Name: Case Western Reserve University
+School Location: Cleveland, OH
+Degree: B.Sc. 
+Major: Biomedical Engineering   
+
+EXPERIENCE:
+
+Date: June 1996 - present
+Company: IntelliMatch Inc
+Position: Director of Engineering
+
+Date: 1992 - June 1996
+Company: Synopsys Inc
+Position: Sr. Manager
+
+Date: 1985 - 1992
+Company: ETH   
+Position: Teaching and Research Assistant
+Location: Zurich
+
+Date: 1985 - 1989
+Company: ETH
+Position: Facilities Manager and Technical Consultant
+Location: Zurich
+
+Date: 1984 - 1985
+Company: CSI
+Position: Senior Database Programmer
+Location:  Philadelphia, PA  
+
+Date: 1983 - 1984
+Company: Management Analysis Company
+Position: Consultant
+Location: Del Mar, CA   
+
+Date: 1981 - 1983
+Company: NUS Corp
+Position: Programmer / Analyst
+Location: Pittsburgh, PA
+
+Date: summers, 1978, 1979
+Company: U.S. Naval Shipyard
+Position: Programmer
+Location: Philadelphia, PA

@@ -1,0 +1,120 @@
+
+
+
+
+                                  [Image]
+
+                                  [Image]
+
+
+                                           [David Pittman]
+
+                              5624 Davis Lane
+                            Fort Lewis, WA 98433
+
+                           [mcp.gif (2990 bytes)]
+
+
+
+Special Consideration
+
+Currently studying for MCSE certification.   Received MCP with qualificaion
+of exam 070-067 (Implementing and Supporting Microsoft Windows Server 4.0
+
+Last Modified:  07/06/99 10:17:53 PM
+
+This page has been accessed [Image] time(s)
+
+Qualifications
+
+Security Clearance
+
+   * SECRET - Verified by the U.S. Army in 1993
+
+Hardware
+
+   * Unisys A-Series Mainframes
+   * x86 Based PC's
+
+Operating Systems
+
+   * MARC (Menu Assisted Resource Control) and CANDE (Command AND Edit)
+     Command
+   * MS-DOS (PC) Ver. 3.2 to 6.22 Windows 3.0 & WFW 3.11 Windows 95 / 98
+   * Windows NT 4.0 Workstation / Server
+
+Network Environments
+
+   * Setting up and troubleshooting SMC and 3COM combo network cards using
+     CAT-5 10-baseT and BNC 58 thin coax
+     and experience with 8 and 12 port SMC hubs.
+   * Setting up Microsoft Mail and Remote Mail on a Novell 4.1 Server
+     environment.
+   * Setting up and maintaining email accounts with Microsoft Exchange 5.0
+     on Windows 3.x, 95 and NT Workstation platforms.
+   * Setting up user accounts on an NT 4.0 server and associating them with
+     either local or global groups.
+
+Software Development Languages
+
+   * Microsoft Visual Basic 4.0 16/32
+   * Microsoft Visual C++ 5.0 / Borland C++
+   * x86 Assembler
+   * dBASE IV 1.5 and compiler
+   * COBOL 74
+   * Pascal
+   * LIRC (Logic and Information Report Compiler) 10 / LINC (Logic and
+     Information Network Compiler) 14.5 (Unisys  based
+     4th generation language)
+
+Education
+
+   * CompuMaster - Tacoma, Washington.  2-Day seminar for PC
+     troubleshooting in July 1998
+   * Strategy Computing - Bellevue, Washington. February 1997 - A+
+     Certification Training
+   * Saint Petersburg Junior College - Saint Petersburg, Florida. Spring
+     and Fall 1989 - General Studies including 6 semester hours
+     in C++ programming
+   * Southeastern Illinois College - Harrisburg, Illinois. Graduated
+     December 1987 - Associate of Applied Science
+
+Experience
+
+   * 10 January 1997 to present- U.S. Army - HHD 1st Personnel Group - Fort
+     Lewis, Washington
+     Computer Technician and LAN management technician
+        o Computer troubleshooting and repair including ordering
+          replacement parts from vendors.
+        o Network troubleshooting within a 10-BaseT system within a Novell
+          4.01 and Microsft NT 4.0 environment.
+        o Setting up user accounts for logon access and email under Novell
+          and NT.
+
+   * 03 January 1994 to 04 January 1997 - U.S. Army - 510th Personnel
+     Services Battalion
+     Senior Programmer
+        o Managed the automation office for software development and
+          computer repair and maintainence.
+        o Responsible for security of automation equipment totaling $47,000
+          and turn in of excess equipment.
+        o Programmed in dBASE for personnel management needs and used
+          assembly language to be able to access low level
+          calls that dBASE is unable to accomplish.
+        o Developed a C++ code library that emulates and expands upon the
+          dBASE access for database files.
+   * 17 September 1990 to 05 October 1992 - Home Shopping Network
+     Junior Programmer
+        o Database applications with transaction based processing.
+          Inter-database communications via on-line and batch.
+          Experience with Marketing, Purchase Order, Travel and Order Entry
+          database systems.
+
+Additional Comments
+I have a broad knowledge of various computer languages. I am a fast
+learner, and I'm very eager to learn anything.
+If you have questions, please e-mail me with subject:RESUME. Thank you.
+
+        ------------------------------------------------------------
+
+                             Back to the TOP!

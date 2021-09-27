@@ -1,0 +1,212 @@
+Résumé
+Kristopher J. Wolff
+[Available for work in the Seattle area June 1, 1999]
+---------------------------------------------------------------------------
+
+  I. Objective
+ II. Skills
+III. Work Experience
+ IV. Projects
+  V. Education
+ VI. Contact Information
+
+---------------------------------------------------------------------------
+I. Objective
+
+   * To enter a career involving software engineering research and/or
+     development in the Seattle area starting in the summer of 1999 which
+     exercises my programming creativity as well as skill.
+
+---------------------------------------------------------------------------
+II. Skills
+
+   + Programming Languages / Skills
+        * Expert:
+             o C
+             o C++
+             o HTML
+             o JavaScript
+             o Perl
+             o Web Databases Programming
+             o UNIX scripting
+        * Intermediate:
+             o Microsoft Visual C++, including Windows MFC classes
+             o Java
+             o Assembly for Motorola-68000, Intel 8086-386
+             o SQL and ORACLE-7 Database Management
+             o Scheme
+        * Minimal:
+             o Fortran
+             o Pascal
+             o Common-LISP
+   + Other Computer Skills
+        * Experience programming DOS, Windows 95, and UNIX
+        * Extensive 2-D and 3-D graphics programming
+        * Programming of windowing environments
+        * Familiarization with common software engineering cycles, writing
+          extensive reports (Requirements Specs, Architecture Specs,
+          Prototyping Analysis, Documentation), etc.
+   + Other Skills
+        * Extensive calculus, math, science knowledge
+        * Semi-fluency in written and spoken Japanese
+        * Ability to read most classical Latin, especially Caesar and
+          Vergil
+
+---------------------------------------------------------------------------
+III. Work Experience
+
+   + Lab Assistant / Website Developer / Database Maintenance / Programmer
+     (August 1997 - Present), at C.U.
+     Duties:
+        * Management of computer labs for international students
+        * Creation and maintenance of sections of IEC website, using HTML,
+          JavaScript
+        * Creation and maintenance of databases, using Perl, HTML,
+          JavaScript
+        * Creation of Timesheet program for teachers (more info:
+          http://ucsu.colorado.edu/~wolffkj/timesheet.html)
+     Skills / Knowledge Gained:
+        * Perl programming
+        * Database management
+        * Lab maintenance
+        * Communication skills with students and supervisors
+     [supervisor Larry Fisher (fisherl@spot.colorado.edu), International
+     English Center, Boulder, CO]
+
+   + Website Designer / Programmer (May 1998 - July 1998), at C.S.U.
+     Duties:
+        * Develop website for On-Board-Diagnostics Research Center
+          (http://www.colostate.edu/Depts/NCVECS/OBD2/)
+        * Design and implementation of webpages, with forms, and
+          server-side data-processing programs in Perl / CGI.
+     Skills / Knowledge Gained:
+        * Advanced HTML programming
+        * Graphic Design / Website Layout
+     [supervisor Birgit Wolff (bhwolff@lamar.colostate.edu), National
+     Center for Vehicle Emissions Control and Safety, C.S.U., Fort Collins,
+     CO]
+
+   + Website / Database Developer / Programmer (September 1996 - May 1997),
+     at C.U.
+     Duties:
+        * Develop website database for apartment search, OCSS (more info:
+          http://ucsu.colorado.edu/~wolffkj/ocss.html)
+        * Design and implementation of webpages, with forms, and
+          server-side data-processing programs in SQL
+        * Manage interaction with database, including students searching in
+          the database, and faculty entering data into the database
+        * Programming of functions and modules to enhance others' sites
+     Skills / Knowledge Gained:
+        * SQL programming / general database programming
+        * Familiarity with databases (specifically Oracle-7)
+        * Communication / organizational skills
+     [supervisors Don Bergman (Donald.Bergman@Colorado.EDU), Kathy Lenz
+     (Kathy.Lenz@Colorado.EDU), Administrative Systems Group, Computing and
+     Networking Services, C.U., Boulder, CO]
+
+   + Computer Science Tutor (December 1995 - May 1996), at C.U.
+     Duties:
+        * Instruction, grading, and helping of Computer Science students
+        * Grading programs, and working together with other tutors to
+          devise consistent grading methods
+        * Lab assistant -- Working in the lab with students, answering
+          questions
+        * Occasional teaching of programming concepts in lab
+     Skills / Knowledge Gained:
+        * Helping others through problem-solving
+        * Communication of technical ideas to those less-trained
+     [supervisor Rick Hull, Computer Science dept., C.U., Boulder, CO]
+
+   + Programming Assistant (October 1995 - August 1996), at N.C.A.R.
+     Duties:
+        * Reprogramming to/from FORTRAN, C, UNIX scripts
+        * Database management for weather data
+     Skills / Knowledge Gained:
+        * Teamwork / communication
+        * Understanding of certain subtle programming language differences
+     [supervisor Chris Wold (chrisw@ucar.edu), National Center for
+     Atmospheric Research, Boulder CO]
+
+---------------------------------------------------------------------------
+VI. Projects
+
+   + Applications
+        * Create v3.0 -- 3D modeler and animator
+          (http://ucsu.colorado.edu/~wolffkj/create3.html)
+        * TIC -- TI92 calculator's c-like compiler
+          (http://csel.cs.colorado.edu/~brinkmas/TIC/tic_home.html)
+        * Shark -- The a.i. connect-four game
+          (http://csel.cs.colorado.edu/~brinkmas/shark/)
+        * FractalRiffic -- Online Fractal Explorer
+          (http://csel.cs.colorado.edu/~wolffkj/fr/)
+        * Mountain Climbing Potato -- Website Thumbnailer
+          (http://csel.cs.colorado.edu/~wolffkj/senior/)
+     Skills / Knowledge Gained: Teamwork / communication, artificial
+     intelligence programming, creation of extensive documentation for
+     software projects, graphical layout programming, 2D and 3D graphics
+     programming, windowed GUI graphics programming, interface analysis,
+     interface testing, software cycles, compiler issues / parsing, chaos /
+     fractal programming, java c and assembly programming
+
+   + Web Development
+        * Dana Edelman's website
+          (http://ucsu.colorado.edu/~wolffkj/dana.html)
+        * LifeSource website (http://www.fortnet.org/LifeSource/)
+        * O.B.D. Research Center website
+          (http://www.colostate.edu/Depts/NCVECS/OBD2/)
+     Skills / Knowledge Gained: Communication with clients, perl / cgi
+     programming, website layout, graphics design
+
+---------------------------------------------------------------------------
+V. Education
+
+   + College:
+        * As of January 1999, 138 credits (Entered from as a sophomore)
+        * BS Degree, Computer Science, expected May 1999
+        * Other Academic Interests: Mathematics, Latin, Physics, Japanese
+        * Specific Classes:
+             o Computer Science
+                  * Basic 4-year program, including:
+                       o Programming Languages
+                       o Numerical Computation
+                       o Operating Systems
+                       o Computer Organization
+                       o Theory of Computation
+                       o Software Engineering Tools
+                  * Computer Science Electives
+                       o Compiler Construction
+                       o User Interface Design
+                       o Artificial Intelligence (Grad Level)
+                       o Natural Language Processing (Grad Level)
+                       o Senior Software Engineering Project I & II
+             o Math
+                  o Calculus I, II, and III
+                  o Ordinary Differential Equations
+                  o Probability and Statistics
+             o Latin
+                  o Basic Latin I and II
+                  o Caesar's de bello gallico, book I
+                  o Vergil's Aeneid
+             o Physics
+                  o 2 semesters, plus Lab
+                  o Stars and Galaxies (Deep Space) Astronomy
+             o Japanese
+                  o First 4 semesters of basic Japanese
+                  o Japanese Culture
+   + Before College:
+        * May 1995 -- Graduated from Poudre High School, Fort Collins, CO
+        * 1994, '95 -- 19 College Credits Taken at Colorado State
+          University, Fort Collins, CO
+          (Computer Science, Electrical Engineering, Chemistry,
+          Anthropology, Calculus I and II)
+
+---------------------------------------------------------------------------
+VI. Contact Information
+
+   * Email: kwolff@acm.org
+   * Address: 619 N. Sunset, Fort Collins, CO 80521
+   * Phone: (970)-493-8753
+   * This document can be found at
+     http://www.cs.colorado.edu/~wolffkj/resume.html
+   * Examples of my work can be found at
+     http://www.cs.colorado.edu/~wolffkj/

@@ -1,0 +1,33 @@
+
+CONTACT:
+
+Contact Name: Charles W. Winner
+First Name: Charles
+Middle Name:  W  
+Last Name: Winner
+
+Number:      917
+Street:      Hathaway
+Road:        Dr
+City:        Trenton
+State:       OH
+Zip:         45067
+Email:       cwinner@eecs.utoledo.edu
+Email:       cwinner@one.net
+Email:       cwinner@sch.com
+URL:         http://www.eecs.utoledo.edu/~cwinner
+
+EDUCATION:
+
+Date: Sept. 1993- March 1997   
+School Name: University of Toledo
+School Location: Toledo, OH
+Degree: Bachelor of Science
+Major: Computer Science & Engineering
+
+EXPERIENCE:
+
+Date: May 27 1997 - Present
+Company: SCH Technologies
+Position: Software Engineer
+

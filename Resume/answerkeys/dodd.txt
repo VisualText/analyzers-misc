@@ -1,0 +1,68 @@
+
+CONTACT:
+
+Contact Name: Emma E. Dodd
+Title:    
+First Name: Emma 
+Middle Name: E
+Last Name:   Dodd
+Suffix Name:    
+
+Number:      27
+Street:      Brewster
+Road:        St
+City:        Staten Island
+State:       NY
+Zip:         10304
+Home phone:  718 448 3598
+Email:       edodd@hotmail.com
+
+EDUCATION:
+
+Date: June 1998
+School Name:    
+School Location:    
+Degree: Bachelor of Science
+Major: Computer Science & Programming
+Minor:    
+GPA: 3.1
+Max GPA: 4.0
+
+
+EXPERIENCE:
+
+Date: 11/98-1/99
+Company: AppleOne Employment Agency
+Position: Document Conversion Specialist
+Location:    
+
+Date: 2/96-3/98
+Company: The College of Staten Island
+Position: Assistant Women's Basketball Coach
+Location:    
+
+Date: 9/95-1/96
+Company: The College of Staten Island
+Position: Computer Lab Intern
+Location:    
+
+Date: 2/95-2/97
+Company: United States Marine Corps Reserve
+Position: Supervisor/Collateral Duties Inspector
+Location: United States
+
+Date: 3/92-12/93
+Company: Staten Island University Hospital
+Position: Switchboard Operator
+Location:    
+
+Date: 2/91-5/91
+Company: San Bernardino Valley College
+Position: Computer Lab Assistant
+Location: San Bernardino
+
+Date: 8/86-8/90
+Company: United States Marine Corps
+Position: Collateral Duties Inspector
+Location: United States
+

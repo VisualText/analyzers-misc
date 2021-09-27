@@ -1,0 +1,135 @@
+                            Jooyeon Lee
+
+                 1000 Kiely Blvd , Santa Clara CA95051, USA
+
+                             Tel:(408)261-1090
+                       Email:jooyeon_lee@hotmail.com
+
+Objective
+
+   * I am looking for employment opportunity in Flash File System, Device
+     driver, BIOS-related programming.
+     Location preferred, Santa Clara/San jose, California.
+
+Field of Expertise
+
+   * DOS programming.
+        o Flash File System for Flash Disk Card.
+        o Device driver for RAM Disk Card .
+        o FAT File System Generation program for ROM Disk Card.
+        o KARAOKE system software.
+        o Application using mixed language(C and Assembly).
+
+   * MS Windows and Win NT programming.
+        o DLL program and Device driver for Hardware Key .
+        o Localizations.
+        o Applications.
+
+Employment
+
+   * 2/92 - 7/98 Senior software engineer / Project manager of Macro Data
+     System in Korea.
+   * 9/90 - 2/92 Senior software engineer of CNI Co in Korea.
+   * 7/89 - 7/90 Software engineer of KISC Co in Korea.
+   * 6/88 - 7/89 Software engineer of HwaSung Elec. Co in Korea.
+   * 12/86 - 6/88 Software engineer of KongKwan Co in Korea.
+
+R&D Experience
+
+   * 2/92~7/98 : Senior software engineer /Project manager of Macro Data
+     System.
+     * Macro Data System is a small hardware and software project
+     engineering and product developing company.
+
+        o Implemented Flash File System for Flash Disk Card.
+          -.Skills: extended ROM BIOS, Block device driver, BIOS(Disk
+          Drive), DOS booting sequence, DOS file system, Flash Translation
+          Layer of PCMCIA, AMD 8M/16M flash ROM characteristics.
+          -.Language: Macro Assembler
+
+        o Developed Block Device Driver for RAM Disk Card.
+          -.Skills: Block device driver, DOS file system
+          -.Language: Macro Assembler
+
+        o Developed FAT File system generation program for ROM Disk Card.
+          -.Skills: Extended ROM BIOS, BIOS(Disk Drive), DOS booting
+          sequence, DOS disk internals, DOS file system
+          -.Language: Microsoft C, Macro Assembler
+
+        o Developed Win NT Device Driver and DLL for Hardware Key.
+          -.Skills: Parellel port, DLL for Win/Win95, WinNT, DDK, Win NT
+          device driver
+          -.Language:Microsoft C, DDK.
+
+        o Localization and test of world famous DataBase program for WIN95
+          -.Skills: Expert use for DB program, RTF file format, english
+          translation
+          -.Tools:HC(Help Compiler), MS Word
+
+        o Developed Windows program for communicating with PDA.
+          -.Skills: Windows programming, serial communication
+          -.Language:Microsoft C, SDK.
+
+        o Developed HANGUL version of ram resident Inkjet printer driver
+          for DOS.
+          -.Skills: Ram resident program, printer driver, HANGUL
+          -.Language: Macro Assembler.
+
+        o Developed Simulation program for INMARSAT telephone system.
+          -.Skills: Netbios, modem control
+          -.Language:TurboC, Netbios, Macro Assembler
+
+        o Developed Software for KARAOKE System.
+          -.Skills: Displaying large font on VGA screen, BIOS(System Timer,
+          Keyboard), Realtime control of volume and key change for music,
+          MIDI file format, MPU401 driver, serial port communication for
+          external sound card
+          -.Language:TurboC, Macro Assembler
+
+   * 9/90 ~ 2/92 : Senior Software Engineer of CNI Co.
+     * CNI is a Receipt Printer and IBM3270 Emulator developing and
+     manufacturing company.
+
+        o Programmed User and printer interface part of Fujiz FS6650
+          Terminal Emulator.
+          -.Skills: Knowledge of terminal emulation.
+          -.Language: Micorsoft C, Macro Assembler
+
+   * 7/89 ~ 7/90 : Software Engineer of KISC Co.
+     * KISC Co. is an IBM POS System supplying and POS Software developing
+     company.
+
+        o Programmed Background communication program for IBM POS and PC
+          through serial port.
+          -.Skills: IBM POS, serial communication
+          -.Language: Microsoft C, routines from IBM
+
+   * 6/88 ~ 7/89 : Software Engineer of HwaSung Elec. Co.
+     * HwaSung Elec Co. is a FAX, Cellular Phone manufacturing and
+     developing company.
+
+        o Programmed MH/MR coding routines and user interface routines with
+          LCD of FAX machine software .
+          -.Skills: Coding algorithm for fax
+          -.Language:C
+          -.Tools: Link&Locate
+
+   * 12/86 ~ 6/88 : Software Engineer of KongKwan Co.
+     * KongKwan Co. is developing and supplying Project Management
+     Software.
+
+        o Programmed analysis routine of user's expression for Project
+          management software.
+          -.Skills: Compiler theory( lexical analysis, syntex/semantic
+          check, making grammars and parsing table)
+          -.Language:Microsoft C
+
+Education
+
+   * Seogang University, Seoul, Korea
+     B.S., Computer Science. Feb/1987
+
+              My husband's resume. He is a hardware engineer.
+
+                                  [Image]
+End of Jooyeon Lee's resume

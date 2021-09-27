@@ -1,0 +1,301 @@
+                                  Carl Prothman, CCP
+                                    (425) 417-3837
+                              carlpr@able-consulting.com
+
+Summary of Qualifications
+
+Over eighteen (18) years of experience in software development with expertise in
+web-based database applications, three-tier client server systems, relational
+databases, and computer-aided software engineering
+
+Certified Computer Professional (CCP), Certified Data Processor (CDP), Associate
+Computer Professional (ACP), Certification in Software Product Development, and
+Certified Visual Basic Programmer.
+
+Positions have included Senior Consultant, Senior Business Analyst, Lead Programmer,
+Programmer/Analyst, Tester, Beta Coordinator, Software Engineer, and Webmaster.
+
+Technical Background
+
+  Hardware        Yr  Languages             Software
+
+  PC              18  Active Server Page    Win 95, NT 4.0, IIS 4.0, SQL Server 6.5,
+                      (ASP), Visual         FrontPage 98, Visual InterDev 1.0,
+                      Basic, VB Script,     Office 97, Word, Excel, PowerPoint,
+                      SQL, C, FORTRAN       Access, Project, SourceSafe, ERWin,
+                                            EasyCase, Paint, Visio
+
+  Mac             2   Lightspeed C,         Mac OS, MacWord, MacDraw, Framemaker,
+                                            PowerTools
+                      4th Dimension
+
+  Workstations    1   Builder Xcessory,     UNIX, Oracle, Raima, Empress, Teamwork,
+  (SUN, MIPS,         X-Windows (Motif),    StP, ClearCase, Aide-de-Camp, RCS,
+  DEC)                SQL                   Framemaker, Interleaf, XRunner
+
+Education
+
+Drake Testing, Seattle WA, June 1994
+
+     Microsoft Visual Basic for Windows Exam
+
+University of Washington, Seattle WA, June 1993
+
+     Certification in Software Product Development
+
+Institute for Certification of Computer Professionals (ICCP), May 1993
+
+     Certified Computer Professional (CCP)
+
+     Certified Data Processor (CDP)
+
+     Associate Computer Professional (ACP) in ‘C’
+
+University of Washington, Seattle WA, June 1983
+
+     Bachelor of Science in Aeronautics and Astronautics (BSAA)
+
+Professional Experience
+
+Able Consulting, Inc, Issaquah WA - (Contracting), March 1998 – Current
+http://www.able-consulting.com
+
+- ELEKOM Corporation
+EKP Project
+As a Senior Consultant, I am currently responsible for the construction and release
+of the EKP 3.0 web-based database application. Duties include updating the VB build
+process, updating the WISE setup scripts, debugging and fixing defects in existing
+ASP script and existing VB ActiveX OCXs / DLLs. Tools used are IE, Visual InterDev,
+VB, Java Script, ASP, IIS, MTS, ADO, RDS, OLE DB, and SQL Server.
+
+Sahalee Project
+As a Senior Consultant, I was responsible for the design of a next generation
+three-tier architecture for web-based database systems. Duties included creating a
+creating a Design document, creating an Architecture document, and creating a
+working "proof-of-concept" application. Tools used were Word, Visio, IE, Visual
+InterDev, VB, Java Script, ASP, IIS, MTS, ADO, RDS, OLE DB, SQL Server, and Oracle.
+
+O’Farrell Consulting, Bellevue WA - (Contracting), April 1997 – March 1998
+http://www.ocipro.com
+
+- Data Base Inc.
+SecureSync Project
+As a Senior Consultant, I was responsible for the design and construction of the
+SecureSync 2.0 web-based database application. Duties included creating a Functional
+Specification document, creating an Architecture document, creating a IE / ActiveX
+Document prototype, creating a VB prototype, creating a SQL Server stored procedures
+and database, and creating a VB client application that used ADO's RDS, via IIS web
+server, to get and maintain information in the SQL Server database. Tools used were
+ERWin, SQL Server, VB, IIS, ADO/RDS, FrontPage, and Office.
+
+- Microsoft Corporation
+Data Code Generator Project
+As a Senior Consultant, I was responsible for the design and construction of a Data
+Code Generator. Duties include creating an Entity Relational Diagram, creating an
+Access and SQL Server database, creating sample three-tier VB programs, and creating
+the VB Data Code Generator program. Tools used are ERWin, Access, SQL Server, and
+Visual Basic.
+
+Pacific Interactive, Seattle WA - (Contracting),  Feb 1997 – April 1997
+http://www.pacint.com
+
+AMPP Project
+As a Senior Consultant, I was responsible for the design and construction of the
+three-tier AMPP system. Duties included creating an Entity Relational Diagram,
+creating an Access and SQL Server database, creating ActiveX middle tier VB
+components, creating VB user interface forms, and testing the AMPP system. Tools
+used were ERWin, Access, SQL Server, and Visual Basic.
+
+Real Vision Information Services, Kirkland WA - (Contracting) Oct 1996 – Feb 1997
+http://www.NewHomeTrends.com
+
+New Home Trends Project
+As a Senior Consultant, I was responsible for the design, construction, and
+maintenance of NewHomeTrends web site and data entry system. Duties include reverse
+engineering an old relational database, creating a new Entity Relational Diagram,
+creating an Access database, creating a VB conversion program, creating a VB data
+entry program, creating HTML web pages, creating ASP web reports, and creating a SQL
+Server Database. Tools used were ERWin, Visual Basic, FrontPage, Internet
+Information Server (IIS), Active Server Pages (ASP), Visual InterDev (VID), ActiveX
+Control Pad, Access, and SQL Server.
+
+Volt Computers, Redmond WA - (Contracting) Sept. 1994 - Oct 1996
+http://www.volt-nw.com
+
+- Microsoft Corporation
+
+FrontPage97 Project
+As a Senior Consultant, I was responsible for the quality assurance of Microsoft
+FrontPage 97’s extensibility features. Duties included writing test plans, creating
+test scripts, testing the menu customization feature, testing the Internet Database
+Connector (IDC) wizard, testing the Database Results Template, testing the Visual
+SourceSafe integration, and testing the Software Development Kit (SDK) which
+included WebBots and the Application Program Interface (API). Tools used were Word,
+Excel, Visual Basic, Visual C++, and FrontPage.
+
+Mango Project
+As a Senior Business Analyst, I was responsible for the user requirements,
+functional specifications, development, and implementation of the Mango 1.0 system.
+Duties included gathering user requirements (via user interviews), producing a
+context dataflow diagram, functional specifications, entity-relationship diagram,
+user interface specification, visual basic programming, testing, version control,
+beta coordination, and support. The system was design as a three-tier client server
+application using VB 4.0 for the client application, OLE automation servers for the
+business services, and SQL Server 6.0 for the data server.
+
+Selecta Project
+As a Senior Business Analyst, I was responsible for the user requirements,
+functional specifications, and implementation of the Selecta 3.0 system. Duties
+included gathering user requirements (via JAD sessions), producing "use cases",
+context dataflow diagram, object models, behavior models, functional models (OMT
+methodology - Paradigm Plus), and beta coordination.
+
+Great Northern Annuities, Seattle WA - (Salary) Dec. 1993 - Sept. 1994
+http://www.ge.com/gec/gna
+
+Clientrac Project
+As a Systems Leader / Programmer, I was responsible for the overall design and
+construction of the Clientrac system. Duties included producing a project schedule
+(MS Project), producing a system architecture design (System Architect), building a
+remote client (Visual Basic/Access), building the home-office database (NT-AS and
+SQL Server), and connecting the remote client to the central database server using
+NT’s Remove Access Service (RAS).
+
+Assetrac Project
+As a Systems Leader / Programmer, I was responsible for the design and construction
+of Needs Analysis and Asset Allocation program. Duties included producing a project
+schedule (MS Project), gathering user requirements and producing a requirements
+document (Word), producing a process and data model (System Architect), writing the
+GUI and code modules (Visual Basic), and writing the Access relational database.
+
+Cap Gemini America, Tukwila WA (Contracting) Nov. 1993 - Dec. 1993
+http://www.usa.capgemini.com
+
+- Lamonts Inc.
+
+Inventory Count Exception Project
+As a Consultant, I was responsible for the design and construction of an inventory
+count exception system. Duties included producing a requirements document, process
+and data models, programming the Visual Basic application, and building an Access
+relational database.
+
+Spacelabs Medical Inc., Redmond WA (Salary) Jan 1992 - Nov. 1993
+http://www.spacelabs.com
+
+Chartmaster 2.0 Project
+As a Senior Software Engineer, I was responsible for the design and construction of
+a client-server, object-oriented Clinical Information System (CIS). Duties included
+producing a requirements document, performing object-oriented analysis and design,
+coding X-Windows (Motif), coding C and C++ programs, coding an objected oriented
+database, performing configuration management, and performing regression and stress
+testing.
+
+Chartmaster 1.0 Project
+As a Software Engineer, I was responsible for maintaining an existing relational
+database system. Duties included planning and implementing a software development
+environment, implementing configuration management, automating the build process
+(UNIX shell scripts), coding ‘C’ programs to import and export Empress 4GL source,
+implemented regression testing, and reverse engineering the existing system.
+
+The Boeing Company, Seattle WA (Salary) Dec. 1986 - Jan 1992
+http://www.boeing.com
+
+Central Storage Facility Project
+As a Programmer / Analyst, I was responsible for the designing a client-server
+relational database system. Duties included producing the conceptual and functional
+data/process models, coding an interface between the Excelerator CASE tool data
+dictionary and the Design For Data mainframe tool. I coded ‘C’ programs, coded a
+CRUD program, coded a ACMS-Lint program, coded an XL-Doc script to produce DMR’s P+
+deliverables, and supported the Excelerator CASE tool.
+
+Scenario Generator Project
+As a Programmer / Analyst, I was responsible for designing a relational database
+system to generate flight deck scenarios. Duties included producing a functional
+specification, context diagram, dataflow diagrams, mini-specs, entity-relationship
+diagram, and a data dictionary. I coded XL-Doc scripts to generate the specification
+document, and supported the Excelerator CASE tool, provided CASE and methods
+training.
+
+Reliability and Maintainability Computing Upgrade Project
+As a Systems Analyst, I was responsible for designing a relational database system.
+Duties included producing a context diagram, dataflow diagrams, mini-specs,
+entity-relationship diagram, and a data dictionary for the Functional specification,
+coding ‘C’ programs, supported the Excelerator CASE tool, and provided CASE and
+methods training.
+
+Human Model Project
+As a Systems Analyst, I was responsible for designing a Human Model CATIA program.
+Duties included producing a context diagram, data flow diagrams, control flow
+diagrams, mini-specs, state-transition diagrams, and a data dictionary. I supported
+the Teamwork CASE tool, provided CASE and methods training.
+
+Software Metrics Project
+As a Software Engineer, I was responsible for identifying and evaluating software
+sizing metrics for scientific applications. Duties included gathering software
+metric information, evaluating Function Point, Feature Point, and BANG software
+metrics, and producing a metrics sizing document.
+
+CASE Tool Requirements Project
+As a Software Engineer, I was responsible for producing a document that defined user
+requirements for a full Computer-Aided System/Software Engineering tool set to
+support the development of software systems. Duties included gathering user
+requirements, producing a CASE requirements document, and performing CASE tool
+evaluations.
+
+Flight Test Computing
+As ‘C’ Programmer, I was responsible for the design and development of real-time
+software applications for use on board Boeing flight-test airplanes. Duties included
+developing program requirements, developing preliminary and detailed designs,
+writing and documenting ‘C’ source code per Boeing standards. Used VAX, IBM PC,
+Macintosh, ‘C’, FORTRAN, and Basic.
+
+Flight Test
+As a Flight Test Engineer, I was responsible for the flight testing of a 737 Thrust
+Management Computer System. Duties included designing and conducting several flight
+test plans, and writing a weather forecast flight-planning program. Tools used were
+MacWord, MacExcel, and Basic.
+
+Rockwell International, Downey CA (Salary) Jun. 1985 - Dec. 1986
+http://www.rockwell.com
+
+US Space Station Configuration
+As an Astronautical Engineer, I was responsible for the preliminary design and
+overall configuration of the US Space Station. Duties included creating several
+space station 3D computer models, performing trade studies of module patterns and
+solar array shadowing. Tools used were CDAS, CAD/CAM, CRAY, DEC, and Macintosh.
+
+Shannon Engineering, Seattle WA (Salary) Oct. 1983 - Jun. 1985
+http://www.halcyon.com/sei
+
+Boeing 707 Hush Kit
+As an Aeronautical Engineer, I was responsible for the design and development of a
+Hush Kit for the Boeing 707 airplane. Duties included creating a fluid flow computer
+model of a 707 nacelle, a finite-element computer model of 707 fuel tanks, airplane
+performance models, and flight-test coordination for FAA certification. Tools used
+were VAX/VMS, UNIX, MS-DOS, FORTRAN, and Basic programming.
+
+Honors and Activities
+
+Certified Computer Professional (CCP)
+
+Certified Visual Basic Programmer
+
+The Seattle CASE Users Group - Past president
+
+Hiking - Climbed Mt. Rainier three times
+
+Snow Skiing
+
+Chess
+
+References
+
+Available upon request
+
+-------------------------------------------------------------------------------------
+
+                 This page hosted by [Image] Free Home Page
+
+
+
+[Image]

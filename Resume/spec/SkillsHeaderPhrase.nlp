@@ -1,0 +1,14 @@
+
+# AUTOMATICALLY GENERATED! EDITS WILL BE LOST!
+# FILE: e:\apps\resume\spec\SkillsHeaderPhrase.pat
+# TIME: 10:08:07 09/02/01
+@NODES _LINE
+
+@PRE
+<1,1>	cap();
+<3,3>	cap();
+@RULES
+
+# Ex:	Technical\_Skills
+_SkillsHeaderPhrase [layer=(_header )] <- Technical [s] _xWHITE [star s] Skills [s] @@
+

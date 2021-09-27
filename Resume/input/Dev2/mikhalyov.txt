@@ -1,0 +1,156 @@
+                                   Resume
+
+Mikhalyov Vladimir Yurievich
+
+Solnechnaya str. 10, 45, Odessa, Ukraine
+
+Phone (38-0482) 63-67-12 (home)
+
+e-mail: vym@octant.tenet.odessa.ua
+
+OBJECTIVE: Software engineer/system analyst/programmer for wide areas.
+
+QUALIFICATIONS: More then ten years of experience in wide area of software
+development (from 1984).
+
+   * development of client-bank system with encrypt protection and digital
+     signatures
+   * development of program to keep encrypted diary
+   * development of JAVA applets
+
+Have a network administrator experience. Worked alone and in teams.
+
+TECHNICAL SUMMARY:
+
+HARDWARE: IBM PC.
+
+SOFTWARE:
+
+Operating systems: MS DOS & compatibles, MS WINDOWS (3.x, NT, 95), Novell
+                   NetWare 386
+
+Languages:         Delphi, Visual Basic, C++, JAVA, Assembler, Clipper, C,
+                   Pascal, Fortran, Clarion
+                   Delphi 2.0, Visual Basic 5.0, MSVC++ 5.0, JAVA, MASM
+Compilers:         5.0, TASM, Borland C++ 3.1,
+                   Clipper 5.2, Turbo Pascal 5.5, Fortran IV, Clarion.
+Databases:         Interbase, Access, Btrieve, Paradox, DBF
+
+PROFESSIONAL EXPERIENCE:
+
+                   Project programmer, Odessa Science & Research
+                   Communication Institute and small interprise "OCTANT",
+                   Odessa, Ukraine
+
+                   Development of client-bank system.
+
+                   Customer: more then 30 enterprises in several branches
+                   of local banks in Odessa and Odessa region.
+
+                   Description: the system fulfil communication between
+                   bank and clients via telephone lines, e.g. Internet
+                   servers. Now the Windows NT version of the bank part is
+                   under construction. The program uses encryption and
+                   digital signature utilities according to Russian
+                   standards.Previous version of the program was created
+                   using Visual Basic.
+
+                   Participation: Designed, coded, tested and documented
+                   the software
+
+                   Development environment:: Borland Delphi 2.0 and MSVC++
+                   with Interbase databases for bank part. Clipper,
+                   Assembler, C++ for client part.
+
+                   Development of diary program with encryption
+
+                   Description: this program allows:
+
+                        - to keep diary or other notes
+
+                        - to set and change password
+May 1992 -
+present time            - to format text using RTF
+
+                   The program is simple, but useful.It has excellent
+                   encryption protection with good text format features.
+
+                   Participation: Designed, coded, tested and documented
+                   the software
+
+                   Development environment: Win32, Visual Basic 5.0
+
+                   Development of JAVA applet for language teaching
+
+                   Description: the applet can work in several modes:
+
+                        - user point picture and applet show text and play
+                        work spelling
+
+                        - applet show text and user should point
+                        appropriate picture
+
+                        - applet play word spelling and user should point
+                        appropriate picture
+
+                   The applet is language independent. All data (pictures,
+                   texts, sounds and ABC) are passed to it as parameters.
+                   So it could be used for any language. Demo data for
+                   russian language is ready. Under development.
+
+                   Participation: Designed, coded, tested and documented
+                   the software
+
+                   Development environment: Win32, JAVA
+                   Project programmer, Military Service at Air Forces.
+                   Moscow, Russia.
+
+                   Customer: Air Forces.
+
+                   Development of programs for control and technical
+                   problems.
+
+Jul. 1987 - Mar.   Description: development of the programs, concerning
+1992               flight simulation and the analysis of flight control
+                   systems (their stability and performance). Creation data
+                   base program to accumulate experiment data.
+
+                   Participation: Designed, coded, tested and documented
+                   the software
+
+                   Development environment: MS-DOS, Clarion 2.0, MS C 5.0,
+                   Turbo Pascal 5.0
+                   Engineer of CENTRAL AEROHYDRODYNAMICAL INSTITUTE. FLIGHT
+                   DYNAMICS DEPARTMENT. Moscow, Russia.
+
+                   Customer: CENTRAL AEROHYDRODYNAMICAL INSTITUTE.
+
+                   Development of programs for numerical calculation of the
+                   dynamics of flight control systems.
+
+Sep. 1986 - Jun.   Description: the programs used different stability
+1987               analyzing criteria and complex algorithms for numerical
+                   calculations. The results were presented in various
+                   graphs and figures.
+
+                   Participation: Designed, coded, tested and documented
+                   the software
+
+                   Development environment: BESM-6 (similar to IBM/370),
+                   FORTRAN IV
+
+EDUCATION: 1981 - 1987 - FACULTY of the AEROMECHANICS & FLIGHT MACHINES
+MOSCOW INSTITUTE OF PHYSICS & TECHNOLOGY, Moscow, Russia.
+
+ENGLISH: Fluent written language (both reading and writing). Oral language
+is fluent enough for the talk of technical kind but still requires a little
+practice.
+
+FRENCH: It's worse than english, but sufficient for technical talks and
+communications.
+
+PERSONAL: Birthdate: Dec., 26th, 1963 Married.
+
+---------------------------------------------------------------------------
+
+[Home]

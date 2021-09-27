@@ -1,0 +1,111 @@
+
+      J. R. Rees, consultant
+           415-543-9094
+     Absolute Real Time, Inc.
+        300 Third St. #914
+           SF, CA 94107
+    rees@absoluterealtime.com
+     www.absoluterealtime.com
+            home of the
+      SF Bay Bridge Approach
+           live webcam
+Software engineering for real-time systems, embedded systems, and the
+internet.
+Expert in all phases of software engineering from proposals to field
+support;
+from tutoring individuals on the internet to collaborating with dozens of
+engineers and managers on a million lines of code and prototype hardware.
+
+STRONG
+C, Assembly, firmware, datacom/telecom, device drivers, controllers,
+diagnostics
+SDKs: Borland, MS Visual C++, Sun/Unix
+Processors: Intel, Motorola, AMD
+OS's: Windows, Unix, DOS
+Kernels: VxWorks, PSos, custom
+Protocols: numerous custom
+Misc: expert hardware/software integration, excellent communication skills,
+team leader
+
+MODERATE
+C++, Windows, GUI
+
+EXPERIENCE
+1995-97 Nortel
+        Created communications between PBX and PC database for PBX network
+data I/O
+        to replace tty input with Win95 interface and allow automated data
+tracking.
+                  - Visual C++ and Rational Rose.
+                  - serial port and ethernet com link drivers.
+                  - Win95 GUI for com monitoring.
+                  - team of 10 software engineers.
+        Development of testbed for new compiler to convert the proprietary
+PBX programming
+        language to a C base utilizing multiple target processors.
+                  - built VME system running VxWorks to run subset of PBX
+system.
+                  - built subset of PBX system to run on Sun Workstation.
+                  - built Win95/PC system to install and run new compiler.
+                  - team of 2 software engineers.
+        Enhanced code patcher tools for C/C++ extensions.
+                  - tool ran on Sun Workstation.
+                  - tool created patches for VxWorks embedded target.
+                  - team of 2 software engineers.
+1996-97 Personal Internet Consulting
+        Tutored novice and experienced computer users on the benefits of
+the
+        internet from basic setup, to ISDN, to videoconferencing.
+1992-95 BioControl Systems
+        Created complete PC interface, libraries, and GUI for BioMuse
+        biosignal processor used to track eye and muscle movements.
+                  - Borland C for DOS.
+                  - Visual C for Windows.
+                  - serial port com link drivers.
+                  - customized packet data protocol.
+                  - TI DSP device drivers.
+                  - DOS and Windows GUI for real-time data display.
+                  - provided customer and developer support.
+                  - team of 1 software and 1 hardware engineer and 1
+technician.
+1993 Network Equipment Technologies
+        Created boot and diagnostic programs for DSPs on a T1 board.
+                  - C on Sun Workstation.
+                  - Motorola HC11 target processor.
+                  - team of 4 software and 2 hardware engineers.
+1991-92 Toshiba America MRI, Inc.
+        Created tuning, control, and diagnostic functions for MRI products
+        including a prototype MRI with GUI for real-time status and input.
+1990-91 Real-Time Productivity Management Systems USPS
+        Data acquisition and control for a variety of postal sorting
+machines
+        using multiple port serial board and PCs, all Intel processors.
+1987-90 Survival Research Labs
+        Microcontrolled robotics system for multi-ton machines in live
+        performance setting. Designed on 8051. Ported to HC11.
+1979-89 Bell Northern Research
+        Did it all here. Software team leader on new hardware/software
+        designs for PBX systems.
+
+EDUCATION
+1995 Week-long seminar on Object Oriented Programming using Visual C++.
+1995 Week-long seminar on Object Oriented Design Tools using Rational Rose.
+1975-79 BS Computer Science/Math from the University of Arizona, Tucson.
+
+OTHER ACHIEVEMENTS
+        Produced first weekly series of improvised music in San Francisco.
+        Created first computer control for internationally renowned
+        machine artists Survival Research Labs.
+
+RELATED PUBLICATIONS
+Scientific American October 1996
+        BioControl System's BioMuse in "Controlling Computers With Neural
+Signals"
+San Francisco Bay Guardian Dec 1996
+        improv music story entitled "Around The Bend"
+Scientific American August 1988
+        interviewed in story on SRL entitled "Robots Rampant"
+
+Last updated 22 Sept 1997.
+Number of hits since 12 Sept 1997:
+

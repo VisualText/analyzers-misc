@@ -1,0 +1,243 @@
+MITCHELL F. WYLE
+
+40755 Marino Ct
+Fremont, CA 94539
+(w) 408-383-1870
+wyle@vhdl.org
+
+Objective
+
+Responsible position in technical management in nascent company or contract
+
+Sixteen solid years of experience in diverse computing environments.
+Valuable know-how in people management, software engineering and software
+project management. Hands-on Internet expert; recently implemented three
+large, highly successful Internet applications. Creatively participated in
+all aspects of the software development life cycle from planning to
+maintenance on projects of all sizes. Very strong communication and
+presentation skills; published in refereed academic journals as well as
+popular computer literature. Commendations for inspirational management
+style. Continually attracted and retained the best talent in Silicon
+valley; delivered customer success on time, under budget.
+
+Experience
+
+Director of Engineering, IntelliMatch Inc. June 1996 - present
+
+Defines, implements, and maintains all system support for web-enabled
+resume and job ad database systems. Architects, specifies, and manages
+three organizations to create web applications using HTTP, CGI, NSAPI,
+Java, Oracle PL/SQL, C/C++,and perl. Duties include budget management,
+scheduling, hiring, project management, systems administration and
+maintenance.
+
+Sr. Manager, Synopsys Inc. 1992 - June 1996
+
+Lead a quality assurance team in one of the business units at Synopsys.
+Defined and implemented total quality measurements, hired and lead a system
+testing team, managed off-shore testing projects.
+
+Formed and managed an electronic commerce development team at Synopsys.
+Lead five direct reports and matrix managed several resources for the
+creation and maintenance of Internet-enabled applications for "shop,"
+"buy," "use," and "upgrade" business processes. Responsible for all
+software and information system (database) development, from conception
+through end-of-life.
+
+Lead the creation, roll-out, and maintenance of a network-enabled fast,
+automated problem resolution system that still provides customer support at
+the equivalent of 30 hotline engineers. Hired and retained the most
+productive development talent in Silicon Valley.
+
+Teaching and Research Assistant, ETH Zurich 1985 - 1992
+
+Completed doctoral degree, taught computer science and performed research
+in information retrieval (full-text retrieval) on wide-area networks. He
+developed theoretical models, prototype software and published research
+papers.
+
+Facilities Manager and Technical Consultant, ETH Zurich 1985 - 1989
+
+Responsible for the installation, repair, and maintenance of Sun and Apple
+Macintosh computer hardware and software for a research group in the
+computer science department. Duties included backup, performance
+optimization, installing and upgrading software, consulting with users.
+Managed user accounts, computing resources, and computer networks.
+Developed software and documentation to assist system management functions.
+
+Senior Database Programmer, CSI, Philadelphia, PA 1984 - 1985
+
+Maintained and implemented point of sale, order-entry, inventory
+management, purchase order management, cash register polling, and related
+software for large retail merchandising chains. Programmed on the Pick
+Operating System and Fourth Generation Development tools on diverse
+hardware.
+
+Consultant, Management Analysis Company, Del Mar, CA 1983 - 1984
+
+Developed a training information management and database system for
+electrical power utility training department. Programmed using Pick
+Operating System. Other duties included Software QA, documentation,
+proposal writing, and document control.
+
+Programmer / Analyst, NUS Corp, Pittsburgh, PA 1981 - 1983
+
+Designed, developed, maintained laboratory and office automation hardware
+and software for all aspects of environmental monitoring and radiological
+services. Applications included sample and customer databases, radiological
+dose calculation, text processing. Programmed in Fortran, Pascal, assembler
+on DEC PDP-11 running RSX-11.
+
+Programmer, U.S. Naval Shipyard, Philadelphia, PA, summers, 1978, 1979
+
+Programmed statistics and artificial intelligence applications in Fortran.
+Implemented key-word matching and statistics algorithms for naval damage
+control analysis.
+
+Education
+
+LaSalle University, Mandeville, LA
+Computer Science, October 1995
+Ph.D. Dissertation (in HTML)
+Ph.D. Dissertation (in PostScript)
+
+Villanova University, Villanova PA
+M.Sc. Computer Science. 1986
+
+Case Western Reserve University, Cleveland OH B.Sc. Biomedical Engineering.
+1981
+
+Languages
+
+English (native), German (very fluent), French
+
+Software
+
+Sybase, Oracle, HTML, perl, SQL, C, C++, sh, Modula-2, awk, Pascal,
+FORTRAN, BASIC, various assemblers, COBOL, VMS/DCL, troff, LaTeX.
+
+Operating Systems: UNIX (SunOS, Solaris, HP-UX, AIX), Pick, VMS, DOS,
+Mac-OS, RSX, CP/M.
+
+Publications
+
+Academic Publications
+
+Wyle, Mitchell F, "Text management using artificial intelligence,"
+Proceedings of the Fourth International Computer Science Conference,
+Budapest, Hungary, July 1985.
+
+Wyle, Mitchell F, "EdTutor: A text editor's assistant," Masters
+Dissertation, Villanova University, Villanova, PA, 19085, June 1986.
+
+Wyle, Mitchell F, and Edward Fox, "Annotated bibliography relating to
+automatic indexing in information retrieval," SIGIR Forum ACM Special
+Interest Group on Information Retrieval, v 21, no 1-2, Fall Winter 1986/87.
+
+Wyle, Mitchell F, "A comparison of textual information retention from CRT
+terminals and paper," ACM Sigchi Bulletin Special interest group on
+computer-human interaction, July 1987.
+
+Wyle, Mitchell F, "File Directory Transmission via Electronic Mail,"
+SIGUCCS ACM Special Interest Group of University Computing Center Services,
+June 1988.
+
+Wyle, Mitchell F, "A Rule-Based Electronic Mail Filter," Proceedings of
+EARN89, an international conference on technical aspects of networking and
+user support services, Herklion, Crete, Greece, May 1989.
+
+Wyle, M. F., Frei, H. P., "Retrieving Highly Dynamic, Widely Distributed
+Information," Proc. of the 12th ACM SIGIR Conf. on R&D in Information
+Retrieval, ACM, Boston MA, pp. 108-115; 1989.
+
+Wyle, M. F., Schaeuble, P., Frei, H. P., "The Assessment of Information
+Retrieval Algorithms," ETH Informatik Report No. 121, December 1989.
+
+Wyle, Mitchell F, "A Wide Area Network Information Filter," Proc. 1st
+International Conference on Artificial Intelligence Applications on Wall
+Street, October 1991.
+
+Wyle, M. F., Frei, H. P., "Retrieval Algorithm Effectiveness in a Wide Area
+Network Information Filter," Proc. of the 14th ACM SIGIR Conf. on R&D in
+Information Retrieval, ACM}, Chicago IL; 1991.
+
+Technical Publications
+
+   * Religious Tenets Motivating Network and Computing Systems Policy
+   * A Comparison of Textual Information Retention From CRT Terminals and
+     Paper
+   * Apache Server Side Includes
+   * Solid State Disk
+   * HyperMail Cheat Sheet
+
+Monthly Column in "The Sun Observer"
+
+Sun Plotting Packages, September 1989
+---------------------------------------------------------------------------
+On Campus, September 1989
+---------------------------------------------------------------------------
+Using spreadsheets to track student grades, October 1989
+---------------------------------------------------------------------------
+The Dark side of Text Processing, October 1989
+---------------------------------------------------------------------------
+Plotting, November 1989
+---------------------------------------------------------------------------
+Catching Up, December 1989
+---------------------------------------------------------------------------
+In Defense of Vi, the Unix Visual Editor, January 1990
+---------------------------------------------------------------------------
+Neural Network Research, February 1990
+---------------------------------------------------------------------------
+A Review of Pro-Matlab, March 1990
+---------------------------------------------------------------------------
+Pro-Matlab for Sun Workstations at a Glance, March 1990
+---------------------------------------------------------------------------
+More on vi, May 1990
+---------------------------------------------------------------------------
+Advanced vi, June 1990
+---------------------------------------------------------------------------
+GFT: TheGridfile Tool, July 1990
+---------------------------------------------------------------------------
+More plotting, Kassandra, August 1990
+---------------------------------------------------------------------------
+Network Security, September 1990
+---------------------------------------------------------------------------
+Sparc Oberon, October 1990
+---------------------------------------------------------------------------
+Even More on vi, November 1990
+---------------------------------------------------------------------------
+Grades Histograms in AWK, December 1990
+---------------------------------------------------------------------------
+Text, January 1991
+---------------------------------------------------------------------------
+System Administration, February 1991
+---------------------------------------------------------------------------
+Electronic Mail, March 1991
+---------------------------------------------------------------------------
+Full-Text Retrieval from Wide-area Networks, April 1991
+---------------------------------------------------------------------------
+Vi: History, Tips, and Macros, May 1991
+---------------------------------------------------------------------------
+Workstations, X-terminals, Diskless vs Diskfull, June 1991
+---------------------------------------------------------------------------
+Vi Automates Mailing List management, July 1991
+---------------------------------------------------------------------------
+DOS and Unix, August 1991
+---------------------------------------------------------------------------
+Maple, September 1991
+---------------------------------------------------------------------------
+Searching, October 1991
+---------------------------------------------------------------------------
+Semi-Secure Mail, November 1991
+---------------------------------------------------------------------------
+Internet Repositories for vi Documentation and Macro Libraries, December
+1991
+---------------------------------------------------------------------------
+On the Road, January 1992
+---------------------------------------------------------------------------
+Small Databases, March 1992
+---------------------------------------------------------------------------
+Data Protection and Data Security, April 1992
+---------------------------------------------------------------------------
+A Review of Z-mail, May 1992
+---------------------------------------------------------------------------

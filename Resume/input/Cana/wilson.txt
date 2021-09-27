@@ -1,0 +1,137 @@
+[Headhunter.net Homepage] [Find Jobs] [Find Resumes] [My Stuff] [Get Help]
+
+  [Image]                              [Image]
+
+Find Résumés : Résumé Details
+
+Network Admin
+ GEOFF WILSON
+ 252 Ewert Street
+ Prince George, BC V2M 2N4
+ Home:  250.564.6108
+ Email:  geoff_wilson@excite.com
+
+ *EDUCATION*
+
+ JAN 1998        Novell Tech Share '98: Detroit, MI
+ - Advanced Novell Directory Services, Novell Application Launcher,
+   Group Wise 4.1 and 5.2, Border Manager Advanced Troubleshooting,
+   Network Firewall Security, NetWare 5 preview, Windows NT integration.
+
+ DEC 1995        Drake Prometric - Open Learning Agency: Prince George, BC
+ - Certified Novell Administrator (CNA).
+
+ NOV 1995        Nortel IBDN cabling
+ - Cat 5, optical fibre, wiring guidelines and standards.
+
+ 1993 - 1994     Kwantlen University College (Newton Campus): Vancouver, BC
+ - Computer Electronics Systems Technician.
+ - Graduated Provincially recognised certificate program with 3.9 GPA.
+ - In depth theory of electricity, electronic circuitry and microprocessors.
+ - MS Dos (Ver 6.XX).
+ - MS Windows (Ver 3.XX).
+ - PC hardware and interfacing.
+ - Assembly programming (IBM x86, Motorola 68000).
+ - PC software and diagnostics.
+ - PC repair and trouble shooting.
+ - PC networking (Novell NetWare V3.X/4.X).
+ - Control systems and programmable logic controllers (PLC's).
+ - Fibre optic splicing and connections.
+
+ 1991 - 1992     Kwantlen University College (Newton Campus): Vancouver, BC
+ - Electronics Technology.
+ - Unable to fully complete course of study due to financial constraints.
+
+ 1984 - 1989     D.P. Todd Secondary: Prince George, BC
+
+ 1983 - NOW      Home Computer User
+ - Owned and used following systems:  Texas Instruments TI-99 4A,
+   Commodore Vic 20, Commodore 64, Apple IIe, Amiga, and IBM compatibles.
+ - Currently running Win98, NT 4.0 workstation, NT 4.0 Server, Proxy Server
+   and Internet Information Server in an Ethernet network with a dedicated
+   ADSL Internet router at home.
+
+ *EMPLOYMENT*
+
+ MAY 98 - NOW    Syscom Consulting Inc.:  Vancouver, BC
+                 Contracts: Primary - Ministry of the Attorney General
+                            Tertiary - Min. of Human Resources
+ - Technical Consultant for the following locations:  Prince George,
+   Vanderhoof,Burns Lake, Houston, Smithers, Hazelton, Terrace, Kitimat,
+   Prince Rupert, Masset.  Secondary locations:  Williams Lake, Quesnel,
+   Mackenzie, Dawson Creek, Fort St. John, Fort Nelson, Bella Coola.
+ - Technical support of Windows 3.11, 95, 98, NT 3.51 and NT 4 (workstation
+   and  server) networked environments.
+ - Active participant in project management and technical support for
+   technology roll over of all existing servers, workstations and printers to
+   facilitate Year 2000 (Y2K) compliance.
+
+ JUL 97 - MAY 98 MIS International: Detroit, MI
+                 Contract:  NTH Consultants, Ltd.
+ - Novell 250 User 4.1 LAN/WAN administration for 5 cities.
+ - Novell GroupWise 4.1 administration.
+ - Hardware and NOS support for 6 Compaq servers.
+ - Windows NT Server 4.0 and Workstation 4.0 installation and administration.
+ - Remote access networking and telecommuting solutions.
+ - 10MB Ethernet to switched 10/100MB Ethernet upgrade.
+ - Electronic Facsimile and document management.
+ - Windows 95/NT migration and software upgrade evaluation.
+ - Network infrastructure and technology evaluation and planning.
+ - PC hardware and software troubleshooting and support.
+ - End user training and support.
+
+ FEB 96 - JUL 97 Shel N. Jacobsen Financial Services Inc.: Prince George, BC
+ - Novell 10 User 4.1 LAN administration.
+ - Windows 95 migration and training.
+ - Data base administration.
+ - Desktop publishing and advertisement layout for printed media.
+ - LAN to Internet integration via ISDN using Ascend router.
+ - Web page development.
+ - E-mail integration using MS-Mail Server and MS-Exchange Client.
+ - Construction of new PC's from components and upgrade of existing PC's.
+ - Remote access solutions for telecommuting.
+ - Electronic Facsimile and document management.
+
+ DEC 94 - FEB 96 Northern Computer Inc.: Prince George, BC
+ - Network integrator of Novell, Windows and American Airlines Sabre Network
+   Operating systems.
+ - LAN development, installation and support.
+ - LAN to WAN / Internet solutions.
+ - All aspects of PC and laser printer repair and trouble shooting.
+ - Warranty service of IBM, Compaq, Digital, HP, Toshiba products.
+ - Experience with Windows NT workstation installations.
+ - Novell 25 User 4.1 internal LAN administration.
+ - cc:Mail administration with remote gateway.
+ - Construction and maintenance of all internal workstations.
+
+ AUG 94 - DEC 94 Computime Computers: Prince George, BC
+ - Service technician.
+ - Configuration of new PC systems and hardware upgrades.
+
+ APR 94 - AUG 94 Aikenhead's/Home Depot Canada: Vancouver, BC
+ - Plumbing associate.
+
+ FEB 92 - APR 94 Lumberland (Scott Road): Vancouver, BC
+ - Department head electrical/plumbing.
+ - Purchasing, inventory management, merchandising, customer service
+   and training.
+
+ Details
+      Desired Job                                         CA-BC-Prince
+            Type: Full Time                     Location: George
+          Desired Employee or
+ Employment Type: Contractor                    Relocate: World
+          Degree: 2 Year Degree              Will Travel: Road Warrior
+
+      Experience: More than 5            Citizen/Security Yes/No
+                  Years                        Clearance:
+ Contact
+         Company:
+           Email: geoff_wilson@excite.com
+            Name: Uroborus
+           Phone: 250-564-6108
+             Fax:
+    Contact Type: Job Seeker
+ Miscellaneous
+      Categories: Computer
+     Last Change: 1999/07/21 13:36:47

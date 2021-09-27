@@ -1,0 +1,353 @@
+afro	\-	afro	\-	american	and	african	studies
+exercise	physiology	exercise	physiology	\/	adult	fitness	
+finance	"\,"	finance	"\,"	insurance	and	real	
+atmospheric	"\,"	atmospheric	"\,"	and	planetary	sciences	
+nuclear	and	nuclear	and	radiological	engineering		
+industrial	and	industrial	and	systems	engineering		
+industrial	and	industrial	and	manufacturing	engineering		
+electrical	and	electrical	and	computer	engineering		
+computer	science	computer	science	and	engineering		
+coastal	and	coastal	and	oceanographic	engineering		
+civil	and	civil	and	environmental	engineering		
+biological	and	biological	and	agricultural	engineering		
+agricultural	and	agricultural	and	biological	engineering		
+insurance	and	insurance	and	real	estate		
+petroleum	and	petroleum	and	natural	gas		
+slavic	languages	slavic	languages	and	literatures		
+romance	languages	romance	languages	and	literatures
+foreign	languages	foreign	languages	and	literatures
+transportation	systems	transportation	systems	and	management
+recreation	and	recreation	and	park	management
+quality	and	quality	and	manufacturing	management
+environmental	planning	environmental	planning	and	management
+voice	performance	voice	performance	and	pedagogy
+student	counseling	student	counseling	and	personnel
+urban	studies	urban	studies	and	planning
+urban	and	urban	and	regional	planning
+urban	and	urban	and	environmental	planning
+health	education	health	education	and	promotion
+clinical	and	clinical	and	school	psychology
+clinical	and	clinical	and	health	psychology
+wildlife	and	wildlife	and	fisheries	science
+soil	and	soil	and	water	science
+microbiology	and	microbiology	and	cell	science
+library	and	library	and	information	science
+engineering	and	engineering	and	applied	science
+computer	and	computer	and	information	science
+fisheries	and	fisheries	and	aquatic	sciences
+family	and	family	and	consumer	sciences
+exercise	and	exercise	and	sport	sciences
+decision	and	decision	and	information	sciences
+dairy	and	dairy	and	poultry	sciences
+computing	and	computing	and	information	sciences
+brain	and	brain	and	cognitive	sciences
+writing	and	writing	and	humanistic	studies
+women	\'	women	\'	s	studies
+film	and	film	and	media	studies
+afro	\-	afro	\-	american	studies
+afro	\-	industrial	and	manufacturing	systems
+industrial	and	instructional	technology	and	telecommunications
+instructional	technology	political	and	social	thought
+political	and	veterinary	medical	sciences	
+veterinary	medical	training	and	development	
+training	and	solid	state	science	
+solid	state	social	studies	education	
+social	studies	physical	therapist	assistance	
+physical	therapist	pharmacology	and	therapeutics	
+pharmacology	and	natural	resources	conservation	
+natural	resources	natural	resource	conservation	
+natural	resource	mineral	engineering	management	
+mineral	engineering	middle	eastern	languages	
+middle	eastern	middle	east	studies	
+middle	east	manufacturing	engineering	technology	
+manufacturing	engineering	management	information	systems	
+management	information	management	and	organization	
+management	and	law	and	justice
+law	and	latin	american	studies
+latin	american	laboratory	animal	medicine
+laboratory	animal	instruction	and	curriculum
+instruction	and	human	resources	management
+human	resources	human	resource	management
+human	resource	human	resource	development
+human	resource	health	services	administration
+health	services	health	science	education
+health	science	health	information	technology
+health	information	health	information	administration
+health	information	health	evaluation	sciences
+health	evaluation	health	care	management
+health	care	foundations	of	education
+foundations	of	foreign	language	education
+foreign	language	food	service	management
+food	service	film	and	video
+film	and	environmental	pollution	control
+environmental	pollution	environmental	engineering	sciences
+environmental	engineering	electric	power	engineering
+electric	power	early	childhood	education
+early	childhood	curriculum	and	instruction
+curriculum	and	cooperative	education	program
+cooperative	education	clinical	laboratory	sciences
+clinical	laboratory	clinical	laboratory	science
+clinical	laboratory	banking	and	finance
+banking	and	astronomy	and	astrophysics
+astronomy	and	applied	information	technology
+applied	information	american	ethnic	studies
+american	ethnic	air	force	rotc
+air	force	agricultural	technology	management
+agricultural	technology	agricultural	operations	management
+agricultural	operations	aeronautics	and	astronautics
+aeronautics	and	adapted	physical	education
+adapted	physical	workforce	education	
+workforce	education	wildlife	science	
+wildlife	science	wildlife	ecology	
+wildlife	ecology	voice	performance	
+voice	performance	visual	arts	
+visual	arts	veterinary	science	
+veterinary	science	veterinary	medicine	
+veterinary	medicine	urban	studies	
+urban	studies	urban	planning	
+urban	planning	urban	development	
+urban	development	transportation	systems	
+transportation	systems	tourism	administration	
+tourism	administration	theatre	arts	
+theatre	arts	textile	design	
+textile	design	telecommunications	studies
+telecommunications	studies	teacher	education
+teacher	education	systems	engineering
+systems	engineering	student	counseling
+student	counseling	structural	mechanics
+structural	mechanics	sports	medicine
+sports	medicine	sport	psychology
+sport	psychology	speech	pathology
+speech	pathology	speech	communication
+speech	communication	special	education
+special	education	solid	state
+solid	state	soil	science
+soil	science	software	engineering
+software	engineering	social	work
+social	work	social	studies
+social	studies	slavic	languages
+slavic	languages	science	education
+science	education	school	psychology
+school	psychology	russian	studies
+russian	studies	rural	sociology
+rural	sociology	rotc	programs
+rotc	programs	romance	languages
+romance	languages	restaurant	management
+restaurant	management	respiratory	technology
+respiratory	technology	religious	studies
+religious	studies	rehabilitation	science
+rehabilitation	science	rehabilitation	counseling
+rehabilitation	counseling	recreation	resources
+recreation	resources	recreation	management
+recreation	management	real	estate
+real	estate	reading	education
+reading	education	radiological	engineering
+radiological	engineering	radiologic	technology
+radiologic	technology	quantitative	analysis
+quantitative	analysis	public	relations
+public	relations	public	policy
+public	policy	public	health
+public	health	public	administration
+public	administration	polymer	science
+polymer	science	political	science
+political	science	police	science
+police	science	plant	sciences
+plant	sciences	plant	physiology
+plant	physiology	plant	pathology
+plant	pathology	planetary	sciences
+planetary	sciences	physical	therapy
+physical	therapy	physical	therapist
+physical	therapist	physical	education
+physical	education	pharmacy	health
+pharmacy	health	pharmaceutical	sciences
+pharmaceutical	sciences	pest	management
+pest	management	park	management
+park	management	oral	biology
+oral	biology	operations	research
+operations	research	operations	management
+operations	management	office	technology
+office	technology	ocean	engineering
+ocean	engineering	occupational	therapy
+occupational	therapy	occupational	development
+occupational	development	nuclear	engineering
+nuclear	engineering	navy	rotc
+navy	rotc	motor	learning
+motor	learning	molecular	genetics
+molecular	genetics	molecular	biology
+molecular	genetics	modern	languages
+molecular	biology	mining	engineering
+modern	languages	mineral	processing
+mining	engineering	mineral	engineering
+mineral	processing	mineral	economics
+mineral	engineering	military	science
+mineral	economics	metals	science
+military	science	medicinal	chemistry
+metals	science	medical	sciences
+medicinal	chemistry	medical	school
+medical	sciences	medical	assistance
+medical	school	media	studies
+medical	assistance	media	arts
+media	studies	mechanical	engineering
+media	arts	mathematics	education
+mechanical	engineering	materials	science
+mathematics	education	materials	engineering
+materials	science	mass	communications
+materials	engineering	mass	communication
+mass	communications	manufacturing	engineering
+mass	communication	management	technology
+manufacturing	engineering	management	science
+management	technology	management	information
+management	science	literary	theory
+management	information	literary	criticism
+literary	theory	liberal	arts
+literary	criticism	leisure	studies
+liberal	arts	legal	assistance
+leisure	studies	law	enforcement
+legal	assistance	landscape	architecture
+law	enforcement	labor	studies
+landscape	architecture	labor	relations
+labor	studies	jewish	studies
+labor	relations	international	studies
+jewish	studies	international	business
+international	studies	interior	design
+international	business	interior	architecture
+interior	design	interdisciplinary	studies
+interior	architecture	instructional	technology
+interdisciplinary	studies	institutional	management
+instructional	technology	information	systems
+institutional	management	information	science
+information	systems	information	management
+information	science	industrial	relations
+information	management	industrial	engineering
+industrial	relations	individual	studies
+industrial	engineering	human	resources
+individual	studies	human	nutrition
+human	resources	human	ecology
+human	nutrition	human	development
+human	ecology	hotel	management
+human	development	hospitality	management
+human	development	horticultural	sciences
+hotel	management	horticultural	science
+hospitality	management	hebrew	studies
+horticultural	sciences	health	services
+horticultural	science	health	sciences
+hebrew	studies	health	science
+health	services	health	policy
+health	sciences	health	information
+health	science	health	education
+health	policy	health	administration
+health	information	grain	science
+health	education	gerontological	studies
+health	administration	germanic	studies
+grain	science	general	studies
+gerontological	studies	forest	resources
+germanic	studies	foreign	languages
+general	studies	foreign	affairs
+forest	resources	food	service
+foreign	languages	food	science
+foreign	affairs	fisheries	science
+food	service	fine	arts
+food	science	film	studies
+fisheries	science	fashion	design
+fine	arts	family	studies
+film	studies	exercise	physiology
+fashion	design	european	history
+family	studies	ethnic	studies
+exercise	physiology	environmental	studies
+european	history	environmental	sciences
+ethnic	studies	environmental	science
+environmental	studies	environmental	planning
+environmental	sciences	environmental	health
+environmental	science	environmental	engineering
+environmental	planning	english	education
+environmental	health	engineering	technology
+environmental	engineering	engineering	science
+english	education	engineering	physics
+engineering	technology	engineering	mechanics
+engineering	science	engineering	management
+engineering	physics	energy	engineering
+engineering	mechanics	elementary	education
+engineering	management	electronics	technology
+energy	engineering	electrical	engineering
+elementary	education	educational	research
+electronics	technology	educational	psychology
+electrical	engineering	educational	policy
+educational	research	educational	leadership
+educational	psychology	educational	evaluation
+educational	policy	educational	administration
+educational	leadership	earth	sciences
+educational	evaluation	developmental	biology
+educational	administration	dental	sciences
+earth	sciences	criminal	justice
+developmental	biology	creative	writing
+dental	sciences	counselor	education
+criminal	justice	cooperative	education
+creative	writing	continuing	education
+counselor	education	computer	technology
+cooperative	education	computer	science
+continuing	education	computer	engineering
+computer	technology	comparative	literature
+computer	science	comparative	law
+computer	engineering	community	studies
+comparative	literature	community	education
+comparative	law	communicative	disorders
+community	studies	communication	sciences
+community	education	communication	disorders
+communicative	disorders	cognitive	sciences
+communication	sciences	cognitive	science
+communication	disorders	clinical	sciences
+cognitive	sciences	clinical	psychology
+cognitive	science	clinical	ethics
+clinical	sciences	clinch	valley
+clinical	psychology	civil	engineering
+clinical	ethics	city	planning
+clinch	valley	chemical	engineering
+civil	engineering	ceramic	science
+city	planning	business	logistics
+chemical	engineering	business	law
+ceramic	science	business	administration
+business	logistics	building	construction
+business	law	biomedical	engineering
+business	administration	biological	sciences
+building	construction	biological	chemistry
+biomedical	engineering	bilingual	education
+biological	sciences	aviation	technology
+biological	chemistry	automotive	technology
+bilingual	education	atmospheric	sciences
+aviation	technology	athletic	training
+automotive	technology	asian	studies
+atmospheric	sciences	asian	languages
+athletic	training	asian	history
+asian	studies	art	history
+asian	languages	art	education
+asian	history	army	rotc
+art	history	architecture	school
+art	education	architectural	history
+army	rotc	architectural	engineering
+architecture	school	applied	mechanics
+architectural	history	applied	mathematics
+architectural	engineering	apparel	textiles
+applied	mechanics	apparel	design
+applied	mathematics	animal	sciences
+apparel	textiles	animal	science
+apparel	textiles	animal	nutrition
+apparel	design	animal	medicine
+animal	sciences	animal	husbandry
+animal	science	american	studies
+animal	nutrition	american	history
+animal	medicine	american	ethnic
+animal	husbandry	agricultural	technology
+american	studies	agricultural	operations
+american	history	agricultural	engineering
+american	ethnic	agricultural	education
+agricultural	technology	agricultural	economics
+agricultural	operations	agricultural	communications
+agricultural	engineering	african	studies
+agricultural	education	aerospace	engineering
+agricultural	economics	aeronautical	engineering
+agricultural	communications	adult	education
+african	studies		
+african	studies		
+aerospace	engineering		
+aeronautical	engineering		
+adult	education

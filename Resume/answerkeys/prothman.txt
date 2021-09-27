@@ -1,0 +1,88 @@
+
+CONTACT:
+
+Contact Name: Carl Prothman
+First Name: Carl
+Last Name: Prothman
+
+Home phone:  425 417 3837
+Email:       carlpr@able-consulting.com
+
+EDUCATION:
+
+Date: June 1994
+School Name: Drake Testing  
+School Location: Seattle WA
+
+Date: June 1993
+School Name: University of Washington
+School Location: Seattle WA
+Degree: Certification 
+Major: Software Product Development
+
+Date: May 1993
+School Name: Institute for Certification of Computer Professionals
+Degree: Associate
+Major: Computer Professional
+
+Date: June 1983
+School Name: University of Washington
+School Location: Seattle WA
+Degree: Bachelor of Science
+Major: Aeronautics and Astronautics
+
+EXPERIENCE:
+
+Date: March 1998
+Company: Able Consulting, Inc
+Position: Senior Consultant
+Location: Issaquah, WA
+
+Date: April 1997 ~ March 1998
+Company: O'Farrell Consulting
+Position: Senior Consultant
+Location: Bellevue, WA
+
+Date: Feb 1997 ~ April 1997
+Company: Pacific Interactive
+Position: Senior Consultant
+Location: Seattle, WA
+
+Date: Oct 1996 ~ Feb 1997
+Company: Real Vision Information Services
+Position: Senior Consultant
+Location: Kirkland, WA
+
+Date: Dec. 1993 - Sept. 1994
+Company: Great Northern Annuities
+Position: Systems Leader / Programmer
+Location: Seattle WA
+
+Date: Sept. 1994 - Oct 1996
+Company: Volt Computers
+Position: Senior Consultant
+Location: Redmond WA
+
+Date: Nov. 1993 - Dec. 1993
+Company: Cap Gemini America
+Position: Consultant
+
+Date: Jan 1992 - Nov. 1993
+Company: Spacelabs Medical Inc.
+Position: Senior Software Engineer Software Engineer
+Location: Redmond WA
+
+Date: Dec. 1986 - Jan 1992
+Company: The Boeing Company
+Position: Programmer / Analyst, Systems Analyst, Software Engineer, 'C' Programmer, Flight Test Engineer
+Location: Seattle WA
+
+Date: Jun. 1985 - Dec. 1986
+Company: Rockwell International
+Position: Astronautical Engineer
+Location: Downey CA
+
+Date: Oct. 1983 - Jun. 1985
+Company: Shannon Engineering
+Position: Aeronautical Engineer
+Location: Seattle WA

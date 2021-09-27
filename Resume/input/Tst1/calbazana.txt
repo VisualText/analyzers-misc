@@ -1,0 +1,212 @@
+Ted Calbazana
+
+110 West Grant St. Apt. 10K
+Minneapolis, MN 55403
+EMail Only / tcalbaz@minn.net
+
+                               Vita / Resume
+
+APPLICATION ENGINEER
+
+Sep. 1996 - Present .... Flatley Corporation, Bloomington, Minnesota
+
+     Application Development with Microsoft SQL Server 6.5, Visual Basic
+     4.0, Access 7.0 Special emphasis on very large scale databases
+     utilizing techniques for ensuring data integrity and validation.
+     Applications used SQL Server for the Back End and Visual Basic or
+     Access as the Front End.
+
+Nov. 1994 - Sep. 1996 DataCard Corp., Minnetonka, Minnesota
+
+     Application Design for World Markets, Software Estimation, Project
+     Management, Software Testing, Microsoft Visual Basic, Microsoft
+     Access, Microsoft FoxPro, Microsoft Test, Borland Delphi, familiar
+     with Lotus Notes, Internet Application Development.
+
+---------------------------------------------------------------------------
+
+NETWORK TECHNICIAN
+
+Nov. 1993 - Nov. 1994 Investors Bank, Wayzata, Minnesota
+
+     Novel 3.11 Network Administration & Security, Research & Technical
+     Writer, Instructor Wide Area Network Maintenance, ISC Banking
+     equipment maintenance. 3270 Emulation, dBase, FoxPro, Paradox for
+     Windows, Microsoft Excel, Word, Access, Macros, support and
+     maintenance.
+
+(See attached job description).
+---------------------------------------------------------------------------
+
+SYSTEMS INTEGRATOR
+
+Oct. 1988 - Jun 1993 Computer & Power Systems, St. Thomas
+
+     386 & 486 Computers, Novel Networks service, maintenance and
+     installation, Installation of Cabling, Equitrac Call Accounting
+     Systems, Point-Of-Sate Systems Panasonic line of laptop computers,
+     taxes, laser printers, dot matrix printers Zenith and Texas
+     Instruments line of laptop computers.
+
+     Designed, Programmed & Maintained Bar Code Point of Sales and
+     Inventory Control System for Benetton Corp., written in Foxplus/FoxPro
+
+     Maintained Modifications on SBT Accounting Systems per Client
+     specifications for Yves St. Laurent of St. Thomas in Foxplus.
+
+     Outside support: SBT Accounting, Premier Accounting, Quicken,
+     Peachtree
+
+---------------------------------------------------------------------------
+
+IBM/ APPLE - VAR
+
+Apr. 1984 - Oct. 1988 Computer World Inc. - (Owner) St. Thomas
+
+   * Warranty service depot: IBM and Apple Macintosh computer equipment
+   * Programming in Clarion and Quickbasic environments
+   * Certified IBM Var. Dealer / Business Partner.
+   * Certified International Apple Dealer/ Service Ctr.
+   * Certified Novel Network Reseller.
+   * Lotus & Microsoft Reseller
+
+---------------------------------------------------------------------------
+
+COMPUTER SERVICE REP
+
+Feb. 1978 - Nov. 1980 Computer Shop, Cambridge, Ma.
+
+     Installation and setup of Ohio Scientific CPM. Equipment Sales Rep for
+     MIT / Harvard College Accounts Programming work on Retail Point of
+     Sale in BASIC
+
+---------------------------------------------------------------------------
+
+MILITARY
+
+Mar. 1975 - Oct. 1976 101st Airborne Division, Ft. Campbell, Ky.
+
+---------------------------------------------------------------------------
+
+PROGRAMMER
+
+1972 - 1974 State of Massachusetts
+
+     Work Study Program - IBM 360/30 Mainframe Operator/Programmer
+
+     Payroll System Developed in COBOL
+
+---------------------------------------------------------------------------
+
+EDUCATION SUMMARY
+
+Oct. 1983 - Mar 1984 Control Data Corp. , St. Thomas
+
+     Certified Digital Technician Training
+
+1976 - 1977 Brockton Community College, Brockton, Ma.
+
+     Computer Science, Business Management
+
+1972 - 1974 Keefe Tech Vocational School, Framingham, Ma.
+
+     Computer Science, Programming
+     Programmer / Operations on IBM 360/30 / COBOL
+
+1970-1972 Holliston High, Holliston
+
+     Data Processing, DEC PDP-8 Operations
+
+---------------------------------------------------------------------------
+
+SPECIAL
+
+   * Rotary Club Charlotte Amalie - Secretary
+   * Chamber of Commerce - Member, Talk Show Guest
+   * PIC - Work/training sponsor for high school grads
+   * Career Advisor - Guest Speaker
+   * Guest Career Speaker for PTA
+   * Seminar instructor - University of Virgin Islands
+
+---------------------------------------------------------------------------
+
+Network Technician
+
+Job Description
+
+     Responsible for implementation and ongoing maintenance, management,
+     configuration and technical support of wide area network (WAN), bank
+     office systems, local area networks (LAN's), stand alone PC's and
+     other related systems.
+
+   * Research, recommend, install and provide ongoing maintenance of
+     Company wide area network (WAN), bank office systems, local area
+     networks (LAN's), stand alone PC's and other related systems hardware
+     and software products. Equipment includes LANs, network operation
+     systems, controllers, concentrators, gateways, modems, bridges,
+     routers, branch adapters, token ring configurations, file servers,
+     PCs, 3273 terminals, ISC WPII workstations, laser & impact printers,
+     document printers, validators, emulators, protocol converters, CAUS,
+     LAMS, MAUS, multiplexors, data filters. cabling, etc.
+   * Ongoing LAN management and technical support of the Company's wide
+     area network. Workstation and WAN support include diagnosing,
+     maintaining, and evaluating performance, hardware, software. and
+     cabling.
+   * Create and maintain documentation, current manuals, procedures,
+     instructional materials, and an inventory library regarding current PC
+     technologies. This includes hardware, software, network environments
+     and procedures, terminal addresses, security standards,
+     configurations, depreciation charges, capital asset tags, licenses,
+     changes, problems, solutions, etc.
+   * Project development and analysis by creating critical paths to
+     establish effective and efficient implementations. This includes
+     researching equipment and vendors, analysis of costs, writing
+     recommendations, ordering equipment, installation, and evaluation.
+     Identify whether project can be completed by utilizing internal
+     equipment and resources or external services.
+   * Participate in research, recommendation, and implementation of wide
+     area network (WAN) security tools and standards as approved by
+     management and Internal Audit. Function as Security Administrator for
+     both network and host users. This includes coordinating the creation
+     of user IDS-I password assignment-, access to applications,
+     file-servers, and printers.
+   * Provide software support in regards to researching hardware
+     requirements, installations, upgrades, testing and evaluation.
+   * Monitor system(s) usage, forecast system needs, and plan for future
+     growth. Monitor system(s) performance by assisting with the evaluation
+     and implementation of value-added performance monitoring tools.
+     Provide performance tuning to the WAN and related systems.
+   * Provide data communication support to users to maintain maximum
+     productions. Ensure prompt resolution of problems during system
+     failure. Diagnose problem, access vendor support, and perform
+     preventive maintenance.
+   * Evaluate on an ongoing basis, maintenance agreements Company wide and
+     make recommendations in order to provide the most effective and cost
+     efficient maintenance support.
+   * Track revisions/releases and upgrades on WAN hardware/software. Inform
+     all applicable departments within the Company.
+   * Identify new and existing training needs including operating systems,
+     workstation functions, network functions, applications, printing, and
+     productivity. This includes research, documentation, and providing
+     training programs.
+   * Maintain familiarity with vendor pricing and compare pricing regularly
+     to insure the Company is getting the best prices in the market.
+   * Coordinate the development of an effective equipment tracking system
+     to document current hardware and software inventories. This will
+     provide information to be used by Accounting, Internal Audit, and for
+     tracking legal copies of software.
+   * Handle liquidation of surplus equipment on hand due to upgrades and
+     technical advances. This includes contacting equipment brokers,
+     gathering and evaluating bids on the equipment, making recommendations
+     as to the sale, arrange for transport, and interface with accounting
+     to remove the sold equipment from the books.
+   * Implement procedures, and coordinate training in order to provide
+     consistent, periodic backups of network data and restoring data as
+     needed.
+   * Maintain effective communication and support with all operating and
+     staff organizations to assure that t needs form Information Systems
+     for business management and decision making are provided as
+     appropriate.
+   * Act as a backup support to all areas of Information Systems.
+   * Be Accountable for communicating progress on development projects,
+     resource utilization, and product performance.

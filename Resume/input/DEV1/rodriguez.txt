@@ -1,0 +1,76 @@
+Benedicto Rodriguez
+brodrigu@students.miami.edu
+
+OBJECTIVE
+Seeking a full time programmer/analyst position in the software development
+industry, in touch with well-known technologies, (object oriented,
+client/server, event-driven systems), and willing to research and expand to
+new leading strategies, (web based projects, n-tier applications)
+
+EDUCATION
+UNIVERSITY OF MIAMI Coral Gables, FL
+Master of Science in Computer Engineering, May 1999. GPA 3.64
+
+UNIVERSITY OF GRANADA Granada, Spain
+Bachelor of Science in Computer Engineering, August 1997
+
+HONORS
+* Teacher Assistantship to attend the Univ. of Miami Comp. Eng. Master
+Program 97/98, 98/99
+* One year Fellowship to attend the University of Miami Study Abroad
+Program 96/97
+* Two years Scholarship to perform practical training in Hewlett-Packard
+Healthcare Division
+
+ACTIVITIES
+* Stat Auditing Software. Powerbuilder software developer for emergency
+room application
+* Member of the Graduate Student Association to represent the Computer
+Engineering Department
+
+EXPERIENCE
+COLLEGE OF ENGINEERING, UNIVERSITY OF MIAMI Coral Gables, FL
+Teacher Assistant (August 96-Present)
+* Reviewed students work for the course Object Oriented Windows focused on
+the Microsoft Foundation Classes (MFC)
+* Guided students lab projects for the course Design of Embedded
+Microprocessor Systems, based on the Intel 8051 microcontroller
+* Maintained the UNIX system of the Computer Engineering Department,
+supported by a total of ten servers, (SunOS, IRIX, and Ultrix)
+* Administered the College of Engineering Website, hosted by a DEC Ultrix
+server, employing HTML, CGI, and UNIX shell scripts to enable easy to
+update information
+* Tutored and graded students assignments for the course Introduction to C
+Programming
+
+HEWLETT-PACKARD Granada, Spain
+Software Engineer Intern (September 94-May 96)
+* Participated in the implantation of the software database HP Hospital
+Information System, (HP HIS), to renew the information system in a hospital
+
+* Cooperated in the development life cycle of several software
+applications, within interrelated teams of work, following the guidelines
+accorded by HP and the hospital
+* Managed the overall software customization for the warehouse department
+of the hospital
+* Developed an Electronic Data Interchange, (EDI) application, to integrate
+automatic fax orders from some of the HP HIS software modules
+
+System Administrator Intern (September 94-May 96)
+* Supported maintenance and installation of different UNIX servers (HP-UX),
+network equipment, and Windows 3.x/9x LANs in several hospital facilities
+operated by HP
+* Reduced customers' equipment expenditures, by enabling printers attached
+to the Windows network, to be accessed from the UNIX platform and vice
+versa, using TCP/IP services
+
+SKILLS
+* Advance programming of C, C++, Multibase (4GL DBMS), Pascal, SQL, Windows
+API, Visual C++ MFC, Borland C++ OWL, PowerBuilder (PFC), Sybase SQL
+Anywhere, Multimedia ToolBook II, HTML, E/R and OSM database analysis
+* Administration of UNIX systems, (HP-UX, SunOs, Ultrix, IRIX), Windows
+3.x/9x/NT, LANs and TCP/IP services
+* Proficient in Microsoft Office, Microsoft Project, Lotus SmartSuite
+* Good interpersonal communication skills and ability to be supportive and
+helpful to colleagues
+* Fluent in Spanish

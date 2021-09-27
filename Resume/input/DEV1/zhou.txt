@@ -1,0 +1,83 @@
+                                   RESUME
+                                 Hong Zhou
+                               *** CA 90291
+                         Email: z1m06@ttacs.ttu.edu
+
+ __________________________________________________________________________
+
+OBJECTIVE  To obtain a position as Computer Software Engineer
+
+WORK EXPERIENCE
+
+ Computer Programmer/ Webmaster (20 hours/week).
+                                          Graduate School
+                                          Texas Tech University
+                                          Aug  96 ~ May 98
+       * Developed and Maintained Graduate School’s Web Site.
+       (Dynamic HTML, Java ++,JavaScript), Developed Web CGI
+       program (Perl on UNIX ) for online application.
+       Please visit web site: http://www.ttu.edu/~gradsch
+     * Designed online application Database process program
+       (Visual Basic 4.0, to develop GUI / Client, SQL Server,
+       Relational Database).
+ Computer Programmer (18 hours/week).
+                           Wind Engineering Research Center
+                           Texas Tech University,
+                           Jan. 96 ~ Aug. 96
+     * Developed Wind Load Calculation Software (Visual Basic,
+       MS Access, SQL). At front side , it can check wind map,
+       at end side it  check ASCE standard table to calculate the
+       wind load on tall building.
+ Mechanical Engineer/Software Engineer (Full Time).
+                     Xian Coal Mining Machinery Company
+                     Xian Shaanxi ,China, July 88~May 95
+     * Developed Finite Element Method software (Visual C++,
+       MFC /GUI ). it is used in structural dynamic and stress
+       analysis.
+     * Mechanical Design: Using the latest technology designed
+       (using AutoCAD)most parts of coal mining machine , analysis
+       (using Finite Element Method) the stress and the vibration
+       of the machine.
+COMPUTER SKILLS
+     Computer Language:
+              C/C++ (include VISUAL C++ 5.0 , MFC etc.),
+              Assembly Language, Fortran 77.
+              VISUAL BASIC 5.0, ACCESS.
+              FoxPro, Oracle 7.0, SQL,COBOL,CICS
+              JAVA++, HTML, Perl,CGI.
+              Active Server Pages (ASP), JavaScript,
+              UNIX Shell script, Perl
+    Operationg System:
+              UNIX (SUN Solaris), Windows NT. 95. DOS, MVS.
+    Technology:
+              CLIENT/SERVER, COM/DCOM, ActiveX, CORBA, ODBC
+              GUI, TCP/IP, RPC, VHDL.
+              LAN/WAN,Digital Signal Processing(DSP),
+              Communication  Networks, Embedded Software.
+              Image Processing, JPEG, MPEG
+    Software:
+              AutoCAD, Frontpage, Photoshop, MathCAD,SAP-5.
+
+
+EDUCATION
+        MS in Computer Science,   Texas Tech University
+                                  Aug. 96~May 98
+        Graduate Student in Civil Engineering Dept.
+                                  Texas Tech University
+                                  Aug. 95~May 96
+        BS in Applied Mechanics,  Xian Jiaotong University
+HONORS
+        Advanced mathematics contest winner. Rank: 5/1000,
+        Xian Jiaotong Univ. (top 10 Univ. in China)
+
+----------------------------------
+
+Please play my JAVA internet card game at:
+http://chimera.acs.ttu.edi/~z1m06/game.html
+
+Reference available on request.
+
+---------------------------------------------------------------------------
+
+      [Main Page][My Java Game][Link][Down Load My Software][E-Mail to
+                                    Me]

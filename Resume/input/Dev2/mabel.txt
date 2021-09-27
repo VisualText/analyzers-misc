@@ -1,0 +1,193 @@
+   Joseph L. Mabel
+
+jmabel@speakeasy.org
+
+I am not currently seeking work.
+
+As of September 8, 1997, I am employed at Salt Mine Creative and I hope to
+be there for a long time. My resume is left here as a description of my
+professional history for those who might be interested.
+
+Skills/Strengths:
+
+Software Development: Specification, design, programming, debugging.
+Emphasis on data structures, object-oriented design, efficient algorithms,
+flexible configuration, graphics, and user-friendly interface.
+
+Management: Scheduling and estimation, consensus-building, management of
+technical personnel, coordination between technical and non-technical
+personnel.
+
+Communications: Strong written and oral communicator. Documentation
+experience includes specifications, user documentation, and preparing
+software systems for source licensing. Worked as a freelance writer prior
+to my involvement in computing.
+
+Problem-solving and flexibility: A broad range of experience including both
+regular and contract employment in a variety of environments. Feasibility
+studies, overall systems design, database and data structures work, close
+work with people from a variety of professional backgrounds.
+
+Experience:
+
+Orca Medical Systems(1996-April 1997)
+Program Manager
+
+Chief responsibility for specifications for a Windows- and SQL Server-based
+medical records system. This required building consensus among a group
+which ranged from nurses and physicians (both in-house and out) to software
+engineers and, in some cases, client hospital clinicians and CIOs. Typical
+examples are:
+
+   * Worked with domain experts to analyze dozens of distinct scenarios by
+     which data may become part of the medical record. Successfully
+     communicated these to a team of software engineers.
+   * Completely redesigned over 200 data entry dialog boxes. Developed a
+     consensus among half a dozen individuals who began with very divergent
+     visions of the product. Developed a "vocabulary" of about 15 screen
+     controls which covered cases which, in an earlier release of the
+     product, had used approximately 50 distinct controls.
+   * Designed a complete overhaul of a medical records database schema and
+     supporting code along object-oriented lines. Introduced a full
+     journalizing capability while actually reducing disk storage
+     requirements and speeding access for common operations.
+   * On a regular basis, wrote acceptable draft specifications of features
+     requested by clients or prospects within hours of request.
+
+Active Voice Corporation (1991-1996)
+Software Architect, Project Lead
+
+Software Architect for Repartee, the flagship product of the world's
+leading manufacturer of PC-based voice mail. Repartee is a highly
+multi-tasking voice mail system which integrates with third-party E-Mail
+and various proprietary LAN-based applications.
+
+Managed "Project Mercury," a 10 engineering person-year project.
+Responsibilities included:
+
+   * Directly supervised 6 FTE software engineers, QA Lead, Technical
+     Publications Lead, Field Test Coordinator. Coordinated with Marketing,
+     Training, Technical Support, and Production departments, as well as
+     Platform, Desktop Applications, and Software Components groups within
+     Development.
+   * Led and motivated this team to achieve our mandate and deliver the
+     product.
+   * Evaluated feature requests.
+   * Set schedules and tracked progress of project. Negotiated with
+     engineering management for resources and delegated work
+     responsibilities within the team.
+   * Authored one third of requirement definition documents and design
+     description documents. Directly involved in all requirement and design
+     reviews.
+   * Coordinated code reviews.
+
+Project Mercury achieved its goals, including: merged three separate code
+bases, each offering significant unique features; converted from 16-bit
+code and non-preemptive multi-tasking to 32-bit code and preemptive
+multi-tasking; expanded from 36 to 60 simultaneous voice conversations,
+while improving performance; added features in support of fault tolerance;
+improved system configurability; improved modularity of code; allowed
+on-line backup; improved granularity in the locking scheme to remove
+limitations on certain operations occurring simultaneously; improved APIs
+to maximize forward compatibility; allowed analog networking of multiple
+voice mail systems.
+
+Other achievements at Active Voice:
+
+   * Managed several other projects, including initial development of Fax
+     Mail, which integrates fax traffic into Repartee.
+   * Instituted much-improved coding discipline, including the introduction
+     of code reviews.
+   * Developed server support for ViewCall, a breakthrough system which
+     allows clients to control incoming phone calls from their desktop
+     computer.
+   * Made major improvements in the design of the Repartee database and
+     major extensions to the voice interface.
+
+HealthWare Corporation (1989-1991)
+Senior Software Engineer
+
+   * Liaison to Marketing for 3-person design team.
+   * Designed and implemented a system to edit structured nursing notes and
+     other structured medical records. Performed extensive database work to
+     support this design.
+   * Improved design of report generator, resulting in order of magnitude
+     speed improvement.
+   * Implemented several Windows custom controls.
+   * Implemented HL/7 protocols (ISO conformant level 7 protocol for the
+     health care industry).
+
+MegaCADD (1983-1988)
+Co-founder, Senior Software Engineer
+
+   * Designed and implemented three-dimensional graphics capabilities,
+     including efficient automatic hidden line removal, walkthrough
+     animations, DXF (AutoCad) interchange, and highly interactive creation
+     of models and components, including manipulation of curves by handle
+     points.
+   * Supervised 3-person project team. Set design priorities. Reviewed all
+     technical specifications. Set coding, documentation, and testing
+     standards. Scheduled and monitored all project work, ranging from user
+     documentation to device interfaces.
+   * With this team, developed four major releases of Design Board
+     Professional (now MegaModel from Design Futures Incorporated), the
+     pioneering three-dimensional CAD application on PCs. Architecture
+     Magazine (February 1987) called this product, which produces
+     perspective renderings and other drawings, "splendid...the only good,
+     inexpensive 3D program."
+
+In addition to my permanent positions, I have worked as a consultant and
+contract engineer. This work ranged from feasibility studies and marketing
+studies to development work and project management. Major projects have
+included:
+
+Portable Cellular Communications (1988-89)
+
+Transformed software specific to a single cellular phone rental company
+into a production system which formed the basis of Cellular Technical
+Services, a joint venture with Nynex.
+
+   * Extensively interviewed PCC programming staff to produce a document
+     which resolved Nynex's issues about the flexibility of the software
+     and applicability beyond one company.
+   * Wrote in-line documentation of code, created system diagrams, wrote
+     functional and technical descriptions of programs, files, and
+     interprocess communication. Organized source and object libraries and
+     created "make" files.
+   * Completely redesigned and rewrote point-of-sale software to create a
+     single configurable program.
+   * Designed simulation/testing environment and developed a strategy for
+     fault tolerance.
+   * For CTS, wrote programs for data verification, telephone switch
+     interfaces, long-distance telephone billing, serial and TCP/IP
+     communications.
+
+Energy International (1987)
+
+   * Designed and implemented a graphical user interface, which added
+     interactive grid design, profiles, vector plots, and contour graphs to
+     an existing fluid dynamics system.
+   * Established administrative procedures for Apollo network. Greatly
+     improved relations with Apollo and other vendors.
+
+Telematic Products (1982)
+
+Member of a team which designed and implemented UTS-4000, a fault-tolerant
+table-driven system which gathers telephone billing information and relays
+this to a central billing computer.
+
+Education:
+
+M.S. in Computer Science, University of Washington (Seattle, WA). Master's
+thesis describes my design of the interactive symbolic debugger included as
+part of DEC's Pascal-36. Other major projects while in graduate school
+included a LISP interpreter and a preprocessor to translate concurrency
+specifications into C code to manage semaphores.
+
+B.A. Cum Laude in Mathematics, Wesleyan University (Middletown, CT).
+
+---------------------------------------------------------------------------
+Back to my home page.
+
+Last modified: September 2, 1997
+jmabel@speakeasy.org

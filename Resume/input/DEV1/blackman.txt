@@ -1,0 +1,165 @@
+                              DANIEL BLACKMAN
+
+                              (510) 910-9047
+
+                        EMBEDDED SYSTEMS PROGRAMMER
+                     Copyright ©  1999 Daniel Blackman
+
+Project-oriented programmer provides excellent software support and design
+expertise to original small-systems projects; software development;
+firmware; design, development, integration, and testing.
+
+I want to help develop and support a product throughout its
+entirelifecycle; Especially interesting: Instrument interfaces, control
+systems, things that move, and scientific research tools.
+
+I can be especially helpful if you are developing board-level electronics,
+manufacturing test, instrumentation, or low-level machine control. As
+always: hard-working, task-oriented, inventive & flexible.
+
+TECHNICAL SKILLS
+
+Expert in: C, 8051 Assembly, Software Architecture,
+in-circuitemulator/analyzer (ICE); VRTX-86 and other real-time,
+multi-tasking operatingsystems; use of oscilloscope, logic analyzer, serial
+communications, embedded design, firmware. Low level design: operating
+systems and device drivers.
+
+Familiar with: hardware design; DOS, UNIX, Windows; embedded systems,
+system architechure, control systems, instrumentation; Labview, Pascal,
+PL/M-86, ASM-86, ASM-51, Forth-83; Intel I2ICE, ICE-51FX/PC, MIL-STD-2167;
+RS-422, RS-485, RS-232, 1553.
+
+EXPERIENCE
+
+*Space Sciences Laboratory, UC Berkeley, (4-96 ?)
+
+Wrote firmware for spectrographic detector instrument for use in an
+orbiting telescope. Developed support tools written in C and 8051
+assembly.Created test tools and methods, and provided integration support.
+Publishedcontroller interface documentation on web-page for use by team
+membersdistributed nationwide. Provide on-going mission support.
+
+*TMX (10-95 4-96)
+
+Developed working prototype software to drive two SoundBlaster
+cardssimultaneously, providing separate and continuous record/play
+channels; integrated existing prototype user interface; created
+satellite-controllersimulator for test/development support. Wrote interrupt
+routines in C.
+
+*Tracor Aerospace, Austin, TX (6-95 8-95)
+
+Rewrote scenario generator in Borland C++ (instead of Forth ); Madeupdates
+to analysis codes; Consulted and advised on system software upgradeproject.
+
+*NETA (9-94 4-95)
+
+Wrote software to provide a remote viewing capability to a
+Nicolet(Viking-series) neurological test instrument, allowing a neurologist
+at aremote site to view, measure, and store waveform data collected by
+anoperating-room technician. Used a high-speed modem, graphical
+userinterface, Turbo-C.
+
+*Tracor Aerospace, San Ramon, CA (8-87 5-94)
+
+Shipboard Anti-Missile Chaff Launching System: Designed, developed
+andmaintained system software and tools, including: tactics algorithm,
+tacticsanalysis, trajectory analysis, ship's state interface (serial,
+analog, andsynchro), simulators. Written in PL/M-86, ASM-86 , using VRTX-86
+(real-time,multi-tasking OS).
+
+Solved a system network problem to meet required robust
+communicationsprotocol using dual-redundant RS-422 networks. Debugged
+controller firmwarewritten in ASM-51.
+
+Developed scenario generator, data logger, and graphical scenario
+displayusing data logger data stream. Written in FORTH-83 & C.
+
+Designed and developed trajectory code used for predicting locations
+ofdecoy rounds, accounting for in-flight configuration changes. Written
+inTURBO-PASCAL.
+
+Studied decoy selection tactics; developed analysis tools to
+describeperformance of decoys as a function of individual variables in a
+Monte-Carloscenario model.
+
+Reduced data acquired for study of pressure sensor as part of an
+altitudetrigger for use in a decoy. Assisted with decoy testing, recording
+altitudeobservations, photographing flight tests, and reporting test
+results. Wrotetest code in C.
+
+Acquired and modified MISSILE DATCOM code written in FORTRAN used
+forestimating aerodynamic coefficients of particular missile
+designconfigurations.
+
+Modelled physical behavior of radar reflecting chaff using MathCAD.Wrote
+papers on chaff cut selection methods and decoy tactics modeling
+usinglinear programming techniques.
+
+*XMR , Santa Clara, CA (3-91 6-91)
+
+Wrote control code in C for industrial excimer laser system.
+
+*Mirage Systems, Sunnyvale, CA (10-89 11-90)
+
+Wrote interface and control code in C for RF analyzer system,
+integratingvia GPIB spectrum analyzer, PC, oscilloscope, time-base and GPS
+receiver.
+
+Assisted with proposal writing. Assisted with design of scaled-RFmodelling
+project, including antenna tower design, site selection andpreparation, and
+data acquisition instrumentation.
+
+*Helios, Sunnyvale, CA (6-89 7-90)
+
+Developed and maintained servowriter control software and interface to
+HPlaser positioning system and various servos. Assisted customers
+withidentification of and solution to servowriter problems. Wrote
+demonstrationsoftware as a sales tool. Turbo Pascal.
+
+*SAIC COMSYSTEMS , San Diego, CA (10-84 8-87)
+
+Secure Conferencing Project: Wrote device drivers, interrupt handlers,and
+other system-level software for managing secure voice communicationssystem
+in a satellite network. Code written in PL/M-86 and ASM-86 on aSTD-bus
+system running iRMX-86.
+
+Shipboard antenna servo/physical system simulator: wrote software in C
+tomake a PC with custom interface card emulate a satellite antenna mounted
+on aship subject to various sea- state conditions; used for analyzing
+antennacontroller behavior during depot-level testing.
+
+Protocol converter black-box for Baudot-to-ASCII interface: wrotecomplete
+embedded- system software in PL/M-86 and ASM-86 to provide interimbuffered
+interface between old submarine terminals and new communicationshardware.
+
+*San Diego State University Foundation (6-83 6-84)
+
+Wrote a database program for managing DSRV (submarine) optics at
+NOSCmaintenance facility. Program written in C on PDP-11 UNIX.
+
+Installed iRMX-86 operating system on a single-board computer; wrote Cand
+ASM code to demonstrate real-time multi-tasking performance.
+
+TECHNICAL SKILLS
+
+Expert in:8051 assembly, 8086 assembly, C, PL/M-86, Turbo Pascal;software
+design; project development;real-time/multi-tasking OS, such as VRTX;use of
+oscilloscope, logic analyzer, serial communications.
+
+Familiar with:Forth, ASM-86, ASM-51, FORTRAN, Basic, Pascal, Assembly,
+C++;in-circuit emulators such as Intel I2ICE, ICE-51FX/PC;in-circuit
+emulator/analyzer Orion 8620;MIL-STD-2167; UNIX, VRTX, pSOS;use of RS-422,
+RS-485, RS-232, MIL-STD-1558,GPIB (IEEE-488) communications;LINDO/GINO,
+Management planning tools.
+
+EDUCATION
+
+BA, Computer Science, University of California, San Diego, June 1984
+MBA,(OR), California State University, Hayward, December 1996
+
+              Top | Latest Project | HomePage | Consultantcy
+
+                     Copyright ©  1999 Daniel Blackman
+                          Last update: 15 May 1999

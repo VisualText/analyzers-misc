@@ -1,0 +1,53 @@
+
+CONTACT:
+
+Contact Name:   J. R. Rees
+First Name: J.
+Middle Name: R.   
+Last Name: Rees
+
+Home phone:  415 543 9094
+Number:      300
+Street:      Third
+Road:        St
+Room:        914
+City:        SF
+State:       CA
+Zip:         94107
+Email:       rees@absoluterealtime.com
+URL:         www.absoluterealtime.com
+
+EDUCATION:
+
+Date: 1975-79
+School Name: University of Arizona  
+School Location: Tucson
+Degree: BS 
+Major: Computer Science/Math
+
+EXPERIENCE:
+
+Date: 1995-97
+Company: Nortel
+
+Date: 1996-97
+Company: Personal Internet Consulting
+
+Date: 1992-95
+Company: BioControl Systems
+
+Date: 1993
+Company: Network Equipment Technologies
+
+Date: 1991-92
+Company: Toshiba America MRI, Inc    
+
+Date: 1990-91
+Company: Real-Time Productivity Management Systems USPS
+
+Date: 1987-90
+Company: Survival Research Labs
+
+Date: 1979-89
+Company: Bell Northern Research
+

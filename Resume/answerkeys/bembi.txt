@@ -1,0 +1,38 @@
+Contact Name: ATUL BEMBI 
+First Name: ATUL
+Last Name: BEMBI
+Email: abembi@hsc.usc.edu
+Degree: Doctor
+Major: Osteopathic Medicine
+Date: Fall 2000
+School Name: Western University of Health Sciences 
+Degree: MS 
+Major: Information And Operation Systems Management
+Date: Dec 1994
+School Name: University of Southern California
+School Location: California
+Degree: BS   
+School Name: University of Southern California
+School Location: California
+Degree: Biomedical Engineering
+Date: Feb 96-Present
+Company: USC
+Position: Programmer Analyst
+Date: April 95
+Company: USC Health Sci Campus
+Date: April 95-Feb 96
+Company: USC Health Sci Campus
+Position: Data Analyst
+Position: LAN Administrator
+Date: May 94 - April 95
+Company: USC High Speed Technology Laboratory
+Position: Lab Assistant
+Date: Oct 91 - June 95
+Company: USC Health Sciences Bookstore
+Position: Customer Service
+Date: Oct 93 - Jan 94
+Company: LAC-USC Medical Center
+Position: Volunteer
+Date: June 93- Aug 93
+Company: USC Department of Biomedical Engineering
+Position: RECEPTIONIST

@@ -1,0 +1,65 @@
+
+CONTACT:
+
+Contact Name: BRUCE WAYNE ROBINSON
+First Name: BRUCE
+Middle Name: WAYNE
+Last Name: ROBINSON
+
+Number:      7315
+Street:      24TH
+Road:        ST. W.
+City:        Tacoma
+State:       WA
+Zip:         98466
+Home phone:  206 566 5471
+Email:       brobinson@wa.net
+Email:       brobins@co.pierce.wa.us
+
+EDUCATION:
+
+Date: 1982
+School Name: The Evergreen State College 
+School Location: Olympia, WA
+Degree: B.A. 
+Major: Management/Computer Science
+
+EXPERIENCE:
+
+Date:   03/97-Present
+Company:  Pierce County Government
+Position:   Systems Analyst
+
+Date: 06/96-03/97
+Company: Group Health Cooperative
+Position: Senior Analyst Programmer
+
+Date: 09/93-06/96
+Company: Washington Mutual
+Position: Programmer Analyst II
+Location:
+
+Date: 02/93 - 09/93
+Company: TRIAD Washington Mutual Savings Bank
+Position: Contractor
+Location:
+
+Date: 9/88 to 12/31/92
+Company: Puget Sound National Bank
+Position: Senior Programmer Analyst
+Location: Tacoma, WA
+
+Date: 4/85 to 9/88
+Company: Puget Sound National Bank
+Position: Programmer Analyst
+Location: Tacoma, WA
+
+Date: 2/83 to 4/85
+Company: Capital Savings Bank
+Position: Programmer Analyst
+Location: Olympia, WA
+
+Date: 5/81 to 2/83
+Company: West Coast Grocery
+Position: Programmer
+Location: Tacoma, WA

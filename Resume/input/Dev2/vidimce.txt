@@ -1,0 +1,216 @@
+
+ KIRIL VIDIMCE     vkire@erc.msstate.edu            (601) 325-0306 (Home)
+                   http://www.erc.msstate.edu/~vkire(601) 325-8923 (Work)
+                   P.O. Box 3167                    (601) 325-0528 (Work)
+                   Mississippi State, MS 39762      (601) 325-8997 (Fax)
+
+ Objective        Computer graphics research and development.
+
+ Research
+ Interests        Subdivision, Global Illumination, 3D Interaction,
+                  Web-based Graphics and Visualization.
+
+ Skills
+                              C++/STL, C, Java, Ada, Perl, Common LISP,
+                              Pascal, M68000
+                    Languages Inventor, Performer, OpenGL++, Cosmo3D,
+                    API's     OpenGL, Motif, MFC
+                    Web       HTML, VRML 2.0, EAI, VRML 1.0, Java,
+                    Databases JavaScript
+                    OS's      dBase, Clipper, Access
+                    Networks  Unix/X (Irix, SunOs, HP-UX, AIX, Linux),
+                    Admin     Windows NT, VMS
+                    Apps      TCP/IP, Netware, Windows NT, DECNet, X.25
+                              Irix, Linux, Netware, Windows NT
+                              Photoshop, Page Maker, MS Office and many
+                              others
+
+ Work Experience
+
+ 6/99 - 8/99      California Institute of Technology, Multi-Res Modeling
+                  Group
+                  Research Fellow
+                  Research under the guidance of Prof. Peter Schröder.
+                  Details to follow.
+
+ 6/98 - 8/98      Stanford Research Institute (SRI) International,
+                  Perception Group, AI Center
+                  Research Engineer
+                  Assisted in designing of, and implemented a VRML-based
+                  cross-platform version of TerraVision, a terrain
+                  visualization software package. Ported 60,000 lines of
+                  Unix (Motif/OpenGL) code to Windows NT.
+
+ 6/97 - 8/97      Silicon Graphics, Inc. (SGI), Advanced Graphics
+                  Software/Core Rendering
+                  Software Engineer
+                  Participated in the design process of OpenGL++ (now
+                  Fahrenheit). Wrote tests and benchmarks and compared
+                  designs of the Inventor/Performer/Cosmo3D libraries.
+                  Wrote/Ported OpenGL++, OpenGL and JavaGL demos.
+
+ 1/96 - present   MSU/NSF Engineering Research Center for CFS, Scientific
+                  Visualization Thrust
+                  Research Assistant
+                  Technical lead (design + coding) of The Optics Project
+                  (TOP). TOP is a set of instructional cross-platform
+                  modules that visualize optical phenomena using OpenGL,
+                  Inventor, VRML, EAI, and Java.
+
+ 1/96 - present   MSU/NSF Engineering Research Center for CFS, Scientific
+                  Visualization Thrust
+                  Research Assistant
+                  Assisted Prof. David Banks in conducting graphics and
+                  visualization research. Performed research in the areas
+                  of global illumination, direct 3D manipulation and
+                  interaction, and web-based visualization.
+
+ 12/96 - 5/97     Mississippi State University, Department of Computer
+                  Science
+                  Teaching Assistant
+                  Created instructional material for an introductory
+                  course in Computer Graphics and Visualization. Taught
+                  Open Inventor Lab.
+
+ 1/96 - present   Web Developer
+                  Developed or co-developed the following web sites:
+                    RMacedonia: Macedonia FAQ and The Macedonian Directory
+                    (www.RMacedonia.org)
+                    The Visualization Lab (mumble.cs.msstate.edu)
+
+ 5/95 - 8/95      Semos Computers, Inc.
+                  System Engineer
+                  Supervised integration and testing of computer systems.
+                  Installed and maintained LAN's (TCP/IP, Novell Netware
+                  and Windows NT), modems, and terminal servers.
+
+ 11/94 - 8/95     A1 Television
+                  Software and System Engineer
+                  Wrote custom TARGA-based graphics software used for TV
+                  shows. Managed a LAN (UNIX + Novell + NT). Maintained
+                  computer and digital video equipment (FAST).
+
+ 11/93 - 2/94     Edit Publishing, Ltd.
+                  Systems Administrator
+                  Administered MIPS (the largest BBS in Macedonia at that
+                  time). Assisted in editing the MIPS computer magazine.
+
+ 11/93 - 8/94     Vecher Daily, MicroChip
+                  Contributing Editor
+                  Wrote a weekly computer column on computer networks and
+                  multimedia.
+
+ 9/91 - 6/92      Narodna Tehnika
+                  Instructor
+                  Lectured on programming methods. Taught Basic and
+                  Pascal.
+
+ Education
+                  B.S. Computer Science, Mississippi State University
+                  B.S. Mathematics, Mississippi State University
+                  Expected graduation date: 5/2000
+
+                  Computer Graphics: Computer Graphics, Subdivision
+                  Methods in Computer Graphics, Differential Geometry
+                  Applied to Computer Graphics, Immersive Graphical
+                  Systems, Interactive Computer Graphics, 3D
+                  Computer-Human Interaction.
+
+                  Computer Science: Software Engineering, Artificial
+                  Intelligence, Operating Systems, Programming Languages,
+                  Microprocessors, Formal Languages, C++ Lab, C Lab, LISP
+                  Lab, Data Structures, Discrete Structures, Digital
+                  Devices & Logic Design.
+
+                  Mathematics: Partial Differential Equations, Ordinary
+                  Differential Equations I-II, Real Analysis I-II,
+                  Calculus I-IV, Linear Algebra.
+
+ Publications &
+ Presentations
+                  Kiril Vidimce, Viktor Miladinov, and David C. Banks,
+                  "Simulation and Visualization in a Browser,"
+                  Proceedings of 1998 IEEE Visualization Workshop on
+                  Distributed Visualization Systems, pp. 15-23.
+
+                  David C. Banks, John T. Foley, Kiril Vidimce, Ming-Hoe
+                  Ku, and Jay Brown, "Interactive 3D Visualization of
+                  Optical Phenomena," IEEE Computer Graphics &
+                  Applications, Vol. 18, No. 4 (July/August 1998), IEEE
+                  Computer Society, pp. 66-69.
+
+                  David C. Banks, John T. Foley, Kiril Vidimce, and
+                  Ming-Hoe Kiu, "Instructional Software for Visualizing
+                  Optical Phenomena," Proceedings of IEEE Visualization
+                  '97, pp. 447-573.
+
+                  Kiril Vidimce and David C. Banks, "Multi-resolution
+                  Amplification Widgets," Technical Report, Department of
+                  Computer Science, Mississippi State University, 1999.
+
+                  Martin Reddy, Yvan G. Leclerc, Lee Iverson, Nat
+                  Bletter, and Kiril Vidimce, "Modeling the Digital Earth
+                  in VRML," AIC Technical Report No. 559. SRI
+                  International, Menlo Park, CA, 9 November 1998.
+
+                  Kiril Vidimce, Viktor Miladinov, and David C. Banks,
+                  "VRML + Java = Simulations/Web," Technical Report
+                  MSU-980726, Department of Computer Science, Mississippi
+                  State University, 1998.
+
+                  Kiril Vidimce and David C. Banks, "An Interactive 3D
+                  Graphics Tool for Virtual Physics," ICASE, NASA Langley
+                  Research Center, Hampton, VA, June 1997.
+
+                  Kiril Vidimce, "GASKit: A set of Web-based Interactive
+                  Pedagogical Tools," 1996 Student Paper Competition, ACM
+                  Mid-Southeast Chapter.
+
+ Honors & Awards
+                     * 1999 Summer Undergraduate Research Fellowship
+                       (SURF) at Caltech
+                     * 1st place at the 1997 SIGGRAPH OpenGL Programming
+                       Contest
+                     * 1st place at the 1997, 1996, 1995 MSU ACM
+                       Programming Contest
+                     * 1st place at the 1994, 1990 National Programming
+                       Contest (Macedonia)
+                     * 1st place at the 1997 MSU ACM Web Page Contest
+                     * Member of the 1998, 1997, 1996, 1995 MSU ACM
+                       Programming Team
+                     * Open Society Institute Scholar
+                     * National Merit Scholar of Macedonia
+
+ References
+                  Dr. Yvan Leclerc, leclerc@ai.sri.com, (650) 859-6153
+                  Sr. Computer Scientist
+                  SRI International
+                  Perception Group, AI Center
+                  333 Ravenswood Avenue
+                  Menlo Park, CA 94025
+
+                  Dr. Martin Reddy, reddy@ai.sri.com, (650) 859-6468
+                  Computer Scientist
+                  SRI International
+                  Perception Group, AI Center
+                  333 Ravenswood Avenue
+                  Menlo Park, CA 94025
+
+                  Marc Schafer, spaceboy@sgi.com, (650) 933-5322
+                  Member of Technical Staff
+                  Silicon Graphics, Inc.
+                  2011 N. Shoreline Blvd. M/S 590
+                  Mountain View, CA 94043
+
+                  Dr. David C. Banks, banks@cs.msstate.edu, (601)
+                  325-8923
+                  Associate Professor
+                  Department of Computer Science
+                  Mississippi State University
+                  Mississippi State, MS 39762
+
+                  Dr. John T. Foley, jtf1@ra.msstate.edu, (601) 325-2918
+                  Professor
+                  Department of Physics & Astronomy
+                  Mississippi State University
+                  Mississippi State, MS 39762

@@ -1,0 +1,131 @@
+Hew Lowe
+Software Developer
+Resume of Qualifications
+
+
+
+hewl@gte.net
+
+Skills:
+
+    Technologies:
+
+     Enterprise-Wide, Client/Server Systems and Applications
+     Shrink-Wrapped Windows Applications
+     Large-Scale Data Base Design and Implementation
+     Internet/Intranet Applications
+     Mail-Enabled, Work-Flow Applications
+
+   Applications:
+
+     Banking:             Loan Origination and Tracking, Credit Collections
+     Desk Top:           Personal Information Management,
+                               Project Management, Entertainment
+     Engineering:        Wiring Documentation,
+                               Telephone Facilities Management
+     Entertainment:     Television Program Scheduling
+     Insurance:           Disability Policy Illustration
+     Manufacturing:     Factory Data Collection, Shop Order Control,
+                               Quality Control
+     Medical:              Emergency Room Automation
+     Sales/Marketing:  Customer Information, Direct Marketing,
+                               Sales Force Automation
+
+    Environments:
+
+     IBM PC:             DOS, Windows (3.x, 95, NT), Lotus Notes
+     Internet:             TCP/IP, World Wide Web
+     DEC VAX:          VMS
+     Tandem:            GUARDIAN, PATHWAY
+     IBM Mainframe:  OS/MVS, VM, TSO/ISPF, CMS
+
+    Tools:
+
+     Access, C, COBOL, BASIC, HTML, Lotus Notes, Microsoft Office,
+     Pascal, SQL, Sybase SQL Server, Visual Basic 
+
+
+Education:
+
+    San Francisco State University - San Francisco, CA
+    BS Business Administration (Management Information Systems)
+
+
+Experience:
+
+NBC - Burbank, CA (4/98 - Present)
+As a senior systems analyst, I am designing and developing the program scheduling component of
+NBC's data wherehouse. This will eventually allow fast, easy, browser-based access to NBC's schedule
+information. NBC employees, affiliated stations, publications, and the viewing public will all have direct
+access to NBC's schedule at a level appropriate for each.
+
+Massachusetts Casualty Insurance Company - Boston, MA (7/96 - 4/98)
+As a consultant, I have acted as a project leader and primary developer for a suite of insurance policy,
+sales illustration applications.
+
+These products have been developed for the Windows 3.x/Windows 95 platforms using Visual Basic 4.0
+and Access 2.0. While each illustration tool is a separate application, all of the programs share a
+common code base and a common database for handling clients, agents and groups.
+
+I have built additional analytical tools using Excel to call Visual Basic components of the sales
+illustration applications. These tools allow the marketing department to evaluate large groups of
+prospective clients.
+
+AT&T WorldNet Internet Services - Burbank, CA (3/96 - 6/96)
+As a technical support consultant, I provided customer support for AT&T'sWorldNet Internet Service.  I
+participated in taking WorldNet from beta testing to live system by providing direct telephone support,
+developing procedures for use in WorldNet's support database and for answering e-mail inquires.  Support
+issues included: TCP/IP, World Wide Web, e-mail (SMTP and POP), Netscape Navigator and Microsoft
+Internet Explorer.
+
+Lotus Development Company - Cambridge, MA (7/93 - 1/95)
+As a contract developer, I developed client/server, graphical user interfaces for Lotus' customer
+databases.  I used Visual Basic version 3.0 to present information stored in Sybase and Lotus Notes
+databases.
+
+As a consultant, I participated in the development of an enterprise-wide customer information solution. 
+This included the redesign of the existing end user customer database, the design and implementation of
+a corporate customer database tied to Dunn and Bradstreet and development user interfaces which tied
+this data with data from account management and sales force automation systems.  The result was a
+single source for customer information which was capable of supporting direct marketing, corporate
+marketing, customer support, contract sales, and sales force automation.
+
+Fulcrum Software - Providence, RI (11/92 - 7/93)
+As a partner, I was responsible for all facets of the software development process. All of our products
+were designed as stand-alone, shrink-wrapped Windows applications and all were developed using Visual
+Basic versions 2.0 and 3.0 with Objectrieve/VB.
+
+Geoffrey Hosta M.D./Hemet Valley Hospital District -Los Angeles, CA (2/92 - 2/93)
+As a freelance analyst and programmer, I worked with Dr. Hosta to develop an application used by
+emergency room doctors to simplify decision making and record keeping tasks during examination,
+treatment, and release of patients.  This system was developed using Visual Basic 1.0 and
+Objectrieve/VB.
+
+FUTUREKIDS - Beverly Hills, CA (4/91 - 9/92)
+As an instructor, I taught children and adults the use of computer applications and the concepts of
+computer science.  I developed two courses for children which teach the fundamentals of computer
+science, programming, and robotics.  These courses were incorporated into the FUTUREKIDS curriculum
+and taught throughout the FUTUREKIDS franchise network worldwide.
+
+Freelance - Los Angeles, CA (7/90 - 1/93)
+As a freelance computer consultant, I provided consulting services to individuals and businesses. These
+services included: determining hardware andsoftware requirements, making purchasing decisions,
+installing hardware, installing shrink-wrapped software, writing custom software, and training users.
+
+Security Pacific Automation Company - Los Angeles, CA (7/87 - 6/90)
+As a Unit Manager, I was responsible for the On-line Credit Systems group. This 8 person team
+supported the Bank Card and Consumer Loan collections and evaluation departments by supplying
+computer and information system solutions.  These solutions included TANDEM PATHWAY applications
+and PC based automatic telephone dialing systems.
+
+As a Technical Consultant, I provided Security Pacific's Residential Real Estate department with data
+analysis, system design, and programming support for their on-line computer systems acting as project
+leader on several projects.
+
+Lockheed Missiles and Space Company - Sunnyvale, CA (1/85 - 5/87)
+As a Systems Analyst and Programmer, I was responsible maintenance, support, and new development
+of systems used to run the factory floor on a 24 hour-a-day basis.  These systems included TANDEM
+PATHWAY and IBM mainframe COBOL applications used for data collection, shop order control, and
+quality assurance.
+
+             Back to Hew's Homepage |Contact Hew for More Information

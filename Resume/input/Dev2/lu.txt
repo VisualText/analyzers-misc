@@ -1,0 +1,108 @@
+                                   Lie Lu
+
+---------------------------------------------------------------------------
+     457 Hawkeye
+     Dr.                                                  Tel:(319)353-3170
+     Iowa City,                                    E-mail: llu@cs.uiowa.edu
+     IA 52246                             URL:http://www.cs.uiowa.edu/~llu
+---------------------------------------------------------------------------
+
+Objective
+
+     Build a career as a software engineer with great opportunity for
+     learning and advancement.
+
+---------------------------------------------------------------------------
+
+Education
+
+     [Image] Fudan University, Computer Science Department, Shanghai
+          Bachelor of Science in Computer Science, June 1996
+     [Image] University of Iowa, Computer Science Department, Iowa City,
+     Iowa
+          Master of Science in Computer Science. Expected: December 1998
+
+---------------------------------------------------------------------------
+
+Working Experience
+
+     [Image] Research Assistant, Department of Physics and Astronomy,
+     University of Iowa
+          1998.6 - 1998.8
+          Member of Project Ionstorm, a joint project with Rockwell
+          Avionics and Communications
+          Participated in the research of the impact of magnetic storms on
+          short-wave communications
+          Developed a code with Microsoft Visual C++ to determine the
+          Maximum Usable Frequency
+               during and after magnetic storms
+
+     [Image] Teaching Assistant, Computer Science Department, University of
+     Iowa
+          1997.8 - present
+          Assisted teaching Algorithms and Data Structures and Advanced
+     Computer Architecture
+
+     [Image] Software Engineer, Apple Tech China, Zhuhai, China
+          1996.8 - 1997.8
+          Developed software based on Apple Quicktime, Quicktime VR and
+          Quickdraw 3D
+          Added new features to Quicktime VR 2.0 to make it closer to the
+          real world
+               and human behavior
+          Added Quickdraw 3D features to Quicktime VR so that it can have
+          3D effects
+               with lower costs
+          Developed system extensions which improved the screen output of
+               double-byte characters and were bundled into Chinese
+          versions MacOS
+          Localized and tested system software of MacOS
+
+     [Image] System Administrator, Henghua Auto Parts Company, Shanghai,
+     China
+          1995.2 - 1996.8
+          Developed a database system for ordering, importing and selling
+               auto parts, finance management and human resource management
+          Trained the employees in mastering the system
+          Maintained the system and the database
+
+     [Image] Research Assistant, Computer Science Department, Fudan
+     University
+          1995 - 1996.8
+          Assisted professors in Pattern Recognition Lab and Database Lab
+          Member of the joint project with Shanghai Library: Multimedia
+               Library Project
+
+---------------------------------------------------------------------------
+
+Honors
+
+          Motorola Scholarship, Fudan University, 1992-1996
+          Xu Zenshou Scholarship, Fudan University, 1996
+          1st Class Government Scholarship, Fudan University, 1992-1996
+
+---------------------------------------------------------------------------
+
+Additional Information
+
+     Relevant Skills
+          [Image] Programming Languages
+               C/C++, Java, Pascal, Fortran, Prolog, SQL, Cobol
+          [Image] Systems Experienced
+               Windows 3.x/95, MacOS, Unix ( HP-UX, IRIX, AIX, LINUX), OS/2
+
+          [Image] Development Environments
+               Visual C++, Visual Basic, OpenGL, CodeWarrior, IRIS
+          Performer,
+               Oracle, QuickTime, QuickTime VR, QuickDraw 3D
+          [Image] Utilities
+               LaTex, Director, Authorware
+
+     Summary of Qualifications
+          Proven ability to quickly learn new material and adapt to
+               new challenging environment
+          Creativity, self-motivation and perseverance in work
+          Strong analytical skills and ability to perform under pressure
+          Good communication skills and efficiency in team working
+
+Back to Lie Lu's Homepage

@@ -1,0 +1,56 @@
+
+CONTACT:
+
+Contact Name: Jeremy R
+Title:    
+First Name: Jeremy
+Middle Name: R   
+Last Name: Stoppelman
+Suffix Name:    
+
+Number: 	408
+Street: 	E. Springfield
+Road: 	Ave
+Room:		207
+City:		Champaign
+State:      IL
+Zip:        61820
+Email:      stoppelm@uiuc.edu
+Home phone: 217 352 4114
+
+EDUCATION:
+
+Date: Aug 1999
+School Name: Langley High School
+School Location: McLean, Virginia
+Degree: Graduate of
+GPA: 3.68
+Max GPA: 4.0
+
+Date: 1995
+School Name: The University of Illinois  
+School Location: Urbana-Champaign
+Major: Computer Engineering
+Minor: Technology Management
+GPA: 3.5
+Max GPA: 4.0
+Honors: Dean's List
+
+EXPERIENCE:
+
+Date: May 1998 - August 1998
+Company: MICROSOFT CORPORATION
+Position: Program Manager Intern
+
+Date: May 1997 - August 1997
+Company: UUNET TECHNOLOGIES
+Position: International Operations Engineer Intern
+
+Date: May 1996 - August 1996
+Company: UUNET TECHNOLOGIES
+Position: Network Operations Center Engineer Intern
+
+Date: May 1995 - August 1995
+Company: COMPUTER CITY   
+Position: Sales Associate
+

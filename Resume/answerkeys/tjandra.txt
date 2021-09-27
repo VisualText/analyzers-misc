@@ -1,0 +1,84 @@
+
+CONTACT:
+
+Contact Name: LENA TJANDRA
+First Name: LENA
+Last Name: TJANDRA
+Suffix Name:    
+
+Number: 905
+Street: S. Walker
+Road: Ave
+City:San Pedro
+State: CA
+Zip: 90731
+Home phone:  310 548 4052
+Email: ltjandra@geocities.com
+
+EDUCATION:
+
+Date: 1987
+School Name: University of California
+School Location: Davis, California
+Degree: Bachelor of Science
+Major: Computer Science and Mathematics
+
+EXPERIENCE:
+
+Date: August, 1996 - Current
+Position: Independent Contractor
+
+Company: Oaktree Capital Management
+Position: Database Application Developer
+Location: CA
+
+Company: Hollywood Software
+Position: Database Application Developer
+Location: CA
+
+Company: Barclay Global Investors
+Position: Database Application Developer
+Location: SF
+
+Company: LA Cellular
+Position: Database Administrator
+Location: CA
+
+Company: AVCO Financial Svcs
+Position: Database Application Developer
+Location: CA
+
+Company: Nicholas|Applegate
+Position: Database Application Developer
+Location: CA
+
+Date: June, 1995 - August, 1996
+Company:  Informix  
+Position: Senior Consulting Engineer
+Location: CA
+
+Date: November, 1992 - June, 1995
+Company:  Sybase
+Position: Senior Consultant
+Location: Sybase, CA
+
+Date: October, 1991 - August, 1992
+Company: Optimal Computing
+Position: Senior Consultant
+Location: CA
+
+Date: May, 1990 - October, 1991
+Company: Ashton-Tate   
+Position: Consultant
+Location:  CA
+
+Date: June,1989-May, 1990
+Company: Ashton-Tate   
+Position: International Support Specialist
+Location: CA
+
+Date: March, 1988-June, 1989
+Company: Software Support Technician II
+Position: System Administrator
+Location:    
+

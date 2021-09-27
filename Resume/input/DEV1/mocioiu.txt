@@ -1,0 +1,103 @@
+
+---------------------------------------------------------------------------
+_CHAFF
+                              MICHAEL MOCIOIU
+                         822 Roselawn Avenue, #305
+                         Toronto, Ontario, M6B 1B4
+                            Phone: 416-783-2034
+                         E-mail: dmocioiu@sprint.ca
+
+---------------------------------------------------------------------------
+
+OBJECTIVE
+
+To seek a challenging position as a Programmer/Software Developer
+(Intermediate Level) within a growth-oriented organization, where my
+programming skills will be utilized to their full potential.
+
+                                 HIGHLIGHTS
+
+       Excellent programming abilities and interface design skills.
+   Experience with FTP and compression programs, icon editors, graphics,
+         word-processing, spreadsheets and communication programs.
+        Hard-worker, creative, sociable and a good sense of humor.
+  Highly analytical, well-organized and ability to work effectively under
+              pressure in order to meet deadline constraints.
+
+TECHNICAL SUMMARY
+
+Programming Languages: C, C++, MFC, Basic, Lingo, SQL, SGL Touch-Talk.
+Development Tools: Visual C++ 4,5,6; Visual Basic 3,4,5,6; Seagate Crystal
+Info; Macromedia Director 6.
+Databases: MS Access, MS SQL Server, SQL Sybase.
+Platforms: Windows NT Server & Workstation, Windows 95&98, Windows 3.1,
+Unix.
+
+EMPLOYMENT HISTORY
+
+January 1999 - present, Software Developer at an Oakville, Ontario based
+company
+Presently working in development of database applications for
+telemanagement. (Visual Basic, MFC, MS Access, SQL Server).
+
+June 1998 - December 1998, Programmer/Software Developer -
+(consultant/contractor) at Rogers Shared Services, Markham, Ontario
+Performed systems development and database administration for the existing
+Cantel VRU Report Server. This system has a SQL Sybase Anywhere back-end
+and the front-end is done using Visual C++ 5.0.
+Responsibilities: tracing and debugging existing programs, creating new
+report applications, dealing with the Business Analyst and with the
+end-user.
+Designed a SQL Server 6.5 database for collecting and tracking the network
+information; developed a client-server application using Visual Basic 5.0
+to access and modify the database.
+Used Seagate Crystal Info to generate custom reports.
+Created software documentation for the VRU Cantel Credit Card Balance
+Inquiry and Payment System by tracing the .sgl and .hgl files under UNIX
+platform.
+Performed Y2K compliance analysis for the VRU Cantel system.
+Environment: IBM-PC compatibles; Windows NT Server&Workstation, Unix,
+Windows 95
+
+1997 - June 1998, Programmer/Software Developer at NTG International Inc.,
+Markham (Ontario)
+Project: POP Database.
+Designed and developed a client-server application (ODBC using DAO) using
+Visual Basic 5.0 as a front-end and MS SQL Server 6.5 as a back-end to
+store the information and access the Metronet Toronto Building POP
+Implementation database.
+Project: Network Information Database.
+Designed and developed an Access 97 database for tracking the countrywide
+network information: site information, machine information (ACD, PBX, VRU,
+Voice Mail, general and detailed information), contact information.
+Connected the database with the Visio network diagrams. Generated custom
+reports. Performed an Intranet Web publishing of the database using Visual
+Basic scripts and SQL.
+Project: Contact Management Access 97 application.
+Designed the tables and the relationships. Tested the logical design using
+queries. Designed the forms. Wrote code using Access Basic and SQL.
+Generated reports.
+Project: Interactive game for children
+Worked as part of a team in designing and developing a Multimedia
+application - Interractive Game for children (using Macromedia Director 6
+and Lingo Script Programming).
+Environment: IBM-PC compatibles; Windows NT Server, Unix, Windows 95
+
+EDUCATION
+
+1996-1997
+Programmer Analyst Diploma
+CDI College of Business and Technology, Toronto, Ontario
+
+1988-1993
+Master of Science in Engineering
+Faculty of Fine Mechanics, Optical/Electronically option
+Technical University Timisoara, Romania
+
+1983-1987
+Computer Operator and Programmer Analyst Certificate
+Computers High School, Timisoara, Romania
+
+REFERENCES Available upon request.
+
+Back to my home page

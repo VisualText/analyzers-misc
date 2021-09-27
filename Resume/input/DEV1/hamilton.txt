@@ -1,0 +1,442 @@
+                              John B. Hamilton
+
+                             1328 Jeanette Way
+
+                         Carrollton, TX 75006-2964
+
+E-Mail: hamilton@flash.net,
+
+           john.hamilton@jumpstartsoftware.com or
+
+           johnbhamilton@hotmail.com
+
+Personal WWW address: http://www.flash.net/~hamilton
+
+Company WWW address: http://www.jumpstartsoftware.com
+
+Telephone: (972) 446-8907 Home/Fax, (214) 408-7475 Pager
+
+
+
+PERSONAL SUMMARY
+
+Distinctions
+
+ [Image]  Awarded Eagle Scout Rank by the Boy Scouts of America, 1976
+ [Image]  Recipient of a $25,000 Naval Reserve Officers Training Corps
+          Scholarship, 1980
+ [Image]  Designated as an International Youth in Achievement by Cambridge
+          Biographical Institute, 1980
+ [Image]  Designated as a Kentucky Colonel by Kentucky Governor Martha
+          Layne Collins, 1986
+
+Collegiate Education
+
+ [Image]  The University of Louisville, Louisville, Kentucky; B.S.
+          Engineering Mathematics and Computer Science, 1979 - 1980,
+          1982-1985
+ [Image]  The Ohio State University, Columbus, Ohio; Aeronautical and
+          Astronautical Engineering studies, 1980 - 1982
+
+Interests
+
+ [Image]  Golf, Model Railroading, U.S. and World History
+
+Other
+
+[mcsd.gif (3972 bytes)]
+
+As a Microsoft Certified Solution Developer and Microsoft Certified Product
+Specialist, I am qualified to design and develop custom business solutions
+with Microsoft development tools, technologies and platforms, including
+Microsoft® Office and Microsoft BackOffice on the Windows® 3.x, 95, 98 and
+NT Operating Systems.
+
+Microsoft certification exam transcript as of April 13, 1998:
+
+• 070-050, Microsoft® Visual Basic® 3.0 for Windows® - Application
+Development,
+
+• 070-051, Microsoft® Access 2.0 for Windows® - Application Development,
+
+• 070-063, Implementing and Supporting Microsoft® Windows® 95
+
+• 070-065, Programming with Microsoft® Visual Basic® 4.0,
+
+• 070-069, Microsoft® Access for Windows® 95 and the Microsoft Access
+Developer's Toolkit,
+
+• 070-150, Microsoft® Windows® Operating Systems and Services Architecture
+I,
+
+• 070-151, Microsoft® Windows® Operating Systems and Services Architecture
+II,
+
+• 070-165, Developing Applications with Microsoft® Visual Basic® 5.0.
+
+MARKETABLE SKILLS
+
+ Database             LogicWorks ERWin, Microsoft Access, Microsoft Visual
+                      FoxPro, ORACLE, Microsoft SQL Server, SYBASE SQL Server
+
+ GUI                  Microsoft Visual Basic, Borland C++, Microsoft Visual
+                      C++, Seagate Crystal Reports
+
+ Hardware             ICE51FX/PC, UNISITE PROM Burner, TEKTRONIX Oscilloscope,
+                      TEKTRONIX Logic Analyzer
+
+ Internet             FrontPage, HTML, JAVA, Microsoft Internet Information
+                      Server, Microsoft Visual Interdev, ASP, MAPI
+
+ Microcode            IBM 370 Assembler, INTEL 8051, 80386, Motorola 6800,
+                      68000
+
+ Operating Systems    Microsoft DOS, UNIX, Microsoft Windows (3.x, 95, NT)
+
+ Scientific           C, EXEC2, FORTRAN, PASCAL, PL/I, REXX
+
+CONTINUING EDUCATION
+
+ [Image]  Computer Security Institute Annual Convention; Atlanta, 1986
+ [Image]  CICS Programming Seminar; CTG-Dallas, 1989
+ [Image]  Image Presentation Seminar; CTG-Dallas, 1990
+ [Image]  The C for Programmers Class; CTG-Dallas, 1990
+ [Image]  SAS Introduction Class; CTG-Dallas, 1990
+ [Image]  Team Interview Certification; CTG-Dallas, 1991
+ [Image]  Increasing Personal Effectiveness; CTG-Dallas, 1991
+ [Image]  Presentation Skills Workshop; CTG-Ft.Lauderdale, 1992
+ [Image]  Consulting Skills for CTG Professionals; CTG-Ft.Lauderdale, 1992
+ [Image]  Presentation Skills Workshop, CTG-Buffalo; 1992 [Certified
+          Instructor]
+ [Image]  Introduction to OS/2, CTG-Ft.Lauderdale; 1992
+ [Image]  Introduction to ORACLE, CTG-Syracuse; 1993
+ [Image]  Worldwide Live! Developing for Windows 95 Seminar;
+          Microsoft-Dallas, 1995
+ [Image]  Enabling the Enterprise Seminar;
+          Microsoft,LBMS,SQA,Datamation-Dallas, 1995
+ [Image]  Microsoft Developer Days II; Windows World-Dallas, 1995
+ [Image]  VBITS (Visual Basic Insiders Technical Summit); VBPJ-Orlando,
+          1995
+ [Image]  Introduction to Crystal Reports; Core Software-Dallas, 1996
+ [Image]  Microsoft Developer Days III; Microsoft-Dallas, 1996
+ [Image]  VBITS (Visual Basic Insiders Technical Summit); VBPJ-Orlando,
+          1996
+ [Image]  Microsoft Developer Days IV; Microsoft-Dallas, 1997
+ [Image]  Visual Studio, The Art of Visual Basic Programming;
+          MicroEndeavors-Dallas, 1997
+ [Image]  Microsoft Developer Days V; Microsoft-Dallas, 1998
+ [Image]  Microsoft TechEd; Microsoft-Dallas, 1999
+
+CONTINUING MICROSOFT CERTIFICATION EXAM PREPARATION
+
+• 070-058, Networking Essentials
+
+• 070-067, Microsoft® Windows® NT Server 4.0
+
+• 070-068, Microsoft® Windows® NT Server 4.0 Enterprise
+
+• 070-160, Microsoft® Windows® Architecture I
+
+• 070-161, Microsoft® Windows® Architecture II
+
+• 000-000, Microsoft® Office User Specialist exam in Microsoft® Access® 97
+
+PROFESSIONAL EXPERIENCE
+
+Financial Computer Software, L.P., Dallas, Texas, (March 1999 to Present)
+
+Developing specialized reports used in conjunction with the Wall Street
+Office product. The reports are being developed using MICROSOFT Visual
+Basic 5.0, Data Dynamics ActiveReports and MICROSOFT Access 97.
+
+North Dallas Veterinary Hospital, Dallas, Texas (February 1994 to Present)
+
+Ongoing maintainence of Microsoft Windows network and workstation
+configurations.
+
+Hilton Worldwide Reservations, Carrollton, Texas (January 1999 to April
+1999)
+
+Designed and developed an archived reservations retrieval system. The data
+was purged from a UNIX mainframe, zipped in TAR format and placed on cdroms
+by a vendor in Phoenix, Arizona on a weekly basis.  These cdroms were then
+mailed to the Hilton office for input into the new system.  The system
+consisted of the following components:  (1) A cataloger which kept track of
+the contents of the data cdroms residing in a cdrom array box, (2) Active
+Server Pages (ASP) in conjunction with HTML pages which provided the web
+interface to support the entry and display of search queries, and (3) A
+reporting service which e-mailed detailed reports of queried data to a
+designated recipient.  The application was developed using MICROSOFT Visual
+Basic 6.0, MAPI, MICROSOFT Access 97, MICROSOFT Internet Information Server
+4.0, MICROSOFT Visual Interdev 6.0 and MICROSOFT SQL Server 6.5.
+
+Halliburton Energy Services, Carrollton, Texas, (September 1997 to March
+1999)
+
+Completed the development of a system that loaded and retrieved data to and
+from remote gas flow computer systems. The remote computers were either on
+land or on ocean drilling platforms. Serial communication was accomplished
+using radio and cellular technologies as well as direct connection. The
+application displayed a variety of thermodynamic properties and readings
+which the user could adjust, if need be. The application was developed in
+MICROSOFT Visual Basic 4.0, MICROSOFT Access 2.0 and MICROSOFT Visual C++
+1.5.
+
+Intertek Testing Services Environmental Laboratories, Richardson, Texas
+(July 1997 to February 1998)
+
+Designed and developed a system that retrieved data from up to eight Zeeman
+Atomic Absorption Spectrometer SpectrAA devices simulataneously using a
+DigiBoard device and the MSCOMM control. The data was moved into a
+MICROSOFT Access 95 database from the comm port input buffers, parsed and
+displayed to the user in a tabular format. The application was developed
+using MICROSOFT Visual Basic 5.0 and used the MICROSOFT Access 95
+replication manager.
+
+Financial Computer Software, L.P., Dallas, Texas (June 1997 to September
+1997)
+
+Assisted in the development of a bank loan reporting and data delivery
+system based upon the MICROSOFT COM methodology using MICROSOFT Visual
+Basic 5.0, ANSI SQL, RDO and ODBC. In addition, developed a financial
+reporting system in MICROSOFT Access 2.0 for EatonVance a client of
+Investor's Banker's Trust (IBT) as an interim solution.
+
+CYBERTEK Corporation, Dallas, Texas (May 1996 to June 1997)
+
+Developed a configurable workbench OLE automation server consisting of a
+dynamically updatable toolbar and menu bar. The database resided on a
+network server and was of one of the following types: MICROSOFT SQL Server,
+GUPTA SQLBase, SYBASE SQL Server or ORACLE. The communication protocol was
+the ODBC API. Developed an OLE automation server to handle database access
+security. Its role was to validate user rights and workbench profiles.
+Developed an OLE automation server to configure users with access to the
+database regardless of which backend was being used. The user configurator
+also provided reporting
+
+capabilities via the Seagate Crystal Reports product. Following successful
+security server login, information including text, numeric data and image
+data, (i.e. bitmaps, icons, etc.) was extracted from the network database
+
+and copied to a local cached copy residing in an MICROSOFT Access database.
+The workbench was updated at the user's discretion by extracting the
+necessary data from the local database. The workbench could launch OLE, DDE
+and WinExec applications and serve as their conduit for communication with
+other OLE and DDE applications. Prepared E-R diagrams using Logic Works
+ERWin product, created numerous database tables and
+
+designed stored procedures for each database. Re-wrote numerous GUPTA SQL
+Windows applications from scratch as Visual Basic OLE automation servers
+for use with the configurable workbench. The development platform used was
+the MICROSOFT Visual Basic 4.0 Enterprise Edition.
+
+CENTRA Benefit Services, Plano, Texas (April 1996 to July 1996)
+
+Served as the Visual Basic mentor and lead developer of the development
+team responsible for creating a customer reporting system. The 16-bit
+application was developed using the MICROSOFT Visual Basic v4.0, the
+Speedware OASIS communication software for the Hewlett-Packard v1.0,
+MICROSOFT Access v2.0 and Crystal Reports v3.0 products. Created help files
+using MICROSOFT Word v6.0 and the help compiler supplied with MICROSOFT
+Visual Basic.
+
+Citicorp North America, Westlake, Texas (October 1995 to May 1996)
+
+Served as the GUI developer of a client server global financial reporting
+system application. The development tools used were MICROSOFT Visual Basic
+v4.0, MICROSOFT Access v2.0 and Seagate Crystal Reports v4.5. The data
+resided in an Oracle 7 database and was retrieved via ODBC into a MICROSOFT
+Access database where it was then accessed via Crystal Reports. In
+addition, story boarded and built WEB pages using HTML and JAVA for the
+organization MICROSOFT Internet Information Server.
+
+Fire Lake Systems, Inc., Kansas City, Missouri (September 1995 to December
+1995)
+
+Assisted in the development of a PBX management system using MICROSOFT
+Visual Basic 3.0, MICROSOFT Access 2.0, Seagate Crystal Reports v4.5 and
+RoboHelp.
+
+Frito-Lay, Inc., Plano, Texas (September 1994 to October 1995)
+
+Served as a member of the research and development team responsible for the
+creation and implementation of an automated packaging room management and
+product weight correlation system for numerous manufacturing sites
+throughout the U.S. The entire application was written in MICROSOFT Visual
+Basic 3.0 and MICROSOFT Visual C++ with the data residing in an Oracle 7
+database. The database data was retrieved and manipulated via Oracle Glue.
+The TrueGrid control by Crescent Software, the Graph control by Pinnacle
+Publishing and the Crystal Reports control by Crystal Services was used
+extensively throughout the application. Extensive domestic travel
+throughout the U.S. to perform site software and hardware installations and
+support was required. Additional application support was provided through
+the use of pcAnywhere for Windows.
+
+American Heart Association, Dallas, Texas (May 1995 to June 1995)
+
+Enhanced forms, added error handling, standarized naming conventions,
+incorporated mailing label generation and reporting capabilities into an
+MICROSOFT Access 2.0 application.
+
+MCI Telecommunications Corporation, Richardson, Texas (July 1994 to
+September 1994)
+
+Developed the GUI front-end to an Oracle 7 database using MICROSOFT Visual
+Basic 3.0 and Q+E MultiLink/VB as part of the Project Book to the Field
+application. The application loaded and retrieved binary image files with
+their associated attributes into and out of the database using a Pro*C
+interface routine developed as well.
+
+Nielsen Marketing Research, Las Colinas, Texas (May 1994 to July 1994)
+
+Developed a MICROSOFT Visual Basic 3.0 slide show presentation display
+application which emulated the features of MICROSOFT Powerpoint. The
+application was designed as an enhancement to the BUSINESS REVIEW product.
+It was developed using Visual Basic 3.0 and other third party controls.
+
+First USA Merchant Services, Dallas, Texas (January 1994 to May 1994)
+
+Developed a MICROSOFT Visual Basic application to automate the program
+downloading of Verifone terminals with application data residing in an
+Oracle 7 database. The following functions were incorporated into the
+application: animation, sound, on-line program changes/enhancement listing,
+on-line end user comments input capability, automatic updating of binary
+data residing in an MICROSOFT Windows PIF created for MICROSOFT DOS
+application interface, on-line realtime download log with viewing and
+printing capabilities, various SQL command strings to permit the retrieval
+from and updating of Oracle tables, interfacing with MICROSOFT DOS
+applications handling COM port data transfer, on-line description of
+program functions, password protection, and MICROSOFT Windows API calls to
+optimize the system resources by locating applications that have finished
+their processing and instructing them to unload from memory, to monitor DOS
+SHELL processes, and to retrieve system configuration data. Various
+MICROSOFT Visual Basic companion products such as Q+E MultiLink/VB,
+VBAssist, Crescent Tools Quick Pak Professional, Key DataBase Plus and
+Visual Help were used in the program's development and final version.
+
+MCI Telecommunications Corporation, Richardson, Texas (October 1993 to
+December 1993)
+
+Served as the technical project leader of the programming team responsible
+for the Phase I development of a project management scheduling system
+monitoring an $872,000,000.00 capital construction projects budget. The
+system's purpose was to automate the paper trail of project scheduling in
+order to save an estimated $187,000.00 per day in company expenditures. The
+initial GUI system was designed with the aid of MICROSOFT Project with a
+MICROSOFT Visual Basic front end add-on. Data was accessed via a LAN from
+an ORACLE Version 7 database. Duties included but were not limited to the
+following: determining user requirements, incorporating user suggested
+enhancements, developing application code, coordinating weekly status
+meetings of key user and development team personnel, overseeing the efforts
+of the programming team, giving application demonstrations to various
+levels of corporate management and evaluating alternate software
+applications such as Pariss Enterprise.
+
+EnTrade (Tenneco Gas Marketing Company), Louisville, Kentucky (February
+1993 to August 1993)
+
+Served as a member of the information services department during the merger
+of these two natural gas marketing companies. Performed the business
+process analysis of all financial transactions necessary to track futures
+trades such as Hub Swaps, Basis Swaps, NYMEX Based Options, etc. and
+assisted with code development in the gas nomination management area as
+well. All information was maintained within an ORACLE Version 6 relational
+database management system operating in a UNIX System V multi-processing
+environment on a Sequent Computer Systems S2000/250 minicomputer.
+Effectively utilized various Structured Query Language (SQL) products in
+the creation of triggers, forms, reports and Pro*C code. Transferred gas
+nomination management data maintained in a Lotus 1-2-3 spreadsheet from a
+Gateway 2000 PC system to the Sequent via SQL*Loader. Developed "C"
+language code to convert COBOL files resident on a Honeywell Corporation
+minicomputer to be read and analyzed on the Sequent.
+
+IBM Corporation, Boca Raton, Florida (August 1991 to January 1993)
+
+Served on the computer development team responsible for the creation of the
+ROADRIDER on-board computer system. The computer was designed for J. B.
+Hunt trucking company based in Lowell, Arkansas. Developed the
+communications software used in two-way satellite communication. The
+communications software interfaced with the QUALCOMM, Inc. OmniTRACS Mobil
+Interface Protocol. This interface served as the conduit for any type of
+data (text or binary) passed between the on-board computer and the
+OmniTRACS modem. There it was packaged for over-the-air transmissions. It
+was an RS-232 type of interface with a transmission rate of 1200 baud. All
+microcode for version 1.00 was written using the INTEL 8051 instruction set
+and assembled with the CYBERNETICS CYS-8051, INTEL MCS-51 Macro Assembler
+and ARCHIMEDES SOFTWARE INTEL 8051 products. The Archimedes assembler was
+finally settled upon to be used. The microcode was debugged using the
+following equipment: ICE-51FX/PC In-Circuit Emulator, Tektronix 468 Digital
+Storage Oscilloscope, Hewlett-Packard 4952A Protocol Analyzer and
+Hewlett-Packard 4953A Protocol Analyzer. Prepared program flow diagrams and
+test tools including text charts and developed "C" language test programs
+using the Borland International C/C++ compiler. Re-wrote the microcode in
+the C language using the Archimedes Software 8051 C compiler for the
+version 2.00 code release. Re-wrote the microcode again using the INTEL
+MCS-51 Macro Assembler. Downloaded 8051 code to eproms using the Unisite
+Data I/O PROM burner. Uploaded and downloaded project code to and from the
+software library storage area via the Program Version Control System
+(PVCS). The PVCS was accessed through an IBM OS/2 LAN. Assembled and
+modified numerous IBM PC/AT and PS/2 systems used in the development and
+testing of program code. Installed IBM OS/2 versions 1.3 & 2.0 and
+corrective service on department equipment for use by project personnel.
+
+IBM Corporation, Westlake, Texas (October 1989 to July 1991)
+
+Served as the technical advisor and alternate project leader of the system
+test group involved in the development of the OFFICEVISION software package
+releases 1.1 and 1.2. It operated on the IBM 3090 and 9370 series in the
+VM/CMS environment. Quality assurance duties included, but were not limited
+to the following: working with developers to resolve code problems using
+the Integrated Development Support System (IDSS), reviewing requests for
+design changes, writing new testcases to reflect unique product functions
+using the BookMaster documentation product, preparing project status
+reports using Problem Tracking Report (PTR) data and the Statistical
+Analysis System (SAS) software package, developing REXX and EXEC2 programs
+to enhance the testing of the product by project group personnel and
+testing all phases of the product in 19 foreign language versions. Also,
+suggested several design changes included in the product's releases.
+
+New York Life, Commonwealth Insurance and JCPenney Insurance, Louisville,
+Kentucky, (January 1988 to September 1989)
+
+Marketed various forms of personal, property and casualty insurance.
+
+Louisville Sigma Chi Alumni Association, Louisville, Kentucky (February
+1986 to May 1989)
+
+Served in the various capacities of database administrator, treasurer and
+as a member of the board of directors.
+
+CBM Computer Center, Louisville, Kentucky (February 1986 to May 1986)
+
+Assisted clients with the selection of the necessary computer hardware
+components and software applications to fulfill their work requirements.
+
+University of Louisville, Louisville, Kentucky (June 1986 to January 1988)
+
+Served as a member of a company technical support group in the computing
+and telecommunications area. Participated in the planning, preparation, and
+installation of multiple products, packages, and compilers on the IBM 3081
+and 4341 series operating in the VM/CMS environment. Performed problem
+determination on computer related problems and provided solutions for those
+pertaining to system software. Gained knowledge of computer security
+measures and disaster control techniques. Attended Computer Security
+Institute's Annual Convention in November 1986.
+
+IBM Corporation, Lexington, Kentucky (January 1984 to February 1986)
+
+Served on the advanced printer product development team responsible for the
+creation of the IBM QUIETWRITER II thermal ink transfer image producing
+device. Developed and implemented prototype machine demonstration programs
+for viewing by corporate level management. Developed and documented test
+programs to examine unique prototype machine functions. Updated existing
+test programs to reflect prototype machine functions and capabilities as
+deemed necessary by marketing personnel. Programmed in PL/I on the IBM 3090
+series operating in the VM/CMS environment, in MICROSOFT BASIC and MACRO
+ASSEMBLER on the IBM PC XT and AT systems and in microcode on the INTEL
+8051 microprocessor. Used the ICE-51FX/PC In-Circuit-Emulator and a
+TEKTRONIX logic analyzer to debug the software.
+
+
+
+                     References available upon request…

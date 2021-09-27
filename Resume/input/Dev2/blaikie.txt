@@ -1,0 +1,110 @@
+  Resume of
+  Luke Blaikie
+  -----------------------------------------------------------------------
+
+  27 Stoneybrook Court, Apt. 1012
+  Halifax, Nova Scotia, B3M 3K5    Web:     http://www.blaikie.ns.ca
+  Canada                           Email:   luke.blaikie@ns.sympatico.ca
+
+  Summary of          Experience in programming and Internet
+  Qualifications      technologies. Setup of Windows 95 and Unix based
+                      (Linux) operating systems.
+
+                      Programming Languages: PERL (object-oriented), C,
+                      C++, Java, JavaScript, SQL, HTML, Turbo Pascal, VB
+                      Script (Microsoft Access), Cold Fusion
+
+                      Software: Windows NT 4.0, Windows 95, UNIX (Linux,
+                      Solaris, AIX), Microsoft Office (Access, Word,
+                      Powerpoint, Excel), Adobe Photoshop
+
+  Education           Dalhousie University -- Class of 1997
+                      http://www.dal.ca
+                      Bachelor of Science, Co-operative Education
+                      Major in Computer Science
+                      Minor in Business
+
+  Employment          Knowledge Navigators International Inc.
+  Experience          http://www.knav.com
+                      Halifax, Nova Scotia
+                      September 1998 - Present
+
+                         + As part of the development team, we produce a
+                           product called the Learning Engine which
+                           serves course material to students. The
+                           product is written in using Java servlets and
+                           incorporates other technologies including
+                           LDAP, XML, and persistent object databases
+                           (using a product from Poet).
+
+                      W3 Internet Services Ltd.
+                      http://www.w3internet.com
+                      Liverpool, Nova Scotia
+                      March 1997 - June 1998
+
+                         + As the project manager I oversaw and
+                           coordinated projects from the proposal stage
+                           until completion.
+                         + I wrote a shopping cart system using the PERL
+                           programming language.
+                         + I wrote some small applets in JAVA.
+
+                      Various Contracts
+                      1995 - 1999
+
+                         + I've worked on various small contracts
+                           including programming, system administration,
+                           and installing Unix on PC's and laptops.
+
+                      Nation Research Council, Institute for
+                      Biodiagnostics
+                      http://www.ibd.nrc.ca
+                      Winnipeg, Manitoba
+                      May 1996 - August 1996 (Co-op Workterm)
+
+                         + As a programmer I wrote C++ programs to
+                           statistically analyze infrared spectra.
+
+                      Dalhousie University, Department of Oceanography
+                      http://www.phys.ocean.dal.ca
+                      Halifax, Nova Scotia
+                      January 1994 - August 1995 (3 Co-op Workterms)
+
+                         + As part of the Dalhousie Coastal Ocean
+                           Modeling team I created computer animations as
+                           part of a presentation for the G7 Economic
+                           Summit held in Halifax in June.
+                         + I performed some system administration of Unix
+                           systems.
+                         + Using a package from IBM called Visualization
+                           Data Explorer (http://www.almaden.ibm.com/dx)
+                           I wrote programs to transform huge amounts of
+                           data into animations.
+                         + I partially developed a website
+                           (http://www-erp.phys.ocean.dal.ca) and
+                           compiled and installed software packages in a
+                           Unix environment.
+                         + I developed web pages for the department
+                           website, including some interactive CGI
+                           scripts.
+                         + I wrote C programs for a SUN workstation
+                           operating SunOS 4.1.3. The programs were
+                           written using libraries supplied with the
+                           graphics board to capture images and create
+                           animations to record them to video tape.
+
+                      Eastern Cable (now Eastlink Communications)
+                      Truro, Nova Scotia
+                      1990 - 1992
+
+                         + Worked in all aspects of television program
+                           production for community television including
+                           camera operator, computer graphics, and
+                           editing
+  Interests and       Sports, Movies, Linux operating system
+  Activities
+
+The most current version of this document can always be found at
+http://www.blaikie.ns.ca/resume
+
+References are available upon request.

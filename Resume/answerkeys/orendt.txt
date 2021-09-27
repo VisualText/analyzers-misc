@@ -1,0 +1,93 @@
+
+CONTACT:
+
+Contact Name: John Orendt
+First Name: John
+Last Name: Orendt
+
+PO Box:      P.O. Box 680
+City:        North Sydney
+State:       NSW
+Zip:         2059
+Country:     Australia
+Home phone:  (+61) 2 9981 5890
+Cell phone:  61 411  348700
+Email:       jorendt@ozemail.com.au
+Email:       jorendt@bigfoot.com
+URL:         http://www.ozemail.com.au/~jorendt
+
+EDUCATION:
+
+Date: 1981
+School Name: Cleveland State University
+School Location: Cleveland, Ohio
+Degree: Bachelors
+Major: Electrical Engineering
+Honors: Dean's List    
+
+EXPERIENCE:
+
+Date: 3/97-Present
+Company: Colonial State Bank Pty Ltd
+Position: Contract SW Engineer
+Location: Sydney, NSW
+
+Date: 9/96-3/97
+Company: OzEmail Limited
+Position: Contract SW Engineer
+Location: Sydney, NSW
+
+Date: 10/95-9/96
+Company: Austraclear Ltd.
+Position: SW Engineer  
+Location: Sydney, NSW 
+
+Date: 12/93-10/95
+Company: Austraclear Ltd
+Position: SW Engineer
+Location: Sydney, NSW
+
+Date: 9/93-11/93
+Company: Sycomp Pty Ltd
+Position: Contract SW Engineer
+Location: Sydney, NSW
+
+Date: 6/93-9/93
+Company: Astro Aerospace
+Position: Contract SW Engineer
+Location: Carpenteria, California
+
+Date: 3/93-5/93
+Company: Digital Sound
+Position: Contract Test Engineer
+Location: Carpenteria, California
+
+Date: 5/92-11/92
+Company: Auto-trol Technology
+Position: Contract SW Engineer
+Location: Denver, Colorado
+
+Date: 3/91-5/92
+Company: Intelect Inc
+Position: Contract SW Engineer
+Location: Mililani Oahu Hawaii
+
+Date: 8/89-12/93
+Company: J & R Consulting, Inc
+Location: Tucson, Arizona
+
+Date: 10/86-8/89
+Company: McLaughlin Research Corp
+Position: Contract SW Engineer
+Location: Camarillo, California
+
+Date: 8/83-10/86
+Company: Hughes Aircraft Company
+Position: Systems Engineer   
+Location: Canoga Park, California
+
+Date: 6/80-8/83
+Company: Optimized Program Service
+Position: SW Engineer
+Location: Berea, Ohio
+

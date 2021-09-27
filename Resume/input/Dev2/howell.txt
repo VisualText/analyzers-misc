@@ -1,0 +1,146 @@
+W. Peter Howell
+
+     Software Engineer, System Administrator, Network Administrator,
+     Security Administrator
+
+---------------------------------------------------------------------------
+
+Contents
+
+   * Contact Information
+   * Current Projects
+   * Biographical Information
+   * Skills
+   * Hot List
+   * Personal Interests
+
+Download a copy of my resume.
+
+---------------------------------------------------------------------------
+
+Contact Information
+
+Street address:
+2049 Austrian Way
+Colorado Springs, CO 80919 USA
+
+Electronic mail address:
+whowell@iex.net
+
+Web address:
+http://members.iex.net/~whowell
+
+Back to Top
+
+---------------------------------------------------------------------------
+
+Current Projects
+
+Theatre Battle Management Core Systems
+     Develop, integrate, field, and maintain an evolving sequence of
+     increasing capabilities
+     for computer-supported management of theater airborne assets, in
+     peacetime, exercise
+     and wartime environments at the force and unit levels.
+
+Back to Top
+
+---------------------------------------------------------------------------
+
+Biographical Information
+
+TAD Staffing/
+Lockheed Martin Mission Systems
+Software Engineer, May 1996 - Present
+     IPT Lead for TBMCS Communications/Core Systems, managing 8 engineers.
+     Responsible areas include electronic mail, user alerts, profile status
+     monitoring, processing USMTF message traffic, and internet security.
+     Various duties include software requirements analysis, design, coding,
+     testing, and software configuration management.
+
+LightSpeed Development, Ltd.
+Consultant, Jan 1996 - May 1996
+     Provided advice for small to mid-sized businesses on how to improve
+     network performance, dial-on-demand internet access, enhance internet
+     security, setup e-mail servers, etc.
+
+Infotec Development/
+IBM Government Systems
+Field Support Engineer, Jul 1995 - Jan 1996
+     Responsible for setup/configuration of RISC System/6000's Model 590,
+     390, C10 servers, and Model 250 Workstations on the USDA Forest
+     Service Geographic Information Systems contract
+
+Paragon Computers/
+Paragon Software & Electronics, Ltd.
+President, Oct 1985 - Jul 1993
+     Handled all aspects of business doing $2M annually.
+     Financial Management, Advertising & Marketing, Computer Software
+     Development, Repair, and Training.
+
+Back to Top
+
+---------------------------------------------------------------------------
+
+Skills
+
+Computer Operation:
+     DII-COE v3.3, Sun Solaris 2.5.1/2.6/7, HP-UX 10.20, AIX 3, SVR4,
+     X11R5/Motif 1.2, Windows 95/98/NT, and MS-DOS.
+Computer Languages:
+     Microsoft Visual C++/MFC, Unix Korn/Bourne/C Shells, 68000, Z-80, and
+     6502 assembly.
+Additional:
+     TCP/IP Networking, Internet Mail Protocols (SMTP/POP3), Cisco routers,
+     Security (Firewalls/VPN/Encryption),
+     DNS, NIS+, ClearCase CM.
+
+Back to Top
+
+---------------------------------------------------------------------------
+
+Hot List
+
+Internet Telephony Server
+     An applications-based platform that merges the Public Switched
+     Telephone Network (PSTN) with packet switched networks like the
+     Internet, enabling phone-to-phone, fax-to-fax, and soon PC-to-phone,
+     phone-to-PC, and PC-to-PC communications.
+
+Back to Top
+
+---------------------------------------------------------------------------
+
+Personal Interests
+
+Flying airplanes
+     I have enjoyed flying ever since my first flight with my parents in a
+     Piper Cherokee 25 years ago. I received my private pilots license on
+     September 16th, 1993 and have flown approximately 130 hours. I am
+     currently checked-out in the Cessna 172 and Piper Warrior. I am
+     currently working towards an Instrument/Commercial rating.
+     Aircraft Owners and Pilots Association
+
+Downhill skiing
+     I learned to ski at a very young age -- I don't remember a time when I
+     didn't know how to ski. I was on the Cadillac Ski Team; Junior Varsity
+     for a year and Varsity for 3 years.
+     XVIII Olympic Winter Games
+
+Pool
+     I started playing pool at age 12. I currently play regularly in
+     tournaments and I am a member of the American Pool Association with a
+     7 handicap in 9-ball.
+
+Chess
+     I learned to play chess quite young, but the game didn't really
+     interest me until High School where I began to play in National
+     tournaments. I currently hold a US Chess Federation rating of 1724
+     (Class B).
+
+
+Back to Top
+
+---------------------------------------------------------------------------
+
+Last revised: February 23, 1999.

@@ -1,0 +1,55 @@
+
+
+                                 W Greiner
+                            Software Consultant
+
+
+     Software architecture, client-servers, databases, middleware, and
+     device drivers.
+
+     Location of Interest  Only in Los Angeles County, California
+
+     Phone and E-Mail     310.450.8500 and wgreiner@Lasoft.com
+
+     Languages
+          Unix C++, Visual C++, SDK, DDK, MFC, Fortran, Pascal, Java JDK,
+          Visual Basic,
+          Tools.h++, Ada, Lisp, APL, PL/I,  Assemblers (Intel, Motorola,
+          PowerPC, TI)
+
+     Databases
+          Database Models, Oracle, Sybase, SQL Server, Stored Procedures,
+          JDBC,
+          Tuxedo OLTP, OLAP Multidimensional Warehouse, OO Database
+
+     Middleware
+          Socket, TP Manager, MQSeries, DCE, RPC, RSA Bsafe, Winsock, SNMP,
+
+          X.25 and TCP/IP Drivers, ASP, MacTCP, OT SDK, Template, Talarian,
+          Forte
+
+     Interfaces
+          Corba, JavaBeans, COM, OOD/OOP, ER, PDL, UDF, Booch, Yourdon,
+          2167A
+
+     Graphics
+          MS Composer, Caligari trueSpace3, AVI, AutoCad, TIFF, JPG, GIF,
+          GKS
+          X Windows (X11, Xlib, Xt, Motif)
+
+     Operating Systems
+          Windows 95 and NT 4, Macintosh, Posix, AS 400, VAX VMS, Citrix
+          Winframe
+          Unix (HP-UX, AIX, Solaris, SCO, Unixware),  Embed (QNX, pSOS+,
+          Verdix)
+
+                                 EDUCATION
+
+     BS, EECS
+     MS, EECS
+
+     Secret Clearance
+
+Work Range   Only within 35 miles of Santa Monica, California.
+
+Last Updated  October 1997

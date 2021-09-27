@@ -1,0 +1,124 @@
+                          Thomas James Murphy Jr.
+
+                              tmurphy@gdi.net
+
+ Objective               A challenging position in the software
+                         development field, where I can utilize my skills
+                         and education for the benefit of the company.
+ Work Experience         MEGAsoft, Inc.
+                         Orlando, Florida
+
+                         Manager of Corporate Development (1994 - Present)
+$mixed
+                            * Design new products and new features for
+                              current products.
+                            * Responsible for determining product
+                              requirements and marketability, development
+                              of specifications, coordination of ongoing
+                              development and the assembly of materials
+                              for final project distribution.
+                            * Assist the President in the running of the
+                              company. Provide technical assistance to
+                              other departments within the company and to
+                              distributors. Maintain programming schedules
+                              and assist in the scheduling of testing,
+                              marketing and sales of MEGAsoft projects.
+                            * Provide supervision and guidance for all
+                              development staff to ensure quality and
+                              timely completion of company projects.
+                            * Responsible for the development of programs
+                              as defined in the related project's
+                              specifications including coding, addition of
+                              features, correction of bugs, initial
+                              testing and preliminary documentation.
+                            * Fully ported company's network, database and
+                              emulation products from OS/2 to Windows NT.
+                            * Editor and author of MEGAbits, the company's
+                              monthly newsletter for product distributors
+                              and developers.
+
+                         Senior System Developer (1992 - 1994)
+
+                            * Developed company software programs based on
+                              existing project specifications. This
+                              process included coding, the addition of
+                              enhancements, debugging and initial testing
+                              and documentation.
+                            * Provide technical assistance to Sales,
+                              Marketing, Quality Control and Customer
+                              Support departments of MEGAsoft and
+                              distribution companies.
+                            * Provide leadership to the programming staff.
+                            * Designed and spent a month doing on site
+                              training for company's largest customer.
+                              (11/93)
+                            * On site management of the installation and
+                              training for one of MEGAsoft's beta site new
+                              products. (10/94)
+                            * Assisted in the development of the company's
+                              network and database products.
+                            * Assisted in porting network and database
+                              products to MS-DOS, OS/2 and AIX UNIX.
+
+                         Select Ticketing Systems, Inc.
+                         Syracuse, New York
+
+                         System Developer (1989 - 1992)
+
+                            * Worked in the Research and Development
+                              department with the maintenance, design and
+                              enhancement of an internationally used
+                              ticketing system.
+                            * Programmed most code in the 'C' language,
+                              predominantly on 386 & 486 machines in a
+                              P.C. environment.
+                            * Limited Assembly, C++, Basic and Pascal
+                              experience.
+                            * Evaluated new products that may be of use in
+                              conjunction with the company's product.
+                            * In charge of the setup of booth and
+                              equipment as well as marketing of product
+                              for B.O.M.I. conference and trade show.
+                              (1/90 & 1/91)
+                            * Assisted in building and execution of a
+                              networked ticketing system for NFL's 1990
+                              Atlanta Falcons/LA Rams football game in
+                              Berlin, Germany. (8/90)
+                            * Designed and spent a month in West Berlin,
+                              Germany running a training course on
+                              programming in 'C'. Responsible for teaching
+                              of general programming skills as well as
+                              company's standards and security measures.
+                              (7/91)
+                            * Spent two months in Orlando, Florida testing
+                              and debugging foundation programs to be used
+                              in a rewrite of company's product. Wrote
+                              first three applications for new system.
+                              (1/92-2/92)
+ Technical               Languages:        C/C++, HTML, Javascript, CGI
+
+                         Operating         OS/2, Win 3.1, Win 95, Win NT,
+                         Systems:          MS-DOS 6.2, UNIX (AIX, UNISYS,
+                                           Interactive)
+                                           Borland 3.1, MS Visual C++
+                         Compilers:        1.52 & 4.0, C Set++, Visual
+                                           Age C++
+
+ Education               CLARKSON UNIVERSITY 1984 - 1988
+                         Potsdam, New York
+                         Bachelors of Science in Computer Science and in
+                         Mathematics
+ Extracurricular         Mensa
+ Activities
+                            * Member in good standing since 1988.
+
+                         Orlando Rugby Football Club (Fall 1992 - Present)
+
+                            * Tournament Committee: 1992 - Present
+                            * Treasurer (Executive Board Member): 1993 -
+                              Present
+                            * Current WebMaster and PostMaster for club
+                              Web Site.
+                              www2.gdi.net/~orfc.
+ References              Available upon request.
+[Image]

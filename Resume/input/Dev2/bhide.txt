@@ -1,0 +1,208 @@
+                               Vinay V Bhide
+
+                       e-mail: vinaybhide@hotmail.com
+
+Education
+---------------
+
+University Of Pune, India - Bachelor of Engineering in Computer Science.
+
+Professional Experience Summary
+--------------------------------------
+
+Extensive experience in software development and design. Primarily in
+Visual C++, C, SDK, Win32, MFC, ODBC, Windows Sockets, MAPI, BSD Sockets,
+Sybase Open Client(DBLIB/CTLIB) under environments like Windows NT,
+MS-WINDOWS, Novel LAN, IBM AIX, MS-DOS Unix.
+
+Hardware Platform
+     Personal Computers (IBM Compatible), RISC 6000
+Software
+     Languages Used
+     C++, C, Visual C++
+     Libraries, SDK's
+     WIN SDK, WIN32 API SDK, MFC, ODBC, dbLib, ctLib, WINSock, BSD Sockets
+     RDBMS
+     ORACLE, SYBASE
+
+Operating Systems
+Windows NT, 95, OS/2, Novel Netware, UNIX, MS-DOS
+
+Work Experience
+--------------------------------------
+
+Senior Software Developer - Data Core Systems, USA
+August 1996 - Present
+
+Responsible for analysis & design & development of software projects using
+Visual C++, MFC, Windows sockets, sybase Open Client dbLib/ctLib. Working
+on client-server based projects for our clients on-site as well as off-site
+since August 1996.
+Current Client: Vanguard Mutual Funds
+From June 1998 till date
+Vanguard has clients who invest in their mutual funds, but there are
+companies for whom Vanguard is handling the retirement benefits of their
+employees. As a result, Vanguard gets number of calls from these clients
+inquring about their funds as well as their retirement plans.
+Following are the modules of this projects in which I am involved in design
+as well as development. The platform choosen for this project is NT 4.0,
+Visual C++ 5.0 (moving to 6.0) and Sybase.
+A]Get information from the client and store it in our backend database.
+This module include developing tab based screens and interface with Sybase
+through ODBC for data transferr.
+B]Apply business rules, perform calculation on the available data. Based on
+the criterion supplied by the user, this module will apply the buisiness
+rules to the available data and generate result set.
+C]Representation of the results. The results of the calculation are
+presented to the user in module.
+For accessing and storing information in Sybase we are using ODBC for all
+the modules.
+Previous Client: Cendant Mortgage Services
+From August 1996 to June 1998
+The project was automation of their current manual business through windows
+NT and SYBASE based application, using Visual C++, MFC, Win32, Sybase Open
+Client(dbLib/ctLib), ODBC, Windows Sockets and BSD Sockets. Cendant is in
+the business of providing mortgage to future home owners, as well as
+refinancing. Previously they used to receive the mortgage application on
+paper and after confirming the credit history and other financial
+requirement, a approval letter was sent to the future home owner. As these
+process was taking long to finish they were loosing lot of business.
+Hence this project came alive. Which allowed the Cendant's mortgage sales
+consultant to take the application over the phone from future home owner,
+get clients credit history online and once all the information is gathered
+the application will determine if this client can be approved or not.
+Responsible for developing following modules of the Mortgage Application
+Processing project.
+Automated Credit Reporting (ACRS) System:
+This system allows the mortgage sales consultants to get the Credit Reports
+of their prospective clients. The system picks up the users request to get
+a Credit Report from the database. It then creates a request file and sends
+it to the Credit Reporting Agency using sockets. It then receives the
+Credit Report File in a predefined X12 format through socket. This file is
+then parsed and sent to Sybase database. The user is then informed about
+this credit report by a message that gets displayed on his application. The
+user then uses front end applicatin to view this credit report.
+Data population modules:
+This module involves downloading or ftping mission critical data from
+Internet and/or some predefined business sources and populating the local
+SYBASE database. This module scrutinizes the data for all the necessary
+rules of the business before it finally goes in the database. As this being
+mission critical operation, it also provides real time error reporting
+mechanism. This enables the support persons to track and correct the
+problem even before the users see it. This module is completely developed
+using Visual C++, MFC, MAPI, MFC Internet development classes and Sybase
+Open Client (dbLib/ctLib).
+
+System Analyst - Marlbourough Stirling Group, England.
+August 1995 - July 1996
+
+Worked as a software consultant for development using Visual C++, MFC,
+dbLib. Involved in development of Client/Server based, Point of Sales
+application. This system automates the client's work of selling their
+mortgage products.
+It has following modules developed using Visual C++, MFC, and SDK for front
+end and sybase Open Client (dbLib/ctLib) to talk to SYBASE.
+Customer Registration: This collects summary information relating to each
+applicant.
+Guide to Costs: This collects sufficient information to allow a mortgage
+cost illustration to be produced, including Buildings and Contents
+insurance, Payment Protection and an Assurance product (existing life cover
+can also be taken into account).
+Decision in Principle: This collects further information, allowing
+different combinations of Mortgage Type, Buildings and Contents Insurance
+and Payment Protection to be modeled to show the monthly costs involved.
+This module provides an accurate monthly cost of the package.
+Form Fill: Collects the remaining information required to allow completion
+of Proposal Forms and other letters.
+Application Processing: Controls the processing of an application through a
+series of company defined stages and actions from the initial Guide to
+Costs to Funds Disbursement.
+
+Senior Programmer - SoftCorner, Pune, India
+November 1993 - July 1995
+
+Part of the team who was responsible for development of offshore projects.
+In particular I was involved in design and development of following
+projects which were partly developed at client sites in USA and England.
+Invloved in following projects.
+Image Retrieval System This project was done for a US based mutual funds
+company. It involved storing, retrieving and maintaining the workflow of
+any paper application that is received. We used Visual C++ for front end
+development and ODBC for backend data interface. The backend was Oracle.
+This project was used by the client to store all the mutual fund
+applications in an imaged format and then work on this scanned application,
+the same way as they would work manually with a paper application. Thus,
+the project involved not only imaging and storing of the applications, but
+also providing work flow. Generall concept was to use a In-basket and
+Out-basket for each user of the system. When the user logs in to the
+system, the system will check from the data base if he has any pending work
+to do, if he does that Applications’s index appears in the In-Baske. Once
+the user finishes working on the application he redirects it to someone
+else, for example to his superior, and eventually the application falls in
+the Out-basket. Finally when the application has been processed it will be
+marked to indicate its status and it will be available only to few
+authorised users.
+>b>Replication of IBM AS400 on UNIX This project involved developing a UNIX
+based client-server application that provided a complete transparency to
+the existing IBM-AS400 user/developer. We used IBM AIX C++ and ORACLE7.0 as
+our development platform. This project converts the RPG program to a
+compatible C++ ones, compiles and executes them with the help of ORACLE7.0
+based database.
+Windows based PLC programming This is a real time application developed to
+help gather online information about a production PLC by continuously
+monitoring the PLC. This also provided a point and click mechanism to write
+PLC Ladder programs and simulate them before they are moved to the
+production PLC.
+All this projects were developed using Visual C++, MFC, Windows sockets,
+BSD sockets, Sybase Open Client (dbLib/ctLib) and ODBC.
+Also undergone training in FileNet Imaging Software's WorkFlo development.
+
+Programmer - Indus Software, Pune, India
+June 1992 - November 1993
+
+Responsible for programming CASE tools based products using C/C++, SDK and
+MFC. Part of the team who developed a CASE tool called 'Synthesis'. This
+product was sold in the domestic market. Developed the Screen Painter
+module of this product, that allows the users to design and paint there
+screens and associate the screens to database. User can also use this
+module to create prototype of their future systems. Also developed an API
+in C to be used by the users to access the data dictionary of 'Synthesis'.
+
+Programmer - SoftCorner, Pune, India
+June 1991 - June 1992
+
+Worked as a CoOp programmer. Part of the team who developed Source Code
+Generators for COBOL, DBASE using C. The source code developed was 100%
+compilation error free.
+
+Additional Training
+--------------------------------------
+
+Undergone a course in "FileNet Imaging Software's WorkFlow management
+course at Chicago training center.
+
+Honors/Activities
+--------------------------------------
+
+Selected to represent Engineering College in IEEE Pune Chapter annual
+Projects Competion.
+Member Computer Society of India.
+
+Professional Reference's
+--------------------------------------
+
+Mrs. Barbara Hart, Project Manager, Marlborough Stirling Group
+19 Imperial Square, Cheltenham, United Kingdom, GL50 1QZ
+PHONE : 01242 221973.
+
+Mr. Stuart Straight, Project Manager, Marlborough Stirling Group
+19 Imperial Square, Cheltenham, United Kingdom, GL50 1QZ
+PHONE : 01242 221973.
+
+Mr. Arun Kadekodi, CEO, SoftCorner
+HA Co Op Soc, Paud Phata, Pune India - 411 029
+PHONE : (INDIA)212-360736 EMAIL : scorner@giaspn01.vsnl.net.in
+
+Mr. Vivek Mannige, CEO, Indus Software
+Chinar Heights, Deep Bungalow Chowk, Model Colony, Pune India - 411004
+PHONE :(INDIA)212-343437

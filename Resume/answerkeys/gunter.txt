@@ -1,0 +1,56 @@
+
+CONTACT:
+
+Contact Name: JAMES WESLEY GUNTER 
+First Name: JAMES
+Middle Name: WESLEY
+Last Name: GUNTER   
+
+Number:      416
+Street:      Quartz
+Road:        Drive
+City:        Durham
+State:       NC
+Zip:         27703
+Email:       jgunter@mindspring.com
+
+EDUCATION:
+
+Date: August 1989 through May 1994
+School Name: University of South Carolina at Aiken
+School Location: Aiken
+Degree: Bachelor of Science
+Major: Math and Computer Science
+
+EXPERIENCE:
+
+Date: May 1999 - Present
+Company: GlaxoWellcome
+Position: System Analyst
+
+Date: February 1998 - May 1999
+Company: HMD/IS Division
+Position: Programmer/Analyst II   
+
+Date: March 1997 through February 1998
+Company: Alltech Systems
+Position: Powerbuilder Consultant
+
+Date: September 1996 through February 1997
+Company: SCB Computer Technologies
+Position: Powerbuilder Consultant
+
+Date: February 1996 through August 1996
+Company: Acquion, Inc
+Position: Powerbuilder Consultant
+
+Date: August 1995 through January 1996
+Position: Independent Contracts
+
+Date: June 1994 through July 1995
+Company: Graniteville Company
+Position: Programmer
+
+Date: August 1989 through May 1994
+Company: University of South Carolina at Aiken Computer Services Division
+Position: Student Operator and Office Assistant

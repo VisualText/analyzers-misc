@@ -1,0 +1,561 @@
+
+                           James P. McElhiney
+                         18 Peters Street Suite 2
+                           Cambridge MA 02139
+                       Email: james@world.std.com
+              URL: http://world.std.com/~james/resume.html
+                         Last Update: 1/29/1999
+
+    Objective:  A consulting software engineering position in Windows
+                          program development.
+
+                            Skills Inventory:
+
+    My specialties include Windows C++ application development, system
+                architecture, and technology evaluations.
+
+    Skill           Years Skill           Years Skill           Years
+    Windows NT        4   COM/DCOM         2    ActiveX/ATL      2
+    Windows 95       3    Windows SDK      4    HTML             3
+    Windows 3.1      3    ODBC             2    TCP/IP,HTTP      3
+    C                12   SQL              2    OOD/OOP          4
+    C++              6    8086 ASM         4    VRML              1
+    MS Visual C++    5    Borland C++      2    MCI               2
+    MFC              5    OWL              2    VB/JavaScript     2
+
+                               Experience:
+
+   Boston Compliance Systems                               Boston, MA
+   Software Engineer/Co-founder                     May 1998 - present
+
+        Summary:
+
+        As a software engineer and co-founder at Boston
+        Compliance Systems (a Microsoft Certified Solution
+        Provider), I was one of five developers that created the
+        company's flagship product, BlueSky98.   BlueSky98 was
+        successfully developed and sold to Fidelity Investments
+        on a tight schedule (6 months) to automate their Blue Sky
+        registration of mutual funds with the states. The
+        application uses a three tier client/server architecture
+        that behaves like an internet application (all data is
+        presented using HTML and ActiveX controls), but also has
+        local data caching and does not require a web server.
+        Application architecture is based upon building small
+        components. These components are linked using Microsoft
+        COM and DCOM component architecture. Parts of the system
+        to be easily replaced and/or enhanced without impacting
+        the entire system. Components can be placed on the
+        client’s workstation or a shared server to maximize
+        performance. Component architecture also allows the
+        customer to customize the application for in-house needs
+        without major support from the vendor. The client
+        application has an MDI and uses a standard window tree
+        control for navigation and an imbedded window with
+        Internet Explorer 4.01 for data display. The application
+        software was developed using Visual C++ 5.0 (MFC 4.2) and
+        Visual Basic 5.0 under Windows NT 4.0 and integrated with
+        SQL Server 6.5 and Access via OLE-DB and ODBC.
+
+        Technical Highlights:
+
+        I created the BlueSky98 Print and Electronic Submittal
+        Manager Application.  This application monitors the data
+        base for newly created blue sky filings.  When a new
+        filing is found, the application determines if the state
+        that the filing goes to supports electronic filings.  If
+        it does, the application submits the filing to an
+        electronic suppository (SRD) via HTTPS using the POST
+        method.  Otherwise, the application prints the form.
+        When the task is successfully completed, the application
+        updates the filing's status in the database.
+
+        Since Boston Compliance Systems was a startup company, I
+        was also involved in establishing the sales and marketing
+        presence of the company.   This included creating the
+        company's web site (http://www.bostoncompliance.com),
+        business cards, product literature, a print
+        advertisement, a promotional direct mailing campaign,
+        arranging sales demos, and representing the company at an
+        industry trade show.  Hired an outside firm, DigitalClay
+        Interactive, to assist with the design of artwork for
+        these materials.
+
+   --------------------------------------------------------------------
+   MediaOne/Continental Cablevision                        Boston, MA
+   Software Engineering Consultant          December 1996 - April 1998
+
+        Summary:
+
+        As a consulting software engineer at MediaOne (formerly
+        Continental Cablevision), I designed a multi-machine
+        automation system to capture and encode video files for a
+        streaming video-on-demand web site. The system takes
+        requests for video files via an http request, captures an
+        uncompressed AVI file, sends the file to an encoding
+        machine, and then FTP's the compressed file to a video
+        server. The system became part of MediaOne's Streamcast
+        Product (http://www.streamcast.net) and the Patent
+        Pending "System and Method for Automated Audio/Video
+        Archive and Distribution" (authored by 2 engineers and
+        myself). New England Cable News uses this system for
+        their web site (http://www.necnews.com) which is updated
+        with 50-60 video clips per day. The web site is designed
+        for use by high-speed cable modems, although slower
+        connections are handled (video frames are updated less
+        frequently). Software was developed using Visual C++
+        5.0/4.2 (MFC 4.2) under Windows NT 4.0 and Netscape's
+        Livewire under Solaris 3.5.1.
+
+        Technical Highlights:
+
+        Created an ISAPI DLL for Internet Information Server that
+        records requests for video files. The DLL parses the URL
+        for VITC start/stop times, filename info, and final
+        destination. The request is stored in an ordered queue
+        used by the video capture process. The DLL also re-routes
+        the request back to a staging server which stores
+        information about the clips in an Oracle database so the
+        stories can later be retrieved from an archive.
+
+        I designed and coded a program that takes the requests
+        from the ISAPI DLL and captures raw AVI files. The Sony
+        PVW-2800 BetaCamSP VCR was controlled using MCI commands
+        sent by SoftVTR drivers through the serial port. A Winnov
+        Videum video card captured the S-video output from the
+        VCR. After capture was completed, the AVI file was FTPed
+        to one of several encoding machines. This program was
+        later modified to do simultaneous video captures on
+        multiple machines using a DCOM EXE server as
+        synchronization mechanism. The DCOM server was developed
+        using ATL 2.1.
+
+        I designed and coded a multi-threaded program that
+        automatically encodes raw AVI files to compressed VDO
+        files. The program was designed to take advantage of dual
+        processor systems by encoding up to 2 AVI files at a
+        time. Once a raw AVI file was received, the program
+        automatically compressed the file using the Real Video
+        API and/or the VDO Clip application. Since no APIs to the
+        VDO tools existed, the program launched the VDO Clip
+        application and automatically controlled it by sending
+        windows messages. Spy++ was used to detect window class
+        names and IDs. After encoding was completed, the
+        compressed AVI file was FTPed to the appropriate Real
+        Video or VDO Server. This program ran on several machines
+        because several news stories were input at once and
+        encoding was the largest bottleneck in the system (a
+        1-minute clip would take 8 minutes to encode on a 200MHz
+        Pentium Pro). The goal of the whole system was to get the
+        news online as fast as possible!
+
+        Using Livewire (Netscape's server-side Javascript), I
+        developed a method used for delivering videos to a user
+        in their preferred format (videos in the Streamcast
+        system could be available in VDO and 3 different
+        bandwidths of Real Video). User's preferences were stored
+        in a client-side cookie, and the program automatically
+        directs the user to the proper metafile that would launch
+        either the Real Player or the VDO Player.
+
+        Installed a second Streamcast site to be used by the
+        MediaOne in Atlanta, Georgia. I also modified portions of
+        the Streamcast system for use in a video real estate
+        system for MediaOne in Detroit, Michigan.  Provided
+        training on the system to several engineers and
+        producers.  Also mentored a co-worker on Windows
+        programming using Visual C++.
+
+        I also installed various hardware/software pieces to the
+        system such as:
+        - The Chyron Codi, used to create a static logo in the
+        lower right section of the screen.
+        - A VITC to LTC converter used to extract time codes from
+        the cable signal from New England Cable News.
+        - A Match-Maker MM100 used to convert audio signals from
+        the VCR to the PC sound card.
+        - Evaluated VDO, Microsoft's NetShow, Real Video, and
+        Vivo video streaming formats
+        - WebTrends and SQL Server, used to generate web usage
+        reports for the NECN site.
+        - Lariat Stats, used to monitor RealVideo traffic on the
+        web site.
+
+   --------------------------------------------------------------------
+   imachines                                              Needham, MA
+   Software Engineering Consultant            Winter 1998 (part-time)
+
+        Summary:
+
+        As a consulting software engineer at imachines, I
+        developed on COM objects used in hardware control systems
+        for the semiconductor industry. All objects were
+        developed using ATL 2.1 in Windows NT 4.0.
+
+        Technical Highlights:
+
+        Developed several in-process (DLLs) and out of process
+        COM objects (EXEs) to represent various pieces of a
+        machine control system. Since several objects were to be
+        used in the system concurrently, the objects were
+        designed to be as lightweight as possible (without MFC).
+
+   --------------------------------------------------------------------
+   Unisys                                               Cambridge, MA
+   Software Engineering Consultant            Winter 1997 (part-time)
+
+        Summary:
+
+        As a consulting software engineer at Unisys, I continued
+        development on the SPAS II (Safety Performance Analysis
+        System) web site used by Federal Aviation Administration.
+        {For more info on SPAS, see below}
+
+        Technical Highlights:
+
+        Developed Active Server Pages using VBScript for the web
+        site that automatically re-routed initial requests to the
+        site to a splash page. This task became complicated
+        because there were many different servers in the system
+        that were transparent to the user. By using Cookies and
+        Server Objects, the user was automatically routed to the
+        splash page only on their initial visit to the site. Also
+        set up DNS servers so separate domains in the network
+        could use this technology.
+
+   --------------------------------------------------------------------
+   Practical Engineering                                   Newton, MA
+   Software Engineering Consultant            Winter 1997 (part-time)
+
+        Summary:
+
+        As a consulting software engineer at Practical
+        Engineering, I added VT125 graphics support to the
+        company's existing VT100 Emulation software on a PC
+        interface to Teradyne test equipment. The emulation
+        software was developed using Borland C++ 5.0 under
+        Windows NT 4.0; the released 16-bit application runs on
+        Windows NT/95/3.1.
+
+        Technical Highlights:
+
+        Added a VT125 command parser class to the emulator to
+        store VT125 graphics commands for Screen, Writing,
+        Position, Vector, and Text functions. Also added windows
+        code to emulate those commands.
+
+   --------------------------------------------------------------------
+   BBN                                                  Cambridge, MA
+   Software Engineering Consultant                          Fall 1996
+
+        Summary:
+
+        As a consulting software engineer at BBN (Bolt, Beranek,
+        and Newman), I continued the development of the Mission
+        Planner for the TIA (Tactical Information Assistant)
+        MicroPathfinder system, a wearable, collaborative, visual
+        communications and navigation system. It allows a team of
+        users to know the location of each team member, see each
+        member's map annotations as they are drawn, and exchange
+        messages. The system incorporates GPS receivers for
+        positioning/time synchronization and SINCGARS radios for
+        data communications using UDP/IP packets. The Mission
+        Planner was developed using Visual C++ 4.2 (MFC 4.2)
+        under Windows NT 4.0 and Windows 95; the released
+        application runs on a rugged notebook computer with
+        Windows 95.
+
+        Technical Highlights:
+
+        Enhanced the GUI of the Mission Planner. The MDI map
+        views have custom navigation guides in the corner of each
+        view where the user could select the area to view
+        clicking and dragging the map. A slider OCX control was
+        added which allowed the map to be rotated; the user could
+        also enter the angle of rotation. The map view supports
+        multiple layers: a base map, the Mission Planner layer,
+        and up to 9 other unit layers. Various items could be
+        added to a map layer: single lines, poly-lines,
+        rectangles, text, and symbols.
+
+        I implemented a file system for the MicroPathfinder for
+        executable images, maps, fonts/symbols, and messages.
+        Files contained a header and data section and were
+        converted to big-endian format (the other units in the
+        system were MC68341V-based machines running PSOS).
+        Executable images are created from Diab ELF (executable
+        and linking format) files by parsing utility output
+        files, creating a file header, executable header, and a
+        data section. All files contain CRC checksums, date,
+        time, and size information.
+
+        Created a multithreaded asynchronous serial download
+        mechanism for transmitting files to the remote units
+        using Greenleaf Comm++. A worker thread is used for the
+        Kermit download, and a user-interface thread is used to
+        present the status of the download. Also implemented a
+        mission plan file that contains a list of files to be
+        sent to the remote units. The plan file is presented as a
+        tree view where additional files can be added or deleted.
+
+        Implemented an interface to the MicroPathfinder sharing
+        protocol. This allowed the mission planner to communicate
+        to other units using UDP/IP packets. Files, objects, and
+        messages could be broadcast to other units and requests
+        for updates could be made. This allowed all the units in
+        the system to stay in sync.
+
+   --------------------------------------------------------------------
+   Unisys                                               Cambridge, MA
+   Principal Software Engineer                      1995 to Summer 96
+
+        Summary:
+
+        As a principal software engineer at Unisys, I developed
+        portions of the graphical user interface for SPAS (Safety
+        Performance Analysis System), a 32-bit three tier
+        client-server system used by the Federal Aviation
+        Administration for analysis of field inspector data. The
+        GUI communicates with an Oracle middleware layer to
+        obtain daily downloads of flight data using RPC (remote
+        procedure calls) over 28.8K modems. SPAS was developed
+        using Visual C++ 4.0/2.2 (MFC 4.0/3.0) under Windows NT
+        3.51 and Windows 95 beta; the released application runs
+        under Windows 95. Data is presented to the user via a
+        tree view, a table view (Excel-like) and a graph view.
+
+        Technical Highlights:
+
+        Developed an Internet prototype for the next major
+        release of SPAS. Created an ISAPI DLL for Internet
+        Information Server that dynamically produces HTML forms
+        that allow the client to select parameters to query a
+        database. The ISAPI DLL is connected to a SQL Server
+        database via ODBC and uses parse maps to set the query
+        parameters. The results of the query are returned as an
+        HTML file where the data is presented in an ActiveX graph
+        control or in a table.
+
+        Created an ActiveX graph control by aggregating a COTS
+        (Custom Off-The-shelf Software) control (Olectra Chart)
+        and customized it for SPAS graphs. The control is
+        programmed to receive its data via an asynchronous
+        moniker to improve latency. Features such as trapping
+        events and hyperlinking were added (if the user clicks on
+        a data point in the graph, a request for a drill down
+        page is made back to the server). Several properties of
+        the control are exposed so the control can be programmed
+        in an HTML page via VBScript. The control also supports
+        printing.
+
+        I created a tree view that served as SPAS's main
+        navigation point for end-users. The tree view can hold up
+        to 15,000 data items and required a rewrite (from
+        scratch) of the standard tree control. The tree control
+        user interface was designed patterned after the Windows
+        95 explorer. This included drag/drop support, keyboard
+        navigation, selection, clipboard interface, scrolling,
+        in-place editing, graphical display and printing. In
+        addition, the tree view added end-user editing features,
+        such as cut/copy/paste/delete, as well as re-ordering
+        items within the tree, dragging items between instances
+        of SPAS and dragging items to other drop clients such as
+        Word or Excel (implemented via MFC OLE classes). A user
+        could drag a portion of the tree onto another portion of
+        the tree and perform the matrix expansion of the two
+        products (i.e. dragging 3 items onto a folder with three
+        items would generate up to 9 items depending on the
+        business rules). In addition, I created property sheets
+        for each different data item found in the tree control.
+        Lastly, and most importantly, the overall speed including
+        fully loaded trees (15K items) was excellent even on
+        low-end 486-based machines.
+
+        I enhanced SPAS's graphing capability: added code for
+        allowing the user to select different graph symbols (via
+        image lists), added graph axis labeling, titling, and
+        maturity date indication. Coded mouse-selectable
+        rubber-banding to allow the user to select multiple
+        points on the graph to drill down to base data. All
+        graphing code was implemented using MFC and the Windows
+        SDK; also developed custom classes for using device
+        independent bitmaps.
+
+        Developed the printing code for several SPAS views
+        including WYSIWYG printing for the graph and tree view.
+        Multi-page printing, headers and footers, and
+        color/monochrome printers are all supported.
+
+        Created mutexes in SPAS to allow separate instances and
+        their corresponding threads to communicate to each other
+        when required. Used multithreading in SPAS whenever
+        appropriate, especially in the tree view, so visible flag
+        threads could be given a higher priority and have their
+        data retrieved first.
+
+        Designed and developed a Windows 95 program using MFC 4.0
+        for creating multi-colored 3D stacked bar graphs using
+        VRML (Virtual Reality Modeling Language) allowing data to
+        be viewed and navigated with a Netscape plug-in such as
+        WebFX. The program reads in graph data from a text file
+        or Excel spreadsheet and outputs a VRML file. Individual
+        bars on the graph can be hyper-linked to any HTML
+        document or other VRML file.
+
+   --------------------------------------------------------------------
+   Imaging:Machines                                        Boston, MA
+   Senior Software Engineer                               1994 to 1995
+
+        Summary:
+
+        As a senior software engineer at Imaging:Machines (a
+        small systems integrator), I designed and developed 80486
+        PC-based machine vision systems. These systems integrated
+        hardware and software such as the Cognex 5000 vision
+        board, Cortex and Matrox frame grabbers, MTI OCR
+        libraries, and XRL lighting systems and ran under Windows
+        3.1.
+
+        Technical Highlights:
+
+        Designed object oriented programs, GUIs, and DLLs for
+        machine vision systems using Borland C++ 4.5/4.0 (OWL
+        2.5/2.0) and Microsoft Visual Basic. The programs
+        performed a variety of machine vision operations--from
+        locating and measuring the distance between fiducials on
+        a ceramic substrate to reading characters from a
+        semiconductor wafer.
+
+        Developed serial communications classes for the Cognex
+        board using Greenleaf Comm++. These classes created a
+        communications layer so minimal software changes were
+        required when switching the interface of the Cognex board
+        from the PCs ISA bus to a serial port.
+
+        Created high-level command objects for Cognex fiducial
+        finder software in C++. These objects allowed faster
+        creation of machine vision software by encapsulating
+        low-level machine code into user-friendly interfaces.
+
+        Coded visual device independent bitmap display objects in
+        C++ for the Cortex and Cognex frame grabbers. These
+        objects allowed external processing and could be used to
+        display the frame grabber's memory to a window and to
+        save an image to a file.
+
+        Installed machine vision system for Dek screen printer
+        for Motorola Automotive Division.
+
+   --------------------------------------------------------------------
+   Teradyne                                                Boston, MA
+   Software Engineer                                     1986 to 1994
+
+        Summary:
+
+        As a software engineer in Teradyne's Process Engineering
+        department, I was responsible for writing software to
+        test complex circuit boards using a variety of hardware
+        platforms, including the $1,000,000+ L200 test system. I
+        wrote test tools and device drivers, verified and
+        troubleshot new designs, and wrote test procedures. I
+        really honed my debugging and troubleshooting skills in
+        this position. The excellence of my work was recognized
+        by my managers, having been chosen twice to give
+        presentations to the president of Teradyne!
+
+        Technical Highlights:
+
+        Developed portions of a CAD converter program using
+        Visual C++ 1.5 in Windows 3.1. Objects were used to
+        represent internal circuit board objects (i.e. power
+        planes, test points, device leads) which were read from
+        SCL files. The program outputted database files used for
+        controlling test and manufacturing equipment.
+
+        Created GUI panels for digital test tools using a toolkit
+        for X windows. The test tools had been written for
+        synchronous text-based systems and had to be reconfigured
+        for asynchronous graphical displays.
+
+        Developed incircuit and functional test programs on the
+        Z1800 (80486 PC-based DOS environment) and L200
+        (MicroVAX-based VMS environment) test systems for a
+        variety of complex digital, mixed-signal, and analog
+        printed circuit boards. Developed test processes for
+        mixed-technology boards (ECL/CMOS/TTL) with VLSI devices.
+        These programs isolated faults to the component level.
+        Test fixtures for these boards were custom designed.
+
+        Wrote IEEE 488 GPIB drivers for the HP54120 Digital
+        Oscilloscope and the Marconi Spectrum Analyzer so these
+        devices could be controlled via the L200 test system.
+        Menus were designed to emulate the device's front panel
+        displays to minimize the user's learning curve.
+
+        Member of concurrent design teams and developed test
+        strategies and requirements for new products. Performed
+        first article test for SMT channel card and high-speed
+        digital probe board. Developed incoming inspection
+        process for PALs using the L200.
+
+        Authored test process documents for the Z1800 and L200
+        test systems. Taught week-long training classes of test
+        procedures to new hires. Beta-sited new test software and
+        responsible for reporting software bugs to internal
+        software group.
+
+        QIT member of group responsible for reducing test and
+        manufacturing costs of CASS test system by twenty
+        percent; QIT leader of group responsible for creating a
+        problem log database; QIT member of group responsible for
+        integrating a new test system (the Z1800) to the board
+        test engineering department.
+
+   --------------------------------------------------------------------
+   Raytheon                                               Bedford, MA
+   Software Engineer                                      Summer 1985
+
+        Summary:
+
+        This was a summer software engineering position before my
+        senior year in college.
+
+        Technical Highlights:
+
+        I wrote diagnostic software for a Z8000-based modem
+        assembly using C and assembly language to verify that 5
+        modems in the system were communicating properly when
+        booted. If failures occurred, faulty modems were
+        identified.
+
+                               Education:
+
+   Harvard University                                    Cambridge MA
+   Extension School                                         1992-1994
+
+        Graduate Classes:
+        Microsoft Windows Programming  Object Oriented Programming in
+        in C++                         C++
+        Practical Software Engineering C and UNIX Programming
+
+   --------------------------------------------------------------------
+   Worcester Polytechnic Institute                       Worcester MA
+   B.S.E.E. with Distinction                                 1982-1986
+
+        MQP (Senior Project): 8086-Based Expandable Printer
+        Buffer: As part of a 2-person team, I designed the
+        hardware and software for a 64K expandable memory buffer.
+        Hardware features included parallel and serial ports and
+        a 1650 UART. All software was written in 8086 assembly
+        language using EPROMs. The project was sponsored by
+        Digital Equipment Corporation, Marlborough MA
+
+        IQP (Interactive Qualifying Project): I researched the
+        methods used in financing flood control projects
+        throughout the United States. This project was completed
+        at WPI's Washington DC Project Center for the National
+        Research Council.
+
+                   References:  Available upon request
+
+Return to Home Page

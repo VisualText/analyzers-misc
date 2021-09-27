@@ -1,0 +1,101 @@
+[Headhunter.net Homepage] [Find Jobs] [Find Resumes] [My Stuff] [Get Help]
+
+  [Image]                              [Image]
+
+Find Résumés : Résumé Details
+
+programmer/analyst
+ Mailing Address:
+ 1801 San Pedro Ave., Victoria, BC V8N 2G3, CANADA
+
+ Phone:
+ (250) 721-3520 (Home) (250) 472-4683 (Work)
+
+ Email:
+ Yongning.Shao@ec.gc.ca
+
+ Education:
+ ---------
+ o B.Sc. program in Computer Science, University of Victoria
+ (on-going part-time study, a few courses away from graduation)
+
+ o M.Sc. in Atmospheric and Oceanic Sciences, McGill University, 1996
+
+ o B.Sc. in Atmospheric Science, Nanjing University, 1986
+
+ Skills:
+ ------
+ o Programming:
+ -- C/C++
+ -- Fortran77 & 90
+ -- Java
+ -- UNIX shell script programming
+ -- Perl script programming
+ -- Small Talk
+ -- Haskell
+ -- 68000 Assembly language
+ -- HTML & CGI
+ o Numerical Modelling;
+ o Weather Forecast;
+
+ Work Experience:
+ ---------------
+ o From 1997 to Present:
+ Software Support
+ Canadian Institute for Climate Studies
+ Enviornment Canada
+ -- Provide software support for uses of climate data and models;
+ -- Develop UNIX scripts to automate submission and implementation
+ of Canadian Regional Climate Model (RCM) on the Canadian
+ Supercomputer (NEC);
+ -- Develop a Great Lakes/Ocean module for the RCM and software
+ to support the operational runs on the NEC.
+
+ o From 1994 to 1996:
+ Research Assistant/Programmer
+ Department of Atmospheric and Oceanic Sciences, McGill University
+ -- Work with Canadian RCM model;
+ -- Master Thesis: A Simulation of SST Anomaly over the Gulf of
+ Mexico using Canadian RCM.
+
+ o From 1993 to 1994:
+ Visiting Meteorologist/Programmer
+ Department of Meteorology, Florida State University
+ -- Work with FSU rainfall retrieval algorithm and satellite data
+ processing.
+
+ o From 1986 to 1993:
+ Staff Meteorologist/Programmer, Insitute for Climate Research
+ Chinese Amademy of Meteorological Sciences
+ -- Work on climate data processing and analysis and support
+ for climate change modelling.
+
+ Salary Requirement:
+ o $50,000 per year
+
+ Immigration Status:
+ o Canadian citizen.
+
+ Publications and References:
+ o Available upon request.
+
+ Details
+  Desired Job Type:Full Time                     Location:CA-BC-Victoria
+ Desired Employment
+              Type:Employee                      Relocate:State - Province
+
+            Degree:Graduate                   Will Travel:Up to 50%
+                   Degree
+
+        Experience:At Least 3             Citizen/SecurityNo/Yes
+                   Years                        Clearance:
+ Contact
+           Company:
+             Email:Yongning.Shao@ec.gc.ca
+              Name:Yong
+             Phone:(250) 472-4683
+               Fax:
+      Contact Type:Job Seeker
+ Miscellaneous
+        Categories:Computer,Engineering,Environmental,Science
+       Last Change:1999/08/22 03:45:55

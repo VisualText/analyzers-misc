@@ -1,0 +1,86 @@
+                          Geoffrey Nicholls, Owner
+                             667 Marion Avenue
+                            Palo Alto, CA 94301
+                            650/323-5545 (voice)
+                             650/323-1913 (fax)
+                             geoff@gazelle.com
+
+OBJECTIVE
+Work as a software consultant, specializing in application and technology
+development for MS Windows.
+
+TECHNICAL EXPERIENCE
+Microsoft Windows
+Ten years experience developing software for Microsoft Windows, versions
+1.03 through NT 4.0. Been part of beta releases of Win 2.x, Win 3.x,
+Win32s, Win 95, Win 98, Win NT 3.x, Win NT 4.0, DirectX 3.0, DirectX 5.0,
+OLE 1.0 and OLE 2.0. Coded products in C, C++, MFC and OWL using both
+Microsoft and Borland development systems. Major projects include an
+advanced information management system, a popular personal finance software
+product, a client/server sales automation product, a graphing
+mini-application applying OLE 2 server technology, an Object Linking and
+Embedding package (both server and client and both version 1.0 and version
+2.0), ActiveX controls, ActiveX objects in Active Server Pages,
+entertainment software for Windows, and a multiplatform development system.
+Hewlett Packard Company
+August 1982 to March 1984 and again October 1985 to February 1988. Research
+and software development engineer. Developed robotics control software for
+two years and ROM based system software for one and a half years.
+Digital Research Inc.
+April 1984 to September 1985. Senior software engineer. Developed portable
+PASCAL and BASIC compilers on AT&T Release 5 for the IBM-RT/PC.
+
+BUSINESS EXPERIENCE
+Windows Consultant
+Owner, Gazelle Software (formerly Geoffrey Nicholls Consulting), Palo Alto
+California. April 1990 to present. Provided consulting, design, and
+implementation of Microsoft Windows applications to a variety of software
+product development firms. Clients (in alphabetic order) include Borland,
+CenterView Software, Electric Planet Interactive, Helix Systems, Hewlett
+Packard, Hughes Network Systems, Identitech, Indigo Software, Interval
+Research Corporation, Intuit, Microsoft, No Hands Software, Siebel Systems,
+SuperNews, SymTek, Viewpoint Systems, WebTV and Xerox.
+Game Manufacturing Company
+Owner, Raptor Games, Palo Alto California. October 1991 to December 1994.
+Coordinating and funding the manufacturing and marketing of a board game.
+Ran focus groups, conducted market research, developed a marketing
+strategy, evaluated manufacturing alternatives, negotiated with vendors,
+and contacted distributors.
+
+MANAGEMENT EXPERIENCE
+Vice President of Strategic Ventures, Eikon Systems Inc.
+March 1988 to March 1990. Co-founded the company in March 1988 with two
+partners and no venture capital. Responsible for consulting contracts worth
+$60,000/month. Completed 20 hours/week of consulting while managing up to 7
+engineers. Monitored company's financial stability. Promoted a corporate
+culture focused on the benefit and growth of its employees.
+Board of Directors, Bay Area Action (BAA)
+Earth Day 1990 (April) to present. Treasurer and member of the board of
+directors. One of the founding members. Helped build this non-profit
+corporation into a major regional environmental organization. Leader of the
+fundraising, finance, and retail store operations. Developed systems to
+manage all fiscal matters.
+
+EDUCATION
+B.A. degree in Math and B.A. degree Computer and Information Science at the
+University of Oregon, June 1982. Minor in Physics. Studied German.
+
+HONORS
+Lifetime Member of the National Registry of Who's Who.
+Who's Who in Executives and Businesses, 1997-1998 edition.
+Phi Beta Kappa, 1982.
+U of O Merit Scholarship, 1981.
+Robert E. Woods Scholarship, Mathematics Department, 1980.
+Phi Eta Sigma, 1979.
+Mathematics Association of America, National Honor, 1977.
+
+REFERENCES
+Ken Gardner, President, Sagent Corporation. Ken hired me as a consultant a
+number of times. He can be reached at 650/496-7100.
+Mike Gilger, Vice-President, Identitech Corporation. Mike hired me as a
+consultant for many years. He can be reached at 407/951-9503.
+Kan Ng , President, Kansmen Corporation. Kan worked as an employee of mine
+at Eikon Systems Inc. He can be reached at 408/263-9881.
+---------------------------------------------------------------------------
+
+Last updated October 15, 1998

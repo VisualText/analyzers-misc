@@ -1,0 +1,54 @@
+not currently available
+
+                                Elijah Saxon
+
+                               602 17th Ave E
+                             Seattle, WA 98112
+                                206.322.1227
+                              elijah@co-op.com
+
+                                 Objective
+---------------------------------------------------------------------------
+Software engineering position using Java or C++, in a challenging and
+friendly work environment within the city of Seattle.
+
+                              Work experience
+---------------------------------------------------------------------------
+Technicon Computer Services                    November 1997 to August 1998
+Emeryville, CA
+   Developed web deployable product visualization tools. With a four member
+   team, designed and wrote an online furniture layout and sales force
+   automation package using Java, VRML, and JavaScript. Personally
+   implemented 3D navigation controls, layout heuristics, data conversion,
+   and product configuration features.
+
+REINAS Project, Visualization Group                            1994 to 1997
+Santa Cruz, CA
+   Worked collaboratively in designing and implementing a medium scale
+   scientific visualization software package. Using C++ and OpenGL, wrote
+   the application architecture, user interface, 3D tools, user extension
+   support, and web server capability. The program is used to analyze
+   historical and real-time environmental data from a sensor network
+   distributed throughout the Monterey Bay Marine Sanctuary.
+
+                                 Education
+---------------------------------------------------------------------------
+University of California at Santa Cruz                        December 1996
+        Bachelor of Arts, Sociology and Computer Science.
+
+                         Summary of qualifications
+---------------------------------------------------------------------------
+*Solid interpersonal skills, particularly in the areas of meeting
+facilitation and dynamics.
+*Highly skilled in Java, C++, VRML, and 3D programming. Experienced with
+OO Design, OpenGL, JavaScript, HTML, perl, Pascal, and csh.
+
+                              Awards received
+---------------------------------------------------------------------------
+University of California at Santa Cruz
+        Regent Merit Scholarship
+        Degree Honors in Computer Science
+        Degree Honors in Sociology
+        College Honors
+        Honors in Computer Science Comprehensive
+        Regent Merit Scholarship

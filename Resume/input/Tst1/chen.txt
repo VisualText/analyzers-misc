@@ -1,0 +1,71 @@
+                              [Image]             My Resume
+                                  [Image]
+
+[==================================================]
+
+                            Chen Chia-hung, John
+                     3333 W. 2nd St. Bld. 52 Apt. #208
+                            Los Angeles, CA90004
+                           Tel/FAX:(213)487-8337
+                          Email : chchen@iname.com
+                        http://www.livecam.com/~john
+
+Objective
+     Seeking a challenging position as a Software Engineer or Programmer.
+Areas of interest include
+     Multimedia software design, Image processing software design and
+compression software design.
+
+Education
+     M.S., Electrical Engineering (EE), 9/95 - 12/96, GPA 3.6
+     University of Southern California (USC), CA
+
+     B. S., Electronic Engineering (EE), 9/91 - 6/95, GPA 3.4
+     National Taiwan University, Taiwan R.O.C.
+
+Experience
+
+     Research Programmer, Digital Video Technologies, CA., 11/96 -
+          As a staff in Research and Development Section. Doing research of
+     Fractal video compression.
+
+Class Projects
+
+   * Research of Fractal video technology :
+          Using Visual C++ in Win 95 to implement a Fractal image
+     compression library including I/O functions and
+          conversion between different image format(e.g. JPEG <-> Fractal).
+     Then combining with audio compression
+           library(ADPCM and GSM) to bulid a Video server and client
+     application. Now we are dealing with 3-D Fractal
+          and a faaster internet transmission protocol.
+   * The Digital Image Processing Design :
+          Using MATLAB and C language to design digital image processing
+     filters or functions and algorithms of image
+          compression like Huffman, Adaptive Arithmetic, Vector
+     Quantization, DCT, Wavelet coding.
+   * The Multimedia Title Development :
+          Research topic is Fractal Image Compression. Implement a window
+     application about Fractal Image
+          Compression.
+   * The VLSI Design :
+          To implement some essential components like counter, adder,
+     multiplier in MAGIC layout.
+
+Skills
+     High level language programming: C/C++, Visual C++ 4.0, Matlab,
+Pascal, Visual Basic.
+     Logic circuit design and layout: CAD Tools: Verilog, Magic, SPICE3,
+IRSIM, Crystal
+
+Courses
+     Digital Image Processing I, II. Information Theorem, Multimedia Title
+Development,
+     Adaptive Digital Signal Processing, Random Process, Optical
+Information Processing,
+     VLSI System Design I, Computer System Architecture.
+
+            [==================================================]
+               [Image]You can e-mail me at : chchen@iname.com
+                        [Image] back to my homepage
+                        Last updated : Sep. 10, 1997

@@ -1,0 +1,143 @@
+ JAMES EVERETT HARGRAVE III
+ (303) 774-8507
+jhargrav@indra.com
+ 
+
+OBJECTIVE:
+ 
+To secure a position as a software engineer in the field of multilingual software development or natural language engineering.
+ 
+EXPERTISE:
+ 
+* Software Internationalization * Computer (Aided) Translation  
+* Object Oriented Programming  * Natural Language Engineering
+* Information Retrieval  *  Spanish Competence  
+ 
+    Operating Systems
+ 
+Windows 95, Windows NT, LINUX, UNIX, MS-DOS, OS/2, Mac
+ 
+       Languages
+ 
+C++/C (7 years), Perl (5 years), Smalltalk (6 months), Pascal (2 years), Modula-2, 
+Prolog, Common Lisp, Java, TCL/TK
+ 
+       Software Packages
+ 
+ Microsoft Visual C++ (versions 1.51 to 6.0) and Microsoft Foundation Classes, 
+LEX/YACC, VisualParse++, JavaCC, Trados, IBM TM/2, Eurolang
+ 
+OTHER EXPERIENCE:
+ 
+Translation tools, Statistical and Corpus-Based Natural Language Processing, 
+Computational Morphology, Artificial Intelligence, Machine Learning, 
+Parsing and Filters, Human-Computer Interaction, Usability Testing, L10N, Unicode
+ 
+
+SUCCESSFUL PROJECTS:
+ 
+Multilingual Web Search Engine
+Principle Inventor, Desginer and Implmentor.  Web search for 11 languages including Chinese, Japanese and Korean.
+ 
+Multilingual Translation Memory Engine
+Principal Inventor, designer and programmer.  Patent Pending technology for fast fuzzy matching 
+in any language.
+ 
+Parallel Text Alignment 
+Principal Programmer and Designer.  Automatic alignment of translated texts.  Uses 
+probabilistic model to align source and target language sentences.
+ 
+Terminology Extractor
+Lead a team of four undergraduate interns. A sophisticated statistical program that 
+automatically extracts relevant terminology from texts.
+ 
+Spanish Part-of-Speech Tagger
+Principal Programmer.  One of the first high coverage Spanish part-of-speech taggers.
+ 
+Language Independent Sentence Boundary Detection
+Principal Programmer and Designer.  New approach to language independent sentence 
+breaking for translation tools. Uses a machine learning approach.
+ 
+Semantic Disambiguation
+Team Project.  Developing new statistical and vector based techniques for automatic 
+word sense disambiguation.
+  
+Vector-Based Morphology
+Masters Research.  Statistical and vector based algorithms for language independent 
+word stemming.
+ 
+Syllable-Based Latent Semantic Indexing (LSI)
+Research.  New approach for deriving LSI vectors for information retrieval.  
+ 
+Fast Analogical Model
+Principal Programmer and Designer. A very fast implementation of Skousen's AM,  
+a general machine learning program used in various translation tools.
+ 
+Text Processing Utilities for Information Retrieval
+Personal Project.  Several utilities written in C++ and Perl for gathering n-gram 
+frequency and co-occurrence counts from large texts.
+ 
+
+WORK HISTORY:
+ 
+11/94 - Present, INTERNATIONAL LANGUAGE ENGINEERING CORPORATION Boulder, Colorado, Senior Natural Language Engineer 
+ 
+Responsible for designing and implementing state-of-the-art translation and I18N 
+tools.  Principal inventor of a language independent fuzzy matching engine 
+used in several translation and localization tools (Patent Pending). Also responsible 
+for managing a team of interns in developing innovative natural language applications. 
+Helped design and implement several custom software localization tools for clients. 
+ 
+
+8/92 - 11/94 COMPUTING RESEARCH LAB Las Cruces, New Mexico, Research Assistant
+ 
+Developer on the Cibola translator workstation project.  Cibola is 
+a large project underway at CRL that is researching state-of-the-art techniques and their 
+application to machine aided translation.  Cibola embodies several key technologies such 
+as multilingual information retrieval, parallel text alignment and fuzzy matching.  The 
+applicant was chosen for the project because of his expertise in computational 
+morphology and Spanish. Also Developer on the Pangloss machine translation project.  Pangloss 
+is a three site endeavor exploring a multi-paradigm approach to automatic translation.  
+The applicant was chosen for the project over dozens of applicants for the position 
+because of his diverse shills in Linguistics, Computer Science and Spanish.
+ 
+1/92 - 6/92 CARL VINCENT INSTITUTE OF GOVERNMENT Athens, Georgia, Full Time Analyst/Programmer
+ 
+Responsible for the design and implementation of a sophisticated Geographical Information 
+System.  The applicant began the job with no previous knowledge of GIS or the 
+Arc/Info development system, but quickly learned the technology. In addition, the GIS 
+system had a very short schedule for completion, but was delivered on time.  
+This system is currently used by the Cobb County Tax Assessors Office, a major 
+county near Atlanta, Georgia.
+ 
+5/90 - 1/92 UGA DEPARTMENT OF POULTRY SCIENCE Athens, Georgia, Programmer
+ 
+In charge of implementing software for research and education. One such program, 
+UFLP (User Friendly Linear Program) has been published with the book: 
+Computer Applications in Animal Feed Formulation: 
+Principles, Practices and a Microcomputer Program.  UFLP has won several awards for 
+outstanding educational software.
+ 
+EDUCATION:
+ 
+1994  (All But Thesis) - NEW MEXICO STATE UNIVERSITY  Las Cruces, New Mexico, MS in AI and Natural Language Engineering
+GPA 3.9/4.0
+ 
+1990 - UNIVERSITY OF GEORGIA   Athens, Georgia, BA in Linguistics with Computer Science Minor
+ 
+PROFESSIONAL AFFILIATIONS:
+ 
+Association for Computational Machinery (ACM)
+American Machine Translation Association  
+Association for Computational Linguistics.
+ 
+
+PUBLICATIONS AND PATENTS:
+ 
+Patent Number US5724593: Machine assisted translation tools. Principle Inventor. 
+
+Farwell, D., Helmreich, S., Jin, W., Casper, M., Hargrave, J., Salgado, H. and Weng, F.L. 
+(1994).PANGLYZER: Spanish Language Analysis System in Proceedings of AMTA-94 
+(Association for Machine Translation in the Americas). 
+ 
+

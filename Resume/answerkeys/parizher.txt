@@ -1,0 +1,52 @@
+
+CONTACT:
+
+Contact Name: VADIM PARIZHER
+Title:    
+First Name: VADIM
+Middle Name:    
+Last Name: PARIZHER
+Suffix Name:    
+
+City:        Tarzana
+State:       CA
+Email:       vadimp@hotmail.com
+
+EDUCATION:
+
+Date: 1997
+School Name: CSU Northridge
+School Location: Northridge
+Degree: M.S. 
+Major: Computer Science 
+
+Date: 1995
+School Name: CSU Northridge
+School Location: Northridge, Minor
+Degree: B.S. 
+Major: Computer Science    
+Minor: Mathematics
+Honors: Cum Laude Dean's List    
+
+EXPERIENCE:
+
+Date: September 1998 - Present
+Company: McKesson Water Products Co
+Position: Technical Systems Analyst
+Location: Los Angeles, CA
+
+Date: June 1994 - September 1998
+Company: Jet Propulsion Laboratory
+Position: Software Engineer
+Location: Pasadena, CA
+
+Date: June 1991 - June 1994
+Company: Los Angeles County, Department of Beaches and Harbors
+Position: AS/400 PC Support Specialist
+Location: Los Angeles
+
+Date: January 1992 - May 1992
+Company: Santa Monica College
+Position: Computer-programming Lab Assistant
+Location: Santa Monica, CA
+

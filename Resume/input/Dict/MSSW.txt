@@ -1,0 +1,83 @@
+MS-DOS 6.2
+MS_DOS 6.2
+MS DOS 6.2
+MS Access 2000
+MS Access 97
+MS Access v2.0
+MS BackOffice Server 4.0
+MS BackOffice Server 4.5
+MS Commerce Server
+MS Developer Network
+MS Excel 2000
+MS Excel 5.0
+MS Excel 97
+MS Excel 98
+MS Exchange Server 5.5
+MS FrontPage 2000
+MS Front Page 2000
+MS Graphics Studio
+MS Index Server
+MS Internet Explorer 4.0
+MS Internet Explorer 5
+MS NetMeeting
+MS Net Meeting
+MS ODBC 3.0
+MS Office 2000
+MS Office 97
+MS Office 98
+MS Outlook 2000
+MS Outlook 98
+MS Outlook Express
+MS PowerPoint 2000
+MS PowerPoint 97
+MS PowerPoint 98
+MS Project 4.0
+MS Project 98
+MS Project 95
+MS Proxy Server
+MS Search
+MS Site Server 3.0
+MS SNA Server 3.0
+MS SNA Server 4.0
+MS SNA Server 7.0
+MS SQL Server 7.0
+MS SQL Server 6.5
+MS SQL Workstation 6.5
+MS Systems Management Server 2.0
+MS Visual Basic 6.0
+MS VB 6.0
+MS Visual C++ 6.0
+MS VC++ 6.0
+MS Visual FoxPro 6.0
+MS Visual InterDev 6.0
+MS Visual J++ 6.0
+MS Visual SourceSafe 6.0
+MS SourceSafe 5.0
+MS Visual Studio 6.0
+MS Windows 98
+MS Windows NT Workstation 4.0
+MS Windows NT Server 4.0
+MS Windows NT 4.5
+MS Windows NT 4.0
+MS Windows CE
+MS Windows 95
+MS Windows 3.1
+MS Windows 3.11
+MS Windows 3.x
+MS Windows 2000 Professional
+MS Windows Technologies 
+MS Windows Media
+MS Windows 2000 Developer Center
+MS Windows 2000 Server
+MS Windows Driver Development
+MS-Windows
+MS-Win3.1/95
+MS Win3.1/95
+MS Window
+MS Word 2000
+MS Word 6.0
+MS Word 6.0.1
+MS-Word 7.0
+MS Word 97
+MS Word 98
+MS Works 4.5

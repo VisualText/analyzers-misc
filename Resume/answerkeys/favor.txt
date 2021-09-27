@@ -1,0 +1,73 @@
+
+CONTACT:
+
+Contact Name: Stephen L
+Title:    
+First Name: Stephen
+Middle Name: L  
+Last Name: Favor
+Suffix Name:    
+
+Email:       sfavor@onramp.net
+
+EDUCATION:
+  
+School Name: University of Texas at Arlington
+School Location: Arlington
+Degree: Bachelor of Science
+Major: Math and Computer Science
+  
+School Name: Golden Gate Seminary
+
+EXPERIENCE:
+
+Date: August 1996 to present
+Company: The Dyskolos Project    
+
+Date: January 1997 to August 1997
+Company: Alcatel Network Systems   
+
+Date: November 1996 to March 1997
+Company: Network Managers   
+
+Date: September 1996 to January 1997
+Company: TCSI
+Position: Senior Engineer
+
+Date: July  1996  to September  1996
+Company: Cygnus  Software/Free  Software Foundation  
+
+Date: September 1994 to September 1996
+Company: Intecom Inc
+Position: Staff Engineer    
+
+Date: June   1994    to   September   1994
+Company: DSC   Communications    Corporation
+
+Date: February 1991 to June 1994
+Company: Oryx Energy Company
+
+Date: January 1991 to February 1991
+Company: GTE
+
+Date: March  1990 to December 1990
+Company: Mobil Design  and Research  Laboratory Corporation
+
+Date: September   1990   to   December   1990
+Company: Electrocom   Automation,   Inc
+
+Date: March 1990 to April 1990
+Company: Tarrant County Junior College 
+
+Date: May   1985   to   August   1989
+Company: University   of   Texas   at   Arlington  
+
+Date: January   1988    to   September   1988
+Company: Interface   Development    Group  
+
+Date: May 1984 to August 1985
+Company: Softkey Publishing 
+
+Date: January 1980 to September 1984
+Company: TPC Designs
+Position: Assistant

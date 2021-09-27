@@ -1,0 +1,180 @@
+BRUCE WAYNE ROBINSON
+
+7315 24TH ST. W.
+
+Tacoma, WA. 98466
+
+206 566-5471
+
+brobinson@wa.net
+
+brobins@co.pierce.wa.us
+
+SUMMARY
+
+A highly skilled professional with sixteen years of experience in data
+processing. Strengths in all phases of structured design and programming
+with current methodologies. An intelligent individual with a short learning
+curve when faced with new challenges. Enjoys working as a team player, but
+can also complete a task with a minimum of supervision.
+
+Looking for part time work in assisting with project loads over the next 2
+years. Ideally this would be 15-30 hours per week in strictly coding from
+specs, or testing, COBOL, Easytrieve, JCL, Etc. I could work for anyone
+that is willing to consider telecommuting via dial-in. I will entertain
+serious inquery's only. If you think this can work for you or a company you
+service feel free to contact me.
+
+     CAPABILITIES
+
+     Languages : COBOL, BASIC, PASCAL, ASSEMBLER, IMS/DB-DC, CICS Command
+     Level, COBOL II, Easytrieve Plus, DLI.
+
+     Systems : DOS/VSE, VM, ICCF, ROSCOE, MULTIPLE CA products, MVS/ESA,
+     DFDSS, VSAM Assist,TSO/ISPF, PANVALET, SAR, EXPRESS.
+
+     Methodologies : System Development Life Cycle (SDLC), Warnier-Orr,
+     Yourdon.
+
+     Mainframe : IBM 43XX, 3090-XXX, BURROUGHS B4800-B6900, HP-3000
+
+     PC : DOS, MS-WIN3.1/95, VISIO, ACCESS/EXCEL, Wordperfect, MSOFFICE,
+
+     PC-Tools, PROCOMM-PLUS, PC-internals, troubleshooting and maintenance.
+
+     EXPERIENCE
+
+     Pierce County Government
+
+     Systems Analyst
+
+     03/97-Present
+
+     * Worked on upgrading release 9.1 of the Integral financials system to
+     release 9.5.
+
+     * Assisted on the Year 2000 project (Y2K).
+
+     Group Health Cooperative
+
+     Senior Analyst Programmer
+
+     06/96-03/97
+
+     * Assumed lead for Bonds, and fixed assets system.
+
+     * Became backup for General Ledger.
+
+     * Worked on upgrading release 2.0 of the Dunn & Bradstreet Millennium
+     system to release 3.0.
+
+     * Was the Financial Groups representative on the Year 2000 project
+     (Y2K).
+
+     Washington Mutual
+
+     Programmer Analyst II
+
+     09/93-06/96
+
+     * Continuing work on the Mortgage loan on-line maintenance system.
+     Developing a CICS based maintenance system with a batch based
+     reporting and balancing subsystem.
+
+     * Responsible for the support and maintenance of several loan
+     subsystems.
+
+     * Responsible for the Florida Software Collections system.
+
+     * Set up host to host, and PC to host file transfer systems for
+     operation with a new
+
+     loan processing system run by CPI systems in Jacksonville Florida.
+
+     TRIAD
+
+     Contractor
+
+     Washington Mutual Savings Bank
+
+     02/93 - 09/93
+
+     * Working as a contractor, developing an on-line maintenance system
+     based on an existing batch only maintenance system. All phases of
+     development from analysis, specification development, coding, testing,
+     and implementation.
+
+     Puget Sound National Bank, Tacoma, WA
+
+     Senior Programmer Analyst
+
+     9/88 to 12/31/92
+
+     * A team leader for conversions and acquisitions since 1989.
+
+     * Responsible for maintaining and enhancing various systems within the
+     scope of loan operations for the bank.
+
+     * Converted existing Assembler Commercial loan and Installment loan
+     systems to run on a 1st generation client/server network based on a
+     UNIX server linked to the mainframe.
+
+     * Lead technical person responsible for upgrading to a new release of
+     the main loan package in 1988.
+
+     Puget Sound National Bank, Tacoma, WA
+
+     Programmer Analyst
+
+     4/85 to 9/88
+
+     * Maintain and enhance existing Assembler loan system and key entry
+     package.
+
+     * Assist in development and installation of a new, in-house CICS
+     system that supported and maintained commercial loans at PSNB in
+     conjunction with an on-line teller system powered by separate
+     micro-computers made by Bunker-Ramo.
+
+     Capital Savings Bank, Olympia, WA
+
+     Programmer Analyst
+
+     2/83 to 4/85
+
+     * Analyze requirements and design subsystems for use in support of an
+     existing mortgage loan package.
+
+     * Worked with users to define requirements for changes and
+     enhancements to existing software.
+
+     * Train users in the operation of both existing and new systems.
+
+     * Responsible for the maintenance of the existing mortgage loan
+     system.
+
+     West Coast Grocery, Tacoma, WA
+
+     Programmer
+
+     5/81 to 2/83
+
+     * Support operations of computerized inventory and billing systems for
+     wholesale grocery distribution.
+
+     * Work as a member of a team to migrate from a Burroughs B4800 to a
+     Burroughs B6900 requiring 13 months and the adaptation of the entire
+     software system.
+
+     * Maintenance on MSA/Payroll.
+
+     * analyze and document existing systems.
+
+     EDUCATION
+
+     The Evergreen State College, Olympia, WA
+
+     B.A. Management/Computer Science, 1982
+
+     REFERENCES AVAILABLE UPON REQUEST
+                      Click to get back to the main page.

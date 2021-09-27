@@ -1,0 +1,152 @@
+                           Gregory L Montgomery
+                                39 Grove St
+                                   apt A
+                              Dover NH 03820
+
+                           PHONE: (603) 742-5274
+
+          EMAIL To: Gregory L Montgomery   [To Send me E-MAIL!]
+
+---------------------------------------------------------------------------
+
+OBJECTIVE
+
+To locate a full time position combining software development and/or
+hardware design.
+
+---------------------------------------------------------------------------
+
+EDUCATION
+
+                     [The University of New Hampshire]
+                      The University of New Hampshire
+                           Durham, New Hampshire
+
+                * Bachelor of Science in Computer Science
+                    Expected Date of Graduation May 1998
+
+             --------------------------------------------------
+
+                   Currently I'm taking a course in The
+                      * cs659 theory of Computation
+
+                   --------------------------------------
+
+Web Site
+
+I maintain a Web Site here at the University of New Hampshire as a resource
+for the community.
+
+                                 [Image]
+
+                             My Web Site @ UNH
+
+                         -------------------------
+
+                           [Class work at UNH]
+
+                              UNH Course Work
+
+                   --------------------------------------
+
+               * Associate of arts in Computer Science 1985
+                 * Certificate in Digital Electronics 1985
+
+                        [Saddleback Junior College]
+           Saddleback Junior College - Mission Viejo California
+
+---------------------------------------------------------------------------
+
+SKILLS
+
+PC Interfacing, Operating System Interface Software, Object Oriented
+Programming (oop), C++, Ansi C, Pascal, BASIC, Assembly Language Linux/Unix
+System Administration, X11 Graphics programming HTML Java Web Pages Web
+Site
+
+---------------------------------------------------------------------------
+
+EXPERIENCE
+
+Vitronics: Surface Mount Industry May 1996 - March 1997
+
+   * Constructed and programmed a R.O.S.C.O
+     (Redundant Over-temperature Sensing Computer)
+   * Constructed and programmed a MOLE Computer Module (Transmitter
+     Portion)
+   * Constructed and Programmed MOLE Receiver Computer
+
+imagic: Engineering Consulting Firm - October 1995 - May 1996
+
+NOTE : The name of this company is spelled exactly 'imagic'!
+
+   * Context sensitive help authoring
+   * Wrote a program that Generates C code for micro-controllers which
+     performs thermocouple to temperature translation.
+
+Free-lance Consulting :(1989 - 1995)
+
+   * Wrote an (MS_DOS) mouse driver.
+   * Sole adviser and consultant for the construction of circuits which
+     directly interface with the PC and work in the Linux environment.
+
+                  --------------------------------------------
+                                    [Linux]
+            (Linux is a free UNIX clone available on the Internet).
+
+                            [Prototype-1.0.tar.gz]
+
+                                 * Published
+     Linux Kernel modification software which is now part of the Linux
+     distribution at
+
+                           http//:www.sunsite.unc.edu
+
+   * Down load a copy of Prototype-1.0.tar.gz
+   * View the readme file for this Linux software project
+                  --------------------------------------------
+   * Consulted people on acquiring and installing Linux
+   * Tutored programming Languages and software installation.
+
+Mold Flow West: Plastics Industry - California (1983 - 1985)
+
+   * Software design in an MS-DOS environment, PC configuration, and
+     maintenance. Specific programming tasks: Cost analysis, Report
+     Generation, and Database Generation, Programs are used for consulting
+     with clients in the plastics industry
+
+---------------------------------------------------------------------------
+
+SOFTWARE EXAMPLES
+
+This software listed here is freely available software that I have written
+myself
+
+*Turbo Pascal based software that I have authored
+*Java software that I have authored and is also available at this site
+
+---------------------------------------------------------------------------
+
+INTERESTS
+
+*Drums and Percussion (professionally)
+*Photography
+
+---------------------------------------------------------------------------
+
+REFERENCES
+
+Available upon request.
+
+---------------------------------------------------------------------------
+
+Obtaining a copy of my resume:
+
+Download aText version or a MS Word version or a MS Word98 version
+
+(Note: if your browser opens the files, rather than saving them, choose
+'save as' from the file menu, and the file should save correctly)
+---------------------------------------------------------------------------
+                                 [Image]
+
+                             Back to Home page

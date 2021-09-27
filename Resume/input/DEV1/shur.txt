@@ -1,0 +1,168 @@
+---------------------------------------------------------------------------
+                               Simon B. Shur
+                              100 Cedarwood Rd
+                            Stoughton, MA 02072
+                             shur@ccs.neu.edu
+---------------------------------------------------------------------------
+Objective             To obtain challenging development team leader
+                      position that would utilize my skills and experience
+                      with SAP
+Employment
+1998-Current          Andersen Consulting
+                      Business Process Management (BPM)
+                      Boston Scientific Corporation
+                      Natick, Massachusetts
+                      Programmer Specialist
+
+                         o Propose, design, implement improvements to SAP
+                           system
+                         o Work closely with CORE team to implement S&OP
+                           process
+                         o Design, development and implementation of MRP
+                           interface for non-SAP plants
+                         o Design, development and implementation of
+                           interface handling process using Korn Shell
+                           scripts
+                         o Rewrote multiple ABAP/4 reports to improve
+                           performance
+1997-1998             The Gillette Company
+                      Global Business Process Integration (GBPI)
+                      Boston, Massachusetts
+                      Staff Programmer Analyst
+
+                         o Data conversion team leader. Responsible for
+                           Legacy data conversions to SAP for multiple
+                           implementations.
+                         o Analysis, design and implementation of reports,
+                           user exits, dialog programs in SAP/R3 system
+                           using ABAP/4
+                         o Creating job scripts and schedules using Korn
+                           Shell and AutoSys by Platinum
+
+1995-1997             The Gillette Company
+                      Gillette North Atlantic Group Information Services
+                      Boston, Massachusetts
+                      Staff Programmer Analyst
+
+                         o Development and support of Data Warehouse
+                           utilities written in C++ which interface
+                           critical data in and out from the Data Warehouse
+                           running on Oracle 7.3.2
+                         o Development of client/server Retail Management
+                           System in SYBASE 4.9.2 and C environment
+                         o Design and implementation of retail territory
+                           management application using PowerBuilder 5.0
+                           and Sybase 4.9.2 database
+                         o Member of problem resolution team
+                         o Development of production job scripts using Korn
+                           Shell
+                         o Implementation of job scheduling using Maestro
+                           for AIX on RS6000
+
+1996-Current          Variety of off site part time design and development
+                      assignments using Microsoft Access 2.0, 7.0, 8.0
+
+                         o Resources on Call. Newton, MA
+                         o Boston Medical Center. Audiology Department.
+                           Boston, MA
+                         o Meals on Wheels. Boston, MA
+
+1995                  The Gillette Company
+                      Stationery Products Division
+                      Boston, Massachusetts
+                      Information Resources Management Group
+                      Associate Information Resource Analyst
+
+                         o Design and development business systems for
+                           Finance and Customer Service departments using
+                           MS Access v2.0
+                         o Support existing systems written in MS Access
+                           v2.0
+                         o Hardware and Software Support for HQ and Field
+                           Sales Force
+                         o Novell network support (250 users)
+
+1994-1995             The Gillette Company
+                      Gillette North Atlantic Group
+                      Boston, Massachusetts
+                      Information Resources Management Group
+                      Information Resource Analyst (COOP position)
+
+                         o Design and implementation of business systems
+                           using Visual Basic 3.0 as front end and MS
+                           Access v2.0 database installed on Novell file
+                           server as backend database
+
+1993-1994             GTECH Corporation
+                      West Greenwich, Rhode Island
+                      Test Technician
+
+                         o In-circuit and functional testing of boards
+                           using IBM-PC
+
+1991-1992             Moscow Institute of Electronic Technology
+                      Moscow, Russia
+                      Research and Development Department
+                      Programmer
+
+                         o Development of Information Processing System for
+                           Russian Stock Exchange using Borland C++ v2.0
+
+
+Education
+1994-1996             Northeastern University, Boston, Massachusetts
+                      Master of Science in Computer Science
+                      Graduate School of Computer Science
+                      Concentration: Databases Design
+                      Courses:
+
+                         o Transaction Processing
+                         o Distributed Databases
+                         o Object-Oriented Databases
+                         o Networks: Design and Performance
+                         o Distributed Operating Systems
+1994                  Rhode Island College, Providence, Rhode Island
+                      Overall GPA 3.92
+1988-1992             Moscow Institute of Electronic Technology
+                      Moscow, Russia
+                      Bachelor of Science in Computer Science
+                      Overall GPA 3.95
+
+Skills                Operating Systems: MS-DOS/Windows 3.1, Windows95, AIX
+                      3.2.5, XWindows
+                      Software tools: Microsoft Power Point 4.0, 7.0, 8.0,
+                      Microsoft Excel 5.0, 7.0, 8.0
+                      Microsoft Word 6.0, 7.0, 8.0, LOTUS cc:Mail v 2.2
+                      Development Tools: Turbo Pascal 6.0 (7.0), Borland
+                      C++ v2.0,
+                      Microsoft Access 2.0, 7.0, 8.0, Microsoft Visual
+                      Basic 3.0, PowerBuilder 3.0, 5.0,
+                      SYBASE v4.9.2, Transact-SQL, ORACLE 7.3, PL/SQL, OQL
+                      (ODMG - 93 Standard), HTML, Java, JavaScript, Korn
+                      Shell, sed, awk, ABAP/4
+                      Hardware: IBM-PC, Macs, VAX, LAN, SUN Workstation,
+                      IBM RS6000
+
+Major Strengths          + Able to establish effective priorities
+                         + Strong problem solving abilities
+                         + Ability to interact with people on all levels,
+                           using acute listening skills, diplomacy and
+                           discretion
+                         + Strong knowledge of architecture of SAP/R3
+                           system, ABAP/4 language, Data Dictionary of
+                           SAP/R3.
+                         + Strong knowledge of UNIX
+                         + Strong knowledge of Microsoft Access 2.0/7.0,
+                           PowerBuilder 5.0, SQL, theory of relational
+                           databases
+Personal              U. S. permanent resident
+References            Available upon request
+
+Please send any questions to shur@ccs.neu.edu
+
+---------------------------------------------------------------------------
+Copyright © 1996 Simon Shur
+Back to Business Section
+
+---------------------------------------------------------------------------
+                                 [Image]

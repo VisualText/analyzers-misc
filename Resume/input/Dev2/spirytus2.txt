@@ -1,0 +1,149 @@
+SZACHNA SPIRYTUS
+
+915 21st Street South
+Arlington, Virginia 22202
+
+email: sspirytus@worldnet.att.net
+http://www.geocities.com/SiliconValley/Heights/2476/empindex.html
+
+OBJECTIVE:
+            -   Contract work as a C++ Object Oriented Software Developer
+                in WASHINGTON DC METROPOLITAN AREA ONLY, or
+            -   Permanent employment in a technical leadership role
+                
+            
+CAREER SUMMARY:
+            Over 20 years experience in software development with specific 
+            expertise in:
+
+            -   Technical Management
+            -   Client/Server Technology
+            -   Internet Servers
+            -   PKI Technology
+            -   Object Oriented Design and Development
+            -   Windows NT/95/3.1, AIX, OS/2, C++, C, SQL, CGI, JAVA, HTML
+
+            Application Areas: PKI Based Secure Web Server, Fixed Income 
+            Securities, Telecommunications, Text Handling, Accounting
+
+            Hardware: IBM Compatible PC's, RS/6000, IBM Mainframes
+
+            Programming Languages: C++, C, SQL, REXX, JAVA, HTML
+
+            Operating Systems: Windows NT/95/3.1, AIX, OS/2, DOS, MVS
+
+            Database and Support Software: DB2/2, DBASE, variety of other 
+            LAN, communications, and support software
+
+EDUCATION:
+            M.S., Mathematics, ABT, University of Colorado
+            B.S., Mathematics, Metropolitan State College
+    
+EXPERIENCE  CONTRACT SOFTWARE DEVELOPER on the following projects:
+HIGHLIGHTS:
+9/88 - pr.
+            IBM Corporation, World Registry Project.  The World Registry 
+            service provides a PKI based secure server for processing 
+            commercial transactions and secure storage of data.  
+            Participated in design and development of various parts of 
+            the system. Environment: AIX, xlC , Perl, Tcl, Rogue Wave 
+            C++ Libraries.
+
+            Envision Software, Inc.  Developed parts of a prototype to 
+            display data base performance statistics.  Environment: Windows 
+            NT, Borland C/C++, OWL.
+
+            MCI Corporation.  Participated in an object oriented analysis and 
+            design effort for the Consumer Billing System using Excelerator 
+            and Rational Rose tools.  Also provided programming support for 
+            an IPC system.  Environment: Windows  NT, Borland C/C++.
+
+            Global Trade Technologies, Inc.  Designed and developed 
+            Price/Yield and Analytics calculators for a fixed income 
+            securities trading system for banks.  Environment: Windows 3.1, 
+            Borland C/C++, ZApp and Rogue Wave C++ Libraries.
+
+            Telesystems Marketing,Inc.  Designed and developed an 
+            Interprocess Communications Subsystem to distribute phone call 
+            processing PC's on a LAN.  Environment: OS/2, IBM C/C++, PM 
+            Class Library, LAN, SQL Database.
+
+            National Biosystems, Inc.  Added enhancements and provided 
+            support for a medical bill audit system.  Environment: OS/2 PM, 
+            C/C++, SQL Database, LAN.
+
+            MCI Corporation, Call Search project.  Designed and developed 
+            parts of the system for processing phone line trouble tickets.  
+            Environment: OS/2 C++, SOM, LAN, EHLLAPI interface to mainframes.
+
+            MCI Corporation, Integrated Sales Information System (ISIS) 
+            project.  Developed  parts of ISIS platform using 
+            CHOREOGRAPHER.  Redesigned and developed the  entire platform in 
+            "C".  Environment: OS/2, Presentation Manager, SQL Data Base, 
+            LAN, "C".
+
+            IBM Corporation, Process Operations Management System (POMS) 
+            project.  Developed multi-threaded Dynamic Link Libraries (DLL's) 
+            for POMS.  The DLL's included Device Drivers, SQL Data Base 
+            Access, Graphics and Dialog Windows, Variety of Time/Date 
+            Functions, and Linked Lists.  The environment consisted of OS/2 
+            PM, LAN, SQL Data Base, POMS, "C" language.
+
+            IBM Corporation, Office Vision/Composite Office Editor project.  
+            Designed and developed text formatting modules for the Composite 
+            Office Editor.  Environment: OS/2 PM, LAN, "C" language.
+
+            National Institutes of Health (NIH).  Provided data base 
+            management support for administrative applications using CLIPPER, 
+            DBASE III+, and "C" in DOS/LAN environment.
+
+5/87 - 9/88 
+     and
+5/85 - 5/86
+            CYBERTECH, INC. Self Employed Software Developer and Publisher.
+            Designed, developed and marketed the VersaEdit software package. 
+            VersaEdit is a source code editor for use on IBM PC's.
+            
+5/86 - 5/87
+            ADVANCE, INC.  Manager on a project at the National Science 
+            Foundation to determine requirements, design and implement 
+            three management information systems: Travel, Personnel 
+            Management, and Training.  
+
+            Also managed an effort to provide information management support.
+            The environment consisted of PC's and HP 3000 mini on 3COM LAN, 
+            IMAGE, CLIPPER, DBASE III+, and "C" language.
+            
+11/83 - 5/85
+            GENESYS CORP.  Senior Systems Analyst on U.S. Army Operating and 
+            Support Cost Management Information System (O&SCMIS) project.  
+            Was responsible for evaluation and revision of the Replenishment 
+            Spares Subsystem. 
+
+            Senior Systems Analyst on Automated Social Insurance System for 
+            Egypt.  Determined requirements and developed specifications for 
+            major parts of the system.
+            
+8/82 - 11/83
+            SYSTEMS ARCHITECTS, INC.  Project Manager on an effort to 
+            determine requirements and produce procurement documents for 
+            acquisition of an electronic copier/printer.
+
+            Senior Systems Analyst on Pension Benefit Guaranty Corporation 
+            Project.  Assisted the client in determination of requirements 
+            for an integrated corporation wide computer system using the 
+            Yourdan/DeMarco method.
+            
+6/81 - 7/82
+            MCR, INC.  Project Manager for software development on U.S. Army 
+            O&SCMIS (see 11/83 - 5/85) project.
+            
+6/81 - 4/74
+            Employed by several Washington area consulting firms as 
+            Programmer/Analyst, Senior Systems Analyst, Task Leader, and 
+            Project Manager in development of information systems.  The 
+            development environments consisted of IBM mainframes, COBOL, 
+            INQUIRE, SYSTEM 2000, IDMS.
+
+LANGUAGES:
+            Russian, Polish

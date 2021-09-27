@@ -1,0 +1,40 @@
+
+CONTACT:
+
+Contact Name: Gregory L Montgomery
+First Name: Gregory
+Middle Name: L
+Last Name: Montgomery
+
+Number:      39
+Street:      Grove
+Road:        St
+Unit:        apt
+Room:        A
+City:        Dover
+State:       NH
+Zip:         03820
+Home phone:  603 742 5274
+
+EDUCATION:
+
+Date: May 1998
+School Name: The University of New Hampshire
+School Location: Durham, New Hampshire
+Degree: Bachelor of Science
+Major: Computer Science
+
+EXPERIENCE:
+
+Date: May 1996 - March 1997
+Company: Vitronics
+
+Date: October 1995 - May 1996
+Company: imagic
+
+Date: 1989 - 1995
+Position: Free-lance Consulting
+
+Date: 1983 - 1985
+Company: Mold Flow West
+Location: California  

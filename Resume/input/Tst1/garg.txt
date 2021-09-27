@@ -1,0 +1,90 @@
+                                  ANU GARG
+
+                             anu@wordsmith.org
+                       http://www.wordsmith.org/anu
+---------------------------------------------------------------------------
+
+INTERESTS:
+
+   * Internet, WWW, JAVA.
+
+COMPUTER SKILLS:
+
+   * Internet: Java, JavaScript, WWW, HTTP, HTML, CGI, SMTP, VRML.
+   * Languages: C/C++, Pascal, Fortran, Prolog, Basic, 80x86, SQL, awk,
+     Perl.
+   * OS/Environments: Unix, Windows, DOS, OS/2, VMS.
+   * Databases: FoxPro, dBase, Paradox, SQL.
+   * Hardware: PC, Sun, RS/6000, Vax, Mac.
+
+EXPERIENCE
+
+   * Internet Engineer, AT&T Labs. [May '96 - ]
+     Design and architecture of WWW related projects.
+
+   * Senior Staff Specialist, MCI. [Jun '95 - Apr '96]
+     Involved in design and testing of WWW related projects. Provided
+     technical advice in issues related to Internet commerce and electronic
+     publishing. Performed stress testing of servers based on probabilistic
+     model. Involved in coding and testing of modules for web site hosting.
+     [Unix, Perl, CGI, HTML]
+
+   * Programmer (part-time), CWRU. [Feb '94 - Dec '94]
+     Designed a Musical Scores Browser to achieve integration of scores,
+     analyses and performances with a graphical user interface. The
+     authoring part of this software lets one design modules integrating
+     different component of music. This software is used by music students
+     to study musical scores, audio performances and their analyses
+     concurrently. [MS Windows, C++]
+
+   * Database Programmer (part-time), Cleveland Clinic Foundation. [Jun '92
+     - Jan '94]
+     Designed database applications for analyzing patient financial data.
+     This application works as a data mining tool by making the mainframe
+     data available to analysts for identifying trends and patterns. The
+     visual querying interface uses SQL queries to access the database.
+     [DOS, FoxPro, C]
+
+   * Research Engineer, Centre for Development of Telematics. [Sep '90 -
+     Aug '91]
+     Designed processes in the C-DoT digital telephone exchange to monitor
+     and isolate faults, and reconfigure the telephone exchange for high
+     availability. Handled the full life-cycle of the process including
+     debugging and documentation. [Unix, C]
+
+   * Systems Engineer, Instrumentation Ltd. [Aug '88 - Jul '90]
+     Developed and implemented real-time system designs for control
+     automation of Bhilai Steel Plant. Designed graphical interfaces for
+     dynamic process information display. Developed customized real-time
+     routines for process log reports. Provided customer training. [DCS,
+     P-BASIC]
+
+EDUCATION:
+
+   * Case Western Reserve University.
+     MS, Computer Science, January 1995.
+   * Harcourt Butler Technological Institute.
+     BS, Computer Science, May 1988.
+
+OTHER:
+
+   * Designed a wordserver which runs reference services using email.
+     Currently in use by over 183,000 people in more than 163 countries.
+   * Ability to absorb technical knowledge quickly and teach it to others.
+   * Active member of Association for Computer Machinery (ACM).
+   * Regular contributor to several national computer magazines. Over a
+     dozen publications to credit, including a program and a science
+     fiction.
+   * Editor of computer science department newsletter Image at HBTI.
+   * Authored MathWorld - a math software based on National Council of
+     Mathematics Teachers (NCTM) recommendations.
+   * Freelance correspondent for IEEE Institute.
+   * Conducted a workshop for Cleveland area High School math teachers on
+     ``Using Computers in Effective Instruction of Math.''
+   * Winner of Cool Applet of the Week award by SUG JAVA SIG (Sun Users
+     Group JAVA Special Interest Group), cool applet nomination by Gamelan.
+
+TRAINING:
+
+   * Attended course in Advanced Java Programming by Sun Microsystems.
+   * Attended training in search engine technology by OpenText Corp.

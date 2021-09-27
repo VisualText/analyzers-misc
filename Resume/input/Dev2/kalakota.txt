@@ -1,0 +1,151 @@
+ Koti R. Kalakota 14209 Cyber Place, Apt # 103
+
+ Tampa, FL 33613
+
+                                      Phone: (813) 977-5779
+
+                                 E-Mail: Kalakota@tampabay.rr.com
+
+                                 OBJECTIVE
+
+Seeking  a challenging  position developing applications  using VisualBasic
+and relational databases  with Access/Sybase/Oracle which encourages growth
+and   leadership   opportunities  while   utilizing  technical   expertise,
+innovative abilities, and interpersonal skills.
+
+                         SUMMARY OF QUALIFICATIONS
+
+An engineer  with five  years professional experience  with solid technical
+and computer  skills. A  quick learner and critical  thinker with excellent
+research ability  and self-motivation. An enthusiastic  team player who can
+produce results under tight time and budget constraints.
+
+SKILLS
+
+ GUI:                      Visual Basic 6.0, 5.0 and 4.0 & PowerBuilder 5.0
+
+ Add. App.                 Crystal Reports & ODBC
+
+ Salient Features          RDO, COM, ActiveX, VBA, 2-3 Tier Applications
+ (VB):
+
+ DataBases:                SYBASE, ORACLE, SQL Anywhere, and Access
+
+ EDMS:                     Documentum (database and version control)
+
+ Tools:                    SQL*Plus, PL/SQL, SAS and SPSS
+
+ Operating Systems:        Windows NT, Windows 95, Windows 3.1 and DOS
+
+PROFESSIONAL EXPERIENCE
+
+Programming
+
+Consultant, MangoTech Inc, Tampa, FL Jan’99 – Present
+
+Client: GreatStone Mortgage Inc.
+
+Environment: Visual Basic 5.0, VBA, MS Access, Credit Reporting Tools,
+Windows 95
+
+               Developed applications to obtain Credit Reports of
+               individuals from EXPERIAN using SMART.alx and distribute
+               them to various parts of the country. This is very time,
+               finance and credit sensitive project. This application is
+               the most critical tool for any mortgage company. This
+               application tracks Home Loan Borrowers physical data, credit
+               history and other related information.
+
+               Visual Basic for Applications (VBA – Word and Excel) was
+               employed for reporting and COM features were used
+               extensively. RDO is used for database connectivity and
+               retrieval. MS Access is used for data storage. This job also
+               involved creating System-Internal-Specification (specs for
+               the project), advice to the client, client relationship and
+               user training.
+
+General Dynamics Defense Systems, MA April’98-Dec 31’98
+
+          Environment:  Sybase  11, Visual  Basic  4.0  & 5.0,  Documentum,
+          Crystal Reports, SftTree, Windows 95
+
+               Worked  with a  team  of 20  in developing  applications for
+               Diamler-Chrysler   (Mercides   Benz   and   Chrysler).   The
+               application  includes a comprehensive  Diagnostics Authoring
+               System and Publish By DataBase2.
+
+               Diagnostics  Authoring Systems  will be  used to  create new
+               Vehicle models  including every individual  part in vehicles
+               and various models for every vehicle type.
+               PublishByDataBase2  helps   in  authoring  manuals  for  the
+               vehicles.
+
+               Sybase for  backend and  Visual Basic for  Front End coupled
+               with  Documentum for  version  control and  manipulating the
+               database using SQL and  DQL are used. ODBC is used to bypass
+               Documentum at  critical junctures  to speed up  the process.
+               SftTree  (an   ActiveX  component)  is   used  for  creating
+               hierarchical  (file  manager  type)  presentations.  Crystal
+               Reports  was used  for  reporting. And  also, several  third
+               party tools  and ACTIVE-X  Components were also  employed to
+               better design the application.
+
+Consultant March'98-April’98
+
+          Environment: ORACLE 7.3.2, Visual Basic 5.0,
+          SQL*Plus,PL/SQL,WindowsNT
+
+               Designed  and  developed a  patient  tracking  system for  a
+               dietetic  organization.  This  system  keeps  track  of  the
+               patient information,  problems, diagnosis, prescriptions and
+               other data. This system  also keeps track of billing, health
+               insurance policies and  related information. This system was
+               initially developed  in MS  Access and later  converted into
+               ORACLE with Visual Basic as front end.
+
+BRPC, MA Apr'96-Feb'98
+
+Environment: ORACLE 7.3.2, Visual Basic 4.0, PowerBuilder 5,
+SQL*Plus,PL/SQL, Windows95
+
+               Designed and developed time card system for the payroll
+               using ORACLE and Visual Basic. This system helps in
+               preparing progress reports and invoicing.
+
+               This was initially developed in Excel, and then imported
+               into ORACLE
+
+               Designed and developed a mailing system using ORACLE and
+               Visual Basic. This system was initially created in Paradox
+               and later converted into ORACLE. It enables the user to
+               add/modify/delete the information on the contacts. This
+               systems aids in selecting the mailing list depending on the
+               need and codes. This mailing system also enables the
+               printing of mailing labels and actual mail itself.
+
+               Created an application to assist engineers to identify the
+               vehicle movement patterns at traffic rotaries. This
+               application will take the license plate information from an
+               ORACLE database and identify each vehicle's entry and exit
+               points, including the direction and intermediate locations.
+
+Systems Administration
+
+BRPC Apr’94-Feb’98
+
+Environment: PCs - DOS, Windows 3.1, Windows 95 and Windows NT
+
+               Supported a staff  of 10. Responsibilities included: Systems
+               Administration,  Hardware  fixes,  evaluating  software  and
+               hardware   needs   of   the   office,  purchasing   computer
+               systems/components, assembling  computer systems, installing
+               software packages and operating systems, and
+               trouble-shooting software and hardware problems.
+
+EDUCATION
+
+Master of Science Utah State University
+
+Bachelor of Technology Sri Krishnadevaraya University
+
+[Image]

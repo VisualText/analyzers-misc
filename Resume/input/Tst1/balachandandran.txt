@@ -1,0 +1,129 @@
+Bobby Balachandandran,
+355, Hwy 30, #1322,
+Grand Prairie, TX-75050
+bvbalac@yahoo.com
+http://www.cs.pdx.edu/~bobby/interest/resume.html
+---------------------------------------------------------------------------
+
+Objective
+
+   * I am looking for a challenging employment opportunity in the areas of
+     CORBA, GUI design, Object Oriented Programming, OO design, MS Windows
+     Programming.
+
+Profile
+
+   * I have more than 4 years of work experience in Windows Programming in
+     Visual C++ environment using MFC, 4 years programming experience in
+     C/C++, Transact SQL, SUN RPC, TCP/IP Internet-working, DataBase
+     Systems, Operating Systems design and also a good real time experience
+     in product development and Computer Security. And good working
+     knowledge in both UNIX /X-Windows and DOS/Windows 3.x, Windows
+     NT4.0/95 environment.
+
+Education
+
+   * M.S. Computer Science, Portland State University, Portland, OR. (Fall
+     '94-Fall '95)
+   * B.S. Computer Science and Engineering, Government College of
+     Technology (GCT), Bharathiyar University, Coimbatore, India (May
+     '90-May '94)
+
+Course Work
+
+   * Concepts of Software Engineering, Programming Languages, Theory of
+     Computation, Computer Communication, TCP/IP Internetworking, Concepts
+     of Operating System, Elements of Cryptography, Parallel Algorithm,
+     Computer Security and Software Hardware verification.
+   * Project Management, Global Business Issues.
+
+Computer Skills
+
+   * C, C++, Java, Pascal, COBOL, ProLog, LISP, FORTRAN.
+   * Microsoft Visual C++, Microsoft Foundation Classes(MFC).
+   * IBM VisualAge for C++, IBM Open Class Library.
+   * Static and Dynamic Embedded SQL for IBM DB2 and Oracle 7.1.
+   * Install Shield (2.0), PVCS, Source Safe, DCS.
+   * Web page development, Shell Programming.
+   * Page Maker, Corel Draw, Ventura.
+   * MS- Access 2.0, dBase IV plus, FoxBase.
+
+Experience
+
+   * Technical Architect, MCI Systemhouse, Dallas, TX. (Sept 98 to current)
+
+     Involved in distributed Call Center Solution development using the
+     Chordiant framework with Forte being the backend and Visual Age for
+     Java as the front end.
+
+   * Senior Software Consultant, McLeod USA, Cedar Rapids, IA. (May 97 to
+     Sept 98)
+     Involved in the design and implementation of a CORBA client and server
+     for the Callback mechanism in a heterogenous, distributed environment
+     using Orbix 2.3, under Visual C++ 5.0. The server interfaces with IBM
+     DB2 database on an AS/400 machine using IBM's DDCS. The client being
+     an IUI application, developed using Visual Age C++ running on Windows
+     NT 4.0.
+     Involved in the design and development of Intelligent User
+     Interface(IUI) using Visual Age for C++ 3.5 for Windows NT4.0
+     utilizing the IBM Open Class Libraries with the backend database being
+     IBM DB2 Ver 2.1.2 on AS/400 for McLeod USA. IBM Data Access Builder
+     was used to create database access classes which was customized for
+     the existing DB2 tables. Extensive DB2 CLI(Call Level Interface),
+     dynamic and static Embedded SQL was used. McLeod USA is a
+     telemanagement company in the business of providing an integrated
+     telephone package PrimeLine, that incorporates residential telephone
+     service, voice mail, paging, and Internet access all in one bill. IUI
+     is a GUI based application developed mainly for Sales and the
+     Telemarketing people who record/give out information on-line over the
+     phone to McLeod customers.
+
+   * Senior Software Consultant, ACT, Jacksonville, FL. (Nov 96 to May 97)
+     Involved in the design and development of Forms Administrator, for the
+     AT&T Customer Service Product (Custom Touch 3). Development involved
+     creating an application which would allow a DBA to create a new
+     Survey/Cuecard/Online Form, which can be used by the Customer Care
+     Representative, while answering the calls. This was done using Visual
+     C++ 4.1 in Windows NT environment, with Oracle 7.1 as the backend and
+     ODBC at the Client Level Interface.
+
+   * Software Engineer, Intel Corporation, Portland, OR. (June 95 to Nov
+     96)
+     Involved in the design, development and implementation of a Graphical
+     User Interface(GUI) for the Intel Netport Print Server, using
+     Microsoft Foundation Classes(MFC), under Visual C++ 1.52 environment.
+     This Windows(3.x/NT/95) application also includes support for Novell
+     Netware, UNIX, TCP/IP,SNMP, IPX and AppleTalk protocol printing. Also
+     involved in the design and development of a 32-bit GUI using MFC 4.1
+     under Visual C++ 4.1, and sustaining the released 16-bit Windows
+     Application.
+
+   * Research Assistant Dept. of CS, Portland State University.
+     Involved in developing a secure Operating System layering over the
+     Mach Operating System funded by the National Security Agency (NSA).
+
+   * Programmer Analyst, Computer Systems Corp., Coimbatore, India. (Mar 94
+     to Sept. 94)
+     Worked in building front ends for DataBase applications using
+     Microsoft Foundation Classes(MFC), in Visual C++ environment and the
+     development of a menu driven debugger for the C++ programming
+     language.
+
+Selected Projects
+
+   * Designed a Graphical User Interface for a FORTRAN Engine running
+     environmental engineering application in the Civil Engineering Dept.
+     at Portland State using MFC.
+   * Designed a Reliable User Datagram Protocol layer over the UDP layer of
+     the TCP/IP protocol suite.
+   * Designed a file server that uses remote procedure calls and
+     implementing various system calls using this layer.
+   * Designed a simple file transfer protocol with various options of file
+     transfer.
+
+References
+
+   * Upon Request.
+
+---------------------------------------------------------------------------
+bvbalac@yahoo.com

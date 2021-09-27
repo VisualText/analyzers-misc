@@ -1,0 +1,110 @@
+
+
+                               Jane Prusakova
+
+                            prusakov@komkon.org
+                http://www.komkon.org/~prusakov/resume.html
+                       (MSWord) (PostScript) (ASCII)
+
+
+Skills:
+
+   * Experience in: all stages of a project life-cycle, porting.
+   * Background: security, OOP, Internet, networking, client/server.
+   * Languages: C/C++, Tcl/Tk, Java, Perl, RISC assembly, FORTRAN, HTML,
+     Basic.
+   * Tools: VC++, WinSock, MSDevStudio, OpenGL, Illinois FM, MPI, LaTeX,
+     etc.
+   * Operating Systems: Unix(various flavors), WindowsNT (v.3.51, 4.0),
+     MS-DOS.
+   * Hardware: PentiumPro, Sun SPARC, HP, SGI, CM-5.
+   * Work well with others, can handle deadlines, can perform under
+     pressure.
+
+Work Experience:
+
+   * Software developer
+     Netscape Communications Corp., Mountain View, CA -- 01/98 - present
+
+     Core Technology Division, Security group.
+     Working on Netscape security technology (PKI architecture). Design and
+     implementation of security applications and libraries.
+     Public key encryption architecture(PKI).
+     Added functionality to encryption libraries, design and implementation
+     of security manager application.
+     Worked on PKCS11 and PKCS7 modules, added Diffie-Hellman key
+     generation (PKCS3), worked on SSL API design and documentation.
+     Java, C, Perl. OO programming, multithreaded environment.
+     Portable code: SunOS, HPUX, Irix, Linux, Windows, etc., multiple
+     versions.
+   * Software engineer
+     NCSA (National Center for Supercomputing Applications), Champaign, IL
+     -- 09/97 - 12/97
+     Chemical Engineering Application Team Design and implementation of
+     Chemical Engineering Workbench on the Web.
+     Integrating various software packages.
+   * Software engineer
+     Intel Corp, Santa Clara, CA -- 05/97 - 08/97
+     California Technology and Manufacturing. ETEST group
+     Design and development software tools for process automation and data
+     retrieval and visualization.
+     Tcl/Tk(incr Tcl - object oriented), HP Basic
+   * Research Assistant
+     University of Illinois at Urbana--Champaign, Champaign, IL -- 06/96 -
+     05/97
+     Concurrent Systems Architecture Group
+     Port from Unix to NT and verification of MPI-FM on NT.
+     Collected performance data.
+     VC++, MSDN, MSDev, WinSock, Purify
+   * Programmer
+     Bitwise Internet Technology, Boston, MA -- 04/96 - 06/96
+     Developing automated Unix system administrator application.
+     Coordinated a team of 3 programmers, implemented the back end.
+     Application allowed to monitor and reconfigure the Unix system
+     services via GUI.
+     Design and implementation of e-mail filter and parser for
+     email-to-pager system.
+   * Programmer
+     Boston University, Psychology Department, Boston, MA -- 12/94 - 3/96
+     Design and implementation of experiments for a cognitive psychology
+     research, stastistical analysis.
+     Coordinated a team of psychology students running the experiments,
+     trouble-shooted for a PC-based system.
+     Real-time graphics using MEL - Psychology Software environment
+   * Software engineer
+     New England Medical Center, Boston, MA -- 10/95 - 06/96
+     Technical support, hardware and software installation. Trouble
+     shooting.
+   * Software engineer
+     Smart-Food Coop, Cambrige, MA -- 07/95 - 09/95
+     Developing software for the supermarket on the Internet. (Perl scripts
+     allowing to browse the database of available products, create consumer
+     basket,
+     compile and send in order, process all orders and map deliveries.)
+     Design of the company Web site and advertisement on the Internet.
+
+Education:
+
+     University of Illinois at Urbana-Champaign, Champaign, IL -- Summer
+     '96 - Fall'97
+     Master of Science in Computer Science '98
+     Thesis work in Distributed Filesystems with Prof.G.Belford, U of IL.
+
+     Boston University, Boston, MA -- Fall '94 - Spring '96
+     Bachelor of Computer Science, minor concentration in Economics.
+
+     Gorky State University, Gorky, Russia -- Fall '91 - Fall '93
+
+Past Projects
+
+Note: eligible to work in U.S. on unlimited basis.
+                           References available.
+
+---------------------------------------------------------------------------
+
+Resume(PostScript).
+Resume(MSWord).
+Resume(ASCII).
+
+---------------------------------------------------------------------------
+                Email your comments to prusakov@komkon.org.

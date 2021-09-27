@@ -1,0 +1,45 @@
+
+CONTACT:
+
+Contact Name: Christina Elaine Overacre
+First Name: Christina
+Middle Name: Elaine
+Last Name: Overacre
+
+Number:      192
+Street:      Spotswood
+Road:        Trail
+City:        Penn Laird
+State:       VA
+Zip:         22846
+Home phone:  540 433 9045
+Email:       philosopher@rica.net
+
+EDUCATION:
+
+Date: May, 1998
+School Name: James Madison University
+School Location: Harrisonburg, VA
+Degree: B.S.
+Major: Computer Science
+Minor: Information Technology
+
+Date: May, 1992
+School Name: James Madison University
+School Location: Harrisonburg, VA
+Degree: B.A.
+Major: Communications and English
+Minor: Journalism
+Honors: cum laude    
+
+Date: June 1988
+School Name: Brookville High School   
+School Location: Lynchburg, Virginia
+
+EXPERIENCE:
+
+Date: December '96 to present
+Company: Myositis Association of America (MAA)
+Position: Assistant Project Manager
+Location: Harrisonburg, Virginia
+

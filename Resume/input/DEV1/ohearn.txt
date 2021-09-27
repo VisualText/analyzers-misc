@@ -1,0 +1,113 @@
+                             Stephen L. O’Hearn
+
+                             12315 Manvel Lane
+                           Bowie, Maryland 20715
+                            Email: soh@clark.net
+
+---------------------------------------------------------------------------
+
+Objective: To apply my database programming and systems analysis
+experience, working as an independent computer systems consultant, working
+on contracts in the Washington DC - Baltimore metropolitan area.
+
+Education: B.B.A., The George Washington University, Business
+Administration (with special honors), concentration in Information
+Processing - 1983
+
+Skills: ORACLE 6/7 (including SQL*Plus, Forms 3/4, PL/SQL, Pro*C,
+SQL*Loader, SQL*Net), Sybase, Informix; Microsoft Access; C, FORTRAN,
+Pascal, Ada, COBOL, Assembly; MS Windows, VAX VMS (DCL), MS-DOS, SCO Unix;
+TCP/IP; Infopump.
+
+Clearance: Information Available upon request.
+
+Experience:
+
+1995 - Present: Independent Computer Consultant
+World Bank - Controller’s
+
+Modified the Financial Data Base (ORACLE 7, VAX with VMS, DCL), to load
+data from new Loan Administration System (Sybase, Sun running Unix). Wrote
+scripts in ORACLE, Sybase, DCL, Infopump to transfer data between systems.
+
+1993 - 1995: Boeing Information Services, Inc. - Business Systems
+Programmer / Analyst
+Reserve Component Automation System (RCAS) [1993 - Present]
+
+Performed ORACLE 6/7 conversion of the Work Control System, an enterprise
+application supporting program management, on a VAX 6510/6630 cluster
+running VMS. Used SQL*Forms 3.0, ORACLE Forms 4, PL/SQL, SQL*Plus.
+Developed prototype Microsoft Access front-ends. Assisted team with SQL*Net
+installation for proof-of-concept client-server effort.
+
+Used ORACLE 6 (SQL*Forms 3.0, PL/SQL, Pro*C, SQL*Plus, SQL*Loader,
+Export/Import) to develop the System Problem Reporting application serving
+12 departments, 450 users. Included data conversion from Informix
+applications. Performed full life-cycle of development, standards
+definition, and data conversion. Performed majority of coding in all areas;
+also led team of four to assist with design, coding. Received Boeing
+Special Achievement Award.
+
+Serve as backup DBA. Provide DBA services during DBA absence or peak work
+cycles. Work with team to define application development life cycle
+standards.
+
+Used ORACLE 6 (SQL*Forms 3.0, PL/SQL, SQL*Plus, Pro*C) on a VAX 6510, to
+help develop the Maintenance Status Report, a financial application
+involving an estimated $400 million in revenue. Received Boeing Merit
+Award.
+
+NASA Information Resource and Management Systems (IR & MS) [1994]
+
+Used ORACLE 6 (SQL*Forms 3.0, SQL*Plus, PL/SQL, Pro*C) on VAX cluster to
+install, enhance Work Control System. Involved Sybase data conversion.
+
+1993 - 1994 - Atlantic Research Corporation - Independent Consultant
+
+Used ORACLE 6 (SQL*Forms 3.0, PL/SQL, SQL*Plus, SQL*Loader, Export/Import)
+on a PC, to develop helicopter technical specification database. Performed
+full life cycle of development. Performed DBA functions.
+
+1983 - 1993: Atlantic Research Corporation - Senior Staff
+Reserve Component Automation System (RCAS) [1991-93]
+
+Under contract to Boeing, used ORACLE 6 (SQL*Forms 2.3, SQL*Plus,
+SQL*Loader, Export/Import, Pro*C) on a VAX 11/780 and a MicroVAX to
+develop/integrate the Work Control System; full life-cycle of development.
+
+Installed ORACLE 6 on a MicroVAX. Installed, modified custom applications
+in SQL*Forms 2.3, SQL*Plus, Pro*C. Served as ORACLE DBA for one year.
+
+NASA Space Station Technical Mgmt Info Support (TMIS) [1988-91]
+
+Used ORACLE 5 (SQL*Forms, SQL*Plus, SQL*Loader) on VAX 11/780 cluster to
+develop applications, including Problem Reports/Service Requests, Help
+Desk, Equipment/Software Tracking. Full life cycle development.
+
+U.S. Army Foreign Science and Technology Center (FSTC) [1983-84,86,90,93]
+
+Used FORTRAN 77 on an IBM 43xx to develop, enhance helicopter modeling and
+performance estimation program, and a mission profile program. Used Lotus
+Symphony for technical specs database. Performed full life cycle of
+development.
+
+NASA Office of Aeronautics and Space Technology (OAST) [1985-1988]
+
+Used Pascal, Forms Management System (FMS) on a VAX 11/780 to develop
+budget tracking system, full life cycle development; received NASA Public
+Service Group Achievement Award (1988).
+
+Used Pascal/FMS on VAX to create budget tracking app; FORTRAN 77 on IBM
+43xx to enhance econometrics model, Datatrieve on VAX, Hypercard, 4th
+Dimension on MacIntosh, Basic on DEC Pro350 for various applications.
+
+References available upon request
+
+---------------------------------------------------------------------------
+Last updated November 1995
+
+Email at soh@clark.net
+
+Return to my home page
+
+---------------------------------------------------------------------------

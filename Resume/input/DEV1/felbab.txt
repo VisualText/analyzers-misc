@@ -1,0 +1,81 @@
+                             CARY JAMES FELBAB
+
+                         124 Crystal Lake Road West
+                         Burnsville, MN 55306-5027
+                tel: (612) 898-1499 / email: cary@felbab.com
+
+OBJECTIVE
+
+     Highly motivated innovative professional with a proven track
+     record, result driven focus and extensive technical skills seeks
+     challenging high impact senior level technology
+     management/architecture position.
+
+EXPERIENCE
+
+     West Group. Manager & Lead Architect [ 7/91 to Present ]
+
+        * Managed multiple concurrent development teams responsible
+          for the design, development and successful shipment of
+          CD-ROM based and on-line legal research software.
+          Facilitated all aspects of product development including
+          requirements definition, architecture evaluation, code
+          review, time reporting/project planning, management
+          presentations, beta testing, documentation review, training
+          and customer support.
+
+        * Responsible for team staffing, performance appraisals and
+          salary adjustments.
+
+        * Comprehensive experience designing and developing
+          client/server C++ applications with emphasis on
+          object-oriented design, design patterns, code reuse and
+          human interface.
+
+        * Demonstrated record of success at engineering the turn
+          around of failing development efforts and rapidly delivering
+          results leading to timely shipment of quality software.
+
+        * Directed the development of a multi-tiered system combining
+          proprietary COM components embedded within desktop
+          productivity applications with open standards (XML/HTTP)
+          communications to Web servers interfacing with legacy
+          mainframe applications.
+
+        * Architected and led the development of an Internet Web based
+          interface to proprietary on-line systems utilizing CGI and
+          c++ classes to provide on-the-fly HTML conversion and URL
+          redirection.
+
+        * Designed and directed implementation of automated
+          build/verification process which nightly acquires source
+          code from SourceSafe, builds the system and performs a
+          battery of QA-Partner tests.
+
+        * Technical skills:c++, Microsoft Visual Studio, MFC,HTML,
+          XML,CGI, MacApp, PowerPC,Pascal, Metrowerks compiler,
+          Rational Rose, Microsoft Solutions Framework.
+
+     Kaufman Group, Inc. Manager of Technical Services [ 10/88 to 7/91
+     ]
+
+        * Coordinated the design, creation, and maintenance of
+          mainframe based purchasing and inventory control systems and
+          Windows based executive information systems.
+
+EDUCATION
+
+     University of Wisconsin - Madison
+
+        * Bachelor of Business Administration
+        * Double Major: Business Management & Information Systems
+          Design.
+        * Dean's List
+        * 3.8 (4.0) Major GPA; 3.4 (4.0) overall GPA, GMAT score 670
+          (97 percentile).
+        * Phi Beta Lambda (Future Business Leaders): President and
+          chapter founder.
+        * Second Place Phi Beta Lambda National Conference Competition
+          in Computer Concepts.
+
+http://www.felbab.com/cary/resume.html Updated: 1999.05.01

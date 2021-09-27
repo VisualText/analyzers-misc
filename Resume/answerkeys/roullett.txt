@@ -1,0 +1,62 @@
+
+CONTACT:
+
+Contact Name: Brander Garrett Roullett
+First Name: Brander
+Middle Name: Garrett
+Last Name: Roullett
+
+EDUCATION:
+
+Date: in progress 
+School Name: Cal. State Hayward
+School Location: Hayward
+Degree: BS
+Major: Computer Science
+    
+School Name: Laney College
+School Location: Oakland
+Degree: AA
+Major: Language Arts
+
+School Name: Laney College
+School Location: Oakland
+Degree: AA 
+Major: General Education   
+
+EXPERIENCE:
+
+Date: 1998 - Current
+Company: Microsoft
+Position: Software Test Engineer for Microsoft Project
+
+Date: 1998 - 1998
+Company: Attachmate Corp
+Position: Software Test Engineer
+
+Date: 1997 - 1998
+Company: Microsoft
+Position: Team Web Page Author
+
+Date: 1996 - 1997
+Company: Microsoft
+
+Date: 1995 - 1996
+Company: ViewStar Corp
+Position: Computer Consultant
+
+Date: 1994 - 1995
+Company: ViewStar Corporation  
+Position: Quality Assurance Engineer
+
+Date: 1993 - 1995
+Company: California Lg. of Conservation Voters
+Position: Political Fund-raiser
+
+Date: 1992 - 1993
+Company: D. E. Lock and Key
+Position: Manager Locksmith Purchasing
+
+Date: 1990 - 1992
+Company: Reed Brothers Security   
+Position: Purchasing Inventory Locksmith

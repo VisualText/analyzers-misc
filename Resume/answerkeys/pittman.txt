@@ -1,0 +1,37 @@
+
+CONTACT:
+
+Contact Name: David Pittman
+First Name: David
+Last Name: Pittman
+
+Number:      5624
+Street:      Davis
+Road:        Lane
+City:        Fort Lewis
+State:       WA
+Zip:         98433
+
+EDUCATION:
+
+Date: December 1987
+School Name: Southeastern Illinois College
+School Location: Harrisburg, Illinois
+Degree:Associate
+Major: Applied Science
+
+EXPERIENCE:
+
+Date: January 1997 to present
+Company: U.S. Army - HHD 1st Personnel Group
+Position: Computer Technician and LAN management technician   
+Location: Fort Lewis, Washington
+
+Date: January 1994
+Company: U.S. Army - 510th Personnel Services Battalion
+Position: Senior Programmer
+
+Date: September 1990
+Company: Home Shopping Network
+Position: Junior Programmer
+

@@ -1,0 +1,137 @@
+---------------------------------------------------------------------------
+                 [J] [e] [r] [o] [m] [e]    [F] [i] [n] [n]
+                              Spanish Español
+                            Austin, Texas 78735
+                                  U. S. A.
+                      Email: 74357.3124@compuserve.com
+                            Tel: (512) 899-3040
+---------------------------------------------------------------------------
+
+                                 Objective
+
+   * I'm looking for a position in the IT industry in a Spanish-speaking
+     country
+
+                                  Summary
+
+   * COBOL, DIBOL, C, C++, PenRight, Korn Shell, Perl
+   * UNIX, Windows NT and 95, Novell, MS-DOS, Hewlett Packard's MPE XL, DEC
+     VMS
+   * Xyplex routers, Atran DSU/CSU and T1 multiplexers, CCITT and Hayes
+     modems, statistical multiplexers, dataset line drivers, Xyplex and DEC
+     terminal servers, HP network printers
+
+---------------------------------------------------------------------------
+
+                         Representative Experience
+
+Sector7 Inc.  - August 1998 to present.
+Operating System Migration Consultant - I provide technical consulting to
+clients that are interested in converting their applications from VMS to
+Unix or Windows NT. In the consulting process I conduct interviews with
+developers and users at the client site and then review applications
+components and code. The sales department is then presented with a project
+plan and a budget estimate based on my analysis. I investigate the system
+needs and recommend third party products and Sector7 services in my project
+proposal. I also assist in project execution by programming C, C++, perl,
+Korn shell and Windows NT scripting.
+
+Effective Management Systems Solutions - July 1994 to August 1998
+Programmer/Analyst - Position at EMS was project-oriented and required
+various expertise.
+NT Project Systems Developer. I ported our Unix enviroment to Windows NT. I
+converted our Unix Korn shell scripts to perl, making the necessary changes
+so they can run on Windows NT. I worked with data communications on a
+Windows NT network. In August 1997 my department moved from our Milwaukee
+headquarters to a new location a few miles away. I set up the local area
+network using TCP/IP configuring Windows NT 4.0 servers as DNS and DHCP
+servers. I provided access from our LAN to corporate headquarters by
+setting up a NT 4.0 modem server. I then configured the PC clients to dial
+up the corporate network with RAS, Remote Access Services, through the
+modem server. Our department received a separate internet domain after the
+our move. For my part of the internet project, I configured our router,
+DSU, and T1 multiplexor in order to provide our location with web, ftp,
+telnet, and email access to the internet.
+UNIX project management. My first project was to lead the conversion of EMS
+applications to the SCO UNIX environment. I wrote and modified Korn shell
+and Perl scripts to manage our application's software environment. I
+evaluated and implemented a SCO UNIX Windows NT gateway product for
+in-house and customer use. Continuing duties include managing our in-house
+UNIX/NT gateway, TCP/IP networking, recommending and testing third party
+software and hardware, and provide consulting and support to our customer
+base with a mixed UNIX and NT environment.
+Technical products programmer.  Duties included creating and maintaining
+warehouse and route accounting applications for Panasonic hand-held
+computers written in C. Communication modules were also written in C and
+used to upload and download data through serial ports, terminal servers and
+remote modem transfers. I wrote host-side interfaces for our hand-held
+applications and third-party coin-counting machines used in the vending
+industry. Host communications were written for the VMS and UNIX
+environments in the DBL programming language from Synergex. The necessity
+of configuring remote terminal servers as network nodes for these and other
+peripherals has increased my expertise in TCP/IP and DECnet. My last
+project was to port our Panasonic warehouse and route accounting
+applications to the Norand 6100, a DOS-based PDA, programmed in C++ and
+PenRight. PenRight is a visual front end to C++ with libraries for a
+pen-based interface.
+
+Miller Compressing Company - August 1989 to July 1994.
+Computer Programmer - December 1991 to July 1994. Position consisted of
+developing stand-alone programs, subprograms, and copy-libraries to be
+integrated into Miller Compressing's computer system. Also diagnosed user
+complaints pertaining to in-house software and implemented solutions.
+Programs were developed using COBOL 85 on a Hewlett Packard 3000, 900
+series mainframe in a MPE XL operating system.
+Computer Operation Supervisor - August 1989 to December 1991. Supervised
+operations for a Hewlett Packard 3000, 900 series mainframe interfacing
+with sixty terminals and twenty IBM compatible PCs and a Hewlett Packard
+3000 micro. Responsible for installing terminals, PCs, data communication
+equipment, printers and tape drives; managing a tape library; installing
+PC-based programs; and writing MS-DOS batch files. Handled trouble-shooting
+problems concerning data concentration devices for six remote locations.
+Data transfer to closer remote sites were maintained via synchronous
+statistical multiplexers and local dataset line drivers. Operations for a
+distant remote site in Racine required extensive file transfer downloading
+and uploading between PCs and mainframes requiring Kermit and Xmodem file
+transfer protocols utilizing the programs Procomm, Reflection and Bitcom.
+
+1986 to August 1989- Various positions in auditing and accounting at The
+Palette Shop, Park East Hotel, Red Carpet Hotel, and Ramada Inn.
+---------------------------------------------------------------------------
+
+                                 Education
+
+Bachelor of Business Administration - 1986
+Management Information Systems
+University of Wisconsin-Milwaukee
+
+Certificate of Computer Networking - 1996
+Waukesha County Technical College
+LAN WAN design and implementation with Novell Netware
+
+Certificate of Telecommunications - 1998
+Waukesha County Technical College
+Administration of routers, DSU/CSU and T1 multiplexers, X.25 y Frame Relay
+
+University of Wisconsin-Milwauke -1995 to 1998
+Intermediate Spanish, Beginner's Portuguese
+
+University of Texas-Austin - 1998 to present
+Business Spanish
+---------------------------------------------------------------------------
+
+                                   Links
+
+   * SCO UNIX
+   * Norand Inc.
+   * PenRight Corp.
+   * CodeBase from Sequiter
+   * Borland C++
+   * DIBOL from Synergex
+   * DEC VMS
+   * Hewlett Packard MPE
+
+   * University of Wisconsin - Milwaukee
+   * Waukesha County Technical College
+
+---------------------------------------------------------------------------

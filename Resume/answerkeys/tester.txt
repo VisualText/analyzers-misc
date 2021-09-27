@@ -1,0 +1,184 @@
+
+CONTACT:
+
+Contact Name: Jonathan Tester
+First Name: Jonathan
+Last Name: Tester
+Home phone: 408 252 2184
+Pager phone: 408 505 7993
+Email:       Software@Consultant.com
+
+EDUCATION:
+
+Date: 1978
+School Name: Sheffield University 
+School Location: England 
+Degree: Bachelor of Science
+Major: Computer Science 
+Honors: honors
+
+School Name: Oxford University
+School Location: England 
+Degree: Advanced certificate
+Major: Computer Science 
+
+School Name: Aylesbury Grammar School 
+School Location: England
+
+EXPERIENCE:
+
+Date: May 99 - date
+Company: ISD/IBM
+Location: Merced, Hewlett-Packard
+
+Date: April 99 - June 99
+Company: DynaChip
+
+Date: Mar 99 - April 99
+Company: Optical Networks
+
+Date: Jan 99 - Mar 99
+Company: Aptix
+
+Date: Nov 98 - Mar 99
+Company: Clairvoyant Software
+
+Date: Oct 98 - Jan 99
+Company: Technical Elite
+
+Date: Sep 98 - Oct 98
+Company: International Network Services
+
+Date: Dec 97 - Sep 98
+Company: Wytec
+
+Date: Nov 97 - May 98
+Company: Intel
+
+Date: Aug 97 - Oct 97
+Company: Veritas
+
+Date: June 97 - Aug 97
+Company: Acuson
+
+Date: May 97 - June 97
+Company: Northern Telecom
+
+Date: May 97 
+Company: Scientific Software
+
+Date: May 97
+Company: Meeker Group
+
+Date: Mar 97 - Apr 97
+Company: ISD/Greystone Peripherals/Menagery
+
+Date: Jan 97 - Apr 97
+Company: ISD/Technically Elite/Gigalabs
+
+Date: Sep 96 - Mar 97
+Company: Auspex
+
+Date: Sep 96 - Oct 96
+Company: ISD/Technically Elite/Hitachi
+
+Date: June 96 - Aug 96
+Company: WebXchange
+
+Date: June 96 - July 96
+Company: Axil Computers
+
+Date: June 96
+Company: KLA
+
+Date: Jan 96 - Aug 96
+Company: Hewlett-Packard
+
+Date: Nov 95 - Feb 96
+Company: Sun/Arbor
+
+Date: Oct 95 - Nov
+Company: nCUBE
+
+Date: Oct 95 - Nov
+Company: Sun
+
+Date: Mar 95 - Sept 95
+Company: Photon Dynamics
+
+Date: Jan 95 - June 95
+Company: Sun
+ 
+Date: July 94 - Dec 94
+Company: Amdahl
+
+Date: Sep 93 - Jun 94
+Company: Kubota Graphics
+
+Date: Jun 93 - Dec 93
+Company:  Signal Science
+
+Date: March 93 - Jun 93
+Company: TRW Financial Systems
+
+Date: March 93
+Company: ZD (Ziff Davis) Labs, Verity, Data Storage Systems
+
+Date: September 92 - March 93
+Company: System Industries 
+
+Date: Jan 92 - Nov 92
+Company: Aurora/CMX
+
+Date: July 92 - Aug 92
+Company: NeXT Computers
+
+Date: July 91 - July 92
+Company:  Amdahl computers
+
+Date: April 91 - June 91
+Company: International Computers Limited (Fujitsu)
+
+Date: Feb 88 - April 91
+Company: Siemens Nixdorf Information Systems Inc
+Location: California
+
+Date: Jul 87- Jan 88
+Company: Aydin Radar 
+Location: California
+
+Date: Oct 86 - Jul 87
+Company: Bridge (3Com) Communications
+Location: California
+
+Date: Oct 84 - Oct 86
+Company: Equatorial Communications Co
+Location: California
+
+Date: Feb 82 - Oct 84
+Company:  Motorola/Four Phase
+Location: California
+
+Date: Sep 80 - Jan 82
+Company: Schlumberger
+Location: England
+
+Date: Jun 78 - Sep 80
+Company: SPL Research Dept
+Location: Oxford, England
+
+Date: 
+Company:  
+
+Date: 
+Company: 
+
+Date: 
+Company: 
+
+Date: 
+Company:  
+
+Date: 
+Company: 
+

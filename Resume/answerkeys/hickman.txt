@@ -1,0 +1,113 @@
+
+CONTACT:
+
+Contact Name: Steve Hickman
+Title:    
+First Name: Steve
+Middle Name:    
+Last Name: Hickman
+Suffix Name:    
+
+Number:      2904
+Street:      Ridgerow
+Road:        Dr
+City:        Grapevine
+State:       Tx
+Zip:         76051
+Home phone:  817 949 2040
+
+EDUCATION:
+
+Date: Dec 87
+School Name: SMU
+School Location:    
+Degree: MS 
+Major:    Computer Science 
+Minor:    
+GPA:    
+
+Date: May 81
+School Name:  Rice University
+School Location:    
+Degree: BS 
+Major: Elect Engr/Comp Sci/Math Sci 
+Minor:    
+GPA:    
+
+
+EXPERIENCE:
+
+Date: Jun 97 - Present
+Company: MCI
+Position: Consultant
+
+Date: Feb 97 - May 97
+Company:  Sprint
+Position:  Consultant  
+
+Date: Aug 95 - Dec 96
+Company:  MCI Wireless
+Position:  Consultant  
+
+Date: Jan 95 - Aug 95
+Company: Suite Software
+Position:  Consultant   
+
+Date: July 94 - Jan 95
+Company: American Airlines
+Position:    Consultant
+Location: Principal designer
+
+Date: May 93 - July 94
+Company:  MCI
+Position: OO Consultant
+
+Date: Nov 92 - Apr 93
+Company:  NEC America
+Position: Consultant 
+
+Date: July 92 - Feb 93
+Company:  IEX Corporation
+Position:    Consultant
+
+Date: Feb 92 through June 92
+Company: Trinity Consultants
+Position: Consultant Principal Designer Technical Manager
+
+
+Date: Aug 91 through Dec 91
+Company: Software Development Concurrent Knowledge Systems
+Position: Director
+
+Date: Aug 88 through Aug 91
+Company:  CIM Systems
+Position:   Project Manager 
+
+Date: Nov 86 through Aug 87
+Company: Southern Methodist University
+Position: Research
+
+Date: Mar 85 through Apr 86
+Company: Research Group
+Position: Founder/ Owner
+
+Date: Aug 84 through Apr 86
+Company:  AMOCO Research
+Position:  Consultant  
+
+Date: Sep 83 through Dec 84
+Company: Getty Oil
+Position: Consultant
+
+Date: Aug 82 through May 83
+Company:  Tulsa Junior College
+Position:   Instructor 
+
+Date: Jan 82 through Jan 83
+Company: Specialty Systems
+Position:   Founder/ Owner 
+
+Date: May 81 through Jan 82
+Company: Irma Corp
+Position: Systems Engineer
+

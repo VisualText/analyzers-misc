@@ -1,0 +1,44 @@
+                                  [Image]
+
+Jeff Holst jeff@clgp.com
+
+---------------------------------------------------------------------------
+
+EXPERIENCE
+
+Operating Systems
+
+   * Solaris 2.x, Solaris x86
+   * Windows 3.x, Windows 95
+   * Linux
+
+Programming Languages
+
+   * C/C++, Java, Perl
+   * BASIC, FORTRAN, Assembly
+   * Lisp, Pascal
+
+Skills
+
+   * Motif Xwindow design
+   * RDMS coding for Oracle and Unify 2000
+   * System Administration for UNIX
+   * CGI programming, HTML, Web Page developement
+
+EDUCATION
+
+Southwest Texas State University
+
+   * Major: B.S., Computer Science
+   * Minor: Mathematics
+
+INTERESTS
+
+   * Company softball team
+   * City basketball league
+   * Mountain biking
+   * Jogging
+
+References
+
+   * Available upon request

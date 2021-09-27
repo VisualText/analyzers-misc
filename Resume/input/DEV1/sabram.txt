@@ -1,0 +1,227 @@
+                     [Steve Sabram, Software Designer]
+Residence: Campbell, California, USA, Phone: 1-408-341-0877, 1-408-379-2296
+
+        Home Page: http://www.sabram.com, E-Mail: steve@sabram..com
+                [ Skills ][ Facilities ][ Project History ]
+
+            Goal: Contract position developing personal software
+
+   Summary: Wide experience developing: Internet aware applications, user
+            interfaces, multimedia products, real-time systems
+  and instrumentation. Able to develop applications within my own private
+                office.  Meetings available by appointment.
+
+               ---------------------------------------------
+
+                              Specific Skills
+
+   * Internet: HTML, Java and JavaScript. ActiveX and Netscape Plug Ins.
+     Unix socket programming under Windows (Winsock) and Macintosh (MacTCP
+     / Open Transport).
+   * Microsoft Windows: application development (C, C++, MFC based), all
+     common platforms (Windows 95, NT and CE), dynamic link libraries
+     (DLL), Object Linking Environment extensions (a.k.a. OLE, OCX, COM,
+     ActiveX) plus DirectX interfaces.
+   * Palm Computing Platform: user interface, application development and
+     device interfaces (serial, IR).
+   * Microcontrollers: assembly and C level based kernel development (HC05,
+     HC11, HC12, 68xxx, PIC16Cxx and 8051 variants), very strong hardware
+     background to develop software right from schematics.
+   * Real-time systems: real-time operating systems (pSOS), code execution
+     bench marking, performance optimizing based on architecture and device
+     communication traffic.
+   * Device Experience: PCI bus, global positioning systems (GPS), ISDN,
+     MPEG video encoding, serial devices (USB, RS-232), wireless
+     communication (modems, two-way paging, telemetry, wireless ethernet),
+     small volume robots and various specialized scientific equipment.
+
+                   --------------------------------------
+
+                                 Facilities
+
+   * Office: Privately held development office in professional building.
+   * Equipment: multiple personal computers and PDAs running the majority
+     of common operating systems.
+   * Multimedia: major 2D and 3D development tools in house for custom
+     webpage, layout and 3D development.
+   * Internet Connection: T1 line connected directly into office with
+     multiple servers running off internal Ethernet LAN.
+
+                        ---------------------------
+    Education: University of Pittsburgh, Benedum School of Engineering,
+                        Pittsburgh, PA (April 1988)
+ Degree: Bachelor of Science in Engineering, Major: Electrical Engineering
+
+                          -----------------------
+
+                              Project History
+
+Datastick Systems, Campbell, CA (December 1998 - present)
+   * Developed a Palm Computing Platform application to visualize real-time
+     data acquisition
+   * Worked with hardware development to implement protocol and development
+     libraries
+   * Demonstrated product at PDA Expo trade exhibition
+   * Managed of initial development and product launch
+
+NetStart Incorporated, Atlanta, GA -- offsite in Campbell, CA (December
+1997 - December 1998)
+   * Creation of Windows 95/98 geographic analysis software package
+   * Integrated in Microsoft Excel spreadsheet and MapInfo's MapX map
+     viewer into a custom OLE container
+   * Applied specific plug-ins for CDMA cellular telephone performance
+     topology
+
+Hi-Key Technologies, San Jose, CA (April 1997 - November 1997)
+   * Developed Windows 95 and Windows CE client software for security
+     network administration
+   * Demonstrated first economic fingerprint recognition system in trade
+     shows
+   * Traveled overseas to communicate with international customers
+
+Symbol Technologies, San Jose, CA (August 1996 - March 1997)
+   * Prototyped user interface for a portable wireless unit in Visual Basic
+   * Lead development of embedded code for native system in C
+     cross-compiled to HC05
+   * Developed machine specific routines to communicate with liquid crystal
+     displays and PCMCIA cards
+   * Worked with industrial design and human factors groups related to
+     project
+
+Software Publishing Corporation, San Jose, CA (May 1996 to July 1996)
+   * Created Microsoft ActiveX Internet Explorer plug-in
+   * Used extensive OLE COM object interface calls to communicate with
+     Internet Explorer container application
+   * Software distributed to an estimated one million users across the
+     Internet
+
+24 Hours in Cyberspace, San Francisco, CA (January 1996 to March 1996)
+   * Part of the Mission Control Team that created real-time, HTML
+     publishing tools
+   * Assisted journalists to use tools for this first, mass exposure,
+     on-line event
+   * Created custom Microsoft Windows software to arrange text, images and
+     sound for automatic generation of web pages
+   * Project created 63 stories and 4.5 million hits in a single day
+   * Event covered by major media networks (i.e. ABC, NHK and the BBC)
+
+Crystal River Engineering, Palo Alto, CA (October 1995 to December 1995)
+   * Completed a Windows 95 demo for the Audio Reality 3D sound system
+   * Software created for Las Vegas Comdex '95
+
+ReSound Corporation , Redwood City, CA (March 1995 to October 1995)
+   * Created an MS Windows MDI application to test hearing aides
+   * Interface used protected mode access to talk with custom hardware
+   * Integrated a scientific graphing library to show spectral response of
+     hearing aide acoustics
+
+Precision Navigation, Inc., Mountain View, CA (July 1995 to September 1995)
+   * Wrote MS Windows app. showing position of a magnetic gyroscope via
+     wireless modems
+   * Developed and implemented a distributed communication protocol for
+     vehicular location across a wireless network
+   * Helped develop custom embedded systems to monitor vehicle performance
+   * Assisted creation of Visual Basic VBXs and advised on Visual Basic UI
+     displaying a play field of vehicles allowing one to monitor and
+     control game play
+
+BusLogic, Inc., Santa Clara, CA (February 1995)
+   * Evaluated the MS Window user interface for the RAIDman disk array
+     controller
+   * Wrote a full recommendation to improve the user interface
+   * Recommended features such as Drag and Drop and Tree List Boxes were
+     implemented
+
+C-Cube Microsystems, Milpitas, CA (October 1994 to January 1995)
+   * Authored example code for the CL9100 MPEG-2 decompression chip set
+   * Software shipped for OEM development of retail MPEG-2, digital video
+     equipment
+   * Advised on the Windows 95 software aspects of PCI bus cards
+   * Developed code for video On Screen Displays (OSD) and Flash RAM,
+     in-system programming
+
+Focal Point Software, Woodside, CA (September 1994 to October 1994)
+   * Ported EDL Access, a utility for reading and writing files to a DEC
+     RT-11 format floppy disk, from the Apple Macintosh to MS Windows
+   * Software was shrink-wrapped with Adobe Premier multimedia development
+     software
+   * Wrote low level, protected mode call to have MS Windows read and write
+     to a foreign disk format
+
+Electric Software Products, Los Altos, CA (September 1994)
+   * Developed several custom controls and dialogs for the CEMRW power
+     utility production package
+   * Trained several engineers in using Visual C++ and MFC
+   * Used ODBC to read, display and alter dBase files
+   * Packages demonstrated to various domestic power utilities
+
+CrystalGraphics, Santa Clara, CA (July 1994 to August 1994)
+   * Wrote several custom controls and dialogs for Flying Fonts for Windows
+   * Extended an in-house object library to shared between developers
+   * Interfaces with a professional developing engine
+   * Software was shown at SigGraph '94 (Professional Computer Graphics
+     Show)
+
+Wireless Access, San Jose, CA (December 1993 to May 1994)
+   * Wrote Apple Newton applications and Apple HyperCard stacks for two-way
+     paging
+   * Became very familiar with PCMCIA card and socket services
+   * Implemented protocol for over the air programming (OTAP) and
+     Nationwide (NWN) services
+   * Demonstrated software and interface at the Board of Directors level
+
+JDR Microdevices, San Jose, CA (May 1993 to November 1993)
+   * Lead development of a multimedia video conferencing system
+   * Wrote Microsoft Video for Windows teleconferencing application
+   * Ran user studies groups to improve user interface
+
+Cære Corporation, Los Gatos, CA (April 1993)
+   * Wrote a protected mode device driver for an optical character
+     recognition engine
+   * Developed device driver from reading schematics of hardware under
+     development
+   * Project Delivered to over 30,000 customers worldwide
+
+Pacific Bell (Customer Contact Tech. District), San Ramon, CA (September
+1992 to March 1993)
+   * Created Reach Out and Double-Click Someone, a Microsoft Windows custom
+     control library of user interface devices for telephone service
+     operations
+   * Authored extensive documentation of object library for internal
+     engineering distribution
+   * Trained software engineers in use of this library
+   * Software delivered to 20,000 users
+
+ADAC Laboratories, Milpitas, CA (April 1992 to August 1992)
+   * Initiated development of the PC Access multimedia remote medical
+     imaging application
+   * Product allows a doctors personal computer at home communicate with
+     hospital medical imaging equipment for remote patient diagnosis
+   * Project involved writing both Sun UNIX and MS Windows applications for
+     modem based transfer of animated medical image files
+   * Wrote custom movie player to read custom medical animation file format
+   * Product delivered to thousands of medical institutes
+
+Develco, Inc., San Jose, CA (August 1991 to February 1992)
+   * Designed the DISCAS System that realign underground systems to guide
+     ground drilling
+   * Authored MS Windows application for operator control of DISCAS System
+   * Researched specific human factors of an outdoor, standing computer
+     operator
+
+Nanometrics, Inc., Sunnyvale, CA (May 1989 to May 1991)
+   * Wrote real-time control software for the Nanometrics Model 150Z
+     scanning electron microscope and Model 215 silicon wafer metrology
+     systems
+   * Gained first hand experience of working in a semiconductor fabrication
+     facility
+   * Explored human factors of sensory depravation in operation of personal
+     computer for development of graphical user interfaces for
+     semiconductor fab. personnel
+
+Hudson Robotics, Inc., Springfield, NJ (June 1988 to April 1989)
+   * Developed anthropomorphic arm robotic work cells for several
+     laboratory environments
+   * Created CIMS, a manufacturing assembly line station CASE toll
+
+                         [ Top of Resume ][ Main ]

@@ -1,0 +1,105 @@
+                  Note: Available for freelance work only!
+                  I am NOT seeking full time employment!!
+
+---------------------------------------------------------------------------
+
+                               David Schloss
+                             San Francisco, Ca
+                             dschloss@mail.com
+
+---------------------------------------------------------------------------
+
+
+
+Education      1991 to 1995 University of California at Los Angeles, Ca.
+               BS in Computer Science September 1995.
+
+
+Technical
+Skills
+Operating      UNIX (5 Years), Windows 31./95/NT (5 Years), OS/2 (1 Year)
+Systems:
+
+Development:   Java (JDK, AWT, SWING) (2 Years), JDBC (1 Year), Servlets
+               (1 Year), C/C++ (5 Years), Web (CGI/HTML) (3 Years), TCPIP
+               Sockets (1 Year)
+
+
+Database:      Oracle 7-8, Microsoft SQL Server, Fox Pro, mSql
+
+
+Experience
+1/99 –         Inventa Corp
+Present        E-Commerce Consultant
+
+
+8/98 – 11/98   TIBCO Finance Technology Inc
+               Java Engineer
+
+               Used Swing to create a Java application that emulates a
+               Reuters terminal for accessing real time Market Data. The
+               application pushes quotes, headlines and graphs from
+               Reuters feeds and displays them using Java Beans
+               components. Responsible for internationalization of the
+               product as well as integrating cut and paste.
+
+
+10/96 – 8/98   Internet Business Solutions
+               Web Engineer
+
+               As a Web Engineer for IBS, I used Java, JDBC, C/C++ and
+               relational databases such as Oracle and Microsoft SQL
+               Server to create Web Applications for our clients. Among
+               the sites I developed included a distributed, data centric
+               consumer product guide (www.compare.net) that generates
+               over 1 Million page views a day, an extranet application
+               for commercial real estate transaction management
+               (www.lincolnconsulting.com), and a web based administration
+               system for sending targeted email (www.marekthome.com).
+               Other clients I worked with included Casio
+               (www.casiohpc.com) and Pikenet (www.pikenet.com).
+
+               In addition, I designed and implemented a 100% pure Java,
+               Servlet based web application framework and toolset to
+               greatly simplify and expedite the development cycle. The
+               toolset included API’s for dynamic HTML templates,
+               converting database result sets to HTML and generating
+               dynamic charts and graphs.
+
+
+11/96 – 3/97   Yahoo! / NetControls
+               Java Consultant
+
+               Designed and developed the MyYahoo! Java News ticker
+               (my.yahoo.com/javaticker) for the popular MyYahoo! Service.
+               The ticker pulls the latest news, sports and stock stories
+               and scrolls them in a compact Java applet
+
+
+9/95 – 10/96   IBM
+               I/T Specialist
+
+               Developed a worldwide, client / server tool on the internet
+               for retrieving markething documents from databases
+               distributed throughout IBM’s internal infrastructure.
+
+               Designed and implemented interfaces to backend systems in
+               C/C+ on AIX and OS/2 environments. Created performance and
+               stress testing tools using Java front end.
+
+               Worked closely with development team in Japan to integrate
+               double byte character support into the product.
+
+
+Technical      Personal Applet Power (Javasoft, Dec 1997)
+Articles       http://www.javasoft.com/features/1997/dec/applets2.html
+
+               Developers Abandon CGI in Favor of Servlets (Javasoft,
+               March 1998)
+               http://www.javasoft.com/features/1998/03/intebiz.html
+
+
+Employment     Furnished upon request
+References
+
+

@@ -1,0 +1,53 @@
+                                  [Image]
+
+                          Devin McKinney - Resume
+                              devin@vblue.com
+                               (415) 322-9374
+                           http://www.vblue.com/
+                   838 Boyce Avenue, Palo Alto, CA 94301
+[Image]
+Summary
+ [Image]
+           I have 8 years experience in software development and project
+           management including web site design, software development, and
+  [Image]  technical writing. In the past 2 1/2 years Virtual Blueprint
+           has created over 15 internet and intranet web sites ranging
+           from prototypes to "shrinkwrap" software, Yahoo's Quote
+           service, and Excite's recent search page redesign.
+[Image]
+Skills
+[Image]
+           Web Design: I've built web sites for corporations, as
+           presentations, interactive prototype simulations, Java systems,
+           from initial storyboard to deployment to the Internet and
+  [Image]  corporate intranets. I'm familiar with all commonly-used web
+           technologies including Java, JavaScript, server-push,
+           client-side imagemaps, ActiveX, CGI, HTTP, HTML 2.0 and 3.0,
+           Netscape Navigator and Microsoft Explorer, Fusion, Cold Fusion,
+           RealAudio, streaming, FrontPage, PageMill and SiteMill.
+           Project Management: I've managed teams of up to 8 persons in a
+  [Image]  variety of situations, handled the client contact for the team,
+           tracked up to 4 simultaneous project teams to success.
+           Software Development: I've participated in the creation and
+           shipment of over 30 software products as manager, designer,
+           programmer, tester, and technical writer. I've worked with key
+           companies such as Excite, PointCast, Intel, America Online,
+  [Image]  MCI, LitleNet, TIBCO, GO, Prodigy, Frame, Sun, Compuserve,
+           Quantum, McAfee, SkyTel, and Wireless Access. I've worked with
+           key technologies such as wireless, PDAs, PCMCIA, networking,
+           cellular, OCR, CD-ROM, cross-platform development and
+           interoperability, and of course the World Wide Web.
+[Image]
+Education
+[Image]
+
+  [Image]  Juris Doctor Degree, 1988, University of San Francisco School
+           of Law
+
+  [Image]  Master of Business Administration Degree, Finance, 1985, San
+           Francisco State University
+
+  [Image]  Bachelor of Arts Degree, Social Psychology, 1982, San Francisco
+           State University
+
+               Home | Resume | Web | QA | Technical Writing

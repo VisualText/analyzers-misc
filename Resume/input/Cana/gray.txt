@@ -1,0 +1,197 @@
+[Headhunter.net Homepage] [Find Jobs] [Find Resumes] [My Stuff] [Get Help]
+
+  [Image]                              [Image]
+
+Find Résumés : Résumé Details
+
+Computer Programmer
+ RESUME
+ JIM GRAY
+ # 218 – 511 West 7th Avenue
+ Vancouver, BC V5Z 4R2
+ (604) 877-0599
+
+ OBJECTIVE
+
+ Computer programming position for the creation of business oriented
+ software solutions.
+
+ EDUCATION
+
+ Canadian School of Business - Completion of M.C.B.A program with honours,
+ 1989
+
+ Graduated Qualicum Secondary School 1983.
+
+ SKILLS
+
+ Specializing in database development, my work experience as a programmer
+ has involved the generation of a wide variety of programs. I have been
+ involved in the complete creation process from concept to implementation
+ of many computer applications both for business use and for products
+ currently on the market.
+
+ ? Computer database programming in the ‘Xbase’ language area with focus
+ on Foxpro in the last nine years.
+ ? Visual Basic
+ ? Clipper
+ ? Systems analysis and design
+ ? Multi-user programming
+ ? Ability to create code which can “write” code (4GL)
+ ? Impact Analysis / Permutation Testing
+ ? Advanced SQL coding
+ ? MS -SQL Server
+ ? Program design for speed including full use of Rushmore technology
+ ? Data Dictionary writing experience to allow new programmers to join in
+ on projects
+ ? Solving of difficult algorithms
+ ? Presentation on two occasions at the Foxpro User’s Group with topics of
+ ‘Creating Market Quality Software’ as well as ‘Rapid Application Design’.
+
+ ? Attended 3 day SQL Server Course (Microsoft Canada)
+
+ SPECIAL PROJECTS
+
+ The programs I have created for businesses are too numerous to mention
+ but I have listed some of the more specialized / larger ones here.
+
+ ? Creation of a Internet trading application which was a client/server
+ developed program which allowed for the register of trading partners with
+ one another and the computerization of invoice/purchase order/factor
+ operations with a main host back end processor.
+
+ ? A bar code system for the city of Surrey which is used to monitor the
+ road signs maintenance and the inventory maintenance systems including
+ the programming of the hand-held LaserLite Pro bar code readers. There
+ are some 45,000 road signs monitored with this system.
+
+ ? A bar coding system for the monitor of custom truck parts with EDI
+ download capture.
+
+ ? A high volume entry system for a central hub of optical data for
+ British Columbia, Alberta, Saskatchewan and Manitoba which could handle
+ the data entry and processing of up to 4500 orders per days. The software
+ was written in Visual Basic with Btrieve ODBC connectivity.
+
+ ? An ordering system for medical office supply companies used by some
+ sixty users.
+
+ ? Creation of the “Turbo-Class” program responsible for the full
+ anecdotal report carding system for the elementary schools in British
+ Columbia. This was a market-quality software package.
+
+ ? Creation of the “TRAX” grade point average software in use by high
+ schools in British Columbia for the data integrity checking of the high
+ school marks data. This too was a market quality software package.
+
+ ? A mainframe to microcomputer linking system which took regular
+ “snapshots” of mainframe data and,
+ by means of an IRMA board, downloaded the data to a PC for auto-faxing.
+ This project was designed
+ for the main Overwaitea distribution plant in Langley at a time when
+ faxing software was not common in the
+ marketplace.
+
+ ? Development of a full telemarketing system which involved uploading of
+ data from various sources.
+
+ ? Creation of two entire network marketing software programs responsible
+ for the tracking of sophisticated tree structures with complicated
+ monetary calculations, cheque generation and a self-designed graphical
+ genealogy reporting method.
+
+ ? Development of a mortgage debt consolidation program with a “designer”
+ method of reducing mortgage amortization length and interest which was
+ used by an international company.
+
+ ? A turn-key purchase order system for wholesalers which permits the
+ company to mass distribute the
+ software in-house. The program features a unique data-linking system
+ which can auto-adjust to various
+ wholesalers’ database inventory files.
+
+ EMPLOYMENT HISTORY
+
+ Custom Reporting / Douglas & McIntyre
+ Technical Support / Programming Vancouver, BC
+ June 1999 - Present
+
+ Internet Trading App./
+ SQL Server Upsize for
+ Ethical Funds Contract work for I.T. Systems
+ 1998 – Jan 1999 Vancouver, B.C.
+
+ Insurance Benefits AON Consulting
+ Software (Premium Admin Vancouver, BC
+ System / Consolidation)
+ Feb. 1999 – May 1999
+
+ Bar Code Software City of Vancouver / City of Surrey
+ Traffic Signs/Parking Meters
+ Present
+ April 1999-May 1999
+
+ Purchase Order Software Medical Surgical Supply
+ (Distributable) North West Territories
+ Mar. 1998 – May 1998
+
+ Multi-Level Software RJ Morgan, North Vancouver
+ 1995-1997 Charity Express, Vancouver
+
+ Cataloguing / Commissions Western Canada Pet Supply
+ 1995-Present
+
+ Mortgage / Debt Software Canadian Legal Shield, North Vancouver
+ 1995-1996
+
+ School Marks / Report Carding TCS Developments Inc., Vancouver
+ 1990-1992, 1994-1995
+
+ Room Reservation Program Globe Motel, Vernon
+ 1992
+
+ Special Reports Energy, Mines & Resources, Vancouver
+ 1990, 1992 Info-Tel, Vernon
+
+ Auto-Fax Programming Overwaitea Foods, Langley
+ 1991
+
+ Telemarketing Software Transglobal Marketing Ltd., Richmond
+ 1991
+
+ 4th Generation Programming Finning Tractor, Vancouver
+ 1989
+
+ Inventory Control Digicomm, Vernon
+ 1989-1992 Robinson Book Company, Parksville
+ Griffith’s Agencies
+
+ Teaching / Programming On-Track (formerly Rossi, De Groot & Associates),
+ Vancouver
+ 1989-1990
+
+ Financial Planning Software Hodgins, Leard & Proteau, Vancouver
+ 1989-1990
+
+ REFERENCES
+
+ Available upon request.
+
+ Details
+ Desired Job Type: Full Time                      Location:CA-BC-Vancouver
+           Desired Employee or
+  Employment Type: Contractor                     Relocate:Country
+           Degree: 2 Year Degree               Will Travel:Road Warrior
+
+       Experience: More than 5             Citizen/SecurityYes/No
+                   Years                         Clearance:
+ Contact
+          Company:
+            Email: jdgray@sprint.ca
+             Name: Jim Gray
+            Phone: 604-877-0599
+              Fax:
+     Contact Type: Job Seeker
+ Miscellaneous
+       Categories: Computer
+      Last Change: 1999/08/05 10:50:40

@@ -1,0 +1,187 @@
+                                Scott Kolek
+                                 Austin, TX
+                          resume@skm-software.com
+                           (630) 839-8012 (e-fax)
+                         Word '97 formatted resume
+
+profile
+Practiced and disciplined in component and object oriented development.
+Over 5 years of continuous experience in advanced Windows development,
+with over 10 years of total computer development experience from
+mainframes to desktops.
+objective
+I want to leverage my extensive Windows programming experience and my
+development skills into a senior or lead position with a dynamic energetic
+company.
+skills
+Windows API's from '9x to NT to CE, Visual C++ 1.5 – 6.0, Visual Basic 3.x
+– 6.0, Microsoft Transaction Server, Internet Information Server 3.0 –
+4.0, SQL Server 6.5 – 7, Access 2.0 – ’97, InstallShield, MFC, ISAPI,
+ODBC, DAO, ADO, ASP, COM, ATL, WinSock, HTML, VBScript, JavaScript and
+SNMP
+experience
+4/99 - 7/99 (Contract, Full-Time)
+Austin, TX
+Senior Windows Developer
+Developing a suite of programs for the PSG Software Sustaining – Major
+Engineering group to accomplish remotely capturing changes that occur to a
+Windows (9x or NT) PC when drivers or software is loaded. The changes are
+transferred to a host system for storage, analysis, reporting and output.
+Analysis will discover the exact component changes that occurred on the
+client computer relating to new or changed files, changes in text files
+and registry changes. Reporting will give the engineers detailed lists of
+the changes by change type. Output will create installation INF files for
+use in reapplying the changes during an automated unattended process.
+      ---------------------------------------------------------------
+8/98 - 4/99 (Contract, Full-Time)
+Addison, TX
+Lead Windows / Internet Developer
+Initiated and deployed coding standards for all areas of development
+within the company, including database design, web development and
+application development. Lead developer of e-commerce, data driven web
+sites. Handled all phases of web site development including, customer
+interviews, scope of work, design criteria, coding and, documentation for
+the following sites: www.circline.com and www.journeysshoes.com. These
+sites required proprietary development designs for session encryption,
+credit card validation, online order retrieval, order processing and order
+progress notification. In addition to these complete development efforts,
+I assisted in the maintenance and development of: www.audiobookclub.com,
+www.enscous.com and www.johnsonmurphy.com.
+
+Developed a distributed credit card authorization and settlement system
+using COM components within Microsoft Transaction Server (MTS). The system
+serviced requests from multiple IIS web sites, logging all transaction
+history to a SQL Server database.
+
+Developed a proprietary Internet pull technology enabling custom audio
+content delivery to customers. Client applications enabled reception and
+playback of encrypted audio content. Application divided into three custom
+Windows .DLL components, dynamically loaded and interchangeable at
+run-time and one GUI application. Developed COM components to provide
+encryption and decryption of audio content.
+      ---------------------------------------------------------------
+2/99 - 3/99 (Contract, Part-Time)
+Australia
+Senior Windows CE Developer
+Developer of a wool bidding and purchasing program for the MIPS CE
+platform. Application consisted of a client application enabling wool
+buyers to keep track of wool lots and bid on specific lots. The server
+application import and exported data from the CE device to a dBase IV
+database, for use with Congruent's proprietary wool tracking server
+software.
+      ---------------------------------------------------------------
+9/98 - 1/99 (Contract, Part-Time)
+Tarzana, CA
+Senior Windows Developer
+Developed a Windows '95 / '98 file system encryption driver and GUI
+application for a proprietary Smart Card device. All file extensions
+contained within the GUI application were intercepted at the file system
+level and enciphered or deciphered dependant upon the correct active Smart
+Card.
+      ---------------------------------------------------------------
+10/97 - 8/98 (Contract, Part-Time)
+Flower Mound, TX
+Senior Windows CE Developer
+Senior developer of a construction project management application for the
+SH3 HPC platform. Project consisted of seven modules, interfacing with a
+desktop based project management application, enabling construction site
+managers to collect and manage information on the job site utilizing
+HPC's. Development consists of desktop server components, HPC client
+components, and complete installation routines for the desktop and HPC.
+      ---------------------------------------------------------------
+6/97 - 8/98 (Contract, Full-Time)
+Irving, TX
+Lead Windows Developer
+Lead developer of the Information Resource Management department,
+responsible for engineering, development and implementation of an
+enterprise wide solution for desktop software installations and change
+control management. Development projects involving multiple network OS's,
+desktop OS's, and development languages, are briefly detailed as follows:
+
+Complete suite of application modules to provide enterprise desktop
+software installations: Suite provided tools to perform 'before' and
+'after' PC desktop imaging. The deltas of these images where then compiled
+into installable 'packages', containing file binaries and registry
+modifications necessary to replicate installations on any Windows '95
+desktop throughout the enterprise.
+
+Engineered architecture and developed utilities to provide enterprise
+software change management: Software 'packages' and installation
+restriction/requirement instructions placed on a NetWare file server,
+during user workstation logon the instruction file would determine the
+allowance/dis-allowance of software installation.
+
+TCP/IP status and troubleshooting application: provided a graphical access
+to DNS addresses, local gateway, resolved host name and DNS server search
+order's. This utility would be used in conjunction with help desk
+personnel, to determine TCP/IP problems. All the above IP addresses, along
+with user entered IP addresses could be 'pinged', providing max, avg, min
+round trip packets times, and packet lost information.
+
+Password secured registry editor and browser: designed a registry editor
+similar to Microsoft's existing regedit.exe. All registry modifications
+requested were password protected by a randomly generated key, which could
+only be calculated by help desk personnel, this effectively would prevent
+employee's enterprise wide from performing damaging registry
+modifications.
+
+Developed utilities to collect all NDS database object information,
+populate a MS SQL Server database, and provide web interfacing to the
+collected data via the company's intranet.
+
+Novell server connection list enumerator: developed utility to run every
+few hours, that would locate every Novell file server, enumerate all
+connections, and store this information in a SQL Server database.
+Department management would then use this information in an effort to
+track Novell licensing requirements.
+      ---------------------------------------------------------------
+10/95 - 6/97 (Full-Time)
+Alexandria, LA
+Lead Windows / Internet Developer
+Sole developer for Internet service provider, responsible for all web site
+development, internal customer service application development, and
+e-commerce web development.
+
+Partnered in development with Motorola to provide a graphical management
+interface to their 925 rack modems. Developed Windows interface and SNMP
+polling mechanism. Application provided network administrators a point and
+click method of monitoring and updating modems via SNMP. Previously only
+telnet capabilities were available.
+
+Credit card processing DCOM component instantiated from any of Linknet's
+Windows NT web servers, provided instant credit card authentication and
+recurring charge capability. All maintained, monitored and logged in a DEC
+Alpha platform based SQL Server, using Visual C++ 4.2 as the development
+environment.
+
+ISAPI extensions and filters developed for a long distance
+telecommunications provider provided automatic import and parsing of
+customer's long distance charges and the ability to securely view their
+bills over the web.
+
+Custom applications and web interfaces were developed to provide Linknet's
+internal customer service department, the ability to view, maintain and
+submit change requests to any of Linknet's clients and internet service
+customers.
+      ---------------------------------------------------------------
+6/94 - 9/95 (Full-Time)
+Van Nuys, CA
+Network Administrator, Programmer
+Developed Windows based MRP system for the purchasing and manufacturing
+departments. Application would gather information nightly from mainframe,
+produce faxable orders and reports that the IS department were not capable
+of creating from the mainframe. Application also tied into EDI system for
+order confirmations and shipment information.
+
+Installed small network to enable manufacturing, purchasing and finance
+departments, the ability to communicate more efficiently. Microsoft Mail,
+and Windows for Workgroups, along with basic file sharing were set-up on a
+10meg Ethernet network.
+      ---------------------------------------------------------------
+9/90 - 6/94 (Full-Time)
+Chatsworth, CA
+Shipment Planning Analyst
+      ---------------------------------------------------------------
+6/87 – 9/90 (Full-Time)
+Chatsworth, CA
+Lead Production Planner

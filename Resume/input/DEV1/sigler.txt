@@ -1,0 +1,88 @@
+                   [graphic: mandala] Laurence H Sigler
+                                send email
+
+Profile
+
+  Developer specializing in internet applications, content managment, and
+  object-oriented design. Experience in programming, public relations, and
+  the sciences. Fluent in French, with over eight years of grammar classes
+  and thorough knowledge of French history and culture, in addition to
+  residence overseas. Very familiar with art history, graphic art,
+  commercial design, logic structure, and the internet. Knowledgeable in
+  chemistry and biology.
+Education
+
+  Diploma in Computer Programming
+  The Chubb Institute
+  Springfield, Pennsylvania, July 1997
+  BA in Art History, French, and Chemistry
+  Albright College
+  Reading, Pennsylvania, May 1995
+Course Work
+
+  Senior Thesis: The Effect of Twentieth Century Modernization on Historic
+  Paris
+  Arts: Ancient through modern art history, painting, drafting, editing
+  and print production, graphic and commercial design.
+  French: History and culture, Francophonie, poetry, literature,
+  philosophy, and geography. Grammar and conversational classes. Full
+  conversational fluency.
+  Sciences: General biology, analytical chemistry, organic chemistry (with
+  biochemistry), instrumental analysis, environmental science and issues,
+  nutritional science.
+Technical Summary
+
+    Languages/software: C/C++, Visual Basic 4/5, HTML, PL/SQL (SQL*Plus),
+    Oracle 7, Oracle Developer/Designer 2000, Oracle Application Server,
+    PERL, Java, Visual J++, Java Web Server, CICS, COBOL, FORTRAN, OS/JCL
+    Hardware/platforms: IBM 370/390 (VMS), PC platforms (Win 98/95,
+    Linux), HP, Sun Solaris, Alpha (Unix)
+    Concepts/keywords: Problem analysis, structured programming,
+    debugging, internal/external debugging, data validation, array
+    handling, sorts, random and sequential file updating, web design and
+    web enabled content, DB maintenance, GUI design, object oriented
+    programming, RDBMS, ORDBMS, thin client application serving, secure
+    web servers
+
+Experience
+
+  SCT Corporation, Education Systems, Malvern, Pennsylvania:
+  Programmer Analyst (July 1998 - present): Software developer at rapidly
+  expanding company on Distance Education team. Primarily responsible for
+  development on SCT Aspire distance education system and Banner 2000 ERP
+  software system. Programming in PL/SQL, Java, and other varied
+  client-server languages. Implementation of IMS standards for SCT
+  products. Design of Java based content management system. Use of Oracle
+  7 DB, Oracle Application Server, and Developer/Designer 2000 suite.
+  Andersen Consulting, Philadelphia, Pennsylvania:
+  Programmer Analyst I (September 1997 - July 1998): Application
+  programmer at client site, SEI Investments Company. Responsible for
+  program maintenance, debugging, and custom scripting for end users of
+  Trust-3000 online securities systems. Programming in C, SPECTR report
+  writer, and FORTRAN. Involvement for entire development of program.
+  A-Z Video Superstores, Reading, Pennsylvania:
+  Supervisor (April 1996 - November 1996): Supervised floor staff,
+  maintained promotional displays, and handled customer service issues.
+  Handled financial record keeping, computer backups of store records, and
+  made cash deposits.
+  P.R.C. Environmental Laboratory, Sinking Spring, Pennsylvania:
+  Organic Extraction Technician (September 1995 - March 1996): Performed
+  organic extraction procedures in fast paced production laboratory. Also
+  worked in sample retrievals (field work) and in sample courier (to other
+  facilites) aspect. Cross-trained in general (wet) chemistry, gas
+  chromatography, and metals chemistry.
+  Freedman Gallery, Albright College, Reading, Pennsylvania:
+  Gallery Internship (January 1994 - June 1994): Responsible for
+  installation of exhibits, public security, and office administration.
+  Helped schedule and organize exhibits. Maintained mailing lists,
+  organized receptions and press releases. Assisted Gallery Director in
+  other capacities as needed.
+  WXAC-FM, Albright College:
+  General Manager (March 1993 - April 1994): Oversaw all operations for
+  popular alternative rock station with staff of over 70. Organized
+  promotional, legal, financial, and engineering activities of station and
+  worked hands-on in each aspect. Handled all public relations. Principal
+  fiscal planner. Maintained station in federal compliance and
+  regulations.
+
+                                [ h o m e ]

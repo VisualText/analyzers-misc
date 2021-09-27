@@ -1,0 +1,330 @@
+
+                                                         2338 NE 32nd Ave.
+            [Peter Hildebrandt, User-Centered Design]   Portland, OR 97212
+                                                      peterwh@teleport.com
+
+             What I Can Do for You
+
+            I am a user-centered software designer / architect, which
+            means that I design large and small software systems to fit
+            the needs of real human beings. The usability of a product
+            comes first, the internal architecture comes second.
+
+            I am not seeking a full time position at this time. However,
+            consulting inquiries are fine.
+
+            I have put together a list of books I would recommend to
+            anyone interested in learning more about user interface
+            design.
+
+             Experience
+
+            January 1992 to Present
+            Independent Software Consultant
+
+   [Image]  Contracted to Intel Corp. (Hillsboro, OR) Peripheral Products
+            Group to develop a highly visual Windows 98 control panel for
+            a new line of perhiperals. Software was developed in
+            combination of Visual Basic and C++ with MFC. (March 1999 to
+            June 1999)
+
+            Contracted to SoftBoard (Tigard, OR) to re-architect their
+            software line for electronic whiteboards to use ActiveX and
+            COM. Also designed and coded a phase lock loop (PLL) and color
+            detection algorithm using MicroChip PIC processors and other
+            embedded software using Intel 8052 processors. Wrote C++
+            classes to integrate hardware and application software,
+            designed hardware front panel layouts, and more. All
+            documentation was written before any software was developed.
+            (May 1998 to July 1999)
+
+            Consultant to Intel Corp. (Hillsboro, OR) User-Centered Design
+            Group to moderate and analyze results of nine focus groups
+            about a new line of PC related products. (November 1998 to
+            January 1999)
+
+   [Image]  Contracted to Spectral Resources, Inc. (Woodstock, NY) to
+            develop software for their clients to provide comparisons of
+            drug prices and treatment regimens to HMOs. The software has
+            about 50 screens of presentation and data entry that are
+            designed for users not familiar with Windows. (August 1998 to
+            present)
+
+            Contracted to Instromedix, Inc. (Hillsboro, OR) to develop
+            software and firmware for a pacemaker telemetry device.
+            Software is written in 8051 assembler, C, and C++. (January
+            1998 to August 1998)
+
+   [Image]  Contracted to Extended Range Forecasting (Portland, OR) to
+            develop software for their clients to obtain graphical and
+            textual forecasts over the Internet. The InfoNet software
+            presents a seamless graphical interface and uses FTP protocols
+            and encryption to retrieve files. Developed numerous
+            applications in Visual Basic 5.0. (February 1996 to May 1998)
+
+            Contracted to a major sprinkler manufacturer to design a new
+            Windows 98-based sprinkler control system family consisting of
+            both hardware and software. Conducted user interviews for task
+            analysis and feature/function tradeoffs, prototyped the
+            software, and ran usability tests. Completed final design
+            specification. Will consult during implementation to maintain
+            usability in the software. (August 1995 to September 1998)
+
+            Contracted to Learning Tree International (Reston, VA.) to
+            teach Hands-On Windows Programming. Teach four-day classes on
+            Microsoft Windows 95, Windows 3.1, and Windows NT application
+            development in C and C++. Classes are taught all over the
+            country and occasionally internationally. Edited their Visual
+            Basic course and am currently technical editor for their
+            Windows API course. Have submitted an outline to develop a
+            course on user interface design. (March 1994 to present)
+
+   [Image]  Developed software for use in City Of Portland, Traffic
+            Engineering Dept. (Portland, OR) to synchronize their traffic
+            signals and school crossing flashers to a common clock using
+            pager technology. The Traffic Beacon software is now available
+            for sale. (March 1997 to December 1997)
+
+            Contracted to SoftBoard (Tigard, OR) to develop firmware for a
+            new line of laser-based electronic whiteboards. Software is
+            written in Intel 8052 assembler and MicroChip PIC processor
+            assembler. (April 1997 to December 1997)
+
+   [Image]  Consultant to Nike, Inc. (Beaverton, OR) as a user interface
+            designer and usability specialist for their order handling
+            system. (November 1996 to February 1997)
+
+            Consultant to Intel Corp. (Hillsboro, OR) Intel Architecture
+            Labs to provide user interface design, task analysis, and
+            usability testing for their Electronic Commerce group.
+            Responsible for long range thinking about how people want to
+            handle money over the Internet. (October 1995 to June 1997)
+
+   [Image]  Contracted to Co-Development Technologies, Inc. (Saratoga, CA)
+            to design software for administering employee benefit kiosks
+            and provide user interface design consulting for the kiosk
+            software. The kiosks are Windows-based with full motion video
+            and audio. (July 1995 to February 1996)
+
+   [Image]  Contracted to Media Architects, Inc. (Portland, OR.) to
+            develop a Visual Basic and Visual C++ graphical control,
+            called ImageKnife/VBX, for image manipulation. The control can
+            read and write all Microsoft Windows graphics file formats and
+            perform many image processing and database operations. All
+            software written in C and C++. The VBX control is now being
+            sold by Borland International. (October 1992 to January 1993)
+            Also recently completed a palette editor for their
+            MediaKnife/OCX multimedia authoring tool. (February 1995 to
+            August 1995)
+
+            Consultant to FiTech Systems, Inc. (Greensboro, NC.) to guide
+            them through rearchitecting their DOS-based mortgage tracking
+            system, used by banking institutions, into Microsoft Windows
+            95. (January 1995 to June 1995)
+
+   [Image]  Contracted to Syntex Labs, Inc. (Palo Alto, CA.) and Roche
+            Laboratories (Nutley, N.J.) to design four interactive
+            software packages for doctors to compare the costs of specific
+            pharmaceuticals. Each package has about 75 separate screens
+            with active 3D graphs and color. Some are used throughout the
+            world and support multiple monetary units. Designed to be easy
+            for non-computer users to navigate. (November 1994 to July
+            1997)
+
+            Contracted to Sociometrics, Inc. (Los Altos, CA.) to design an
+            interactive CD-ROM based viewer for statistics on family
+            processes. The system provides textual, graphical, and audio
+            information as well as interactive graphs of data to users.
+            Software was written in Visual Basic using Access as the
+            underlying database. (July 1994 to December 1994)
+
+   [Image]  Contracted to CAChe Scientific, Inc. (now a subsidiary of
+            Oxford Molecular) to re-architect their 3D molecular modeling
+            system from the ground up and provide a new user interface.
+            The goals were to make the system portable to platforms other
+            than the Macintosh (such as Microsoft Windows) and bring the
+            user interface up-to-date. Interviewed their customers and
+            in-house staff to create the specification. Fleshed the
+            specification out with numerous internal white papers.
+            Produced a mockup of the final interface. Executed usability
+            tests on both the mockup and final product and summarized the
+            results. The new system is heavily based on the Microsoft
+            Foundation Classes and C++. Authored a Windows Help system for
+            the product. Was brought in earlier to develop a low-cost
+            product line as well as firmware for an Apple Desktop Bus
+            (ADB) version of their 3D trackball. (January 1992 to February
+            1995)
+
+   [Image]  August 1990 to September 1992
+            Vice President, Engineering, Micro Forecasts, Inc., a weather
+            forecasting firm in Portland, OR.
+
+            Directed the company's engineering efforts. Co-founded the
+            company and grew it from 3 people to 15 people in just two
+            years. Designed and maintained a multi-processor PC-based
+            solution for collection of weather data from satellites,
+            weather sensors, and humans; processing the data through
+            numerical models; and dissemination via voice, computer, and
+            fax. The system used MS-DOS, Windows, OS/2, Novell Netware,
+            and other third party packages. Designed over 70 independent
+            software modules for everything from decoding human readable
+            forecast information to looping satellite pictures, from
+            maintaining real-time customer accounting information to
+            dialing remote weather sensors. Most software was written in
+            C. Much was written as Microsoft Windows applications. Heavily
+            involved in implementing various telephone technologies from
+            dedicated fiber optic T1 lines to automated voice response
+            applications. Interacted with customers daily.
+
+   [Image]  June 1985 to August 1990
+            Senior Software Architect, Computer-Aided Chemistry (CAChe)
+            Group and Tektronix Laboratories, Tektronix, Inc., a computer
+            graphics and test and measurement company in Beaverton, OR.
+
+            Software architect and project leader on a worksystem for
+            scientific visualization of molecule data. The system was
+            based on a Macintosh computer with a Motorola 88000 RISC
+            processor accelerator. Directed an effort for formal software
+            design with complete specifications, design documents and
+            structured analysis. Tasks included setting schedules, doing
+            performance reviews, teaching, resolving personal conflicts,
+            obtaining equipment, instigating code reviews, preparing
+            presentations and documentation, and writing software. Project
+            software was combination of C, assembly language, and
+            microcode. Designed and implemented a multiprocess display
+            list manager handling 3D stereoscopic windows on the
+            Macintosh. (Prototype was implemented in C under SCO 386
+            XENIX.) Organized, supervised, and edited a 600 page
+            Application Developer's Toolkit manual for external software
+            developers. Directed discussions with engineering managers at
+            Apple Computer to move their product line toward a more robust
+            graphical model. Researched new methods of true 3D imaging
+            while part of Tektronix Laboratories. Briefly headed the
+            corporate-wide effort to incorporate stereoscopic displays
+            into Tektronix products. Created an interactive stereoscopic
+            art exhibit which was displayed at the Siggraph '87 Art
+            Exhibit. Was half of two man team to design, build, and debug
+            PC frame buffer hardware for stereoscopic viewing. Heavily
+            involved in input device design and research for three
+            dimensional applications. Represented Tektronix in numerous
+            trade shows. Provided customer support both before and after
+            sales. Hold patents on a three dimensional cursor and imaging
+            models. Moved from Engineer II through Engineer III to Senior
+            Engineer level in just over two years.
+
+   [Image]  May 1985 to June 1990
+            Weathergraphics Consultant
+
+            Contracted to design and build a custom weathergraphics
+            computer system for the local ABC affiliate, KATU. The system
+            included a complete video effects box and a studio quality
+            paint system and was on the air starting January, 1989. This
+            system became the basis for a product that was installed in
+            over 100 television stations around the world, including two
+            major networks.
+
+            Also consulted for various companies and television stations
+            on hardware and software for weather graphics. Wrote numerous
+            utilities for a weathergraphics workstation which was
+            installed in over 50 television stations nationwide. Trained
+            weathercasters, artists and reporters how to use the system.
+            Designed and implemented a drawing board which allows the
+            talent to electronically "draw" on the maps while on the air.
+
+   [Image]  December 1982 to May 1985
+            Software Engineer, Vectrix Corporation, a computer graphics
+            hardware company in Greensboro, NC.
+
+            Designed and implemented a video paint system in 8088
+            assembler for IBM compatible computers. Developed and
+            implemented a weathergraphics workstation. Developed a fast
+            complex flood fill algorithm in assembler which was built into
+            ROM. Wrote an MS-DOS device driver for graphics I/O. Wrote
+            technical manuals and edited product manuals. Provided
+            technical sales support at major customer sites. Represented
+            Vectrix at numerous national computer shows.
+
+            October 1982 to February 1983
+            Contract Programmer, Geo-Based Systems, specializing in
+            computer cartography systems, based in Raleigh, NC.
+
+            Wrote and debugged a device driver for the Calcomp 1051
+            plotter in FORTRAN 77 on a PDP 11/23. Also debugged map legend
+            generation software.
+
+            Summer 1981 and Summer 1982
+            Programmer, Precision Visuals Inc., a computer graphics
+            software firm in Boulder, CO.
+
+            Debugged and enhanced their device- and machine-independent
+            graphics package, DI-3000. Developed a thick line drawing
+            algorithm for vector devices which was installed in most of
+            their device drivers. Gave technical courses. Developed device
+            drivers for various graphics devices. Wrote numerous demo
+            programs. Built four terminals. All software written in
+            FORTRAN and VAX DCL under VMS.
+
+            August 1981 to May 1982 Wrote various computer graphics
+            software for the Computer Graphics Center, North Carolina
+            State University, Raleigh, N.C., including anti-aliasing for a
+            3D modeling package and animation for a video for IBM. All
+            software written in FORTRAN under VMS.
+
+            October 1981 Wrote a video arcade game called Star Trap for
+            the TRS-80 microcomputer in Z80 assembler. Game had real time
+            animation, graphics, and sound. Rights to the game sold to
+            Screen Play Software, Inc., Chapel Hill, NC.
+
+            Summer 1980 Maintained and supported terminal and
+            communications equipment for the Academic Computer Center,
+            University of North Carolina at Greensboro.
+
+            October 1979 to February 1980 Wrote statistical analysis
+            software for research on the State of North Carolina's
+            Competency Testing Program for secondary schools while
+            contracted to the School of Education, University of North
+            Carolina at Greensboro.
+
+            1977 to 1984 Various contract programming and hardware
+            interfacing jobs including:
+
+               * writing software for analyzing the cost effectiveness of
+                 installing insulation in homes.
+               * writing firmware to convert terminals to VT52 emulation.
+               * designing and building a buzzer system for a television
+                 game show.
+               * interfacing printers to microcomputers.
+               * building a 300 baud modem and tape reader.
+
+             Education
+
+            B.S. in Electrical Engineering, 1985. Graduated Summa Cum
+            Laude with 4.0 of 4.0 in major, North Carolina State
+            University, Raleigh, N.C. 27650. Specialization in VLSI
+            design, telecommunications and digital logic.
+
+             Honors and Activities
+
+   [Image]  Currently hold two patents. An active member in the IEEE and
+            the ACM. Program Co-Chair of CHIFOO (The Computer-Human
+            Interaction Forum of Oregon, an ACM SIG). Member of Tau Beta
+            Pi (an engineering honor society) and Eta Kappa Nu (an
+            electrical engineering honor society). Listed in Who's Who in
+            the World and the Dictionary of International Biography. Play
+            jazz and classical string bass in numerous symphony orchestras
+            and restaurants about town. Enjoy playing racquetball,
+            volleyball, and juggling. Regularly volunteer time to Habitat
+            for Humanity to renovate houses for the needy.
+
+             References
+
+            Solid references are available upon request.
+
+             More Information?
+
+            Simply send e-mail , and I'll give you a call.
+
+            You may also want to see my home page, for an example of some
+            designs.
+
+            peterwh@teleport.com

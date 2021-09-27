@@ -1,0 +1,91 @@
+Julian Haight
+[rule]
+SITE MAP |  CONTACT ME |  HIRE ME |  USEFUL |  FUN |  PHOTOGRAPHY |  SERVER
+INFO |  LINKS & QUOTES |  #606749
+[rule]
+
+Resume [rule]
+
+An expert in internet technology, I am seeking consulting work. I code
+fluently in several languages including C++, Java, Perl and many flavors of
+BASIC. I have designed and implemented databases for the web using Oracle,
+Sybase, Informix and Microsoft Access. I am familiar with several types of
+database programming (including Oracle's PL/SQL). I run my own web server
+and provide advanced internet hosting. I usually work from home but I can
+also go on-site when necessary. I can work on an hourly or by-the-job
+basis. I work well on my own or as part of a team. I am able to accept
+other's opinions and admit mistakes.
+
+Although my focus is internet technology, I have skills ranging from wiring
+and circuit-design to fractals and animation. I am also versed in many
+applications, internet tools and browsers. I feel that an understanding of
+many specialties increases my effectiveness in whatever I concentrate on.
+
+Software Experience:
+
+   * Server programming (CGI) in Java, C++, Microsoft ASP, Perl
+   * Browser programming (DHTML) in Java, JavaScript, VBScript
+   * Network (TCP/IP) Programming in Java, C++
+   * Database programming for Oracle, Sybase, MS Access (ANSI SQL, PL/SQL,
+     Transact-SQL, ADO, ODBC)
+   * Microsoft Visual Basic and Visual Basic for Applications
+   * Operating systems: Linux, Solaris, Windows NT & 95
+   * Web server setup and administration (Apache, IIS)
+   * Bandwidth conscious web design, advanced HTML and DHTML
+
+Hardware Experience:
+
+   * PC, Mac and Sun hardware and networking
+   * Ethernet hubs and switches
+   * Ethernet / telecom wiring
+   * SCSI tapes and disks
+   * T1 setup and configuration (CSU & router config)
+
+Employment:
+
+1997-Present: Consulting. Completed web-based projects for a variety of
+clients. See Consulting for details. See Work Examples for samples.
+
+1995-1997: Communication Billing Technologies. I left my hometown of State
+College, PA for New York City and a job expanding CBT into the internet
+service industry. While I was there, we installed and configured over ten
+T1s with a variety of special configurations. We developed applications to
+allow real-time updates of our legacy database systems over the web as well
+as designing new databases including a commerce system built from the
+ground up. I was personally responsible for purchasing new equipment,
+connecting and organizing our machine-room and multiple high-speed
+connections. I also wrote several C++ programs for CGI and half of a large
+Java application. I installed, administrated and used Oracle database
+software. I wrote several applications for Microsoft Access.
+
+1990-1995: Master Computer. Working as service manager at Master Computer,
+I saw the company grow from a three employee mom-and-pop computer store to
+the largest (and best) computer store in State College. When I left, the
+company employed over twenty people and served thousands of customers
+ranging from first-time home users to large corporate accounts such as
+AccuWeather, muRata and Penn State University. Working closely with
+customers gave me a solid understanding of customer relations and business.
+
+Background:
+
+Born in New Zealand in 1971, I grew up in State College, Pennsylvania. I
+graduated from State College Area High School in 1989. Although I began a
+degree in Computer Science at the Pennsylvania State University, I moved to
+New York before finishing. I enjoy photography, camping and outdoor
+activities so Seattle was an obvious choice.
+
+My computer experience began in fourth grade when I was part of the first
+generation of kids to use the original Apple II in school. This was my
+first exposure to programming (Logo, BASIC). I used (and dissected) an IBM
+Portable Computer (XT) at home. I had my own Commodore VIC-20 and then an
+IBM XT clone. This 8088 has grown gradually over the years as my primary
+workstation: (386SX-20, 486SX-25, 486DX2-66, Pentium 133, Pentium II-250,
+Pentium II-350). I ran a BBS in high-school starting on the XT and have
+been involved with the internet ever since.
+
+                   - References available upon request. -
+
+                            Note to recruiters
+
+  All content property of Julian Haight. Commercial use forbidden without
+                                 consent.

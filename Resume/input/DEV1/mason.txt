@@ -1,0 +1,74 @@
+                          Resume for Mark A. Mason
+
+---------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------
+
+                     mailto:mark@okb.com LANSA TOOLSHED
+
+Objective:
+
+To help companies attain their business objectives through the use of
+information technology.
+
+Experience:
+
+1988-March 1, 1999    TEAM Informational Services   Lake Mary, FL
+LANSA Solutions Specialist
+* Worked on Customer Information System rewrite for Y2K
+
+1991-1998    ITT-TDS    Palm Coast, FL
+Systems Analyst
+*Created all production applications for the rewrite of the freight payment
+system using LANSA.
+* Created LANSA templates for the creation of file maintenance
+applications.
+* Created LANSA API's for use with IBM IMAGE/400.
+* Created batch job to process freight bills and route to next required
+step using a rule based system.
+* Developed EDI applications using X12 standards.
+* Created and maintained LANSA dictionary while following naming
+conventions.
+* Created and maintained LANSA files and LANSA I/O modules for files
+maintained outside of LANSA.
+* Created batch files and batch file applications using LANSA.
+* Created security based LANSA prompting applications.
+* Created and maintained LANSA partitions for production and development.
+* Created generic Additional Options Menu utilizing LANSA functions in
+database table.
+* Responsible for the testing, implementation, and training for ALL LANSA
+applications.
+
+1989- 1991 The Kirchman Corporation    Altamonte Springs, FL
+Programmer
+* Created applications for conversion of customer data to proprietary
+system.
+* Project Leader for weekend conversions with 100% success rate.
+
+1987-1989    J.W. Gant    Maitland, FL
+Stockbroker
+* Initiated calling program based on time zones and weather conditions.
+* Generated Sales from leads developed personally.
+
+Education
+1993-1995    University of Central Florida     Orlando, FL
+* M.B.A. Student
+
+1980-1986 University of Central Florida Orlando, FL
+* B.S., Computer Science. Minor, Psychology
+
+Hardware
+AS/400, PCs & Image Workstations
+
+References
+Additional references can be provided upon request
+* Steve Ramberg / 770.437.7667 / AS/400 Business Development Mgr
+* Tony Abdo / 407.934.7826 / Project Leader
+* Martin Beland / 407.324.5111 / Project Leader
+
+and finally, Thanks again for stopping by.
+---------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------

@@ -1,0 +1,172 @@
+
+   SCOTT SEARLE
+   President, DirecTeq, LLC                  [ click here to contact me ]
+
+                      UPDATE (March. 1999) -- I haven't had much of a
+                      chance yet to revise this since I've been working
+                      nonstop on the following projects: Microsoft
+                      Office 98 (Mac), Microsoft Outlook Express (Mac
+   [Image]            and Win), Metrowerks Code Warrior (Mac and Win),
+                      and Microsoft Office 2000 (Win). I'll have more
+                      details later. However, as you can imagine, these
+                      projects consumed the latter part of 1997 and all
+                      of 1998.
+
+   PROJECTS
+
+   Scholastic Inc.
+   Huggly's Excellent Adventure
+   This multimedia CD-ROM product is a game, designed for kids to be fun
+   and educational. It is a cross-platform product that makes use of a
+   single set of media, including sprite-based animation, sounds and
+   movies. We developed the Macintosh and Power Macintosh versions in
+   tandem with the Windows development.
+
+   enterMarket, Inc.
+   Internet Site/Tools
+   This project involved designing and developing a web site for this web
+   service company. The web site includes many back-end tools which
+   automatically process a customer's order, apply credit card charges
+   and install a user account on the server, including DNS, sendmail, IIS
+   and FrontPage configuration. In addition, we have continually
+   supported this company with custom CGI programs, written in Perl, C,
+   C++, Java and VBScript, for its internal use and for its clients.
+
+   Apple Computer, Inc.
+   OpenDoc/OLE
+   This project involved the development of a Microsoft OLE/Apple OpenDoc
+   compatibility layer. This layer, also known as Component Glue, allows
+   for seamless OLE and OpenDoc interoperability. The project included
+   the development of OLE servers, OLE clients and OpenDoc parts.
+
+   Microsoft Corporation
+   Microsoft Test for Macintosh
+   This project involved porting Microsoft Test 3.0a for Windows to the
+   Power Macintosh using Visual C++ 4.0 and the Visual C++ Cross
+   Development Edition 4.0. Microsoft Test is used internally by
+   Microsoft's desktop applications groups.
+
+   Microsoft Corporation
+   Microsoft Project 4.0
+   This project involved the development of Microsoft Project 4.0 for
+   Macintosh, with specific emphasis on producing a native PowerPC
+   version. Development on this project included C, C++ and PowerPC
+   601/604 assembly code using Microsoft Visual C++ 3.0 (cross-compiler
+   for PowerPC).
+
+   Virtual AdVentures, Inc.
+   Fly-fishing CD
+   This project involved developing Windows and Macintosh versions of a
+   multimedia CD-ROM product. The product contains images, sounds,
+   movies, animation and custom printing capabilities.
+
+   Microsoft Corporation
+   Ozone Factory
+   This project involved the development of a game using Macromedia
+   Director. It also involved the production of animation sequences,
+   QuickTime movies (using Adobe Premier), sound effects, narration and
+   original music.
+
+   Microsoft Corporation
+   ODBC
+   This project involved porting the Open Database Connectivity (ODBC)
+   auto tests and test application from Windows to Macintosh using
+   Microsoft Visual C++ 2.0 (cross-compiler for Macintosh 680x0) and WLM
+   (Windows Layer for Macintosh, a library that makes it easier to port
+   Windows code to Macintosh). ODBC ships with many Microsoft products,
+   including Microsoft Excel.
+
+   Microsoft Corporation
+   Setup Application
+   This project involved porting Microsoft's Setup Application to
+   Macintosh. Additionally, it involved porting the disk layout,
+   compression and back-end tools. This application serves all of
+   Microsoft's product groups and is the standard installer application
+   for all Microsoft products.
+
+   Microsoft Corporation
+   Electronic Store
+   This project is the Microsoft Electronic Store, an electronic software
+   delivery system for CD and on-line systems. We wrote all the Macintosh
+   code for this project, including encryption, user interface, and
+   production tools.
+
+   Microsoft Corporation
+   Electronic Store Catalog
+   This project involved the production of Macintosh and Windows versions
+   of the Electronic Store Catalog. The catalog makes heavy use of
+   movies, sounds, soundtracks, sound effects, animation, graphics and
+   styled text. The interface is styled after MSN's web site and features
+   dynamic content, receiving updated information from the Internet and
+   MSN.
+
+   Apple Computer, Inc.
+   Apple Guide
+   This project involved the development of Apple's on-line documentation
+   system-Apple Guide. This feature became available with Apple's System
+   7.5 and provides context-sensitive help at the system level.
+
+   Apple Computer, Inc.
+   Macintosh Basics
+   This project involved the development of "Macintosh Basics," an
+   interactive, multimedia presentation that ships with all Macintosh
+   computers. This system is designed to give novice users a review of
+   the basic skills necessary to use the Macintosh and a chance to
+   exercise those skills within the program.
+
+   Claris Corporation
+   Imaginaria
+   Imaginaria is a photo-realistic, multimedia screen saver for Macintosh
+   and Windows computers. We developed the Macintosh version, including
+   the animation engine, sound handling software, and animation modules.
+
+   Viacom New Media
+   On Cue II
+   On Cue II is a Macintosh utility package that has twice been voted one
+   of "15 Best Utilities" by MacWorld magazine. It is a collection of
+   file launching/finding utilities.
+
+   Viacom New Media
+   Squeegee
+   Squeegee is a Windows utility that implements a subset of the
+   utilities included in On Cue II for Macintosh.
+
+   Corbis Corporation
+   (a Bill Gates company)
+   Multimedia Database
+   This project involved the development of a high-capacity, multimedia
+   database capable of storing images, sounds, movies, text and other
+   binary data. This application was designed to allow Corbis to catalog
+   its large collection of electronic artwork.
+
+   Corbis Corporation
+   Seattle Art Museum Kiosk
+   This project involved the development of the Seattle Art Museum Patron
+   System (kiosk). This system is currently available in several
+   locations throughout the museum and is a multimedia presentation
+   system that provides high-resolution, large-scale images of selected
+   collections in the museum.
+
+   LANGUAGES, PLATFORMS & TECHNOLOGIES
+
+   Platforms
+   Windows CE, Windows NT, Windows 95/98, Macintosh (680x0), Power
+   Macintosh, UNIX systems (Linux, A/UX, MachTen).
+
+   Development Languages/Technologies
+   C++, C, 680x0 and PowerPC 601, 603 and 604 Assembly, Perl, Microsoft
+   ActiveX, Apple OpenDoc, ASLM, Apple Code Fragment Manager, MacApp,
+   Microsoft Foundation Class Library (MFC), Pascal, Object Pascal, ODBC,
+   SQL , Data Access Language, Visual Basic, Macromedia Lingo, HyperTalk,
+   TCP/IP, Novell Netware.
+
+   Development Environments/Tools
+   Microsoft Visual C++, Windows Layer for Macintosh (WLM), MetroWerks
+   Code Warrior, Macintosh Programmer's Workshop (MPW), Symantec/THINK
+   C/C++, Apple Media Toolkit, Macromedia Director, HyperCard, Visual
+   Basic, Macsbug, SLM, RAID, Projector.
+
+   DirecTeq, LLC
+   333 5th Place South
+   Kirkland, WA 98033-6683
+   425-881-9259

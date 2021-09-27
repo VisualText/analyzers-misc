@@ -1,0 +1,155 @@
+
+
+ Scott Coleman
+
+ scottcol@u.washington.edu        5716 69th Ave. Ct. W.
+                                  Tacoma, Wa. 98467
+                                  (253) 565-8856
+
+
+[Image]
+
+    * Proven ability to    * Experienced in       * Experience with
+      complete projects      applications           most families of
+      on time and within     development, real      microprocessors
+      budget. testing        time software          and micro
+    * Experience with        engineering and        controllers on the
+      Software testing,      programming,           market. Experience
+      Verification and       multi tasking          in Windows,
+      Validation and SQA     operating systems      MS-DOS, VMS and
+      including test         development and        real time
+      scripting, Black       usage,                 operating
+      box, systems           communication          systems.
+      requirements and       protocols and        * Experience in
+      hardware/software      hardware/software      analog and digital
+      integration            integration.           troubleshooting.
+      testing.             * Trained in Java,     * Fluency in the
+    * Software               C++ and Object         creation of system
+      development            Oriented Design        specifications and
+      experience in C,       techniques.            software design
+      C++, Java,           * Project lead and       documentation.
+      assembler and          management           * Experience in
+      Windows                experience.            biomedical
+      programming.                                  engineering.
+[Image]
+
+  [Image] University of Washington
+          RESEARCH ENGINEER
+          January 1995 to Present
+
+               Worked in the Instrument Development Lab of the
+               Center on Human Development and Disability performing
+               engineering activities to support behavioral and
+               biomedical research.
+
+               Working under a grant from the NIH, successfully
+               developed and implemented software for testing the
+               affects of trace level toxicity on neural functions.
+               This software consisted of functions ranging from
+               real time testing to post acquisition data analysis.
+               Developed a software driven automated calibration
+               system that reduced instrument calibration time for
+               the above study by a factor of over ten while
+               increasing testing precision and coverage by a
+               significant amount.
+
+               Developed a Windows based program to assess early
+               childhood visual recognition and memory. Developed
+               hardware, software and documentation for research
+               projects in the fields of audiology and cognitive and
+               sensory recognition. Gained experience in developing
+               assistive devices for people with physical and mental
+               disabilities.
+
+ AlliedSignal formerly Sundstrand Data Control
+
+ SENIOR SOFTWARE ENGINEER
+ January 1991 to October 1994
+
+      Worked as a senior software engineer on the MK-V and Enhanced
+      Ground Proximity and Windshear Detection Computer. Led
+      development on a new database driven mode of operation
+      (Terrain Clearance Floor) for the Ground Proximity Detection
+      Computer. Successfully developed implemented and test flew PC
+      based prototype that demonstrated this mode and other new
+      concepts. Successfully led two large scale projects from
+      inception through to FAA certification. Developed and
+      implemented a communications interface and menuing system to
+      make the MK-V warning computer compatible with the Airbus
+      Centralized Fault Display System. Gained experience in
+      designing and debugging real time embedded and PC based "C"
+      and "C++" code.
+
+  [Image] Selection Systems
+
+          SOFTWARE ENGINEERING CONSULTANT
+          June 1989 to December 1990
+
+      Worked under contract at Sunstrand Data Control on the MK-VII
+      Ground Proximity and Wind Shear Detection Computer. Designed
+      Software and performed Software testing. Designed automated
+      software testing tools on VAX based facilities. Developed an
+      automated test bed environment which became the basis for
+      AlliedSignal's module based software verification tests.
+      Gained experience in designing, documenting, testing and
+      validating system software requiring FAA software approval to
+      specification RTCA/DO-178A,ESSENTIAL, LEVEL 2. Designed and
+      implemented software for 2 of 8 modes of operation for the
+      MK-VII Military Ground Proximity Computer.
+
+  [Image] AACO Incorporated
+          DESIGN ENGINEER
+          September 1988 to June 1989
+
+             * Completed major software modifications to a
+               multi-tasking operating system used in a digital
+               flight data recorder test set. Re-wrote software for
+               a universal digital flight recorder signal simulator
+               from the ground up. Performed hardware design
+               enhancements to the above test set and various pieces
+               of avionics test equipment. Gained experience with
+               ARINC 717, 542 and 429 communications protocols.
+[Image]
+
+       [Image] Morgen Design             [Image]  Synapse Software
+               (1994)                             (1984)
+             * Developed                        * Developed
+               industrial                         application
+               applications                       programs and
+                                        graphics routines.
+                                        Co-authored a 6502
+                                        assembler/editor package
+                                        which was used exclusively
+                                        by 20 - 30 programmers under
+                                        contract to Synapse. Gained
+                                        extensive experience in
+                                        assembly language
+                                        programming of
+                                        microprocessors. Designed
+                                        firmware and hardware for
+                                        internal projects.
+[Image]
+
+       [Image] Good Samaritan        [Image]  Washington Technology
+               Hospital                       Access Center (1994)
+               (1994)                       * Organized and
+             * Developed                      maintained the
+               several                        technology recycling
+      microcomputer based           program.
+      assistive technology
+      devices.
+[Image]
+
+    * University of
+      Washington,
+      Seattle, Wa.
+      Bachelor of
+      Science in
+      Electrical
+      Engineering,
+      1988
+[Image]
+
+    * References on request
+    *  My Home Page
+

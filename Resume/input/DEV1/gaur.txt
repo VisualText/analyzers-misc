@@ -1,0 +1,358 @@
+
+                             Deepak Kumar Gaur
+
+                           2600 San Leandro Blvd
+                                Apt # 1209
+                          San Leandro, California
+                                 94578 USA
+                                Telephone:
+                      (+1) 510 614 6220 Ext 272 (O);
+                           (+1) 510 357 8740 (R)
+                      Mail To : deepakgaur@yahoo.com
+                         or deepakgaur@hotmail.com
+
+---------------------------------------------------------------------------
+Around Five years and 6 months of professional software development
+experience in the area of ORACLE application software. This includes
+Analysis, Design, Development, Testing and Implementation of Commercial
+applications.
+
+PROFESSIONAL QUALIFICATION
+
+Course : Master Of Computer Applications (MCA)
+College : Motilal Nehru Regional Engineering College, Allahabad, INDIA
+Year : 1994
+
+EXPERIENCE SUMMARY
+
+Five years and 6  months of professional software development experience in
+the area  of ORACLE  application software in  countries INDIA, UK  and USA.
+This includes Analysis, Design,  Development, Testing and Implementation of
+various applications.
+
+STRENGTHS INCLUDE
+Analysis
+Design
+Development
+Working with Team spirit
+
+HARDWARE & SOFTWARE PLATFORMS
+
+Hardware:
+
+ 486                     Pentium PC's           HCL Magnum
+
+ IBM RS 6000             HP-UX                  Sun Workstation
+
+ Windows NT4.0
+
+Software:
+
+ Unix,                     AIX                   Sun OS
+
+ Windows 95                Oracle 7.x            Oracle 6.0
+
+ Designer 2000             Developer 2000,       Forms 4.5
+
+ Reports 2.5               SQL*Forms 3.0         SQL*Reports 1.1
+
+ SQL*Plus 3.1              PL/SQL                Pro*C
+
+ Procedure Builder         Oraterm 2.3           HTML 3.2
+
+ Java Script               Oracle 8.03
+
+PROFESSIONAL EXPERIENCE
+
+ Nov 1998 - June 1999                (08 Months)
+
+PBW Customer Care & Billing System (Telegence) Pacific Bell Wireless)
+Brief Project Profile :
+
+The system was designed to meet the requirements of  Customer Care and billing needs of
+Wireless and Telecommunication Companies. It comprises of various modules like
+Billing, Collections, Accounts Receivable, Customer Support Management,
+Dealer Compensation etc.
+
+ Role:
+
+As a part of Development and Implementation Team, Deepak was involved in following activities
+
+Migration of Data to Telegence (Developed by Amdocs) from the Existing BSCS ( Legacy ) Database.
+Developed Various Reports using PL/SQL, SQL* Plus with the new Telegence Database.
+
+Developed "Developer 2000 Reports" like Credit Card Payments, Follow Up Totals,
+
+Unpaid Deposit of Customers etc, Rate Plan Migration for End Users based on their
+requirements.
+
+Customer Support activity to satisfy Customer requirements.
+
+Performed various SQL tuning   like Explain Plan, Hints, because of Large volume of data being processed.
+
+Written Various Unix Shell Scripts to perform various batch jobs.
+
+ENVIRONMENT: Oracle 8.0, Oracle 7.3, PL/SQL 2.3, PL/SQL8.0, Oracle Reports,
+Procedure Builder, TOAD (Tool For Oracle Application Development),
+Telegence Online, Winframe Client , Vista 1.0
+
+ Jul 1998 - October 1998                (04 Months)
+
+Project: Sonata Club Information System (SCIS)
+
+Hardware: Windows NT 4.0
+Software: Oracle 8.0, PL/SQL 8.0, Oracle Web Server 3.0
+HTML 4.0, Java Script, Visaul Page 1.0
+
+Brief Project Profile :
+
+ This application is being developed for internal usage of our company.  This project gives  on line information of the members like when they joined the club, what are their hobbies  etc. All the members are given their email account and the password. Whenever they want to access the system they have to enter their email and password to verify themselves as the valid user. Password can be modified by  Password module at any time as and when required by the member.  We have developed this system using NCA (Network Computing Architecture ) concepts. We have used Oracle Web Application Server as middle ware and Oracle 8.03 as the  database.Deepak was involved in - � Developing 15 Database Packages� Installation and configuration Web Application Server� Working with new feature of Oracle 8 like object oriented database� Working with PL / SQL Cartridges� Working with HTP,HTF,OWA,OWS packages� Producing Dynamic as well as static HTML pages
+
+Role:
+
+Team Size: 4
+
+In  a  team  of  4  Deepak  was  responsible  for leading  the  design  and
+development.
+
+Jan 1998 - June 1998               (06 Months)
+
+Project: Sun Oracle Integrated Logistics (SOLEIL) Sun Microsystems UK.
+
+Hardware: Sun Workstation, Motif
+Software: Oracle 7.x, PL/SQL 2.x, Developer 2000, Forms 3.0, Pro *C,
+Oraterm 2.3
+HTML 3.2, Java Script
+
+Brief Project Profile :
+
+The system Soleil is a real-time inventory system to maintain Inventory for
+Sun Europe(  ETZL). It dealtwith all  sort of inventory control activities,
+keeps  track  of In-transit  inventory,  provides accountposting,  performs
+material  planning,  controls vendor  performances  etc.  It also  provides
+powerful reportingtool for decision supporting.
+
+Role:
+
+Involved in  Converting application  from the character based  Forms 3.0 to
+GUI  based  Developer2000, running  in  Character  based to  have the  same
+functionality. I've  writtenuser exits in Pro *C  for Forms 4.5 to retrieve
+the data from the  SYBASE database runningfor different application. Played
+a key  role in testing for  several modules.Also I was  involved in writing
+various Web  pages for  the documentation of the  application. Written some
+CGI   scripts  in   Perl   language  to   perform  HTML   form  processing.
+
+Team Size: 4
+
+July 1997 - December 1997               (06 Months)
+
+Project: Metering Asset Register Systems (MARS) Scottish Power
+
+Hardware: Pentium machine, Windows NT 3.51
+Software: Procedure Builder Version 1.5, Oracle 7.3 PL/SQL Unix SQL*Plus
+
+Brief Project Profile:
+
+The project  is designed  to help in  all activities of  Scottish Power plc
+Scotland,  UK  in  helping   to  achieve  its  goal  to  provide  a  common
+functionality for the different suppliers of electricity.
+
+Role:
+
+Involved towards  backend development in Oracle  Version 7.3. Written batch
+processing  PL/SQLstored procedures,  functions and  packages to  move bulk
+data  and other  necessary  processing.These procedures  and functions  are
+being  developed using PL/SQL  2.3 which  has the latest  facilitiessuch as
+DBMS  UTILITY.UTL  FILE  for  I/O operation  Cursor  variables  (Referenced
+data-type)  and PL/SQL tables.  The work  comprises of preparing  Unit test
+plan, Test  documents and  writing Test harness.  Responsible for preparing
+technical specifications for 15 modules.
+
+Team Size: 10
+
+March 1997 - June 1997       (04 Months)
+
+Project: Banner Customer Information. SCT Ltd
+
+Hardware: Penmtium machine, RS 6000, Windows NT 3.51
+Software: Pro*C 2.0 1.6, Forms 4.5, Oracle 7.x PL/SQL 2.x Unix SQL*Plus
+
+Brief Project Profile:
+
+The software is designed  to help in all customer related services of North
+West  plc UK  Billing and collection  for the  various reasons can  be made
+through the application.
+
+Role:
+Involved in Development and Testing.
+
+Working in Pro*C and Forms 4.5 to develop the part of the application. Work
+includes   work  order   generation,  completion,  Master   Bill  Printing,
+Identification  of sensitive  addresses  batch processes  etc. Involved  in
+development of Batch processing  job for the project. Responsible for forms
+developed in  Forms 4.5  using features of alerts,  libraries, VBX controls
+and  other  GUI  features.   Modified  some  ofthe  database  triggers  and
+procedures  for the  application. Worked  extensively on DBMS  PIPE package
+tocall the external 3GL features from Forms 4.5.
+
+Team Size: 12
+
+ October 1996 - February 1997     (05 Months)
+
+Project: Conversion Project
+
+Hardware: Pentium machine, HP-UX
+Software: Designer 2000, Developer 2000, Forms 3.0 Forms 4.5, Reports 2.5
+Oracle 7.1, Unix Sql*Plus
+
+Brief Project Profile:
+
+This  involved study  and  identification of  conversion methodologies  for
+Forms  3.0  to Forms  4.5  for In-house  project  of  Sonata Software  Ltd,
+Bangalore INDIA There are three methods to convert Forms 3.0 application to
+Forms 4.5:-1.  Using default generator(f45gen) provided  by Oracle2. Deepak
+has  given inputs  for  manual conversion  of Forms  3.0  application using
+Reverse  engineering  and  came with  standard  procedures  to convert  the
+application.3. Deepak  has used  Designer 2000 to  re-engineer the database
+and  forms to  generate developer  2000 specific executables.Worked  for QA
+module with 18 forms (SQL*Forms 3.0) for conversion to Forms 4.5.
+
+Role: Conversion methodology Formulation
+
+Team Size: 4
+
+July 1996 - September 1996     (03 Months)
+
+Project: Personnel Information System
+
+Hardware: PC 486
+Software: Windows 95, Oracle 7.1, Developer 2000, Forms 4.5, Reports 2.5
+Unix Sql*Plus
+
+Brief Project Description
+
+This software  is designed to  provide information for its  employees in an
+organisation  with   decisionsupport  available.   This  package  maintains
+information about the employees  like date of joining, skillareas and total
+experience  etc.  Involved  in development  of  software  and used  various
+features  of  GUI  interface,  property classes,  object  groups,  attached
+library  advanced  features like  VBX  controls,OLE  etc. This  application
+developed 5 forms and 3 reports.
+
+Role: Involved in Analysis and Development
+
+Team Size: 4
+
+December 1995 - June 1996   (08 Months)
+
+Project: Purchase Management System
+
+Hardware: PC 486/Pentium
+Software: Windows 95, Oracle 7.0, Developer 2000, Forms 4.5, Reports 2.5
+Unix Sql*Plus
+
+Brief Project Description:
+
+This software is designed to purchase analysis and central purchasing needs
+of  transaction   systemwith  decision  support.   This  package  maintains
+information about  Quotations submitted to  variousVendors, Purchase orders
+given  by  them.  Involved  in  development of  software  includes  various
+features  like generation  of vendor  master, quotation raised  by supplier
+using Forms  4.5 features. Also usedTEXT_IO  package for manipulating texts
+from operating system file. He has developed 8 forms and 4 reports.
+
+Role: Involved in Analysis and Development
+
+Team Size: 4
+
+ March 1995 - October 1995  (08 Months)
+
+Project: Integrated Material Management System
+
+Hardware: PC 486/Pentium
+Software: Oracle 7.0, Forms 3.0, Reports 1.1, PL/SQL 2.0, Pro*C Unix
+Sql*Plus
+
+Brief Project Description:
+
+I was  involved in computerisation of stores department  of ECIL, Hyderabad
+as part of In-house  development . The IMMS system is aimed at facilitating
+the  stores department  in  material requirement  planning, procurement  of
+material,  and  issuing  of  material  to various  user  departments.  This
+application is developed using  various database triggers, packages, stores
+procedures.   Also  used   DBMS   packages  like   DBMS_PIPE_DBMS_ALERT  to
+communicate to  the various  session and alert  the user for  specific job.
+Developed complex  report using  Pro*C. This has  developed 15 forms  and 6
+reports in this application.
+
+Role: Involved in Development and Testing
+
+Team Size: 6
+
+ October 1994 - February 1995        (05 Months)
+
+Project: Material Management System
+
+Hardware: IBM RS 6000
+Software: Oracle 7.0, Forms 3.0, Reports 1.1, Pro*C, PL/SQL Unix Sql*Plus
+Brief Project Profile:
+
+The MMS  System is aimed  at facilitating the User  departments in material
+requirement  planning, procurement,  stocking of  material, and  issuing of
+material to  various departments. Various MIS  reportsis being generated by
+the  system  for  taking  proper  decision  by the  top  level  management.
+Developedthe application using various packages, stored procedures and user
+exits  using Pro*C.  Developed  complex reports  for the  application using
+Pro*C.  Also written  shell  scripts for  the various  operations. Provided
+several  security options  to prevent  unauthorised access of  the unwanted
+users. Responsible for 17 forms and 7 reports for the application.
+
+Role: Involved in Development, Testing, Integration and Implementation.
+
+Team Size: 4
+
+ June 1994 - September 1994     (04 Months)
+
+Project: Inventory Control System
+
+Hardware: Unipower 486
+Software: Oracle 6.0, Forms 3.0, Reports 1.1, Pro*C, PL/SQL Unix Sql*Plus
+
+Brief Project Description:
+
+This is a sub-system of computerisation of Inventory management system. The
+package is mainly designed for maintaining up to date informat ion of stock
+position  in  the  organisation.  Daily  Issuing and  receiving  items  are
+recorded through which updation  of Inventory is being made. Developed many
+reports  for  the application  using  Pro*C. Created  several userexits  to
+incorporatecomplex operations and provide DDL operation. Developed 20 forms
+and 8 reports for this application.
+
+Role: Involved in Development and Testing.
+
+Team Size: 6
+
+ December 1993 - May 1994            (06 Months)
+
+Project: Library Information System
+
+Hardware: Unipower 486
+Software: Oracle 6.0, Forms 3.0, Reports 1.0, PL/SQL Unix Sql*Plus
+
+Brief Project Profile:
+
+The package  was mainly designed for maintaining  up to date information of
+Library. Various masterfiles are provided to keep the information regarding
+various  books  and  journals.  Developed  the  application  using  various
+features  of   SQL*Forms.  Developed  many  reports   for  the  application
+usingPro*C.  Also  written shell  scripts  to  perform various  activities.
+Developed  various reports  like  break report,  master, detail  report and
+matrix report. This application developed 5 forms and3 reports.
+
+Role: Involved in Development and Testing.
+
+Team Size: 3
+
+                         [Image] [Image]  [Image]
+
+          Number of accesses since the 1st of Apr'98 is : [Image]

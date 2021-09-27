@@ -1,0 +1,36 @@
+
+CONTACT:
+
+Contact Name: 	Michael Shoemaker
+First Name: 	Michael
+Last Name: 		Shoemaker
+Number: 		1620   
+Street: 		East Swan
+Road: 		Circle
+City:        	Brentwood
+State:       	Missouri
+Zip:         	63144
+Home phone:  	314 963 7579
+Email:       	shoemam@postnet.com
+
+EDUCATION:
+
+Date: 5/99
+School Name: Saint Louis University
+Degree: Bachelor of Science
+Major: Computer Science
+
+EXPERIENCE:
+
+Date: 8/98 - Present
+Company: Insight Technology Group   
+Position: Consultant
+
+Date: 12/97 - 8/98
+Company: Daugherty Systems   
+Position: Consultant
+
+Date: 12/92-12/97
+Company: Saint Louis University Hospital
+Position: MIS Coordinator
+

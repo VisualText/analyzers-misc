@@ -1,0 +1,374 @@
+                             Richard A. Loftus
+                  5531 Scaramuche Lane, Orlando, FL 32821
+                               (407) 239-6763
+                          LoftusRA@RickLoftus.com
+
+Past Year    Software Engineering of Web Based Applications, Project Team
+             Lead, Coordination, and Customer Liaison. SQL Server and
+             Oracle Database Design and Integration. Server Design,
+             Installation, Configuration, and Troubleshooting. Access 2.0
+             Database Maintenance and Development.
+
+Computer     Hardware and Operating Systems
+Proficiency  Intel Pentium-II (PCI-98), and Pentium (PCI 2.0), Single and
+             Multi-Processor. Pentium based Laptops. Sun SPARCstation 20 &
+             5. IBM PS/2 MCA models. PC/AT (ISA) 486 compatibles; IBM
+             4340; VAX 11/780; Prime 50 Series models; and Apollo DM6000.
+             Windows NT 4.0, (Windows 95,) Solaris 2.6 & 2.5 with Open
+             Windows 3.4, OS/2 1.0 - 3.0; DOS 3.3 - 6.3; SCO UNIX
+             3.2v5.0.0, VM/SP, IX/370; AIX, VAX/VMS, Aegis, Amiga OS,
+             Primos 18.1 - 20.02
+
+             Development Languages and Tools
+             C, HTML, JavaScript, Perl, ODBC, ColdFusion, dbm Database,
+             Visual Basic, REXX, Fortran, EASEL, korn shell, Prime CPL and
+             DOS & OS/2 Batch. Some JScript, VBScript, C++, Java, and
+             Macro-Assembler.
+             ColdFusion Studio, Visual Studio 97, Javasoft Java Studio,
+             Visual Page, Visual Basic, Visual Interdev, Front Page, Gnu
+             C/C++, Microsoft Visual C++; IBM C Set/++ and WorkFrame/2;
+             Emacs, E-PM, and VI; CMVC and PVCS.
+
+             Software Installation and Support
+             Microsoft Internet Information Server, SQL Server 6.5,
+             Internet Explorer, Java SDK, Access, Windows 95, Windows for
+             Workgroups 3.10; Netscape Communicator 4.0x and Navigator
+             3.0x, Plug-Ins SDK, FastTrack Server, Enterprise Server,
+             Directory Server; Alta-Vista Forums; IBM OS/2, CM/2, LAN
+             Server, DB2/2, and NetBIOS; TCP/IP, and NFS; Apache httpd
+             Server for Solaris and OS/2, SAIC httpd Server for Windows
+             NT, and SCO UNIX.
+
+             Internet Projects
+
+               1. Software Engineering of multiple Intranet, Extranet, and
+                  Internet Sites incorporating database access, and system
+                  integration for project coordination and information
+                  sharing.
+               2. Development of internet catalog ordering system with
+                  user authentication and remote administration. [Lockheed
+                  Martin Proprietary]
+               3. Development of intranet access and database for
+                  conference registration and reports.
+               4. Design, development, and team lead of an intranet site
+                  and database for divisional awards submission, and
+                  review.
+               5. Design and development of a commercial internet site for
+                  railroad service company. [http://www.arm-corp.com]
+               6. Design, development, integration, and database design of
+                  commercial internet site, RETEX Career Opportunities
+                  Application. [http://www.retex.com]
+               7. Initial development of an internet/intranet site for
+                  divisional information and career opportunities
+                  listings. [http://eis.external.lmco.com]
+               8. Design and development of an intranet calendar of
+                  events. [not available]
+               9. Design and development of a commercial internet site for
+                  a contracting agency. [http://www.sun-tek.com, no longer
+                  available]
+              10. Proof-of-concept for internet membership verification
+                  and transfer. [not available]
+
+             Project Scopes
+
+               1. Design and development of Intranet and Internet Web
+                  Sites. Perl 5.003, ODBC, JavaScript 1.0, HTML 3.2, and C
+                  on Microsoft Internet Information Server 3.0 and SQL
+                  Server 6.5 on a Windows NT 4.0 Server.
+               2. Programming and integration support and Intranet site
+                  development. C and Perl on Sun Solaris 2.5 using GnuC,
+                  TCP/IP sockets, dbm database files.
+               3. System Integration test design of a multi-platform
+                  control system. System uses DEC Alpha and multi-board
+                  proprietary computer.
+               4. Production and Invoicing database development using
+                  Access 2.0.
+               5. Research, proof of concept, project design, and
+                  implementation planning of Intranet browser / server
+                  systems on frame relay network.
+               6. Design and coding of a multi-platform, non-windowed
+                  communications server program and client communications
+                  APIs, using ANSI C and EZ-RPC.
+               7. Project administration, design, coding and coordination
+                  of a scalable architecture design for automated data
+                  communication and backup, using OS/2, DB2/2 SQL, C,
+                  APPC, and serial I/O.
+               8. Multi-process API test software development, and API
+                  testing; using OS/2 and C.
+               9. Multi-threaded TCP/IP socket communications with GUI
+                  front end, using OS/2, C, and EASEL.
+              10. Project management, coordination, technical support, and
+                  testing of the translation of OS/2 2.0 into the European
+                  languages.
+              11. Multi-platform CAD/CAM, and Numerical Control,
+                  development using Fortran.
+              12. System administration and support of CAD/CAM/NC
+                  engineering computers, network, and software.
+
+Experience   Technisource, Inc., Winter Park, Florida.          1997 - 1999
+
+             Consultant / Software Engineer. On contact to Lockheed-Martin
+             Corporation, Enterprise Information Systems (EIS), Orlando,
+             Florida.
+
+                * Design of intranet based employee exit interview system,
+                  using NT authentication, Oracle database, HR and
+                  management reporting.
+                * Design and development of internet online catalog
+                  ordering system, incorporating user authentication and
+                  remote administration.
+                * Design of internet document management and access site
+                  with SSL and user authentication.
+                * Design of intranet access for conference registration
+                  and reports.
+                * Design of internet sites for sales of office supplies /
+                  building materials using electronic commerce and order
+                  fulfillment.
+                * Design of intranet site for divisional awards
+                  information and e-mail form submission.
+                * Design and development of an internet (commercial)
+                  Career Opportunities Application using Perl, ODBC, SQL
+                  Server, and JavaScript on Internet Information Server.
+                  (http://www.retex.com/ - Career Opportunities)
+                * Initial Design and Development of EIS Internet
+                  Information and Job Posting Site, using JavaScript,
+                  Perl, and HTML 3.2 on Sun Solaris.
+                  (http://www.eis.lmco.com)
+
+             Harcourt Brace & Company, Orlando, Florida         1996 - 1997
+
+             Intranet Developer. Internet Commerce Group, a task force
+             empowered to provide centralized services and support of all
+             subsidiaries Internet and Intranet efforts.
+
+                * Development of Intranet Calendar Application using
+                  JavaScript, Perl and dbm files.
+                * Development of TCP/IP single pass sockets program for
+                  request and retrieval of accumulated transaction data,
+                  using GnuC.
+
+             Aerotek Contract Engineering Services, Inc.,             1996
+             Orlando, Florida
+
+             Staff Consultant. On contract to GE-Harris Advanced Railway
+             Systems Co. Melbourne, Florida, Software Development
+             Department.
+                * Design and demonstration of test procedures for the
+                  integration of a multi-platform control system.
+                * Design of system functionality.
+
+             Independent Contracting                           1996 - 1998
+
+             SUN-TEK Consultants, Inc., Orlando, Florida
+
+                * Web-site design and development, HTML 2.0 compliant,
+                  Perl 5.0 cgi scripts. (http://www.sun-tek.com/ no longer
+                  in service)
+
+             Advanced Rail Management Corporation, Indialantic, Florida
+
+                * Internet Web Site design, development, and support.
+                  (http://www.arm-corp.com)
+                * Access 2.0 database enhancements. Access Basic module
+                  programming, SQL coding, table design, and macro
+                  development.
+
+             Sun-Tek Consultants, Inc., Orlando, Florida       1995 - 1996
+
+             Staff Consultant. On contract to the Automobile Association
+             of America (AAA) National Headquarters, Heathrow, Florida,
+             Information Services Department.
+
+                * Research, proof of concept, project planning and
+                  documentation of a Web and non-Web Client-Server data
+                  sharing system.
+                * Co-design and coding of a multi-process RPC
+                  communications server and client programs for use on
+                  UNIX, Windows NT, and OS/2 platforms. Programmed in ANSI
+                  C, using EZ-RPC tools and libraries.
+                * Installation and Systems Administration of SCO UNIX on
+                  AT&T Globalyst 520 PC.
+
+             Independent Consultant.                                  1995
+
+             Sub-contractor to Enterprise Systems Associates, Mission,
+             Kansas. Contract assignment with The Santa Fe Railway,
+             Information Services Department.
+
+                * Design and development of real-time data communications
+                  programs for receiving data via modem, performing
+                  validation, storing in a local DB2/2 database, and
+                  uploading via APPC to a host database. Programmed in C
+                  for OS/2 2.11, using C Set/++.
+                * Planning and implementation of the communications
+                  project.
+
+             Analysts International Corporation, Boca Raton,          1994
+             Florida
+
+             Staff Analyst. On contract to IBM, Altium Subsidiary, Data
+             Collection Department.
+
+                * Design and develop software to test the function and
+                  interaction of API libraries, resulting in higher
+                  quality, bug free applications. Coded in C using C
+                  Set/++ on PS/2's, under OS/2 2.x.
+                * Verified documentation and user interfaces for two
+                  software releases. Recommended changes for ease of use,
+                  understanding, and product installation.
+
+             Independent Consultant                            1992 - 1994
+
+             Sub-contractor to Enterprise Systems Associates, Mission,
+             Kansas Contract assignment with The Santa Fe Railway,
+             Information ServicesDepartment.
+
+                * Design and coding of a real-time, multi-threaded data
+                  communications program for use between a mainframe
+                  tracking system and a PC based scheduling system via
+                  TCP/IP Sockets. Development of SQL DLL for EASEL program
+                  DB2/2 access. Coded in EASEL and C using C Set/++ on
+                  PS/2s.
+                * Guided the design and development of a real-time,
+                  multi-threaded serial and APPC communications program.
+                  Also coded in C on 486 AT clones using OS/2 2.x.
+
+             Sub-contractor to IKOSS, GmbH, Stuttgart, Germany. Contract
+             assignment with IBM Entry Systems Division, Release
+             ManagementDept.
+
+                * Designed and administered LAN support and coordinated
+                  data transfers between ESD in Boca Raton and European
+                  Language Services in Copenhagen, Denmark.
+                * Designed and implemented a source code test and
+                  repository system, handling over 10,000 files translated
+                  into eleven European Languages.
+                * Specified, configured, and supported software and
+                  hardware for six PS/2 systems used for LAN access and
+                  operating systems tests.
+                * Automated processes for mass downloads and updates of
+                  files on an Oracle based Source Code Control System
+                  accessed via TCP/IP using REXX with extensions.
+                * Developed team work practices with a new team lead.
+
+             Volt Technical Services, Orlando, Florida         1990 - 1992
+
+             National Language Support Coordinator. On contract to IBM
+             Entry Systems Division, OS/2 Project Office.
+
+                * Built team from three departments, responsible for
+                  translation coordination and driver build scheduling of
+                  Win-OS/2. Reduced build cycle time from one week to one
+                  day.
+                * Configured a LAN domain and developed tools for the
+                  coordination of data transfers between translators,
+                  Project Office, and the Build and Integration
+                  Department.
+                * Established team work practices and procedures to reduce
+                  OS/2 NLS builds from three weeks to two days.
+
+             Automation Intelligence, Inc., Orlando, Florida   1988 - 1990
+
+             Numerical Control Engineering Specialist.
+
+                * Converted a configurable Post-Processor written in
+                  Fortran '77 from IBM VM/SP and DEC VAX/VMS to PC-AT
+                  compatibles using DOS and OS/2. Added C and
+                  Micro-Assembler functions for the user interface and the
+                  security device.
+                * Automated procedures for builds of custom programs,
+                  incorporating testing procedures for product quality
+                  assurance.
+                * Developed interfaces to additional commercially
+                  available CAD software packages.
+                * Coordinated software development between company
+                  products.
+                * Designed and developed custom post-processors to comply
+                  with specific customer needs and controller
+                  requirements, often assisting customers with machine
+                  design.
+                * Established practices and maintained PC hardware,
+                  operating systems, and development software.
+
+             Ford Motor Company, Dearborn, Michigan            1985 - 1988
+
+             Numerical Control Systems Development Engineer. Body and
+             Assembly Division, C.P., S.D., & N.C. Department. (Computer
+             Programming, Systems Development, and Numerical Control)
+
+                * Administered computer resources for programming and
+                  testing of CAD software.
+                * Developed and implemented utilities for local and
+                  world-wide data transmission, written in Fortran and CPL
+                  on Prime computers.
+                * Integrated programs and utilities into practices used by
+                  design engineers to produce machining instructions for
+                  the manufacture of tooling dies
+                * Automated part data file updates from Body Engineering
+                  to Numerical Control Department using CPL scripts.
+                * Directed the development of a point-to-point machining
+                  package which produced cost and time savings by taking
+                  full advantage of recently installed five-axis machining
+                  centers.
+
+             Software Services Corp., Ann Arbor, Michigan      1983 - 1985
+
+             Contract Programmer. On contract to Ford Motor Company, Body
+             and Assembly Division, C.P., S.D., & N.C. Department.
+
+                * Developed data-transmission and drafting software that
+                  supplemented post-processor software, providing
+                  additional verification and immediate updates for
+                  machining centers.
+                * Designed CAD/CAM software for point-to-point machining
+                  of stamping tools.
+                * Adapted layout software from a stand-alone CAD program
+                  on a CDC workstation to an integrated module of a
+                  CAD/CAM package on Prime mini-computers. Fortran code.
+                * Designed and performed initial development of a tooling
+                  design module to be integrated with an existing CAD/CAM
+                  package, establishing solid modelling techniques.
+                * Converted post-processor software written in Fortran,
+                  from IBM mainframe to Prime mini-computer, and developed
+                  interfaces for additional proprietary CAD packages.
+
+Education    University of Michigan, Dearborn, Michigan.         May, 1982
+             B.S. Mathematics
+
+             Lawrence Institute of Technology, Southfield,     1983 - 1987
+             Michigan.
+             Mechanical Engineering courses.
+
+Continuing   Internet Development Forum, 2.5 days.                    1997
+Education    Internet Security Conference, 4 days.                    1997
+and Training Lotus Domino Programming, 1 day.                         1997
+
+             Understanding OS/2. Concepts and programming, 1          1988
+             day.
+             Improving Project Management Skills. 5 days.             1987
+
+             Statistical Process Control. W. Edwards Deming           1987
+             Course, 5 days.
+
+             Broadband Technology. Concepts and applications,         1987
+             1 day.
+
+             MAP/TOP/OSI Protocols. Concepts and                      1987
+             applications, 1 day.
+
+             Interpersonal Communications Skills workshops.    1986 - 1987
+             3.5 days.
+
+             Primos Concepts and Tuning. O/S optimization, 5          1986
+             days.
+
+             Prime System Management. Systems administration,         1986
+             5 days.
+
+             PDGS Data Collector Administrator. Procedures            1986
+             and access, 5 days.
+
+             Computer Simulation of the Metal Stamping                1985
+             Process. 2 days.
+
+References   Available upon request.

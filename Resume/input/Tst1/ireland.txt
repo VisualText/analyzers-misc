@@ -1,0 +1,70 @@
+                               Jane's Resume
+                                 Austin, TX
+                                jbond@io.com
+
+TECHNICAL SKILLS
+Programming Languages: Visual Basic 5.0 & 6.0, PowerBuilder 4.0, HTML,
+Javascript, VBScript
+Databases: Oracle 7, Microsoft SQL 6.5, Sybase System 10, Access
+Operating Systems: Windows NT 4.0, Windows 95, Novell Netware, Windows 3.1,
+DOS
+
+EXPERIENCE
+1/98 - present, Dell Computer, Austin, Texas
+Position: Programmer/Analyst
+Applications programming in Visual Basic 6.0 & Access.
+PL/SQL stored procedure and function development
+
+1/96 - 1/98 MCI, Austin, Texas
+Position: Software Engineer II
+Applications programming in Visual Basic 5.0, SQL Server 6.5 administration
+on Windows NT 4.0. Developed Active Server Pages using VBScript,
+Javascript, & HTML Applications programming in PowerBuilder 4.0,
+Sybase System 10.
+
+5/93 - 12/95 TEXAS ATTORNEY GENERAL'S OFFICE, Austin, Texas
+Position: Lead Programmer Analyst
+Supervised programmers, planned projects, established PC standards and
+provided technical training. Analyzed, designed, coded, tested and
+implemented
+ALPS, a state-wide legal pleadings production system, in Visual Basic 3.0
+on a Novell network.
+
+8/90 - 4/93 TEXAS STATE TREASURY, Austin, Texas
+Position: Programmer
+Planned and managed projects, solved problems, performed analysis and
+design. Coded
+tested, and implemented multi-user database applications in Clipper 5.1 on
+a Novell network.
+
+1/90 - 10/90 PEARCE COMMUNITY SCHOOL, Austin, Texas
+Position: Instructor
+Prepared lesson plans and installed software. Taught programming classes in
+dBase III+ and Basic. Taught wordprocessing and spreadsheet applications
+courses.
+
+EDUCATION
+CONCORDIA LUTHERAN COLLEGE, Austin, Texas 1987 - 1989.
+Graduated December 1989 with a Bachelor of Arts in Business Management
+Cumulative GPA 3.694
+
+WASHINGTON TECHNICAL COLLEGE, Marietta, Ohio 1982 - 1983.
+Graduated December 1983 with a Certificate in Data Processing
+Cumulative GPA 3.31
+
+COURSE WORK
+Microsoft University - 1993 - Intro. to Programming in Visual Basic,
+Programming in Visual Basic
+Austin Community College - 1995 - Access 2.0 Programming
+Infotec - 1995 - Access 2.0 Programming
+Austin Software Foundry - 1995 - Introduction to PowerBuilder, Mastering
+Data Windows, Object Oriented PowerBuilder
+VBITS - 1996 - Visual Basic Technical Summit - New York
+NewData Strategies - 1997 - MS Course 867 - SQL Server Administrator 6.5
+Dell University - 1999 - Using Oracle 7 PL/SQL
+Dell University - 1999 - Brio Custom Application Design
+PADI - Certified Divemaster and Assistant Instructor
+American Tae Kwon Do Association - 2nd Degree Black Belt
+Flight Instructor
+
+                  Aviation | Scuba | Tae Kwon Do | Resume

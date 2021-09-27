@@ -1,0 +1,51 @@
+Contact Name: YAKOV BIRGER
+First Name: YAKOV 
+Last Name: BIRGER
+City:        San Francisco
+State:       CA
+Home phone:  415 386 9238
+Date: 08/95 ~ 12/96
+School Name: City College of San Francisco
+School Location: San Francisco
+Date: 01/95 ~ 06/95
+School Name: School for Business & Commerce
+School Location: San Francisco
+Date: 01/92 ~ 03/92
+School Name: College of Computer Science
+School Location: Ukraine
+Date: 11/72 ~ 02/78
+School Name: Land Reclamation and Construction University
+School Location: Kazakhstan
+Degree: Bachelor of Science
+Major: Civil Engineering
+
+Date: 09/98 ~ 10/98
+Company: First Trust Corporation
+Position: Software Tester
+Location: Denver, CO
+
+Date: 07/97 ~ 09/98
+Company: IKON Office Solutions
+Position: Document Specialist
+Location: San Francisco, CA
+
+Date: 01/95 ~ 01/97
+Company: AC Inc
+Position: Software Quality Assurance Engineer
+Location: San Francisco, CA
+
+Date: 02/96 ~ 01/97
+Company: Turk Street Apartment Complex
+Position: Computer Class Instructor
+Location: San Francisco
+
+Date: 08/92 -- 06/94
+Company: Intellectual Systems Ltd
+Position: Software Quality Assurance Engineer
+Location: Ukraine
+
+Date: 03/78 -- 08/92
+Company: Motor-Car and Roads Ministry
+Position: Civil Engineer
+Location: Ukraine
+

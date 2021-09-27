@@ -1,0 +1,53 @@
+
+CONTACT:
+
+Contact Name: Laurence H Sigler
+First Name: Laurence
+Middle Name: H
+Last Name: Sigler
+
+EDUCATION:
+
+Date: July 1997
+School Name: The Chubb Institute
+School Location: Springfield, Pennsylvania
+Degree: Diploma   
+Major: Computer Programming
+
+Date: May 1995
+School Name: Albright College
+School Location: Reading, Pennsylvania
+Degree: BA
+Major: Art History, French, and Chemistry
+
+EXPERIENCE:
+
+Date: July 1998 - present
+Company: SCT Corporation
+Position: Programmer Analyst
+Location: Malvern, Pennsylvania
+
+Date: September 1997 - July 1998
+Company: SEI Investments Company / Anderson Consulting
+Position: Programmer Analyst
+Location: Philadelphia, Pennsylvania
+
+Date: April 1996 - November 1996
+Company: A-Z Video Superstores
+Position: Supervisor
+Location: Reading, Pennsylvania
+
+Date: September 1995 - March 1996
+Company: P.R.C. Environmental Laboratory
+Position: Organic Extraction Technician
+Location: Sinking Spring, Pennsylvania
+
+Date: January 1994 - June 1994
+Company: Freedman Gallery, Albright College
+Position: Gallery Internship   
+Location: Reading, Pennsylvania
+
+Date: March 1993 - April 1994
+Company: WXAC-FM, Albright College
+Position: General Manager
+

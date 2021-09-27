@@ -1,0 +1,23 @@
+
+CONTACT:
+
+Contact Name: Deepak Kumar Gaur
+Title:    
+First Name: Deepak
+Middle Name: Kumar
+Last Name: Gaur
+Suffix Name:    
+
+Unit:        Apt
+Room:        1209
+City:        San Leandro
+State:       California
+Work phone:  (+1) 510 614 6220 ext 272
+Home phone:  (+1) 510 357 8740
+Email:       deepakgaur@yahoo.com
+Email:       deepakgaur@hotmail.com
+
+EDUCATION:
+Degree: Master
+School: Motilal Nehru Regional Engineering College
+Major: Computer Applications

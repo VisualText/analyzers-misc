@@ -1,0 +1,74 @@
+
+CONTACT:
+
+Contact Name: Simon B. Shur
+First Name: Simon
+Middle Name: B.  
+Last Name: Shur
+
+Number: 100
+Street: Cedarwood
+Road: Rd
+City: Stoughton
+State: MA
+Zip: 02072
+Email: shur@ccs.neu.edu
+
+EDUCATION:
+
+Date: 1994-1996
+School Name: Northeastern University
+School Location: Boston, Massachusetts
+Degree: Master of Science
+Major: Computer Science
+
+Date: 1994
+School Name: Rhode Island College
+School Location: Providence, Rhode Island
+GPA: 3.92
+
+Date: 1988-1992
+School Name: Moscow Institute of Electronic Technology
+School Location: Moscow, Russia
+Degree: Bachelor of Science
+Major: Computer Science
+GPA: 3.95
+
+
+EXPERIENCE:
+
+Date: 1998-Current
+Company: Boston Scientific Corporation
+Position: Programmer Specialist   
+Location: Natick, Massachusetts
+
+Date: 1997-1998
+Company: The Gillette Company
+Position: Staff Programmer Analyst
+Location: Boston, Massachusetts
+
+Date: 1995-1997
+Company: The Gillette Company
+Position: Staff Programmer Analyst
+Location: Boston, Massachusetts
+
+Date: 1995
+Company: The Gillette Company
+Position: Associate Information Resource Analyst   
+Location: Boston, Massachusetts
+
+Date: 1994-1995
+Company: The Gillette Company
+Position: Information Resource Analyst   
+Location: Boston, Massachusetts
+
+Date: 1993-1994
+Company: GTECH Corporation
+Position: Test Technician
+Location: West Greenwich, Rhode Island
+
+Date: 1991-1992
+Company: Moscow Institute of Electronic Technology
+Position: Programmer
+Location: Moscow, Russia
+

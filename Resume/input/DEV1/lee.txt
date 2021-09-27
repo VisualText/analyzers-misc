@@ -1,0 +1,159 @@
+Last updated: 01-28-1999
+[Image]
+Recruiters, Click Here
+
+                              Charles's Resume
+
+                 (Yes, the apostrophe "s" ('s) is correct)
+
+     Web: http://www.concentric.net/~azcalE-mail: azcal@concentric.net
+
+ Position Desired: Web Development, HTML & Graphics, contract or permanent.
+            Also, COBOL mainframe systems analysis & programming
+
+   * Over 15 years experience with many different types of projects in the
+     large IBM mainframe environment, and more recently on the UNIX and PC
+     platforms.
+        o Contract programming & systems design
+        o Technical support
+        o Applications support
+        o Utility product installation
+        o Teaching programmer trainee classes
+        o Programming, analysis and design of financial applications
+        o DASD Management
+        o Media conversions
+        o National standardization of DP conventions
+   * Project leadership experience in most of these - teams of one to six
+     persons.
+
+   * + Fast Study. I can read from the manual and understand immediately. I
+     was self taught in many of the technical aspects of my job (example:
+     HTML)
+   * + Communication. I have the ability to understand and cause others to
+     understand by simplifying complex ideas and concepts, making them
+     sound simple.
+   * + Analytical. I can break a problem into its logical pieces and get
+     the desired solution while anticipating pitfalls that others might
+     miss.
+   * + Organizing. I get the tasks listed, categorized, controlled and
+     followed up on in a way that allows others to easily understand the
+     current status of the project as a whole as well as the project's
+     dependence on them.
+
+---------------------------------------------------------------------------
+
+          PRODUCT KNOWLEDGE: (Alphabetical order within groupings)
+
+   * HIGHLY SKILLED:
+        o P.C.: Animated GIF Construction Kit (Alchemy), EXCEL, Grammatik,
+          HTML, HotMetalPRO, WordPerfect5.2 through 8 for MS Windows & 6.0
+          for UNIX X Windows
+        o Mainframe: CAPEX, CA-1 and 11, Clist, COBOL structured
+          programming, DYL260/280, GDDM(ICU), IBM Utilities, ISPF, MVS JCL,
+          Panvalet, SYNCSORT, TSO, VSAM.
+   * WORKING KNOWLEDGE:
+        o Internet: ColdFusion, CSS Level 1, FTP, Telnet.
+        o P.C.: Access 97, Gem Draw, Microsoft Office, PaintShop Pro, SQL,
+          Windows 95
+        o Mainframe: Abendaid, ACF2, Assembler, Express Delivery, IBM
+          Advanced Function Printing, Assembler, ASI-ST, JCLCheck, PDF
+          Dialogue Management.
+   * SOME FAMILIARITY:
+        o P.C.: Harvard Project Manager, O'Reilley Web Server, Visual Basic
+          for Applications (VBA)
+        o Mainframe: INFOMVS, JCLFlow, RPG
+
+---------------------------------------------------------------------------
+
+                    ACCOMPLISHMENTS "Above and Beyond"
+
++1999: Web accessability confirmation from the Arizona State School for the
+Deaf and Blind (ASBD)
+
++ 1998: Spontaneously, boss remarked "You do the kind of work the rest of
+us aspire to."
+
++ 1996: PharmaSUG Award for "Best Paper"
+
++ 1994: On a private contract, built a custom, PC-based billing system for
+an attorney in private practice. The new application reduced the attorney's
+semi-monthly billing time commitment from eight hours to one, and now
+enables him to bill an additional 14 hours each month (at $190/hour.)
+
++ 1989: Won GTE's Quest for Quality Award for helping to develop National
+Data Center Standards. I brought perspective, pragmatism, and a "national
+view" of the business that had been clouded with "standards for standards
+sake."
+
++ 1988: Won GTE's Quest for Quality Award for inventing/implementing the
+"Service Quickie". This new procedure replaced a form whose use took weeks
+or months to get through the chain of command from someone requesting a
+problem fix to the problem "fixer". The Service Quickie reduced this time
+to days or hours, saving hundreds of working hours each year.
+
++ 1987: Invented the Tape Library "Tape Reservation Block" report which (by
+using available data) shows the actual future growth that could be
+anticipated in the quantity of tapes in the library. Before this report
+existed, tape ordering was done "intuitively" or in panic mode. Tapes can
+now be ordered as needed, preventing last minute shortages or wasted
+assets.
+
++ 1985: Was asked to investigate a job which, because it ran from 6 to 9
+hours, delayed a critical report beyond its delivery deadline. With less
+than an hour's investigation of the JCL, program and data, I was able to
+suggest a simple JCL change that reduced the run time to less than one hour
+- well within the delivery window.
+
+---------------------------------------------------------------------------
+
+                                PUBLICATIONS
+
+Optimizing the Application of SAS and WordPerfect in the Production of
+Research Reports. Chan W, Fotheringham N, Lee CA. PharmaSUG, 1996. Awarded
+"Best Paper" in the Technical Tips category at the 1996 Pharmaceutical SAS
+Users Group national conference.
+
+---------------------------------------------------------------------------
+
+                                WORK HISTORY
+
++ Nov. 1991 to date: Contract Programming. Recent Assignments:
+
+   * AlliedSignal, Tucson, Az. IBM mainframe, Year 2000 code repair
+     planning and implementation.
+   * CSC/Hughes, Long Beach, Cal. IBM mainframe, Year 2000 code update and
+     testing.
+   * AMGEN Corp., Thousand Oaks, Cal. Automating human cancer drug trial
+     statistical reports destined for the U.S. FDA for drug product
+     registration and approval.(Testimonial)
+   * MERISEL, El Segundo, Cal. Analysis via EXCEL of 401k payroll data in
+     response to an IRS audit.
+   * GTE California, Thousand Oaks. Replication of GTE's Toll system for
+     newly merged telephone companies nationwide, a team of 10+
+
++ May 1973 to Dec 1989: GTE Data Services Inc. (positions in decreasing
+order of time and importance) Senior Technical Analyst, Systems Analyst,
+Programmer/Analyst, Programmer, Mainframe Operator, Peripheral Machine
+Operator, Data Control Clerk.
+
++ May 1968 to May 1972: U.S. Air Force. Sentry Dog Handler, Viet Nam
+1969-70, England 1970-72
+
+---------------------------------------------------------------------------
+
+                                 EDUCATION:
+
+   * West L.A. College. A.A. Degree in Humanities, WLAC President's Award,
+     Magna Cum Laude, 3.8 GPA
+   * Control Data Institute - Highest Honors.
+   * IBM Project Planning Change Management.
+
+---------------------------------------------------------------------------
+
+                             Outside interests:
+
+   * Webmaster - Tucson Computer Society.
+     [Tucson Computer Society. Tucson, Arizona]
+   * Former President - California Country Club Homes Association.
+   * Former Election Precinct Inspector, Los Angeles County
+     Registrar/Recorder's Office

@@ -1,0 +1,57 @@
+
+CONTACT:
+
+Contact Name: Dan Ormes
+First Name: Dan
+Last Name: Ormes
+
+Number:	9301
+Street:      S.W. 92nd
+Road:        Ave
+Room:        C-409
+City:        Miami
+State:       FL
+Zip:         33176
+Home phone:  305 274 2059
+Work phone:  305 569 1421
+Email:       dormes@gate.net
+
+EDUCATION:
+
+Date: 1990   
+School Name: University of Florida
+School Location: Florida
+Degree: B.A.
+Major: English  
+Minor: Business Administration
+
+Date: 1987
+School Name: Florida International University
+
+EXPERIENCE:
+
+Date: 1993-Present
+Company: Expert Software  
+Position: Product Manager/Producer
+Location: Coral Gables, FL
+
+Date: 1992-93
+Company: IntraCorp, Inc
+Position: Product Manager
+Location: Miami, FL
+
+Date: 1992
+Company: Sources Miami
+Position: Marketing
+Location: Coral Gables, FL
+
+Date: 1988-89
+Company: Florida Bookstore, Computer Department, University of Florida
+Position: Computer Sales
+Location: Gainesville, FL
+
+Date: 1986-88
+Company: Hamilton, Taylor, Griffith & Fields, P.A.
+Position: Data Processing  
+Location: Miami, FL
+

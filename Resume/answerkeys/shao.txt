@@ -1,0 +1,69 @@
+
+CONTACT:
+
+Contact Name: Weidong Shao
+Title:    
+First Name: Weidong
+Middle Name:    
+Last Name: Shao
+Suffix Name:    
+
+Home phone:  301 345 2028
+Email:       weidong@erols.com
+URL:         http://www.acbridge.com
+
+EDUCATION:
+
+Date: 1995
+School Name: University of Maryland  
+School Location: College Park, Maryland
+Degree: MSEE
+Major: MSEE
+
+Date: 1991
+School Name: Tsinghua University
+School Location: Beijing, China
+Degree: BSEE
+Major: BSEE
+
+EXPERIENCE:
+
+Date: 06/1998 to present
+Company: telecom company
+Position: Senior Software Engineer
+Location: Washington, DC
+
+Date: 01/1998 to present
+Company: Southeastern University
+Position: Part-time Adjunct Faculty
+Location: Washington, DC
+
+Date: 01/1998 to 06/1998
+Company: Orbcomm   
+Position: Consultant
+
+Date: 03/96 to 01/98
+Company: Bell Atlantic - Advanced Network System
+Position: Software Engineer
+Location: Silver Spring, MD
+
+Date: 02/95 - 03/96
+Company:  RMS Technologies, Inc  
+Position: Communicaton Engineer
+Location: Washington, DC
+
+Date: 05/93 - 08/94
+Company: Institute for Systems Research
+Position: Research Assistant
+Location: College Park, MD
+
+Date: 08/91-06/92
+Company: Hua-zhong Electric Group  
+Position: Software Engineer
+Location: Wuhan, China
+
+Date: 08/90-06/91
+Company: Haihua Scientific Corporation
+Position: Electrical Engineer  
+Location: Beijing, China
+

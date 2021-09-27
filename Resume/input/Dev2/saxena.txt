@@ -1,0 +1,212 @@
+Saurabh Saxena
+
+Summary
+
+More than 2 and half years of experience in IT performing in client server
+and web applications. Strong programming and design background with proven
+ability to finish projects promptly and successfully. Familiar with most of
+the leading software design/development tools and current technology.
+Strong communication and problem solving skills.
+
+Education
+
+   * B.E. (Electronic) Instrumentation and Control from Delhi Institute of
+     Technology, University of Delhi, India. 76.85 % aggregate (1992-1996)
+   * School Leaving Examination from St. Xavier’s School, Delhi, India.
+     86.8% Aggregate (Distinction in all subjects) (1991-1992)
+
+Detailed Experience
+
+Small Scale Industries Information Dissemination System (SENET)
+Period       October 1998 onwards
+Position     Module Leader
+Customer     Ministry of Industries
+Company      CMC Ltd.
+Project      The aim of the project is to develop and maintain a web site
+Description  for SENET that provides information to small entrepreneurs and
+             other industries. The SENET offices throughout India have
+             access to data on the SENET intranet while the end user
+             external to SENET can get information and forms from the SENET
+             web site. External agencies like NSIC that maintain similar
+             information are also connected to the SENET intranet and can
+             share information with SENET.
+Role            * Responsible for formulating a 3 tier approach for the
+                  SENET project in which database connectivity is provided
+                  by COM objects using ADOs, developed in VB6 and hosted in
+                  MTS. The interface and forms have been developed using
+                  IIS applications (web classes) in VB6 and Oracle 8 is
+                  used as the backend. JavaScript has been used for client
+                  side validations.
+                * Developed the Project Profiles and Cluster Studies
+                  applications and supervised the development of other
+                  applications.
+                * Developed a library of common routines in JavaScript and
+                  VBScript to aid other members of the team in development.
+                * Converted HTML objects into COM objects that serve HTML
+                  on the fly and can be referenced in VB6 IIS applications.
+Software     Microsoft Visual Basic 6.0, Borland JBuilder, Microsoft Visual
+             InterDev 6.0, Microsoft FrontPage Express 98, Microsoft
+             Internet Information Server 3.0, JavaScript, VBScript, Oracle
+             8.0, Microsoft Transaction Server, Windows NT Server 4.0,
+             Microsoft Visual Sources Safe 6.0
+Hardware     Digital Dual Pentium II servers, Pentium II desktops.
+
+The Election Commission of India
+Period       February 1998 – March 1998
+Position     Module Leader & DBA
+Customer     The Election Commission of India, New Delhi, India.
+Company      CMC Ltd
+Project      The aim of the project was to set up an India wide network,
+Description  automate the process of collecting fast track counting data
+             from individual states, storing it in one India-wide central
+             database, summarizing the fast track information and
+             displaying the latest trends and results on a web site
+             developed for the purpose. The web site (www.eci.gov.in) was
+             developed for this purpose. Online reports and other static
+             reports were also to be generated for the purpose of
+             declaration of results. The General Elections ’98 and State
+             Elections ’98 were conducted with this system in place. This
+             project was given the ‘Outstanding Project of the Year Award’
+             for the financial year 1998.
+Role            * Designed and developed a data consolidation application
+                  that fetched data from the states and consolidated it in
+                  the central database at Nirvachan Sadan, New Delhi. This
+                  did not require manual intervention or monitoring. 2
+                  modules of the application are installed in every state
+                  and one part is installed at the Election Commission, New
+                  Delhi. The application transferred new data by FTP over
+                  leased lines and ERNET. At the center the application
+                  consolidated the data in the central database. The
+                  application was developed in VB5, the state databases
+                  were Access97, Internet Information Server was used for
+                  FTP servers, and the central database was Oracle 7.3.
+                * DBA for the central Oracle database. Member of the
+                  database design team
+                * Supervised and helped in the development of data entry
+                  forms.
+                * Developed templates, utility routines to assist
+                  developers. VB5 was used For development and Oracle 7.3
+                  and Access 97 were used as backends.
+                * Developed custom ActiveX’s in VB5.0 to aid forms
+                  development, interface Enhancement and deployment at the
+                  Election Commission of India Intranet.
+Software     Visual Basic 5.0, Internet Information Server 3.0, JavaScript,
+             Oracle 7.3, Microsoft Access 97, Crystal Reports 4.6, Windows
+             NT Server 4.0
+Hardware     Digital Alpha machine for web server, Digital Dual Pentium II
+             servers for FTP and database servers and Pentium II desktops.
+
+Time Trak
+Period       August 97 – Feb 98
+Position     Lead member of the development and design team.
+Customer     Inacom Information Systems
+Project      Time Trak helps Inacom manage employees' payroll data, create
+Description  weekly billing for their customers etc. This system also
+             uploads and downloads performance and forecast data from
+             various branches periodically and on-demand basis.
+Role         Enhanced the database design and developed the application in
+             VB5. Also created reports in Crystal Reports 4.6.
+Environment  Visual Basic 5.0, MS Access 97, Crystal Reports 4.6, Windows
+             NT.
+
+Punjab State Warehousing Corporation (PSWC)
+Period       June 97 – February 98
+Position     Member of the export module, handled the gate passes module
+             and predeposit accounts module and it’s billing procedures.
+Customer     Punjab State Warehousing Corporation (PSWC)
+Company      CMC Ltd.
+Project      The aim of the project was to automate the entire
+Description  functionality of the CFS (container Freight Station). The CFS
+             interfaces with multiple external agencies and has complex
+             billing procedures for calculating the handling charges,
+             loading/unloading charges, wharfage, transport charges etc.
+             The system needed to be fully online and needs to track
+             individual containers as well as the status of the container
+             yards. This software records all arrivals, departures at all
+             the entry/exit checkpoints by generating gate permits, cargo
+             receipts etc. This software has more than 40 screens and 50
+             reports.
+Role         Handled the PreDeposit account module and it’s billing
+             procedures and interfaces to external agencies. Also developed
+             the gate passes and job permits modules.
+Environment  Developer 2000, Oracle 7.3.3, Windows NT.
+
+Freight Operations Information System (FOIS)
+Period       February 97 – June 97
+Position     Module Leader of the TMS (Terminal Management System) module
+             of FOIS.
+Customer     Indian Railways
+Company      CMC Ltd.
+Project      TMS is a part of the Freight Operations Information System
+Description  which provides comprehensive operational system to terminals
+             i.e. goods sheds and sidings, to manage wagon demands,
+             loading, invoicing, revenue accounting and other activities
+             related to the Terminal organization. The main objective of
+             FOIS is to computerize the freight operations of Indian
+             Railways.
+Role         Lead a 3-member development team for the terminal management
+             system.
+Environment  Visual Basic 4.0, MS Access 97, Crystal Reports 4.6, Windows
+             NT.
+
+Pharmacy Automation System
+Period       August 96 – January 97
+Position     Lead member of a 3-person development and study team.
+Customer     Commercial Product.
+Company      Tata Consultancy Ltd.
+Project      The project scope included preparation of the SRS, development
+Description  of the Pharmacy Automation System. This system tracks
+             inventory, creates prescription forms, and provides patient
+             data and history. It also suggests alternative drugs in case
+             one brand is exhausted in the inventory and warns the
+             pharmacist if a medicine stock falls below a certain critical
+             limit set in the software.
+Role         Lead member of a 3-person development and study team.
+Environment  C, SCO Open Server.
+
+Web site design and administration
+Company      This is a personal project..
+Description  Helped design and develop the web site www.cranes.org
+             Responsible for maintaining the site and updating it since it
+             was posted first on 11th October 1997. Used Netscape Composer
+             4.0, Home Site 2.5 for designing the pages. PhotoShop 4 was
+             used for optimizing and retouching photographs on the site
+
+Extra Curricular Activities
+
+ Position    Member of the college basketball, badminton teams.
+
+ Interests   Music, Photography, and Wildlife.
+
+Professional Trainings and Seminars
+
+   * Attended a 3 day training on the middleware RTR (Reliable Transaction
+     Routing)
+   * Conducted a 10-day training for the Election Commission of India
+     project group for Visual Basic 5.0 in CMC Ltd. in July 1998.
+   * Attended the Microsoft Developer Days held in New Delhi that covered
+     application development using the Microsoft Visual Studio 98. Also,
+     regularly attended the MSDN seminars held in Delhi
+   * Attended a 10-day training in Borland IntraBuilder 1.5 and JavaScript
+     conducted by the PiMeson Software training group in Aug 1998.
+   * Designer 2000 training at Software Technology Group Intl. In June 97.
+     The duration of this course was 2 weeks and various aspects of SSAD
+     were covered in this training. This training was done at the
+     Department of Electronics, CGO Complex, Govt. of India.
+
+Personal Details
+
+          Full Name Saurabh Saxena
+      Date of Birth 18th March 1974
+                Sex Male
+        Nationality Indian
+    Passport Status Valid Indian passport holder
+     Marital Status Single
+Contact Information 91-11-395 0694 (Residence) After 7 PM IST
+
+                    mail:saurabhsaxena@hotmail.com,
+                    saurabhsaxena@cranes.org
+
+[Image] PageTrack
+
+                       Download a Word97 Version here

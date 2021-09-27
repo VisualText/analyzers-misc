@@ -1,0 +1,199 @@
+---------------------------------------------------------------------------
+   [Image]   RETURN
+
+---------------------------------------------------------------------------
+                                   RESUME
+---------------------------------------------------------------------------
+                              RON S. DOUGHERTY
+                     7011 Inwood Road, Dallas, TX 75209
+                                  [Image]
+
+                                  Email Me
+ WORK EXPERIENCE
+ 1996-present   DRT International
+                (contact information available on request)
+                Data Administrator[Image]In 1996, I joined the consulting
+                firm of DRT, International, a subsidiary of Deloitte &
+                Touche. The firm is currently developing a major software
+                package (GlobalAdvantage) for the administration and
+                management of expatriate employees, a package targeted to
+                firms with 50 or more personnel on overseas assignment. I
+                am responsible for working with the business users who are
+                specifying the functions that the software should have,
+                determining the data requirements to support those
+                functions, modeling these requirements, presenting the
+                models to the users for evaluation and approval, reviewing
+                the models with the development teams for completeness and
+                understandability, and generating SQL scripts for the
+                Oracle Data Base Administration staff.
+
+                As software development proceeds, I monitor the use of the
+                entities and relationships, making changes where
+                appropriate or necessary. I am responsible to the Project
+                Manager for the accuracy of the model and for the
+                completion of a Data Dictionary to be included as part of
+                the documentation for the system. I am also working on
+                integrating a report writer into the software system to
+                enable the end users to produce various reports from the
+                system.
+
+                In this effort, I use the ER/Win data modeling tool from
+                LogicWorks, and am integrating the Impromptu reporting
+                tool from Cognos, Inc., into GlobalAdvantage.
+ 1993-1996      Software Commodities & Futures, Inc.
+                (contact information available on request)
+                Principal[Image]In 1993, I joined with other principals to
+                focus on the theory and development of object-oriented
+                methodologies. We completed a major assignment with a
+                state government to develop an Information Systems Plan
+                (including Business Area Analyses). We continued to work
+                with one client to develop a Methodology delivery product
+                for the object-oriented environment. We worked with a new
+                restaurant franchiser on a store information system, work
+                that provided valuable experience in applying
+                object-oriented concepts in the real world and determining
+                how traditional methodologies will have to adapt to them.
+
+                For another client, I was responsible for enhancing their
+                system development methodology to accommodate
+                client/server architecture, testing, and application
+                improvement. In addition, I trained their personnel in the
+                use of process and data modeling within that methodology.
+                As a part of this independent consulting with clients in
+                all areas of systems development from the human interface
+                point of view (as well as Methodology implementation and
+                project management), I advise them on their use of the
+                Internet and World Wide Web, and help them develop an
+                Internet "presence."
+
+                As a result of this work and my experience with
+                methodology development and implementation in the
+                workplace, I have developed the skills necessary to (1)
+                lead methodology development projects, (2) develop and
+                implement training programs for professional development
+                and (3) advise clients on their use of rapidly-developing
+                Internet concepts for the distribution and sharing of
+                information, both externally, through traditional Web
+                sites, and internally, through "local" ones.
+ 1979-1992      Ron S. Dougherty, Inc.
+                (contact information available on request)
+                Independent Consultant[Image]I consulted with various
+                clients in the areas of Methodology and methodology
+                training.
+                Improved System Technologies
+                (contact information available on request)
+                During 1979-1981, I worked with Chris Gane and Trish
+                Sarson, principals in Improved System Technologies, Inc.,
+                to write the STRADIS System Development Methodology and
+                create course materials and documentation for both the
+                Methodology and the tools and techniques used within it. I
+                was also the lead consultant for a number of IST clients,
+                responsible for all facets of the client's relationship
+                with IST. Usually conducted at the client site, this work
+                included (1) training client personnel in the use of both
+                STRADIS and its structured tools, (2) planning and
+                conducting the implementation effort, including advising
+                the client of changes needed to either STRADIS or the
+                client environment to ensure maximum benefit from the
+                Methodology itself, and (3) providing project consulting
+                services in the roles of Technical Consultant, Project
+                Director and Application Analyst.
+                McDonnell-Douglas Automation Company
+                Electronic Data Systems, Incorporated
+                (contact information available on request)
+                During 1981-1991, I worked with the two successive owners
+                of STRADIS and its ancillary materials, McDonnell-Douglas
+                Corporation and EDS, to provide continued client support
+                for STRADIS. During this period, I was also responsible
+                for (1) a complete renovation and updating of all course
+                materials, based on the identification and implementation
+                of training "objects," enabling the rapid customization of
+                client training materials, (2) the production of a CASE
+                tool (ProKit*WORKBENCH) and the creation of an entirely
+                new set of training materials for the product line, and
+                (3) seven major revisions to STRADIS (the latest of which
+                added client-server and object-oriented concepts).
+
+                In 1991, I developed a version of STRADIS for inclusion
+                within a leading project planning and estimating software
+                package. This work required the partitioning of STRADIS
+                into methodology components (objects), which could then be
+                used to develop a variety of specialized methodologies to
+                suit a wide variety of system development project
+                classifications. I developed these components and included
+                them within the vendor software.
+                Structured Solutions, Inc.
+                (contact information available on request)
+                During 1992, I performed consulting services for the
+                company that purchased the STRADIS product line from EDS.
+                My responsibilities included the development of
+                implementation and training materials for a second
+                methodology, the continued client support required by the
+                STRADIS methodology, and major enhancements to the STRADIS
+                versions developed for the project planning and estimating
+                software.
+ 1974-1979      Culinet Software, Inc./
+                Computer Associates, Inc.
+                (contact information available on request)
+                Senior Technical Representative[Image]I was responsible
+                for the maintenance and growth of the client-vendor
+                relationship, including installing IDMS and related
+                products, conducting public and client-site training in
+                the entire product line and consulting on the use of all
+                products with the client base. I developed a consistent
+                set of coordinated training materials for the product line
+                and was also responsible for "training the trainers" in
+                the use of these materials.
+ 1971-1974      Continental Bank, N.A.
+                (contact information available on request)
+                EDP Auditor[Image]I was responsible to the General Auditor
+                of the Bank for ensuring the correct operation of major
+                Bank systems, including Trust, Consumer Loan and Charge
+                Card. In this effort, I used specialized software to
+                directly access Bank computer records to perform
+                independent audits of program operation and program
+                results.
+ 1968-1971      U.S. Army
+                Captain, Finance Corps[Image]As an Army Finance Officer, I
+                was responsible to the Commanders at Fort Lee, Virginia
+                and Fort Benjamin Harrison, Indiana, for the prompt and
+                proper payment of military and civilian personnel
+                stationed at those sites. At Third Army Command, Korea, I
+                was the Finance Officer for the Second Division.
+ EDUCATION
+ 1968           Davidson College (Davidson, NC) (History and Finance)
+ 1976           University of Chicago (MBA)
+ TECHNICAL      I am experienced in most areas of PC-based software.
+                Particular areas of knowledge include the Microsoft Office
+                suite (Word, Excel, Access, Powerpoint, Mail) and project
+                management software (ABT Project Workbench, Microsoft
+                Project). I am familiar with the principles and use of
+                today's development software such as Visual Basic, Access
+                or PowerBuilder. I have developed the skills necessary to
+                advise clients on their use of the Internet and World Wide
+                Web, and am able to use HTML 3.0 to create Web sites for
+                them.
+                I am expert in the development and use of methodologies,
+                process modeling, data analysis and data modeling, and
+                project management techniques. I am very familiar with the
+                theory and practice of client-server systems. I have done
+                some work with object-oriented principles, techniques, and
+                standards, particularly as they apply to methodologies.
+                As the experiences above indicate, I am an expert in not
+                only delivering training, but in developing training
+                materials and monitoring training efficiency and success.
+                I have the creative ability to make even complex ideas and
+                concepts understandable for those who will need to use
+                them. I have the skills and temperament to be an effective
+                project manager, I can work effectively with clients and
+                customers, and I enjoy systems design and development,
+                including high-level programming. Having been an
+                independent consultant for most of my career, I am
+                well-suited to performing my work with minimal
+                supervision, inside or outside the traditional office
+                environment.
+ REFERENCES     Available on request
+---------------------------------------------------------------------------
+   [Image]   RETURN
+
+---------------------------------------------------------------------------

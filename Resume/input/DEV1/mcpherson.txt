@@ -1,0 +1,186 @@
+                         Resumé of David McPherson
+
+                       David_McPherson@compuserve.com
+[Image]
+---------------------------------------------------------------------------
+
+Employment History
+
+   * Cara Corporation, Oak Brook, IL Software Engineer (1994 - Present)
+     Engaged in several projects for the Engineering and Scientific Systems
+     group.
+
+   * microSys Corporation, Baltimore, MD & Chicago, IL Owner/Consultant
+     (1991 - 1994)
+     Started consulting firm with two employees. Responsible for developing
+     contacts, managing projects, and application development.
+
+   * Interior Elements Inc., Columbia, MD MIS Manager (1989 - 1991)
+     Managed a Novell network of forty users. Managed and developed custom
+     business applications to aid in new business development.
+
+   * Westinghouse Electric Corporation, Linthicum, MD Systems Analyst (1988
+     - 1989)
+     Aided in the design and development of PC-EPIC, the Electronic Systems
+     Group DOS-based software system for creating and submitting all radar
+     defense quotations.
+
+   * HCIA, Inc., Baltimore, MD Systems Analyst (1987 - 1988)
+     Developed several financial systems for investor clients.
+
+Project Details
+
+   * Designed and developed font classes for VideoJet, a manufacturer of
+     high speed ink jet printers for mass mailings. The classes parsed
+     proprietary printer font files and created Windows fonts for WYSIWYG
+     display during the editing process. Used Microsoft Visual C++ 4.x and
+     MFC for the development of a Windows NT application.
+
+   * Developed word processor templates for the creation of presentation
+     index documents for ACCO USA. The templates offer menu driven tools to
+     format a document to print on the Wilson Jones line of indexes.
+     Developed macros using the Microsoft Word 2.0, 6.0, and 7,0,
+     WordPerfect 6.0, 6.1, 7.0, Ami Pro 3.x, and Word Pro macro languages.
+     Used Microsoft Visual C++ to add functionality not supported by the
+     macro languages. Created an installation program using InstallShield
+     and a help file using Visual Help Pro.
+
+   * Aided in the development of ScreenPlay, a component of a suite of
+     tools that are distributed with Zenith's new line of cable set-top
+     boxes. Cable television providers use the tool to create interactive
+     dialogs that are periodically downloaded to their entire customer base
+     to aid in program selection, as well as provide new features
+     previously unavailable to the conventional cable customer. The
+     software enables the author to create the screens using a what-
+     you-see-is-what-you-get (WYSIWYG) interface. The editor provides tools
+     to enter text and graphics using methods similar to the popular paint
+     packages available on the PC. The author can also compose the "flow"
+     of the menus by entering scripts that respond to the key selections on
+     the viewer's remote control. Once a full dialog is completed the
+     resulting data file is compiled into machine code which executes on
+     the set-top box's processor. The Windows-based authoring software was
+     developed using Watcom C using their 32-bit Windows supervisor and the
+     Window's Software Development Kit (SDK). The application is targeted
+     for 386/486 processors and is network aware. This feature permits a
+     group of authors to work as a team to develop a final dialog.
+
+   * Designed and developed an assembly line administration and control
+     system for Advance Transformer, a large transformer and ballast
+     manufacturer. This application was coded for the Microsoft Windows
+     operating system using Microsoft Visual C++ and MFC. The system
+     interfaced with multiple processors through a VME bus architecture.
+     Communication between the host processor and an Allen Bradley PLC
+     5/40v enabled the application to control part changeovers and line
+     index speed, as well as monitor line operating mode changes, station
+     cycle times, and diagnostic warnings and errors. A link to a RadiSys
+     EPC-6 processor that was operating as a quality control test system
+     was utilized to setup test parameters and collect test result data.
+     The software also maintained databases for part specifications, test
+     parameters, test results, run and shift piece counts, and complete
+     activity logs. Two printers were also connected using RS-232
+     communication protocols.
+
+   * Developed a DOS-based quality control test system for testing
+     individual units for Advance Transformer. The application interfaced
+     with a digital I/O board to set input relays to the test head and read
+     values from custom analog to digital conversion modules. A GPIB
+     connection was used to set output voltages to the test head. This
+     application was written in Microsoft Visual C++.
+
+   * Created MicroPost, a Windows-based client and administration software
+     for electronic mail distribution system for PostGEM, a division of the
+     Irish postal authority. The complete system consisted of five
+     components which included: (1) a Microsoft Word document template and
+     supporting macros to allow users to create mailing lists and form
+     letters for transmission to the local PostGEM hub using X400 EDI
+     format, (2) a Window's Dynamic Link Library (DLL) written in C to
+     provide user interface and database functions not possible within
+     Microsoft Word, (3) a Window's executable written in C to manage
+     communications between the local user and the hub, (4) a Word document
+     template and macros to allow hub administrators to view received
+     documents for printing and automatic enveloping, (5) a Window's DLL to
+     enhance the administration software.
+     PostGEM MicroPost Page
+
+   * Designed and developed DDE link between Sharkware, a commercially
+     available Personal Information Manager (PIM) system from CogniTech,
+     and the three major word processors for report and letter creation.
+     This system featured extensive use of DDE execute and request
+     functions using the C language. Developed macros for Microsoft Word
+     6.0, WordPerfect 6.0, and Ami Pro.
+     Sharkware Page
+
+   * Responsible for system configuration, RS-232 communication protocols,
+     and DDE sections of In-Touch for Windows, a commercially available EDI
+     software package from Harbinger using the C++ language. Developed
+     RS-232 section for modem control.
+
+   * Aided in the development of a test result tracking system for
+     Northwest Hospital, a large suburban hospital, using the Microsoft
+     Foundation Classes (MFC) and C++. Interfaced with Access databases
+     through ODBC.
+
+   * Designed and developed project management and time record keeping
+     systems for an association management firm. System interfaced with
+     both Microsoft Project for project management, and Accounting Vision
+     accounting software. This system was created using the Microsoft
+     Foundation Classes and C++ using object-oriented design.
+
+   * Aided in the development of a Windows-based test processing system for
+     a large textbook publishing firm using the C language. The primary
+     component was a DLL that printed tests using custom font creation and
+     PCX routines. Also communicated with Windows fax software by issuing
+     DDE commands.
+
+   * Designed and developed several systems for the contract furniture
+     industry. These included: Accounts Management, Lead and Project
+     Tracking, Quote/Order Processing, and Inventory Control. Systems
+     interfaced with Platinum accounting software. Systems were developed
+     using the C language and Visual Basic using Btrieve as the database
+     manager.
+
+   * Developed printer control system for management of printer connections
+     on a Novell network. Utilized MFC and Windows hook functions.
+
+   * Developed data modeling program for the University of Chicago P.H.D.
+     program which displayed Chernoff faces and stars based on data input.
+     Utilized custom controls and Windows GDI functions for graphic output.
+
+   * Designed and developed DOS-based job search system for the Wharton
+     Business School at the University of Pennsylvania.
+
+   * Developed a DOS-based equipment maintenance tracking system for Lake
+     County (IL) Division of Transportation. System communicated with gas
+     pump hardware using RS-232 communication.
+
+   * Developed AutoCAD-based specification system , and ArchiBus-based
+     asset management system with barcoding.
+
+   * Provided programming, hardware installation and support services for
+     HCIA, a large health care information firm. Responsible for design and
+     implementation of on-line HP-3000 health care and demographic database
+     systems.
+
+Operating Systems
+
+   * MS-DOS, Microsoft Windows 3.xx (16-bit), Microsoft Windows 95
+     (32-bit), Microsoft Windows NT (32-bit), OS/2 2.0, Hewlett Packard
+     MPE-XL.
+
+Programming Languages and Tools
+
+   * Visual C++, Borland C++, Watcom C, Visual Basic, Pascal, HP 3000
+     COBOL, MicroFocus COBOL, Microsoft Foundation Classes (MFC), Btrieve,
+     ODBC, CodeBase, AllBase SQL, Novell SQL, Raima, Access, dBase IV,
+     Paradox, WordBASIC, QuickBASIC, Ami Pro and WordPerfect Macro
+     Languages, LISP, Prolog, PVCS version control, Brief editor, Greenleaf
+     COMM++ library.
+
+Education
+
+   * Loyola College, Baltimore, MD (May 88)
+     Bachelor of Science in Computer Science. GPA of 3.5 on a 4.0 scale.
+
+---------------------------------------------------------------------------
+Return to other interests page
+Return to main page

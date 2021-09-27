@@ -1,0 +1,55 @@
+Contact Name: DANIEL BLACKMAN
+First Name: DANIEL
+Last Name: BLACKMAN
+
+Home phone:  510 910 9047
+
+Date: June 1984
+School Name: University of California
+School Location: San Diego, California
+Degree: BA
+Major: Computer Science    
+
+Date: December 1996
+School Name: California State University
+School Location: Hayward, California
+Degree: MBA
+Major: MBA 
+
+Date: (4-96 ?)
+Company: Space Sciences Laboratory, UC Berkeley
+
+Date: (10-95 4-96)
+Company: TMX  
+
+Date: (6-95 8-95)
+Company: Tracor Aerospace
+Location: Austin, TX
+
+Date: (9-94 4-95)
+Company: NETA  
+
+Date: (8-87 5-94)
+Company: Tracor Aerospace
+Location: San Ramon, CA
+
+Date: (3-91 6-91)
+Company: XMR    
+Location: Santa Clara, CA
+
+Date: (10-89 11-90)
+Company: Mirage Systems   
+Location: Sunnyvale, CA
+
+Date: (6-89 7-90)
+Company: Helios  
+Location: Sunnyvale, CA
+
+Date: (10-84 8-87)
+Company: SAIC COMSYSTEMS
+Location: San Diego, CA
+
+Date: (6-83 6-84)
+Company: San Diego State University Foundation
+Location: San Diego
+

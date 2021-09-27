@@ -1,0 +1,74 @@
+                               Jane Prusakova
+                             prusakov@komkon.org
+               http://www.komkon.org/~prusakov/resume.html
+
+Skills:
+   * Work well with others, can handle deadlines, work under pressure.
+   * Experience in: all stages of project life-cycle, porting.               
+   * Background: secure communications, Internet, OOP, networking, 
+	client/server, parallel computing.
+   * Programming: C/C++, Tcl/Tk, Java, RISC assembly, FORTRAN, HTML, Basic.
+   * Software: VC++, WinSock, Illinois FM, MPI, OpenGL, LaTeX, etc.
+   * Operating Systems: Unix(various flavors), WindowsNT, MS-DOS.
+   * Hardware: PentiumPro, Sun SPARC, SGI, CM-5.
+
+Work Experience:
+   * Software Developer 					01/98-present
+     Netscape Communications Corp.
+     Core Technology Division, Security group.
+     Work on Netscape security technology (PKI). Design and implementation of
+     security applications and libraries. 
+     Added functionality to encryption libraries, design and implementation
+     of stand-alone security server application.
+     Worked on PKCS11 and PKCS7 modules, 
+     added Diffie-Hellman key generation (PKCS3), 
+     worked on SSL API design and documentation.
+     Java, C, Perl. OO programming, multithreaded environment. 
+     Portable code: SunOS, HPUX, Irix, Linux, Windows, multiple versions.
+
+
+   * Software Engineer
+     NCSA, Champaign, IL					09/97-101/98
+     Chemical Engineering Application Team
+     Design and implementation of Chemical Engineering Workbench on the Web
+     Building interfaces for various Chemical Engineering software packages
+
+   * Software Engineer 
+     Intel Corp., Santa Clara, CA                               05/97-08/97
+     Design and implementation software tools for process automation and 
+	data visualization 
+     Tcl/Tk, HP basic		
+
+   * Research Assistant
+     University of Illinois at Urbana--Champaign, Champaign, IL 06/96-05/97
+     Concurrent Systems Architecture Group
+     Port from Unix to NT and verification of MPI FM on NT.
+     VC++, MSDev, WinSock, Purify, etc.
+
+   * Programmer
+     Bitwise Internet Technology, Boston, MA                    04/96-06/96
+     Developing automated Unix system administration application.
+     Coordinated a team of 3 programmers, designed and implemented back end.
+     Application allowed to monitor and reconfigure system services via GUI.
+     Design and implementation of e-mail filter and parser.
+
+   * Programmer
+     Boston University, Psychology Department, Boston, MA       12/94-3/96
+     Design and implementation of psychological experiments, 
+     statistical analysis.
+     Coordinated a team of psychology students running the experiments.
+     Real-time graphics using MEL Psychology Software environment.
+
+   * Software engineer
+     Smart-Food Coop, Cambridge, MA                              07/95-09/95
+     Developing software for the supermarket on the Internet.
+     (Perl scripts allow to browse database of products, create consumer
+     basket, compile customer order, process orders, map deliveries.) 
+     Design of the company Web site and advertisement on the Internet.
+
+Education:
+  University of Illinois at Urbana-Champaign, Champaign,IL Summer'96-Winter'97
+    Master of Science in Computer Science.
+     
+  Boston University, Boston, MA                              Fall'94-Spring'96
+    Bachelor of Computer Science, minor concentration in Economics.

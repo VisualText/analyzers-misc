@@ -1,0 +1,89 @@
+1815 Palmer Avenue                                                www.justin.com
+Apartment 3S                   JUSTIN A. JONES                 justin@justin.com
+Larchmont NY, 10538                                           212.290.5099 x2212
+
+*** QUALIFICATIONS ***
+
+PRODUCT DEVELOPMENT
+* Conceptualized and implemented innovative Internet and Intranet applications
+* Spearheaded product development
+* Managed software development teams through complete product lifecycles
+* Defined product specifications and planned product development timelines
+* Designed extensible object-oriented application architectures
+* Utilized defensive programming methodologies and self-documenting source 
+  code for robust, fault-tolerant solutions
+* Created eye-catching user interfaces
+
+SOFTWARE ENGINEERING
+* 5 years of professional experience with C++ development for Windows
+* Extensive experience with network, graphics, and GUI programming
+* Languages: C, C++, Java, JavaScript, HTML, Visual Basic, Pascal, Delphi, SED,
+  AWK, SQL, Assembly
+* APIs: Win32, Win32s, MFC, STL, Winsock, TCP/IP, COM, ActiveX, 
+  Video For Windows, ASP, CGI, NSAPI, NCAPI, ISAPI, IPX/SPX, ODBC, DDE
+* Environments: MS SQL Server, Windows NT, 95, 3.1, NetWare, UNIX
+* Tools: InstallShield, BoundsChecker, SourceSafe
+
+*** EMPLOYMENT EXPERIENCE ***
+
+SOFTWARE ENGINEER, 1994 - PRESENT
+Desktop News Corporation, New York, NY
+* Co-founded Desktop News Corporation
+* Conceptualized, designed, and managed team development of "Desktop News", a
+  popular client/server Internet application reviewed in The New York Times,
+  Computer Shopper, AdAge, and TUCOWS
+* Managed complete product lifecycles
+* Architected scalable application framework in C++ supporting all versions of
+  Windows
+* Prototyped using Rapid Application Development techniques
+* Devised open publishing protocol permitting standard web servers to "push"
+  content to Desktop News tickers
+* Designed  asynchronous object-oriented Winsock class hierarchy
+* Created attractive user interface with innovative features
+* Worked closely with marketing and individual users to balance business
+  objectives with usability
+* Coordinated conditional builds of multiple OEM versions, each with customized
+  features and unique personalities
+* Constructed Internet "spider" application to retrieve the latest headlines 
+  from major news sites and publish to Desktop News
+* Developed web server extensions and browser plugins in C++
+* Automated statistical analysis of ad impressions and click-throughs
+* Implemented HTTP proxy server in Java for debugging web applications
+
+INTERNET CONSULTANT, 1993 - 1994
+REALTECH Systems Corporation, New York, NY
+* Formed and managed REALTECH's Internet Services Group to provide Internet
+  integration solutions to FORTUNE 500 companies
+* Oversaw research of emerging web and firewall technologies
+* Pioneered corporate Internet & Intranet solution "packages" deployed at
+  Hearst Magazines, Deloitte & Touche, Warner Music, Business Week and others
+* Ported NCSA HTTP proxy, COPS, Tripwire, Swatch, and TIS to SunOS, Solaris,
+  and UnixWare
+* Created Internet webcam software, broadcasting live from the 77th floor of
+  the Empire State Building since 1994.  Coordinated live broadcasts from NHL
+  playoffs and Times Square on New Years Eve
+* Enhanced Netscape web server for Solaris with CGI extensions
+
+SENIOR NETWORK ENGINEER, 1988 - 1993
+REALTECH Systems Corporation, New York, NY
+* Authored versions 1.0 and 2.0 of SAPTrack, a real-time network analysis
+  utility developed in C++ and Assembly.  SAPTrack was distributed on the
+  Novell Support Encyclopedia CDROM, and achieved several thousand downloads
+  on CompuServe
+* Assembled object-oriented front-end to Novell IPX/SPX API
+* Managed intranet infrastructure design and implementation projects for
+  FORTUNE 500 corporations
+* Constructed high performance multi-protocol / multi-media network
+  architectures interconnecting PCs, Macs, UNIX workstations, and mainframes
+* Honed writing skills with extensive proposal development	
+
+*** EDUCATION ***
+
+THE DALE CARNEGIE COURSE, 1993
+
+STATE UNIVERSITY OF NEW YORK AT ALBANY, 1992	
+BS, Computer Science, Minor in Electronics, Cum Laude
+
+NOVELL CNE, 1990
+
+DANISH EXCHANGE STUDENT, 1984 - 1985

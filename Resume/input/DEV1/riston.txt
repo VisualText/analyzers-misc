@@ -1,0 +1,176 @@
+Michael D. Riston
+
+17731 67th Ave SE, Snohomish, WA 98296 (Home) 206-486-5017 (Work)
+206-451-8966 Ext 111
+
+E-Mail: riston@halcyon.com
+
+---------------------------------------------------------------------------
+
+Qualifications
+
+          • Senior Software Engineer with eleven years of
+          Systems/Application software development.
+
+          • Six years experience in User Interface development.
+
+          • Six years Object Oriented software development using C++.
+          Experienced in C++ class library development.
+
+          • Performed in all areas of software development, including
+          product concept, requirements definition, scheduling, software
+          design, implementation, and test.
+
+          • Innovative and conceptual self-starter who works effectively
+          with others to attain or exceed objectives. Can solve problems on
+          new projects under tight schedules and budget.
+
+---------------------------------------------------------------------------
+
+Skill Experience
+
+     C++/Object Oriented Technology
+
+          Six years experience developing numerous production applications
+          using C++. Developed C++ class libraries to provide reusable
+          components for rapid prototyping and development. Developed
+          solutions for object communications and persistence. Extensive
+          understanding of inheritance, virtual functions, and advanced
+          idioms of class design. Used Object Oriented methods to improve
+          design, development, and group productivity. Have used Visual
+          C++, and Borland C++, and cfront development environments. Taught
+          an introductory class on Object Oriented Technology and C++.
+
+     User Interface Development
+
+          Six years experience in all areas of development and usage of
+          windowing environments: Successfully designed and implemented
+          numerous user interfaces using Windows SDK and MFC class
+          libraries under Windows NT/95/3.1 (2 years), and OSF/Motif, Xt,
+          and Xlib (4 years). Developed solutions for a graphical object
+          editor, image processing/display, inter-client communications,
+          database storage/retrieval, and user interface C++ class library
+          development. Extensive understanding of messaging and event loop
+          programming techniques. Familiar with OLE/COM/Active X
+          technologies. Provided user interface technical support and
+          presentation material.
+
+     System Development
+
+          Detailed experience in system programming in the Windows NT/95,
+          Berkley, System V, and POSIX environments. Experienced with
+          signals, I/O library, dynamic memory allocation, inter-process
+          communication, process control and execution, threads, and
+          writing portable code for multiple vendor platforms.
+
+     Customer Support
+
+          Extremely customer driven and always trying to exceed their
+          expectations. Continuously searching for ways to improve both the
+          product and customer environment. Proactively answer all customer
+          inquiries with regards to user interface and systems software
+          product development.
+
+     Application/Tool Usage
+
+          Experienced in the use and administration of Visual SourceSafe.
+          Tested and optimized code using BoundsChecker. Developed install
+          programs using InstallShield. Performed documentation using MS
+          Word, Excel, Mosaic (html), and Interleaf/5. Proficient in using
+          standard Unix tools including, make, grep, awk, SCCS, sed, vi.
+          Developed script solutions for automating software development
+          using Visual Basic, DOS, Bourne Shell, C-Shell, Korn Shell, and
+          Perl.
+
+     Software Engineering Practices
+
+          Performed in all areas of software development, including
+          scheduling, requirements definition, software design,
+          implementation, and test. Have successfully completed numerous
+          large production software products that have been sold to the
+          public and used by a large community of users. Set the standard
+          for software architecture and innovative documentation
+          techniques. Developed and implemented processes for configuration
+          management of software. Performed technical interviews.
+
+     Computer Languages/Systems
+
+          Eleven years experience in C, C++. Experienced in FORTRAN, BASIC,
+          Prolog, Lisp, Java, and Assembly, lex (flex), and YACC.
+          Experienced in using Pentium/486 PC, Silicon Graphics, Apollo, HP
+          Workstations, Harris NightHawk 4800/5800, and Apple Macintosh.
+          Experienced with Windows NT/95 and 3.1, Unix, DOS Domain/OS,
+          HP/UX, VAX/VMS, AOS/VS, and CMS.
+
+---------------------------------------------------------------------------
+
+Work Experience
+
+     Senior Software Engineer, Seagull Scientific Systems, July 1995 to
+     present
+
+          Successfully designed and implemented the Bar Tender: a large
+          scale commercial bar code label printing software package running
+          on Windows NT and 95. The Bar Tender was developed on Windows
+          NT/95 and required in-depth use of object oriented design, C++,
+          and MFC. Key technologies implemented were a graphical object
+          editor that allowed for the manipulation of graphical objects on
+          the screen, comprehensive Undo/Redo design, document/view
+          architecture, strict WYSIWYG bar code drawing/printing, and
+          processing input data from a variety of sources (e.g. ODBC).
+          Tools used were Visual C++, SourceSafe, and BoundsChecker.
+          Project duration: 1 year.
+
+          Performed printer driver development for Windows 95/3.1 for
+          industry standard thermal printers (Intermec, Datamax, Zeba,
+          SATO). Successfully implemented bar code fonts, image
+          compression, and 2D bar code symbologies.
+
+          Successfully implemented complex data compression and error
+          correction technologies for the drawing and printing of 2D bar
+          code symbologies (e.g. PDF417).
+
+     Senior Software Engineer, The Boeing Company, June 1991 to July 1995
+
+          Designed and implemented customer driven user interfaces and
+          libraries for real time airplane simulation systems in a Unix
+          environment using C++, OSF/Motif, and X-Windows. Successfully
+          completed development of a simulation hardware I/O interface,
+          language sensitive text editor, and a simulation development
+          system.
+
+     Software Engineer, The Boeing Company, June 1986 to June 1991
+
+          Designed and developed real time simulation test environments for
+          testing avionic modules using C and FORTRAN. Emphasized control
+          system modeling, detailed test procedure implementation, and
+          hardware/software problem solving. Developed, documented, and
+          maintained application software tools to aid in the development
+          and use of real time simulation environments.
+
+
+
+---------------------------------------------------------------------------
+
+Education
+
+          June 1986 B.S Electrical Engineering, Walla Walla College,
+          College Place, WA
+
+---------------------------------------------------------------------------
+
+Awards
+
+          • Engineer of the Month, Engineering Division, The Boeing
+          Company, March 1990, for outstanding contributions to the
+          development of a 747-400 flaps simulation system.
+
+          • Pride in Excellence Award, March 1993, for outstanding
+          development of the Simulation Work Environment software
+          application.
+
+          • Pride in Excellence Award, September 1991, for development of
+          configuration control methods for an entire organization.
+
+          • Pride in Excellence Award, April 1987, for improving and
+          documenting test language software.

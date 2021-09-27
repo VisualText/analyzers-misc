@@ -1,0 +1,173 @@
+     NOTE: I am happily employed at CISRA and currently am only
+     interested in after-hours or part-time work (odd jobs included).
+
+Name:          Cameron Simpson
+Date of Birth: 20th March 1966
+Nationality:   Australian
+Interests:     skiing, squash, motorcycles, climbing
+Address:       6 Patricia Street, Rydalmere 2116
+Telephone:     +61 2 9638 6719 (home - preferred)
+               +61 2 9805 2983 (work)
+Email:         cs@zip.com.au
+Web:           http://www.zip.com.au/~cs/
+
+Current Languages
+
+I have expertise in C, shell, Perl and HTML. I have particular enthusiasm
+for projects involving Perl or HTML.
+I am competent in C++, awk, sed, Pascal, Modula-2, SR, Miranda, Prolog,
+PostScript, Troff, BASIC.
+I have some familiarity with Java, FORTRAN, Ada and various assembly
+languages.
+
+Qualifications
+
+1983 HSC 424: Physics, Chemistry, Engineering Science, English, 4 unit Math
+
+1993 BSc Computer Science UNSW
+
+Affiliations
+
+UNIX system administrator for Canon Information Systems Research Australia.
+
+Member of the HTML Writers' Guild
+Member of the DoD Motorcycle Club
+
+Experience
+
+1996-1998
+     System administrator at Canon Information Systems Research Australia.
+
+     The CISRA network consists of about 40 Solaris UNIX workstations,
+     several NeXT UNIX workstations, a few Hewlett-Packard UNIX
+     workstations, about 30 Apple Macintoshes and about 100 PCs running a
+     mix of Windows, Windows 95 and NT. We serve about 150 staff.
+
+     My duties include:
+        o user support
+        o postmaster for the system
+        o providing help and advice to staff with problems
+        o installation and maintenance of the Web hypertext system
+        o writing various special purpose applications for use within the
+          division
+        o installing and maintaining various third party applications
+        o installation and setup of various hardware
+        o managing disc usage of users on the network
+        o assorted documentation as needed
+        o random maintenance and troubleshooting tasks as needed
+1995-1996
+     Implemented the CGI backend ordering system for the RamGate Windows
+     software web page. Ported this to NT from the UNIX platform.
+1994-1996
+     System administrator at the Division of Applied Physics (now
+     Telecommunicaions and Industrial Physics), CSIRO.
+
+     The DAP network consisted primarily of a small number of large SGI
+     servers serving a large number of X-Terminals, a large number of IBM
+     PC-compatibles, and few other UNIX workstations, all sharing the same
+     network. We served about 300 staff.
+
+     My duties included:
+        o user support
+        o postmaster for the system
+        o providing help and advice to staff with problems
+        o maintenance of the Web hypertext system, including writing
+          interface code to present various facilities and data as
+          hypertext
+        o writing various special purpose applications for use within the
+          division
+        o installing and maintaining various third party applications
+        o managing disc usage of users on the network
+        o assorted documentation as needed
+        o random maintenance and troubleshooting tasks as needed
+1987-1994
+     System administrator at the School of Computer Science and Engineering
+     at UNSW. I completed my degree part-time during this period.
+
+     The Computer Science workstation network is a heterogeneous network
+     comprised of over 400 workstations including Suns running SunOS and
+     Solaris, DECstations running Ultrix, HP/Apollos running DomainOS, SGIs
+     running IRIX, a DEC Alpha running OSF/1, and assorted other UNIX
+     workstations. The user environment is the X Window System on most
+     machines and Apollo's DM on most of the Apollo machines. The School
+     also has an assortment of IBM PCs and Apple Macintoshes in its
+     network, though less tightly integrated than the UNIX machines.
+
+     My duties included:
+        o front desk for users ('87-'90)
+        o postmaster for the system ('87-'92)
+        o providing help and advice to staff and students with problems
+        o maintenance of the USENET news system
+        o installation and maintenance of the Web hypertext system,
+          including writing interface code to present various system
+          facilities as hypertext. For example, their manual browser, the
+          class messages, and the system mail aliases.
+        o developing and maintaining the user account maintence software
+          (we have a student population of 1500 undergraduate users, and a
+          couple of hundred postgraduates and staff; the undergraduates
+          accounts get renewed each six months)
+        o writing various special purpose applications for use within the
+          department
+        o installing and maintaining various third party applications
+        o managing disc usage of users on the network
+        o writing manuals for local tools and how-to documents for various
+          facilities (X Windows, the dial-in facility, news, the local
+          lore, etc)
+        o random maintenance and troubleshooting tasks as needed
+1993-1994
+     Teaching shell and C programming at the North Sydney Institute of
+     TAFE, through Technology Solutions and independantly.
+1990-1993
+     Tutoring various subjects within the Department: Computing 1A and 1B
+     and Concurrent Computing.
+1992
+     Teaching C programming courses for IIT (the Institute for Information
+     Technology). This included modification and correction of the course
+     nmaterial.
+1991, 1992
+     Filled in as system administrator at the Australian Graduate School of
+     Management when one of their staff took leave. In 1992 this also
+     involved fixing the backup system for their Apollo network.
+1991-1992
+     Teaching various IBM AIX courses through the Institute of Information
+     Technology (a branch of UNSW), including:
+        o system administration
+        o shell programming
+        o AIX specifics for IBM engineers
+1989
+     During '87-'88 I wrote a replacement for the UNIX make utility with
+     extended functionality at UNSW and OTC R&D engaged me under contract
+     as a C programmer to do some development of it for use in their
+     research and development environment. It is currently licenced to
+     Object Oriented, Pty Ltd.
+1986
+     Summer job under a CSIRO grant for the Joint Microelectronics Research
+     Centre at the University of NSW rationalising their VLSI toolset
+     development environment.
+1986
+     Some part-time work at Osiris Technology as a C programmer.
+1984
+     A contract job for CIG writing a job cost database.
+1982
+     A summer job for CIG Medishield Ryde extending their inventory control
+     software.
+1981
+     A summer job at ICI Botany writing some educational software.
+
+Referees
+
+Teaching through IIT and Technology Solutions:
+     Ann Moffatt, Technology Solutions, 9959 1075
+     Chris Doney, AGSM, (074) 46 3316
+System administration at Computer Science
+     John Nicholls, 9385 1122
+System administration at DAP
+     Alan Hargreaves, 9413 7752
+CGI work for the RamGate product
+     Bruce Davison, 9654 1342
+System administration at the AGSM
+     Chris Doney, (074) 46 3316
+Contract work at OTC
+     Mike Mowbray, Object Oriented Pty Ltd, 9957 1092
+Work for the JMRC
+     Graham Hellestrand, Computer Science, 9385 4028

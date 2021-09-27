@@ -1,0 +1,13 @@
+
+# AUTOMATICALLY GENERATED! EDITS WILL BE LOST!
+# FILE: e:\apps\resume\spec\posDET.pat
+# TIME: 10:17:18 09/02/01
+@NODES _LINE
+
+@RULES
+
+# Ex:	what
+_posDET [layer=(_funWORD )] <- _xWILD [min=1 max=1 s match=("what" "an" "the" "my" "our" "your" "his" "her" "its"
+ "their" "no" "whose" "which" "whichever" "a" "whatever" "some" "any" "enough"
+ "this" "that" "these" "those" "every" "each" "either" "neither" "much")] @@
+

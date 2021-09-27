@@ -1,0 +1,77 @@
+                             Michael Shoemaker
+                           1620 East Swan Circle
+                         Brentwood, Missouri 63144
+                            Home:(314)963-7579
+                         Email:shoemam@postnet.com
+---------------------------------------------------------------------------
+Career Summary:
+
+   * Software professional with over two years of experience as a
+     programmer/analyst. Development experience includes object oriented
+     analysis and design methodology using C++ on UNIX and Windows NT
+     platforms. Extensive relational database experience utilizing stored
+     procedures, triggers, proprietary 3rd generation languages, and
+     application embedded SQL.
+
+Education:
+
+   * Saint Louis University, Bachelor of Science in Computer Science
+   * Microsoft Certified Professional
+   * Certified Novell Administrator
+   * Rational Unified Process, Insight Technology Group 5/99
+   * Object oriented analysis and design using UML, Insight Technology
+     Group 2/99
+   * Microsoft Windows Architecture for Developers, Daugherty Systems 6/98
+   * Mastering Visual Basic 5.0, Daugherty Systems 4/98
+   * Microsoft SQL Server 6.5, Daugherty Systems 1/98
+
+Systems:
+
+   * HP-UX, Linux, SAP, VMS, Universe, Windows NT, Netware, Macintosh
+
+Languages:
+
+   * C++, Visual Basic, Java, PL/SQL, Pick TCL, Pick BASIC, Javascript and
+     HTML
+
+Databases:
+
+   * Oracle, SQL Server, Pick, and MS Access
+
+Career Experience:
+
+   * 8/98 - Present, Consultant with Insight Technology Group
+     Currently developing a multi-tier client server application for a
+     national life insurance company. By adhering to strict object oriented
+     methodologies we have reduced application rigidity and increased
+     maintainability. Standard design patterns have allowed us to abstract
+     3rd party libraries into interfaces, therefore making our software
+     more extendable.
+
+   * 12/97 - 8/98, Consultant with Daugherty Systems
+     Worked as a software developer and data modeler on one of the largest
+     corporate-wide SAP implementations. Performed legacy data analysis
+     along with mapping legacy data types into valid SAP structures.
+     Validated all data prior to loading it into SAP by writing scripts in
+     PL/SQL that cross-referenced proprietary ERD level data. Developed a
+     multi-user two-tier data entry application in Microsoft Visual Basic
+     5.0 that allowed users to enter equipment, equipment long text,
+     equipment technical classes, and the corresponding technical class
+     characteristics. The equipment data entry software was written using
+     standard ODBC direct communication with Oracle 7.3/8.0 databases for
+     sites located in the United States and DAO 3.5 for remote sites that
+     did not have a viable network link.
+
+   * 12/92-12/97, MIS Coordinator with Saint Louis University Hospital,
+     Healthline
+     Developed many dynamic ad hoc reports using a proprietary reporting
+     tool on a Pick database. Also, wrote many system housekeeping
+     utilities in BASIC. Performed all backups and network administrator
+     duties on Novell 4.11 file server and on a HP-UX application server.
+     Supported 30 users that were spread throughout six remote locations.
+     Analyzed and recommended all software/hardware purchases.
+
+          -----------------------------------------------------------------
+                          REFERENCES AVAILABLE UPON REQUEST
+
+                                        Home

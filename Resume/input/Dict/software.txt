@@ -1,0 +1,545 @@
+Interactive Development Environments
+Microsoft Foundation Class Library
+Internet Information Server 
+SEI Capability Maturity Model
+Microsoft Transaction Server 
+Macintosh Programmer's Workshop
+Microsoft Foundation Classes 
+Apple Code Fragment Manager
+Hayes AT command set
+Microsoft Developer Studio
+Javasoft Java Studio 
+Data Access Language 
+MS Visual SourceSafe 
+Microsoft Visual C++ 
+Netscape Communicator
+Microsoft BackOffice
+Seagate Crystal Reports 
+Presentation Manager
+8086 assembly
+Active Server Pages 
+Think Class Library 
+Apple Media Toolkit 
+Ray Dream Designer 
+Active Server Pages
+Caligari trueSpace3
+IBM ComponentBroker
+Active Server Page 
+Macromedia Director
+Netscape Messenger
+Netscape Navigator
+MS-Outlook Express
+VisualAge for C++ 
+HP 7400 series ICE
+Key DataBase Plus 
+IBM 370 Assembler 
+Specular Infini-D
+Internet/Intranet
+Embedded Firmware
+Stored Procedures
+Microsoft Windows
+Adobe Illustrator
+Internet Explorer
+Microsoft Project
+Project Scheduler
+Harvard Graphics
+Enterprise Server
+Netscape Composer
+CADRE Case Tools 
+ActiveX controls
+Project Workbench
+Norton Utilities
+Microsoft Office
+Adobe Streamline
+Directory Server
+SunSoft Workshop
+Java Web Server 
+Microsoft Access
+MS-Visual Studio
+MS Access
+MS BackOffice
+MS Excel
+MS FrontPage
+MS Internet Explorer
+MS ODBC
+MS Outlook
+MS PowerPoint
+MS Project
+MS SNA Server
+MS SQL Server
+MS VB
+MS Visual InterDev
+MS Visual Studio
+MS Windows NT
+MS Windows
+MS Word
+MS DOS
+MS-DOS
+ActiveX objects
+Crystal Reports
+80x86 assembler
+Microsoft Excel
+Visual Interdev
+Personal AS/200
+Macro Assembler
+Apple Quicktime
+InstallShield
+File Maker Pro 
+World Wide Web
+Microsoft Word
+Visual Parse++
+Symantec/THINK
+8051 assembler
+Microsoft Test
+Device Drivers
+80x86 Assembly
+Novell Netware
+Sound Edit 16 
+Adobe Photoshop
+Claris Impact
+BoundsChecker
+MS-SourceSafe
+modem drivers
+Z80 Assembler
+Adobe Premier
+RISC assembly
+Rational Rose
+SDE/Workbench
+Quark Express
+Java Servlets
+8051 Assembly
+Win NT 3.x
+Unix Daemons
+BANYAN VINES
+Lightspeed C
+Visual Basic
+Quark Xpress
+Word Perfect
+Powerbuilder
+MS Scheduler
+Trip Planner
+Plug-Ins SDK
+FileMake Pro
+Turbo Pascal
+Transact-SQL
+Transact-SQL
+TurboVision
+ObjectVision
+ATM Network
+CornerStone
+Unix Kernel
+SHELL SCRIPT
+MSDevStudio
+Quattro Pro
+HotMetalPRO
+Objective-C
+MS-Exchange
+Visual Cafe
+MS Exchange
+CodeWarrior
+SQA Manager
+MS Composer
+Windows GDI
+SQL*Reports
+Lotus Notes
+BSD Sockets
+Folio Views
+PeopleTools
+QuarkXPress
+VisualBASIC
+Tuxedo OLTP
+DirectX 5.0
+Visual Help
+Borland C++
+AppleEvents
+Power Point
+NCSA Telnet
+Visual Test
+AppleScript
+LotusScript
+Wordperfect
+Cold Fusion
+DirectX 3.0
+SmartSuite
+Authorware
+Rogue Wave
+NFR N-code
+SourceSafe
+Easytrieve
+MFC/WinAPI
+Visual Age
+RxClinical
+korn shell
+ColdFusion
+OpenServer
+QuickBASIC
+Macromedia
+Oracle DBA
+Unify 2000
+Win NT 4.0
+Data Mover
+Visual J++
+PeopleCode
+QA Partner
+SQL*Loader
+DBExplorer
+OS2/Runner
+Page Maker
+SQL Server
+Framemaker
+SQL-Server
+Visibroker
+DATAFRAMES
+SparcWorks
+PowerTools
+Java Beans
+JavaScript
+Peoplesoft
+PostScript
+Powerpoint
+PowerPlant
+PhotoPaint
+IBM CSet++
+Corel Draw
+Assembly
+IMS/DB-DC
+Firewalls
+MS Office
+Photoshop
+FrontPage
+InstantDB
+WordBASIC
+Smalltalk
+Interbase
+INTERTEST
+AppleTalk
+Photopoop
+RealAudio
+Grammatik
+PaintShop
+Microcode
+Lotus 123
+OrbixWeb3
+ClearCase
+Multibase
+Code Base
+Auto Desk
+Open Look
+XDesigner
+InterBase
+Impromptu
+PowerTool
+HyperTalk
+OSF/Motif
+XDesigner
+Assembler
+PageMaker
+QuickDraw
+Execustat
+Quicktime
+Performer
+DBArtisan
+Workbench
+Interleaf
+SQL*Forms
+HyperCard
+MS-Office
+SQA Robot
+Inventor
+MacExcel
+ObjectPM
+VersaCAD
+MQSeries
+PLATINUM
+UniBasic
+Livewire
+SQL*Plus
+Servlets
+DataBoss
+Watcom C
+VBScript
+SYNCSORT
+PageMill
+SiteMill
+EasyCase
+Freehand
+CodeBase
+Modula-2
+MACRO-11
+GemStone
+C Set/++
+ROM BIOS
+WordStar
+JBuilder
+FaceSpan
+RoboHelp
+AppMaker
+Interdev
+OpenView
+X Window
+DataFlex
+Informix
+UniQuery
+WINQUERY
+Telnet
+TeleUSE
+SftTree
+ActiveX
+XRunner
+Btrieve
+Win 2.x
+Perl DB
+AutoCad
+SQLBase
+FoxBase
+SQL*Net
+MS-Raid
+Cosmo3D
+DirectX
+NetBEUI
+Labview
+WIN SDK
+Unidata
+Miranda
+Borland
+winsock
+Think C
+ixBuild
+MacsBug
+OLE 2.0
+OLE 1.0
+Turbo-C
+Win 3.x
+Paradox
+MacDraw
+MacWord
+Sequent
+ResEdit
+Clipper
+WINSock
+MS-Mail
+MiniSQL
+cc:Mail
+C++/STL
+DCALGOL
+Macsbug
+Procomm
+FORTRAN
+Yourdon
+Fox Pro
+Outlook
+sockets
+threads
+Netbios
+Orbix
+PC/DACS
+PL/SQL
+Delphi
+DELPHI
+OpenGL
+HP-PCL
+UniSQL
+Pascal
+SQL/PL
+Eudora
+Novell
+Sybase
+Win 95
+Scheme
+Oracle
+NT 4.0
+Win 98
+Sniff+
+Bourne
+Apache
+Form Z
+Mosaic
+TurboC
+Prolog
+Gensym
+CADCAM
+Ansi C
+ER/Win
+Norton
+Domino
+FoxPro
+Dynamo
+EZ-RPC
+MacApp
+TCP/IP
+MacTCP
+Condor
+IDMS/R
+Gopher
+Win32s
+SQL/DS
+Curses
+TACACS
+Access
+Mac OS
+Ingres
+Watcom
+Netscape
+M68000
+TASM
+ULTRIX
+WINFAX
+purify
+Purify
+Lingo
+Perl5
+Visio
+dBase
+xBase
+Raima
+LaTeX
+ERWin
+emacs
+WIN32
+EXEC2
+gnats
+Profs
+AS400
+COBOL
+MySQL
+EASEL
+OpenDoc
+CORBA
+Excel
+MEWEL
+ALGOL
+dbLib
+Email
+DHTML
+httpd
+HTTPD
+RPGII
+ISAPI
+SPUFI
+Basic
+Forth
+Booch
+Clist
+Paint
+Swing
+Troff
+Motif
+4Test
+RDBMS
+CAPEX
+CICS
+GDDM
+Matlab
+DCOM
+VC++
+VJ++
+grep
+SMTP
+ZAPP
+MASM
+YACC
+SPSS
+VSAM
+TCAP
+LDAP
+SNMP
+SCCS
+POP3
+ISDN
+GnuC
+Lint
+JDBC
+ODBC
+yacc
+Korn
+IRMA
+SGML
+HTML
+VRML
+Perl
+ESQL
+mSql
+Pick
+Java
+Rexx
+Opus
+LISP
+PL/I
+MAPI
+BoKS
+IRIS
+DBMS
+TIFF
+ISPF
+QPRO
+CGI
+OSI
+GUI
+lex
+Awk
+OLAP
+AVI
+awk
+JCL
+Tcl
+XML
+SQL
+ATL
+PDL
+OWL
+SSL
+UML
+COM
+TLI
+XDB
+EJB
+sed
+WWW
+AIN
+VPN
+EAI
+csh
+UDF
+ADA
+Ada
+VBA
+SNA
+MPW
+JPG
+GIF
+OLE
+yac
+RPC
+DAO
+DB2
+DBF
+ADO
+RDO
+TSO
+C++
+BCP
+ASP
+SAP
+PPP
+FTP
+OOP
+MFC
+CSP
+TSR
+CAD
+GNU
+SAS
+RCS
+OOD
+RDS
+CVS
+IIS
+MVS
+MTS
+DNS
+AWT
+DLL
+VB
+NT
+vi
+C

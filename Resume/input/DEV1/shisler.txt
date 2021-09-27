@@ -1,0 +1,181 @@
+Please note: This document is not in the public domain.  Before 
+submitting this document to a company or organization, please
+first ask my permission.  
+
+Benjamin K. Shisler
+
+8 Dudley St
+Cambridge, MA 02140
+(617)864-6386
+
+bshislerNOSPAM@hotmail.com (remove NOSPAM)
+
+OBJECTIVE       To work for a master more noble than the Bottom Line
+
+LANGUAGES       English
+MASTERED        Java 1.1.x (including Swing 1.1)
+(in order of    Java 1.2
+ preference     VBA (for Access)
+ and            Transact-SQL (for SQL Server)
+ proficiency)   VB 5.0
+                VBScript (for Active Server Pages)
+                JavaScript
+                InstallShield              
+                C (including Motif)
+                C++
+
+DATABASES       SQL Server
+MASTERED        Access
+                InstantDB
+
+IDEs            Symantec Visual Cafe
+MASTERED        Inprise JBuilder
+                Visual Interdev
+                Kawa
+                
+OPERATING       WinNT
+SYSTEMS         Win98/95
+MASTERED        Win3.1   
+
+OTHER FUN       HTML, DHTML, SQL, ASP, VJ++, 
+STUFF           Starbase Versions, StarTeam,
+                ActiveX, COM, RDO, ODBC,
+                IIS, CGI, PERL, DOS batch,
+                MS Commerce Server, MS Index Server,
+                Netscape Enterprise Server, 
+                Netscape Certificate Server,
+                National Instruments LabVIEW,
+                Edify Electronic Workforce,
+                Digital UNIX, Solaris, Linux, 
+                OS/2, Mac
+
+SOME WEB SITES  Bowling Green Books In Philosophy,
+ON WHICH I         booksinphilosophy.bgsu.edu
+WORKED          Circle Strategies,
+                   www.circlestrategies.com
+                Dendritics,
+                   www.dendritics.com
+                E-Recruit,
+                   www.e-recruit.com
+                Hurwitz Group Research Library,
+                   www.hurwitz.com
+                M.I.T. Benefits Self-Service System,
+                   mr-peabody.mit.edu/start.htm
+                State Street Research 401k MyPlan-Today,
+                   www.myplan-today.com
+                The Tax Lien Exchange
+                   www.tle.com
+
+EXPERIENCE      Java and Database Developer
+                Artificial Life, Inc (www.artificial-life.com),
+                Boston, MA
+                Sept 1998 to May 1999
+
+                * Extensively contributed to several cutting-edge 
+                  natural language products including ALife WebGuide 
+                  Professional, ALife WebGuide Enterprise, and ALife 
+                  Messenger.
+                * Implemented, using Access, a Knowledge Base 
+                  editor, a major component of the ALife WebGuide 
+                  Professional and Enterprise products.
+                * Implemented, using Java and Swing, a more advanced 
+                  Knowledge Base editor, a major component of the 
+                  ALife WebGuide Messenger Product, and tested this 
+                  editor with several databases including SQL  
+                  Server, Sybase, and InstantDB
+                * Implemented, using Java, a web server monitoring 
+                  tool that runs over the Internet, a component of 
+                  the ALife WebGuide Enterprise product.
+                * Implemented, using InstallShield and its 
+                  programming language, custom installation 
+                  solutions for the ALife WebGuide Professional and 
+                  Enterprise products.
+                  
+
+                Internet and Database Developer
+                Circle Strategies (www.circlestrategies.com), 
+                Cambridge, MA
+                Feb 1998 to Sept 1998
+
+                * Designed, implemented, and supported 
+                  SQL Server driven e-commerce websites using                                     
+                  Visual Interdev, Active Server Pages (ASP),                                     
+                  server side Java (via ActiveX), HTML, JScript                   
+                  and VBScript
+                * Designed implemented, and supported back-end                                     
+                  Access (VBA) and VB manager interfaces
+                * Designed well-normalized, scalable, and                                     
+                  efficient relational databases
+                * Designed, implmented, and optimized                                     
+                  sophisticated Transact-SQL search routines
+                * Supported Internet Information Server (IIS),                                     
+                  Commerce Server, and Index Server
+                * Integrated Access and Microsoft Project for                                     
+                  internal billing and hour reporting application
+
+                IVR and Database Developer
+                InterLynx Technology (www.interlynx.com), 
+                Boston, MA
+                June 1997-Feb 1998
+
+                * Designed, implemented, and supported SQL                                                                          
+                  Server, Oracle, and DB/2 driven HR VRUs (IVR
+                  applications) and websites using Edify                                     
+                  Electronic Workforce
+                * Implemented data processing routines in
+                  Transact-SQL
+                * Implemented data processing and reporting 
+                  routines in Access
+                * Implemented voice file processing routines in 
+                  C and REXX
+
+                Engineering Aide
+                U. S. Army Corps of Engineers, Cold Regions                                                  
+                Research and Engineering Laboratory, 
+                Hanover, NH
+                Full-time, four summers (1992, 1993, 1994, 1995) 
+                 and one Winter Break (1994/5)
+
+                * Designed, implemented, and supported 
+                  real-time DAQ (data acquisition) systems 
+                  for labratory experiments using 
+                  National Instruments Analog-to-Digital 
+                  hardware, National Instruments LabVIEW  
+                  (graphical programming language), and C.
+                * Implemented GIS  data and image processing 
+                  routines using ARCView
+                * Implemented flat-file data processing 
+                  routines using C and UNIX tools such as awk
+
+                Computer Aide
+                Codman Research Group, Inc., Lebanon, NH
+                Part-time, spring 1993
+
+                * QA'ed their medical database product
+                * Implemented DOS batch files to automate 
+                  and streamline QA process
+
+
+EDUCATION       BS in Computer Science
+                University of New Hampshire, Durham, NH, 
+                May, 1997
+                Minors: Linguistics, Philosophy
+                G.P.A.: 3.2
+
+                Related Coursework:
+
+                * Networks (using C)
+                * Graphics (usimg Motif)
+                * Object-Oriented Design (using C++)
+                * Computational Linguistics (using Lisp
+
+                Study Abroad:
+                Technical University of Budapest, Hungary, 
+                Fall 1995
+
+OTHER           * Buddhism and ecology 
+INTERESTS       * Rated 3-dan by the American Go Association
+                * Indo-European roots and lexicology
+                * Music composition and improvisation
+
+

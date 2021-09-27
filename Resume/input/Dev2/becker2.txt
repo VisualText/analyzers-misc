@@ -1,0 +1,226 @@
+A text         Závist 1169              Home:   +420 (2) 9002 0808
+version and    15600 Praha 5 - Zbraslav Mobile: +420 (603) 481 403
+a Word 6.0     Czech Republic           Fax:    +420 (603) 481 405
+version of                              E-Mail: dave@indra.com
+this resume                             WWW:    http://www.indra.com/~dave
+is also
+available
+which may
+be more
+suitable
+for
+database
+storage,
+keyword
+searches,
+and           David Charles Becker
+printing.
+---------------------------------------------------------------------------
+ [Professional]      Current Objective
+
+ [Skill Summary]     Telecommuting opportunities for designing and
+ [Resume]            developing innovative, state-of-the-art software
+                     systems from my home in Prague.
+ [Personal]
+                     Expertise
+ [Family]
+ [Prague]             C/C++, Perl, HTML, SQL, Windows 95, Windows NT, and
+                      Tcl                     Unix
+ [Resources]
+                      Internet protocols and
+                      systems                 TCP/IP Network Programming,
+ [Quotations]         (World-Wide Web, CGI,   RPC's, Sockets
+ [Perl Reference]     etc.)
+
+                      Software System and GUI Window Systems and GUI's
+ [Home]               Design
+ [What's New?]        Language and Protocol
+                                              Client/Server Applications
+ [Contact Me!]        Design
+
+                      Object-Oriented         Symmetric Multiprocessing
+                      Software Development    and Concurrent Software
+                                              Systems
+
+                     Selected Career Highlights
+
+                        * Expert in Windows and Unix programming with C,
+                          C++, and Perl:
+                             o 4 years of Microsoft Windows development
+                               experience (3.11, 95, and NT), C and C++,
+                               the Win32 API, Visual C++ and MFC, as well
+                               as Perl for Win32.
+                             o Over 10 years professional Unix programming
+                               experience (BSD, SunOS, Solaris, HP-UX), C
+                               and C++, C- and Korn shell programming,
+                               awk, sed, lex, yacc, and the whole range of
+                               Unix commands.
+                             o Over 4 years programming Perl, including a
+                               fully-featured Perl/CGI bug-tracking
+                               database application on Win32 and a
+                               Perl/CGI E-commerce application using SQL
+                               Server, Microsoft IIS, CyberCash, and
+                               public-key encryption tools.
+                             o Began programming in C in 1982, C++ and
+                               Perl in 1992. Taught university-level
+                               courses in Unix and C.
+                        * Designed and implemented dozens of stand-alone
+                          Windows and Unix applications (windowed and
+                          console apps), as well as several types of DLLs
+                          (USRDLLs, AFXDLLs, and MFC "Extension DLLs") and
+                          Unix shared libraries.
+                        * Developed a variety of network applications:
+                          intranet applications with Perl/CGI, distributed
+                          systems in C using remote procedure calls
+                          (RPC's) and sockets, a remote Ingres database
+                          and embedded SQL, and a near-real-time
+                          control/data acquisition system using Tcl
+                          network protocols.
+                        * Leveraged object-oriented development methods
+                          and mechanisms to their utmost, including data
+                          hiding and encapsulation, single- and
+                          multiple-inheritance, polymorphism, etc.
+                        * Professionally experienced with Ingres, SQL,
+                          Embedded SQL (in C). Trained in relational
+                          database theory (foundations, design,
+                          normalization, etc.), SQL, and Oracle internal
+                          architecture.
+                        * Experienced and extensively trained in systems
+                          of communicating sequential processes (e.g.,
+                          threads, parallel processes, etc.), process
+                          communication mechanisms (remote procedure
+                          calls, sockets, etc.), and synchronization
+                          techniques.
+
+                     Experience
+
+                     Independent Software Consultant/Craftsman
+                     June 1997 - present
+
+                        * Designing, developing, and deploying
+                          Internet/intranet applications and other
+                          software systems for clients worldwide.
+
+                     Contract Software Engineer
+                     The Qualix Group, Inc., Denver, CO
+                     February 1997 - May 1997
+
+                        * Designed and developed an intranet application
+                          for problem reporting and tracking (based on the
+                          "Gnats" problem tracking system from the Gnu
+                          Project). A CGI application, "BDC-Gnats" is
+                          written in Perl and allows problem reports to be
+                          submitted, edited, tracked. Key features include
+                          summary reports, highly configurable custom
+                          reports, e-mail notifications, and access to
+                          multiple problem report databases.
+
+                     Contract Software Engineer
+                     Hewlett-Packard, Loveland, CO
+                     June 1995 - January 1997
+
+                        * Member of a small team developing a
+                          Windows-based Test Executive ("HP TestExec SL")
+                          for HP's Manufacturing Test Division on Windows
+                          3.1, and, later, Windows 95 and Windows NT using
+                          Microsoft Visual C++ and MFC 2.x and 4.x. Ported
+                          TestExec to HP-UX. Designed and implemented
+                          major functional and user-interface
+                          enhancements.
+
+                     Computer Systems Consultant
+                     Clue Computing, Longmont, CO
+                     February 1995 - June 1995
+
+                        * Provided clients with Internet and Unix server
+                          consulting services. Installed and configured
+                          Internet gateways and Internet server software.
+                          Designed and developed Clue's World-Wide Web
+                          site.
+
+                     Senior Software Tools Engineer
+                     Market Investment Solutions, Inc., Aurora, CO
+                     July 1994 - January 1995
+
+                        * Optimized the productivity of a team of software
+                          developers, determining and fulfilling needs by
+                          providing, enhancing, and developing new,
+                          specialized software development tools.
+                          Development was done in C++ on Windows 3.1 using
+                          Boland's IDE and OWL.
+
+                     Senior Software Engineer
+                     Solbourne Computer, Inc., Longmont, CO
+                     June 1991 - May 1994
+
+                        * Designed the graphical user interface, network
+                          protocols, and programming interface for an
+                          X-Window-, client/server-based system
+                          administration product (PerfMon). Also lead the
+                          integration and testing effort for the product
+                          and assisted in its implementation using the
+                          Object Interface (OI) toolkit, C++, and Tcl on
+                          Unix (OS/MP, Solbourne's port of SunOS).
+                        * Conceived, evaluated, and developed software
+                          tools and processes for Solbourne's software
+                          development environment.
+                        * Automated and enhanced the integration,
+                          building, packaging, and installation of
+                          Solbourne's operating system products (ports of
+                          SunOS and Solaris).
+
+                     System Programmer/Analyst, Computer Center
+                     New Mexico Institute of Mining and Technology,
+                     Socorro, NM
+                     September 1986 - June 1991
+
+                        * Designed, implemented, and maintained a
+                          client/server software system for system
+                          resource accounting on the network using C,
+                          embedded SQL, an Ingres relational database, and
+                          remote procedure calls.
+                        * Responsible for all aspects of system and
+                          network administration for a network of Sun
+                          workstations and servers.
+                        * Supervised and coordinated the efforts of
+                          student programmers.
+
+                     Other Work History
+
+                     1983 - 1986: Research Assistant
+
+                        * Developed software tools to analyze models of
+                          communicating sequential processes. Taught
+                          courses in the theory of computer system
+                          architecture, the C programming language, and
+                          the UNIX operating system.
+
+                     1981 - 1983: Computer Systems Consultant
+
+                        * Developed an interactive accounts-payable system
+                          in RPG II on an IBM System 34.
+
+                     1980 - 1981: Programmer/Operator
+
+                        * Maintained student registration and financial
+                          accounting systems in COBOL, and developed a
+                          resource accounting system. Provided operational
+                          and user support services on an HP3000 system.
+
+                     Education
+
+                     May 1986 - Master of Science in Computer Science from
+                     the New Mexico Institute of Mining and Technology.
+                     Research paper: "Reliable Distributed Database
+                     Systems," a survey of the state-of-the-art in
+                     algorithms for implementing highly available and
+                     reliable distributed database management systems.
+
+                     May 1984 - Bachelor of Science in Computer Science
+                     from the New Mexico Institute of Mining and
+                     Technology.
+---------------------------------------------------------------------------
+
+                                                            Back to the top
+
+

@@ -1,0 +1,267 @@
+Curriculum Vitae - Christopher Alagan Asaipillai
+
+Updated :
+
+Download this CV in Word Format
+
+Short Version of this CV
+
+ Title:             Mr
+ Name:              Christopher Alagan Asaipillai
+ Date of Birth:     21/12/71
+ Location:          Harrow, North West London
+ Home Tel (24Hrs):  0181 951 1726
+ Mobile:            0958 987 990
+ Pager:             04325 230 103
+ E-Mail:            weegee@metronet.co.uk
+ WWW:               http://www.callisi.co.uk
+ Availability:      7th June 1999
+ Preferred Location:Greater London(England) Only
+
+ Role Sought:       MS Access/Visual Basic Developer/HTML
+                    programmer
+ Role Type:         Contract Only
+---------------------------------------------------------------------------
+
+Personal Profile:
+
+I have gained development experience through using Microsoft Access within
+my academic and commercial experience. I have in-depth knowledge of
+developing applications with Access supported by advanced functionality.  I
+consolidated this recently, by attending a Microsoft Access Consultancy
+course. I have used Access from version 2.0 through to 97 and would class
+it as my major skill. My contract work has enabled me to develop skills
+such as Project Management
+
+I have also gained experience in the area of HTML development and been able
+to build this through mainly my academic and also professional work. I have
+also gained skills in other web related areas such as Java, Active Server
+Pages and VRML.
+
+I have completed a BTEC Professional Development Course in ‘C’ programming
+which has given me advanced programming skills in the language. I acheived
+marks of 93% and 96% respectively in thetwo assignments given. I am now
+studying courses in C++ and Visual Basic
+
+---------------------------------------------------------------------------
+
+IT Skills Experience
+
+Software/Languages
+
+ Description                     Level
+ Microsoft Access '97            Advanced
+ Microsoft Word '97              Advanced
+ Microsoft Excel '97             Advanced
+ Microsoft PowerPoint '97        Advanced
+ Microsoft Active Server Pages   Basic
+ Microsoft Front Page            Basic
+ Microsoft Visual InterDev       Basic
+ Lotus Notes                     Basic -Intermediate
+ Oracle Reports                  Basic -Intermediate
+ Oracle Forms                    Basic
+ Lotus Organizer '97             Advanced
+ Netscape Communicator 4.5       Advanced
+ Internet Explorer 4             Advanced
+ Internet Mail & News            Advanced
+ Java                            Intermediate
+ JavaScript                      Intermediate
+ HTML                            Intermediate-Advanced
+ VRML                            Intermediate-Advanced
+ SQL                             Intermediate
+ JDBC                            Basic
+ 'C'                             Intermediate
+
+Hardware / Operating Systems
+
+
+ Description                       Level
+ Windows NT 4 Workstation          Basic- Intermediate
+ PC and Compatibles                Advanced
+ HP 6000                           Basic-Intermediate
+ DOS                               Advanced
+ UNIX                              Basic-Intermediate
+
+---------------------------------------------------------------------------
+
+Work Experience:
+
+February 1999 - June 1999
+MS Access/Visual Basic Developer
+Milton Keynes Council, IT Division,Milton Keyenes, Buckinghamshire
+
+I was brought in to extend a partially developedMicrosoft Access '97
+database for the Music Service. With little or no documentationI was
+required to assess the functionality that had been completed and to
+completedevelopment of the system. A detailed systems specification has
+since been documented andextensive additional features have been added,
+including error handling and query optimisation.In addition I developed
+someVisual Basic front ends for the database to enhance it.
+Following completion of this I will then be looking at a range of in house
+database applicationsand extending and completing their development.
+
+---------------------------------------------------------------------------
+
+Work Experience:
+
+October 1998 - January 1999
+MS Access/SQL Server
+Henderson AMP, Moorgate , London
+
+I was brought in to assess the implications of introduction of the Euro on
+in-house critical systems built in Microsoft Access. I carried out a
+detailed analysis of systems containing information that included details
+about equities, futures, bonds etc.
+
+I liased with users of various systems and built up a functional
+specification for each system. This was needed, as there was no existing
+documentation for the systems and they would be looked at further in a
+future Y2K project.
+
+A detailed conversion programmed for these systems was then developed and I
+also helped to develop a Risk Map/Strategy for the EMU review project. I
+also wrote a system to correct and format invalid Euro test data. I gained
+a basic working knowledge if SQL server through analysing a complex
+database written in it.
+
+I gained a good insight into a range of different programming techniques
+and styles in addition to enhancing current project management skills.
+
+---------------------------------------------------------------------------
+
+January 1998 - August 1998
+MS Access Consultant
+Ericsson, Horsham, West Sussex
+
+I was brought in initially to develop a specific financial modelling
+application and since then have produced several different Management
+Reporting Tools.
+
+I have also been heavily involved in advising and managing the
+re-development of an in-house order system written in Microsoft Access '97
+that I co-administered.
+
+I created customised Lotus Notes views as the source data that this
+application imported. I was also involved in the design and implementation
+of a Project Reporting Tool that is used by Managers. This tool used
+advanced reports fed by multiple data sources of data imported in from
+Notes, MS Excel etc.
+
+I also used Visual Basic 5 to create some example GUI’s to act as the front
+end for various applications built in Access. I also used Crystal Reports
+linked directly to an Oracle database.
+
+I created specific Compact/Repair routines for the front end of an in-house
+database application. These functions had to be set to run automatically
+and I helped our technical support to write a scheduled Windows NT routine
+to do this. I also produced user documentation for various applications in
+addition to defining system administration procedures for applications.
+
+I gained knowledge of Active Server Pages when asked to re-engineer an ASP
+web front-end link to an Access database running on a local web server. In
+addition I was able to look at some of the workings of ODBC. Most recently
+I have been writing web pages using MS Front Page  linked directly to
+Oracle data sources.
+
+Overall I have been able to extend my knowledge of MS Access including
+rounding off applications and learn more and more of the intricacies of the
+powerful programming language that belies the application. This amongst
+other work that I have done has quite advanced my detailed knowledge of
+Visual Basic for Applications (VBA).  I have also gained strong project
+development experience, strong communications skills with different levels
+and been able to work effectively in a team. I have also gained good
+financial and business knowledge of a telecommunications business.
+---------------------------------------------------------------------------
+
+October - November 1997
+IT Contractor
+General Electric, Sunbury-On-Thames
+
+I was brought in at very short notice, to ascertain the feasibility of
+developing an off-line application. The system specification was that it
+would allow users to enter/review tonnage data and generate a flat file in
+a pre-determined valid format.
+
+Following the feasibility stage, a custom application was developed in
+Microsoft Access '97 providing full validation, error handling and dialog
+functions.
+
+The requirements provided by the client for this system were completed in
+half the time allocated for this project. In the remaining time, further
+enhancements were made to the system as requested by the user. Additional
+features of a typical application such as start-up screen, custom short-cut
+menus, pop-up forms were also provided.
+
+During this project my DAO programming skills in  MS Access were enhanced.
+I also improved other skills such as Systems Analysis, HCI (Human Computer
+Interaction) principles and Rapid Prototyping.
+---------------------------------------------------------------------------
+
+August 1994 - July 1995
+IT Placement Student
+(3rd Year of BSc Computer Science sandwich degree)
+Nestle UK, York
+
+I developed applications in Microsoft Access in connection with training
+users to move to using Microsoft Office from DOS based products. Amongst
+many applications that I developed, I created a custom application in
+Access for Personnel. This system reported details about NVQ trainees and
+was converted from a system written in DataEase.
+
+The application included additional features such as form driven reporting,
+custom menu and toolbars, full security and mail merge of data to Microsoft
+Word. A menu driven structure with a customised start-up screen linked all
+these functions. Advanced access programming techniques were employed in
+all aspects of this application, ensuring full error trapping for complete
+robustness.
+
+I also gained quite heavy experience in writing Oracle scripts within
+PL/SQL. This was a part of a team working on a project recording and
+reporting details of all outlets whom stocked Nestle Rowntree products and
+was held on a production and test database.
+
+I also trained users in applications developed in Powerbuilder. I worked in
+various parts of the company including Finance, Sales, Marketing Research,
+Personnel and this was my first job with IT experience and it gave me
+invaluable experience in different parts of a commercial business such as
+Nestle Rowntree. I have been able to vastly improve skills such as team
+working and interpersonal skills. My planning and organisational skills
+have also improved.
+---------------------------------------------------------------------------
+
+Education/Qualifications:
+
+ MSc Human Computer Systems                September 1996-
+ De Montfort University, Leicester         September 1997
+ BSc (HONS) Computer Science               September 1992- June
+ De Montfort University, Leicester         1996
+ G.C.E. Advanced Level Harrow College:     September 1991
+ Economics Grade 'C'
+ Mathematics Grade 'C'
+
+---------------------------------------------------------------------------
+
+Hobbies and Interests:
+
+I enjoy travelling and have been to countries including Sri Lanka, France &
+North America.
+
+I enjoy sports work out 3-4 times a week plus swim, play squash, badminton
+& tennis. I also enjoy horse riding and skiing. At University, I was
+involved in various societies including the Students Industrial Society,
+Film Society, Skiing and Horse Riding Clubs.
+
+---------------------------------------------------------------------------
+
+Other Details:
+
+I currently hold an UK driving licence and have been driving for nine
+years. I have completed a 3 stage French language learning course.
+
+Referees (On Request)
+
+              © Christopher Asaipillai (Callisi Computing Ltd)
+
+                           You are Vistor [Image]
+
+

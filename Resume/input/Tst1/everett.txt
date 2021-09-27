@@ -1,0 +1,144 @@
+                              JOHN V. EVERETT
+
+ Home address available upon request    email address - see bottom of page
+
+                               CAREER SUMMARY
+
+Extensive executive experience in Information Systems management, with
+particular strengths in Software Development, Telecommunications, and
+Computer Operations. Industry background includes Retail Brokerage,
+Financial Services, Cellular Telephony, Health Care Administration, and
+System Software. Well versed in administrative, fiscal and personnel
+management. Excellent leadership, organizational and writing skills.
+
+                          PROFESSIONAL EXPERIENCE
+
+INDEPENDENT MANAGEMENT CONSULTANT               1993 - 1995, 1995 - Present
+Technical management consulting primarily to software developers, systems
+integrators, and service providers.
+
+   * Developed technology portion of business plan for potential third
+     party provider of processing to bank trust departments.
+
+   * Performed organizational and process analysis of software engineering
+     department for a developer of advanced system software. Managed
+     product development during assignment and released a major new
+     product.
+
+   * Provided industry expertise to systems integration firm bidding on a
+     large international cellular telephony software development contract.
+
+   * Performed independent performance and capacity planning study of major
+     financial services automation product.
+
+RESOURCE INFORMATION MANAGEMENT SYSTEMS, INC., Naperville, Illinois    1995
+A 28 million dollar developer of administrative software for the health
+care industry.
+
+Vice President, Software Development
+Responsible for development and support of QicClaim and HealthFocus family
+of software products.
+
+   * Instituted major Software Process Improvement initiative based upon
+     the Software Engineering Institute's Capability Maturity Model and
+     Rummler-Brache work flow analysis methodologies.
+
+TELESCIENCES CO SYSTEMS, INC., Moorestown, New Jersey           1992 - 1993
+A 30 million dollar vendor of operation support equipment to the telephony
+industry.
+
+Vice President, Engineering
+Directed development of CASS 3000, a billing and operation support system
+for the cellular communications industry based upon relational data base
+and multiple vendor client/server technology.
+
+   * Successfully fulfilled contractual commitments made to major client,
+     securing project milestone payments and continued support from client.
+
+AUTOMATIC DATA PROCESSING, INC., Roseland, New Jersey           1974 - 1991
+A multi-billion dollar international provider of computing and information
+services.
+
+ADP Brokerage Information Services Group, Mount Laurel, New Jersey
+
+Vice President, Central Site Systems (1989 - 1991)
+Managed departments responsible for development, support, and operation of
+systems providing real time information to the retail brokerage industry
+over a 70,000+ workstation network from multiple centers in the U.S. and
+Europe. Hardware platforms included Digital and IBM Mainframes and PCs.
+Operating environments included DEC VMS, IBM MVS/CICS, and Unix.
+
+   * Consolidated development units from remote center. Provided
+     alternative strategy for deinstallation and reinstallation of
+     development systems saving $120K.
+
+   * Instituted improvements in software reliability and recoverability
+     working with major clients. Service availability levels were increased
+     to over 99.6%.
+
+Vice President, Network and Communications (1988 - 1989)
+Oversaw staff responsible for development and support of wide area and
+local area network and communications software on multiple hardware
+platforms utilizing several communications protocols.
+
+   * Managed development of an X.25 interface on IBM PS/2 and Convergent
+     Technologies Megaframe. Responsible for evaluation and selection of
+     source vendor, negotiation of vendor agreement, and project management
+     of development effort.
+
+ADP Network Services, Ann Arbor, Michigan
+
+Vice President, Systems and Operations (1985 - 1988)
+Managed system software development and operation of a large data center
+consisting of DEC and IBM mainframes and minicomputers.
+
+   * Consolidated operational and software development units from remote
+     center resulting in expense reduction of $1.3M per year. Project
+     completed ahead of schedule and under budget.
+
+Director, Systems Development (1981 - 1985)
+Directed departments responsible for development and support of Digital,
+IBM, and Unix operating systems, associated systems software, and
+programming languages.
+
+   * Managed division-wide microcomputer development project involving
+     hardware engineering, systems and product level software development,
+     and market planning. Supervised hardware selection process and
+     negotiated vendor agreements.
+
+Manager, Operating Systems Development (1978 - 1981)
+Headed department responsible for development and support of IBM and
+Digital operating systems.
+
+   * Integrated operating systems services provided by data centers in Ann
+     Arbor, Michigan; Waltham, Massachusetts; and London, England.
+
+ADP First Data, Waltham, Massachusetts
+
+Supervisor, Operating Systems Group (1974 - 1978)
+Responsible for development and support of Digital TOPS-10 operating system
+in a remote computing services environment.
+
+DIGITAL EQUIPMENT CORPORATION, Maynard, Massachusetts           1966 - 1974
+
+Systems Programmer
+Developed several operating systems on multiple hardware architectures.
+
+HONEYWELL EDP, INC., Wellesley Hills, Massachusetts             1965 - 1966
+
+Systems Test Technician
+Performed final assembly, test, and debugging of Honeywell H200 computers.
+
+                                 EDUCATION
+
+Union College, Schenectady, NY; Electrical Engineering (1964 - 1965)
+New York University, New York, NY; Aeronautics and Astronautics, (1961 -
+1963)
+
+---------------------------------------------------------------------------
+With so many spammers now harvesting email addresses from web sites, I've
+chosen to display my address as a graphics file.
+
+                                  [Image]
+
+                                                     Last Updated: 08/05/98

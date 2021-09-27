@@ -1,0 +1,137 @@
+
+CONTACT:
+
+Contact Name: Steve Sabram
+Title:    
+First Name: Steve
+Middle Name:    
+Last Name: Sabram
+Suffix Name:    
+
+City:        Campbell
+State:       California
+State:       Campbell
+Home phone:  (+1) 408 341 0877
+Home phone:  (+1) 408 379 2296
+URL:         http://www.sabram.com
+Email:       steve@sabram..com
+
+EDUCATION:
+
+Date: April 1988
+School Name: University of Pittsburgh
+School Location: Pittsburgh, PA
+Degree: Bachelor of Science
+Major: Electrical Engineering
+
+EXPERIENCE:
+
+Date: December 1998 - present
+Company: Datastick Systems
+Position:    
+Location: Campbell, CA
+
+Date: December 1997 - December 1998
+Company: NetStart Incorporated
+Position:    
+Location: Campbell, CA
+
+Date: April 1997 - November 1997
+Company: Hi-Key Technologies
+Position:    
+Location: San Jose, CA
+
+Date: August 1996 - March 1997
+Company: Symbol Technologies
+Position:    
+Location: San Jose, CA
+
+Date: May 1996 to July 1996
+Company: Software Publishing Corporation
+Position:    
+Location: San Jose, CA
+
+Date: January 1996 to March 1996
+Company: 24 Hours in Cyberspace  
+Position:    
+Location: San Francisco, CA
+
+Date: October 1995 to December 1995
+Company: Crystal River Engineering
+Position:    
+Location: Palo Alto, CA
+
+Date: March 1995 to October 1995
+Company: ReSound Corporation
+Position:    
+Location: Redwood City, CA
+
+Date: July 1995 to September 1995
+Company: Precision Navigation, Inc
+Position:    
+Location: Mountain View, CA
+
+Date: February 1995
+Company: BusLogic, Inc
+Position:    
+Location: Santa Clara, CA
+
+Date: October 1994 to January 1995
+Company: C-Cube Microsystems
+Position:    
+Location: Milpitas, CA
+
+Date: September 1994 to October 1994
+Company: Focal Point Software
+Position:    
+Location: Woodside, CA
+
+Date: September 1994
+Company: Electric Software Products
+Position:    
+Location: Los Altos, CA
+
+Date: July 1994 to August 1994
+Company: CrystalGraphics
+Position:    
+Location: Santa Clara, CA
+
+Date: December 1993 to May 1994
+Company: Wireless Access
+Position: 
+Location: San Jose, CA
+
+Date: May 1993 to November 1993
+Company: JDR Microdevices
+Position:    
+Location: San Jose, CA
+
+Date: April 1993
+Company: Cære Corporation
+Position:    
+Location: Los Gatos, CA
+
+Date: September 1992 to March 1993
+Company: Pacific Bell
+Location: San Ramon, CA
+
+Date: April 1992 to August 1992
+Company: ADAC Laboratories
+Position:    
+Location: Milpitas, CA
+
+Date: August 1991 to February 1992
+Company: Develco, Inc
+Position:    
+Location: San Jose, CA
+
+Date: May 1989 to May 1991
+Company: Nanometrics, Inc
+Position: Model
+Location: Sunnyvale, CA
+
+Date: June 1988 to April 1989
+Company: Hudson Robotics, Inc
+Position:    
+Location: Springfield, NJ
+

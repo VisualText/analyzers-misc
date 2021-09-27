@@ -1,0 +1,72 @@
+                            Richard M. Crishock
+                            502 West Beech Rd.
+                            Sterling, VA 20164
+                                703-404-2094
+
+                            mrpink@tidalwave.net
+
+---------------------------------------------------------------------------
+
+Objective:  To obtain a software development position that will use my IS
+            skills in a challenging and fulfilling environment.
+
+Education:  B.S. in Computer Science (December, 1996)
+            Gannon University, Erie, Pennsylvania
+            Overall GPA: 3.14
+
+ Related Skills:
+
+      Environments:  IBM MVS, Unix, Windows 3.1/95, Dos,
+                     Macintosh, VAXVMS, Internet
+
+      Training /     ANSI C, C++, Visual C++, Oracle, Awk,
+      Course Work    Perl, (BAL)Assembler, FORTRAN, BASIC, RPG, Java
+      in:
+
+      Experience     JCL, (Informix) SQL, MS Visual Foxpro,
+      in:            COBOL, HTML, Unix shell scripts
+
+      Applications:  Microsoft Office, Lotus 123, Word Perfect,
+                     PageMaker, Photoshop, Corel Draw, etc.
+
+ Experience / Work History:
+     AT&T
+     703-713-7341   (August 1997- Present)
+     Supervisor:    Bill Johnson
+     Position:      Testing Environment Support
+     Duties:        Maintaining and executing JCL jobs, and interfacing
+                    with software developers, also developed team intranet
+                    web site
+
+     Telatron Marketing Group
+     800-899-5360   (December 1996 - July 1997)
+     Supervisor:    Jonathan Kacprowicz
+     Position:      Database Programmer
+     Duties:        Maintaining databases using Informix SQL, and UNIX
+                    scripts, developing and maintaining company extranet
+                    web site using C, Informix 4gl, and shell scripts, and
+                    supporting PC users
+
+     Kinko's Copies
+     814-866-5679   (October 1994 - December 1996)
+     Supervisor:    Trond Smallenberger
+     Position:      Computer Services Consultant
+     Duties:        Typesetting and graphic design in a Macintosh
+                    environment
+
+     Gannon University Computer Center
+     814-871-7340   (January 1994 - October 1994)
+     Supervisor:    Mark Jordano
+     Position:      Work/Study COBOL programmer
+     Duties:        Modifying payroll and personnel applications in a
+                    VAX/VMS environment
+
+     World of Music
+     814-459-2585   (January 1993 - June 1994)
+     Supervisor:    Michael McLaughlin
+     Position:      Rental Department Administrator
+     Duties:        Maintaining PA equipment, tracking rentals, some sales
+
+Honors: Dean's List - Spring of 1993, Spring of 1994,Fall of 1996.
+
+References: Available upon request

@@ -1,0 +1,186 @@
+                              Danny R. Jenkins
+
+                     (As of Wednesday, July 07, 1999)
+
+                               (770) 592-7243
+                            atldannyua@aol.com
+
+                   Please Do Not Contact Current Employer
+
+                        [bluebar.gif (11170 bytes)]
+
+ COMPUTER            Languages: SQR, Crystal Reporting, C, Visual Basic, COBOL,
+ EXPERIENCE                                SQL, Pascal, HTML, Clipper, FORTRAN,
+                     DOS Batch
+                     Databases: Oracle, DB2, Access, Power Builder, dBase III+ &
+                     IV
+                     Operating Environments: UNIX, Xwindows, VM/CMS, MS-DOS,
+                                                                  Windows
+                     Internet: WS-FTP 32, Telnet, Netscape, Mosaic, Lview, Gopher,
+                     and E-Mail
+                                      Create and maintain personal homepage and
+                     resume on WWW
+                                      http://members.aol.com/atldannyua
+                     Business Tools: PeopleSoft, PeopleTools I & II, Data Mover,
+                     Application                              Upgrader,
+                     PeopleCode, Query, Excel, Lotus, PowerPoint,
+                                                  Harvard Graphics, Word,
+                     WordPerfect, Textra, Formworx,
+                     Execustat, STORM
+                     Application Skills: Payroll, Human Resources, Personnel,
+                     Benefits, AR, AP,                                 GL, AM
+                     Technical Training: PeopleSoft Tools I & II, PeopleCode, SQR,
+                     Lotus Notes                                   Development
+                     Functional Training: PeopleSoft Human Resources, Benefits,
+                     and Payroll
+
+ EXPERIENCE          Financial Application Development Analyst, Geo-Logistics
+ February 1999 to    Americas
+ Present             Marietta, GA
+
+                     Tasks
+
+                        * Write SQRs for AR, AP, GL, and AM
+                        * Technical and Functional Support for PeopleSoft Patches
+                          to A/R, A/P, G/L, Billing, and A/M
+                        * Migration of new and modified programs through test
+                          environments into Production
+                        * Works with Financial System team to coordinate Change
+                          Control Process in Test and with Change Control
+                          Coordinator
+                        * Assure quality assurance standards are followed
+                        * Manage System Security in all Test environments
+                        * Coordinate SQR development as required
+
+ March 1997 to       Technical Delivery Specialist, The Coca-Cola Company
+ February 1999       Atlanta, GA
+
+                     Tasks
+
+                        * Complete design and analysis of the documentation tool
+                          for Crystal Reporting and PS Query
+                        * Teaching PeopleSoft application for the Learning Center
+                          facility
+                        * On-going support for newly developed systems in
+                          PeopleSoft
+                        * Full-cycle conversion of Mainframe based system to
+                          PeopleSoft
+                        * Full technical support for production migrations within
+                          PeopleSoft
+                        * Implementation of PeopleSoft 6.0
+                        * Support Coca-Cola Payroll (Weekly, Semi-Monthly,
+                          Monthly) about 7,000 Employees
+                        * Develop Human Resources, Payroll, Personnel
+                          Administration and
+                          Salary Administration reports using SQR to operate on
+                          PeopleSoft
+                        * Utilize PeopleTools to customize and create tables,
+                          panels, and indexes
+                        * Create SQRs to produce and read interfaces between
+                          PeopleSoft and outside vendors
+                        * Implemented PeopleSoft Tax Updates 97 with custom panels
+                          and tables
+                        * Update COBOL programs and CopyBooks for Tax Update 97
+
+ May 1996 to         Consultant, The Pinnacle Group, Inc.
+ March 1997          Athens, AL
+
+                     Project Experience
+
+                     Clients
+
+                        * City Government
+                        * Large Regional Bank
+                        * Rent-A-Car Company
+                        * Large Medical Facility
+                        * Oil and Gas Company
+
+                     Tasks
+
+                        * Developed Human Resources, Payroll, Personnel
+                          Administration and Salary Administration
+                        * Utilized PeopleTools to customize and create tables and
+                          panels
+                        * Created SQRs to produce and read interfaces between
+                          PeopleSoft and benefit company
+                        * Implemented PeopleSoft Tax Updates with custom panels
+                          and tables
+                        * Updated PeopleCode from previous version to current
+                          version
+                        * Provided technical assistance to support the client’s
+                          needs
+
+ January 1996 to     Programmer/Analyst, English Language Institute
+ May 1996            The University of Alabama, Tuscaloosa, AL
+
+                        * Developed enrollment, scheduling and grading system for
+                          administrators in Access
+                        * Trained administrators on new package
+
+ June 1995 to        Programmer/Analyst, Commerce & Business Administration
+ May 1996            Student Services
+                     The University of Alabama, Tuscaloosa, AL
+
+                        * Access mainframe records through Clipper programming
+                        * Manage RDBMS for C&BA undergraduate curriculum
+                        * Produce student academic progress, scholarship, and
+                          graduation reports
+                        * Consult and troubleshoot for academic advisors and staff
+                          on software applications
+
+ June 1995 to        Computer Engineer, USX - U. S. Steel
+ December 1995       Birmingham, AL
+
+                        * Responsible for solving problems on the LAN for users
+                        * Perform hardware/software support for PC users
+                        * Migrate documents from VAX to Microsoft Word 6.0
+                        * Create databases and spreadsheets for real-time Pipe
+                          Mill orders for quality assurance
+
+ August 1994 to      Computer Tutor, Center for Athletic Student Services
+ May 1995            The University of Alabama, Tuscaloosa, AL
+
+                        * Assisted athletes on different software packages
+                        * Performed hardware/software support for PC users
+
+ May 1994 to         Lab Assistant, Commerce and Business Administration System
+ November 1994       Support Services
+                     The University of Alabama, Tuscaloosa, AL
+
+                        * Assisted students with different software packages
+                        * Logged students in and out of the lab
+
+ July 1986 to        Crew Leader, Chick-fil-A
+ July 1989           Torrance, CA
+
+                        * Supervised staff of up to 12 employees, trained new
+                          employees
+                        * Balanced registers with daily transactions, assisted
+                          manager with deposits
+                        * Conducted inventory and ordered new stock as needed
+
+ July 1989 to        Construction Industry, The Builders, Woods Hardware, Rolling
+ August 1993         Hills Estates, General Services
+                     Torrance, CA; Rolling Hills, CA; Chattanooga, TN
+
+ EDUCATION           Bachelor of Science in Commerce and Business Administration
+                     The University of Alabama, Tuscaloosa, AL, May 1996
+
+                     Major: Management Information Systems (MIS) Major GPA:
+                     3.0/4.0
+                     Minor: Computer Science
+                                                       Minor GPA: 3.1/4.0
+
+ HONORS AND          Data Processing Management Association (DPMA), 1994-1995
+ ACTIVITIES
+                        * Resume Committee Chairman
+
+                     The University of Alabama Baseball Team, 1993-1994
+
+                     Drafted by the San Francisco Giants, 1989
+
+                     References Available Upon Request
+
+
+
+                               [Hit Counter]

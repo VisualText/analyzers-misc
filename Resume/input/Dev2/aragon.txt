@@ -1,0 +1,51 @@
+                               Cecilia Aragon
+
+                               P.O. Box 8582
+                         Berkeley, California 94707
+                            tel: (510) 527-4466
+                          e-mail: aragon@dcai.com
+
+Objective
+
+Technical, leadership, or consulting position involving Internet
+application development, 2D or 3D graphics, or user interface programming
+in an exciting and innovative environment in the San Francisco Bay Area.
+Involvement in aviation is a plus.
+
+Skills
+
+Technical
+
+   * 2.5 years of Java and multi-tier Internet application development.
+   * 8 years of object-oriented programming experience.
+   * 15 years of programming experience (including C++, Java, Perl, and C).
+   * 15 years of user interface and graphics (2D and 3D) programming
+
+Management and Business
+
+   * 3 years experience as manager of flight school with staff of 24.
+   * 3 years marketing and business experience founding, growing, and
+     selling a successful small business.
+
+Aviation
+
+   * 10 years experience as a professional pilot and flight instructor
+   * 8 years experience as an airshow pilot
+   * 5 years experience as a test pilot of experimental aircraft
+   * 4,700 logged flight hours, 100% safety record
+
+Education
+
+M.S., Computer Science, University of California at Berkeley
+B.S. with Honors, Mathematics, California Institute of Technology
+
+Most Recent Publication
+
+"Experimental and Computational Data Analysis in CHARLES and DARWIN,"
+ISCA-97-, 13th International Conference on Computers and Their
+Applications, Honolulu HI, March, 1998. (PDF)
+
+Recent Projects
+
+   * NASA's DARWIN Information System - Remote Access to Wind Tunnel Data
+   * Sun Microsystems' Application Binary Interface Program

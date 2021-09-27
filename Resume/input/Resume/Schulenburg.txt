@@ -1,0 +1,150 @@
+                              RESUME
+
+                       David A. Schulenburg, Ph.D.
+
+5313 Flintstone Ln.                            (540) 341-7725 (home)
+Broad Run, VA  20137                         (703) 748-3474 (office)
+                                         email: schulenb@ics.uci.edu
+
+
+EXPERIENCE:
+
+  ExpLore Reasoning Systems, Inc.  January 1997 to present
+    Senior Technical Staff, Rule based systems development and
+      maintenance for financial applications and in the telecom
+      industry.  CORBA design and implementation.  Curriculum
+      development -- courses on rule based programming.
+
+  Associative Computing, Inc.  July 1996 to January 1997
+    Senior AI Engineer, Applied NLP research for intelligent agents.
+
+  The Aerospace Corporation  March 1990 to July 1996
+    Senior Member Technical Staff, Support research on SDVS, a hardware
+      and software formal verification system.  Responsible for local
+      lisp installations.  Participated in the design and implementation
+      of a network simulation language and a genetic algorithms scheduler.
+      Performed research in computational geometry.  Designed a modular
+      compression protocol (for compressing digital images) using
+      object-oriented technology.
+
+  University of California, Irvine  September 1985 to March 1990
+    Research Assistant, Research utilizing abduction in belief revision.
+    Instructor, Courses on: introduction to artificial intelligence (AI)
+      and AI programming techniques (Lisp).
+    Teaching Assistant, Courses on: introduction to computer science,
+      software engineering, and introduction to AI.
+
+  MAI Basic Four  July to December 1987
+    Engineering Intern, Design an ``Universal Printer Driver.''
+
+  Cognitive Systems, Inc.  March 1983 to August 1984
+    Research Scientist, Natural language processing for data base
+      requests (including parser maintenance), expert system for data
+      base access, data base design.
+
+  Naval Ocean Systems Center  October 1982 to February 1983
+    Scientist, Natural language processing (parsing, inference, and
+      formatted generation) of navy messages -- the NOMAD system.
+
+  University of California, Irvine  March 1981 to June 1982
+    Research Assistant, AI research (natural language processing and
+      inferencing).
+    Teaching Assistant, Courses on: introduction to computer science
+      and advanced Lisp programming.
+
+  Johnson Controls, Inc.  September 1980 to March 1981
+    Systems Analyst II, Specified, designed, and implemented a Control
+      Network Communications Protocol system for micro/mini computer
+      communications.  Performed analysis on algorithms used in process
+      control.
+
+  Sperry Univac (Australia) Ltd.  April 1979 to December 1979
+    MCO Product Analyst, Provided pre/post sales support to local
+      customer base, including: system software implementation and
+      maintenance, development of special software, performance tuning,
+      support to Customer Engineering, and educational instruction.
+
+  Sperry Univac MCO (formerly Varian Data Machines) July1976 to September 1978
+    Programmer, Developed turn-key, on-line real-time applications in
+      FORTRAN and assembly languages.  This included on-site installation
+      and integration.
+
+EDUCATION:
+  PhD, December 1995, Computer Science, University of California, Irvine.
+    Dissertation title: Learning and Using Context in a
+    Connectionist Model of Natural Language Understanding.
+  MS, December 1982, Computer Science, University of California, Irvine.
+    Thesis title: Generating Alternate Interpretations: Directing
+    Inference During Story Understanding.
+  BS, June 1977, Computer Science; BA, June 1977, Mathematics,
+    University of California, Irvine.
+
+Computer Languages Used: CommonLisp (and other lisp dialects), ILOG Rules,
+  ART*Enterprise, Prolog, C/C++, CORBA, various others.
+  (My expertise is in Lisp and rule-based programming languages.)
+
+Operating Systems Used: UNIX, Windows NT/95, other older OSes.
+
+REFERENCES:
+  Available upon request.  
+
+PUBLICATIONS:
+
+  Schulenburg, D. (1995). Learning and using context in a connectionist
+    model of NLU.  in "IJCAI Workshop on Context in Natural Language
+    Processing." Montreal, Canada.
+
+  Pazzani, M. J., P. Murphy, K. Ali, and D. Schulenburg. (1994).
+    Trading off coverage for accuracy in forecasts: Applications to
+    clinical data analysis. in "Working Notes: AAAI Spring Symposium:
+    AI in Medicine: Interpreting Clinical Data." Stanford, CA.
+
+  Schulenburg, D. (1993). Using context to interpret indirect requests
+    in a connectionist model of NLU. in "Proceedings of the Fifteenth
+    Annual Conference of the Cognitive Science Society." Hillsdale, NJ:
+    Lawrence Earlbaum Associates, Inc.
+
+  Schulenburg, D. (1992). Sentence processing with realistic feedback.
+    in "Proceedings of the International Joint Conference on Neural
+    Networks '92."  Piscataway, NJ: IEEE.
+
+  Schulenburg, D. (1992).  "Sentence Processing with Incremental Feedback."
+    Technical Report 92-51. Department of Information and Computer Science,
+    University of California, Irvine.
+
+  Schulenburg, D. (1991). Using a connectionist model to learn indirect
+    speech act interpretation (extended abstract). in "Working Notes:
+    AAAI Spring Symposium: Connectionist Natural Language Processing."
+    Stanford, CA.
+
+  Schulenburg, D. & M. Pazzani (1989). Explanation-based learning of
+    indirect speech act interpretation rules. in "Proceedings of the
+    First International Workshop on Lexical Acquisition." Detroit, MI.
+
+  Pazzani, M. & D. Schulenburg (1989). The influence of prior theories
+    on the ease of concept acquisition. in "Proceedings of the Eleventh
+    Annual Conference of the Cognitive Science Society."  Hillsdale, NJ:
+    Lawrence Earlbaum Associates, Inc.
+
+  O'Rorke, P., S. Morris, & D. Schulenburg (1990). Theory formation by
+    abduction: A case study based on the chemical revolution. in
+    "Computational Models of Scientific Discovery and Theory Formation,"
+    Jeff Shrager and Pat Langley, Eds. San Mateo, CA: Morgan Kaufman.
+
+  O'Rorke, P., S. Morris, & D. Schulenburg (1989). Abduction and world
+    model revision. in "Proceedings of the Eleventh Annual Conference
+    of the Cognitive Science Society."  Hillsdale, NJ: Lawrence Earlbaum
+    Associates, Inc.
+
+  O'Rorke, P., S. Morris, & D. Schulenburg (1989). Theory formation by
+    abduction: Initial results of a case study based on the chemical
+    revolution. in "Proceedings of the Sixth International Workshop on
+    Machine Learning."  Palo Alto, CA: Morgan Kaufmann
+989). The influence of prior theories
+    on the ease of concept acquisition. in "Proceedings of the Eleventh
+    Annual Conference of the Cognitive Science Society."  Hillsdale, NJ:
+    Lawrence Earlbaum Associates, Inc.
+
+  O'Rorke, P., S. Morris, & D. Schulenburg (1990). Theory formation by
+    abduction: A case study based on the chemical revolution. in
+    "Computational Mod
