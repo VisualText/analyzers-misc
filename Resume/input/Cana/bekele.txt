@@ -1,0 +1,112 @@
+[Headhunter.net Homepage] [Find Jobs] [Find Resumes] [My Stuff] [Get Help]
+
+  [Image]                              [Image]
+
+Find Résumés : Résumé Details
+
+Software Developer
+ Kifle Bekele
+ 208-1810 East Georgia, Vancouver, BC V5L 2B6,
+ Tel: (604) 255 9587
+ E_mail: k_bekele@hotmail.com
+ Career Objective: Software Developer
+
+ To apply the leading edge Oracle, Visual Basic, Java, Windows NT 4.0,
+ Access, and PL/SQL in the E-commerce project and provide IT solutions
+ with a progressive IT/Development company.
+
+ IT Projects and Development
+ ITI Information Technology Institute, Ottawa, Ontario
+ Student/Team Member
+
+ ? In a team of five, designed and developed a complete cycle of
+ forms/applications using Oracle 8, Developer 2000, Forms 4.5, ERD
+ Diagram, Procedure Builder 1.5, and Reports 2.5 to capture and track
+ project details. Created and implemented SQL*Plus, and PL/SQL packages,
+ procedures and functions to manage the data.
+ ? Web Page: Designed and constructed a prototype web presence using HTML,
+ VBScript, and the Frontpage ’98 web development tool. The site was
+ deployed using NT Server 4.0 and IIS. Designed and created an Access ’97
+ database.
+ ? Implemented a server-side processing application for a placement agency
+ using the Visual Basic family of tools including VB5, VBScript, Access 97
+ and Active Server Pages. Developed the application using Object Oriented
+ programming and COM principles. Built the connection between the
+ application and the Access database using ADO, ODBC and SQL.
+ ? Network Administration: Assembled Pentium server and
+ installed/configured Windows NT 4.0 to the Internet using TCP/IP.
+ Prepared a submission in response to a Request for Proposal for the
+ design and implementation of a fully functional local area network LAN
+ for a midsize office.
+ ? Utilized VisualAge for Java to convert the VB placement agency
+ application to Java. Used JDBC to connect to a legacy DB2 database.
+ Created Java applets to provide web access.
+
+ Work Experience
+
+ Data Analyst Feb 1997 - May 1997
+ Statistics Canada, Ottawa, Ontario
+ ? As part of a team of 25 Data Analysts, correlated complex data
+ /information for all the provinces of Canada. The results were analyzed
+ and integrated into the statistics for Canada 1997 Census Project. The
+ responsibility included reading maps and input to the database.
+
+ Supplies Officer Sep 1988 - Oct 1990
+ Ministry of Agriculture, Addis Abeba, Ethiopia
+
+ ? Managed warehouse for the Ministry of Agriculture. The warehouse was
+ responsible for receiving and issuing motor vehicle equipment, office
+ supplies and furniture. Inventory was worth $1,000,000 dollars (US).
+ ? Streamlined the shipping and receiving department by conducting
+ on-going reviews and updates of stock level figures which lead to better
+ monitoring of invoices and accuracy of account coding.
+ ? Supervised a team of six people who were responsible for the overall
+ function of the warehouse such as shipping, issuing, recording, updating,
+ and reporting.
+
+ Relief Officer Jan 1985 – Dec 1985
+ United Nations High Commissioner for Refugees (UNHCR)/ Red Cross
+ Addis Abeba, Ethiopia
+
+ ? In charge of relief to 100,000 Sudanese refugees who had fled their
+ country due to war and famine.
+ ? Responsibilities included distribution of basic needs, assessing
+ physical and material needs of refugees.
+ ? Compiled statistics for the overall relief effort.
+ ? Prepared reports using graphs and scales to demonstrate how the
+ materials and food were distributed and to identify the number of people
+ receiving the help.
+
+ Interests
+ ? Calligraphy and logo design
+ ? Current affairs, reading books, and Guitar
+
+ Education
+
+ Diploma in Applied Information Technology (post graduate), 1999
+ ITI (Information Technology Institute),
+ Ottawa, Ontario.
+
+ Bachelor of Arts – Economics 1996
+ University of Western Ontario, London, Ontario.
+
+ References and Portfolio are available on request
+
+ Details
+ Desired Job Type: Full Time                      Location:CA-BC-Vancouver
+           Desired Employee or
+  Employment Type: Contractor                     Relocate:World
+           Degree: 4 Year Degree               Will Travel:Up to 50%
+
+       Experience: At Least 1 Year         Citizen/SecurityYes/Yes
+                                                 Clearance:
+ Contact
+          Company:
+            Email: kbekele@ottawa.iti.ca
+             Name: kifle
+            Phone: 604 255 9587
+              Fax:
+     Contact Type: Job Seeker
+ Miscellaneous
+       Categories: Computer
+      Last Change: 1999/07/19 20:17:02

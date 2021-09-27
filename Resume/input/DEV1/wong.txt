@@ -1,0 +1,91 @@
+                   --------------------------------------
+                              Richard W. Wong
+                              kablooey@yak.net
+                   --------------------------------------
+
+Objective
+
+Providing direction and management to help a company develop leading-edge
+consumer applications.
+
+Education
+
+University of California, Santa Barbara
+Bachelor of Arts, College of Creative Studies, June 1986
+Mathematics
+
+Experience
+
+InWorlds.com (1999-present)
+     Director of Engineering
+     Responsible for all technical development, engineering, and operations
+     for InWorlds.com's 24x7 online virtual community services, based on
+     Fujitsu's WorldsAway technology. Development of additional technology
+     to support internet advertising and electronic commerce, using HTML,
+     Perl, and Oracle SQL and PL/SQL, as well as continued enhancement of
+     Solaris server and Macintosh- and Windows-platform client
+     applications. Direct support for technical partners and technology
+     sublicensees.
+Fujitsu Systems Business of America (1995-1999)
+     Engineering & Development Manager
+     Management of Engineering, Development, and Operations teams for
+     Fujitsu's WorldsAway service, a 24x7 multi-server environment for
+     online virtual communities, including Solaris server and Macintosh-
+     and Windows-platform client applications, web server, e-mail server,
+     ftp server, and billing server. Management of WorldsAway Quality
+     Assurance team. Responsible for design and coordination of testing of
+     all aspects of WorldsAway 2.x and 3.0, including client/server
+     application, web site, art, and world building. Design and development
+     of WorldsAway 2.0 client/server virtual world application using
+     Metrowerks C++ and PowerPlant, as well as Microsoft Visual C++.
+Duet Development Corporation (1994-1995)
+     Marquis de Software
+     Development of 1.0 Macintosh client for Fujitsu's Worlds Away project
+     using Metrowerks C++ and PowerPlant. Development of ANSI C read/write
+     source code for Apple's QuickDraw 3D metafile format. Contribution to
+     the design, development, and testing of Duet's File Genie Pro.
+     Development of an application to demonstrate QuickDraw 3D
+     functionality.
+Storm Technology, Inc. (1992-1994)
+     Marquis de Software
+     Management of the team responsible for testing of Apple PhotoFlash
+     2.0. Tasks included product design input, test strategy plans,
+     functional test plans, designing and writing automated test suites,
+     and all configuration management builds. Integration, building, and
+     test supervision of four localized versions of PhotoFlash 1.1. Design
+     and implementation of the in-house Sadists MPW-based development
+     environment. Interface design and implementation of PhotoFlash 1.0
+     using THINK C and TCL. Other projects have included completion of
+     QuickPress and development of a testing suite for PicturePress.
+The Software Department, Inc./Encore Systems (1985-1992)
+     Software Deity
+     Participation in the design and coding of a wide variety of Macintosh
+     applications, using 680x0 assembly, C, C++, and HyperTalk. Larger
+     products have included Full Impact, MORE Graph, and the EyeQ DVI video
+     board. Other tasks have included technical specification writing and
+     acting as a technical liaison for contracting clients.
+Fran Wong Mechanicals, Inc. (1978-1991)
+     Production Artist/Computer Consultant
+     Designed and developed business applications for invoicing and
+     payroll. Layout and mechanical production, including copyediting,
+     design, and layout of Cue magazine using PageMaker.
+Heritage Computer and Tennis Camp (1983)
+     Head Computer Instructor/Counselor
+     Computer instruction and camp counseling for grade-school and
+     high-school children.
+CompuCamp (1983)
+     Counselor/Teaching Assistant
+     Camp counseling and computer instruction for grade-school and
+     high-school children.
+
+Activities/Hobbies
+
+Boggle, tournament Scrabble, baseball card and stamp collecting, internet,
+tennis, baseball, football, skiing, paintball, foreign languages.
+
+References
+
+Available upon request.
+[----------------------------------------------------------------------]
+E-mail: kablooey@yak.net
+Last updated: J54 (04 May 1999)

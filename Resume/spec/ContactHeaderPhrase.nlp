@@ -1,0 +1,14 @@
+
+# AUTOMATICALLY GENERATED! EDITS WILL BE LOST!
+# FILE: e:\apps\resume\spec\ContactHeaderPhrase.pat
+# TIME: 10:07:56 09/02/01
+@NODES _LINE
+
+@PRE
+<1,1>	cap();
+<3,3>	cap();
+@RULES
+
+# Ex:	Personal\_Information
+_ContactHeaderPhrase [layer=(_header )] <- Personal [s] _xWHITE [star s] Information [s] @@
+

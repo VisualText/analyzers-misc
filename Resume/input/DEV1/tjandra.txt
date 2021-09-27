@@ -1,0 +1,192 @@
+Requirement: Contracts (Corp to Corp.)
+Job Location: Los Angeles/Orange County area preferred.
+---------------------------------------------------------------------------
+                                LENA TJANDRA
+                             905 S. Walker Ave.
+                            San Pedro, CA 90731
+                            Home: (310)548-4052
+                       Email: ltjandra@geocities.com
+---------------------------------------------------------------------------
+TECHNICAL SKILLS:
+---------------------------------------------------------------------------
+Programming Languages:
+     n Perl, C, C++, Pascal, Basic, SQL, Fortran, Icon, Modula-2, Lisp,
+Prolog, UNIX,
+     PDP-11 Assembly and Machine Language.
+Machines/Systems:
+     n IBM PCs, Macintosh, DOS, OS/2, SUN MicroSystem, IBM RS/6000,
+HP/9000, Pyramid,
+     VAX/Alpha, SCO, UNIX, and VAX/VMS.
+Networks:
+     n TCP/IP, Novell Netware 286/386, UNIX, PCNFS, and Banyan.
+Database Systems:
+     n Informix, Sybase SQL Server, MS SQL Server, MS Access, Replication
+Server, OmniSQL Server,
+     Open Client, Open Server, VAX/RDB, Unify, dBASE III Plus/IV/Server
+Edition, Foxbase/FoxPro,
+     Paradox 3.5, Clipper S87
+Others:
+     n Technical Writing, Interpersonal Skills, Fluent in Mandarin.
+---------------------------------------------------------------------------
+EXPERIENCE:
+---------------------------------------------------------------------------
+Independent Contractor, (August, 1996 - Current):
+The following is a list of positions held as a contractor.
+
+   Database Application Developer and DBA, Oaktree Capital Management, CA
+   Provide database infrastructure support in the development of the
+Oaktree Holding System. (THS System)
+    Environment includes: MS SQL Server 6.5, MS Access, Windows NT 4.5.
+
+   * Design, Implement, and Document automated Backup/Restore, database
+     maintenance, and Disaster Recovery Procedures.
+   * Maintain data model via Erwin ERD.
+   * MS Access Application Development.
+   * Develop SQL Stored procedures for MS Access application.
+   * Performance tune the database and stored procedures.
+
+   Database Application Developer, Hollywood Software, CA
+   Developed Stored procedures for the Theatrical Distribution System
+(TDS).
+    Environment includes: MS SQL Server 6.5, Source Safe 5.0, Visual Basic,
+Windows 95.  Tasks include:
+
+   * Designed and implemented stored procedures for the ETS Interface.
+   * Testing.
+
+   Database Application Developer, Barclay Global Investors, SF
+   Worked for the Compliance Department in the development of a small
+datawarehouse, and Regulatory Reporting
+    System using Sybase 11.5.1, InfoPump, and Visual Basic.  Tasks include:
+
+   * Assisted in the design of the datawarehouse architecture.
+   * Developed Stored procedures for the data transfer, data scrub, and
+     Regulatory Reports.  (Form S, DOL 5500)
+   * Performance tune the database and stored procedures.
+   * Reconfiguring existing physical database layout to increase
+     performance and better utilize hard disk space.
+
+   Database Administrator, LA Cellular, CA
+    Worked as an independent contractor to assist in temporary Sybase 11.0
+administrative activities.
+    Database environment includes: Sybase 11, Peoplesoft applications,
+Windows 95, and IBM RS/6000 AIX
+    4.2.  Tasks include:
+
+   * Setting up a test environment for the Peoplesoft Client Management
+     Database.
+   * Upgrading and applying additional patches to existing databases from
+     Sybase 11.0.2 to Sybase 11.0.3.1.
+   * Reconfiguring existing physical database layout to increase
+     performance and better utilize hard disk space.
+
+  Database Application Developer, AVCO Financial Svcs., CA
+    Worked  on a large-scale project to convert a centralized legacy
+Financial Managment System to a globally distributed
+    Financial System using Client/Server and Data Replication Architecture.
+Application environment includes: Windows NT 4.0,
+    Microsoft SQL Server 6.5, and Visual Basic 5.0. Tasks include:
+
+   * Writing T-SQL Stored Procedures for VB front-end Access.
+   * Design and develop Database installation/upgrade scripts (using Rexx
+     and DOS shell commands) for testing and deployment.
+   * Maintain ongoing data model via Erwin/Model Mart 2.6
+
+  Database Application Developer, Nicholas|Applegate, CA
+    Worked for a Captital Managment firm as an independent contractor on
+the Accounting side of the
+    Securities Trading System. Primary responsibilites include:
+
+   * Implementing the migration and centralization of the departmental
+     database to the enterprise database model using Perl and
+     Sybase SQL. Migrating existing applications from old model to the new
+     and current model.
+   * SQL optimizations, and debugging of existing stored procedures.
+   * Batch job processing and scheduling.
+   * production support.
+
+Senior Consulting Engineer, Informix, CA (June, 1995 - August, 1996)
+
+   * Provide level II and III (source code level) support for core server
+     products such as, ONLINE 5.x, DSA 6.x & 7.x, CDR, XPS,
+     and Universal Database Server.
+   * Provide onsite problem isolation and diagnostics on slow moving or
+     difficult to resovle cases.
+   * Provide advance support for strategic sales accounts.
+   * Act as an additional resource to the Professional Services
+     Organization by performing certain consulting type work such as,
+     Performance Tuning.
+
+Senior Consultant, Sybase, CA (November, 1992 - June, 1995)
+
+   * Certified Sybase DBA, CSP.
+   * Manager of Advance Services Group, responsible for developing and
+     fullfilling consulting businesses that require advanced
+     services such as: Achitecture Review, DatabaseDesign Review,
+     Perfomance Tuning, Database Adminstration, Benchmark,
+     System Integration/Installation, Technology Transfer.
+   * Consult on various Sybase products such as, SQL Server, Replication
+     Server, OMNI SQL Server, Netgateway, SQL Monitor,
+     DB-LIB, CT-LIB, SQR.
+   * Projects include OLTP and Decision Support Applications in a
+     Client/Server and Destributed database environment such as,
+     Mortage Loan Processing, Delivery Tracking, Airline Reservation
+     Management Reporting Advertisement Processing,
+     Accounting Systems, EIS.
+   * Sybase Instructor.
+
+Senior Consultant, ETA - Optimal Computing, CA (October, 1991 - August,
+1992)
+
+   * Duties are same as below.
+   * Conduct courses on various DBMS products such as dBASE, Interbase, and
+     SQL Server.
+   * Certified SYBASE instructor.
+   * Consult on various projects. Tasks included Database Design Review,
+     coding, Database Performance Tuning.
+
+Consultant, Ashton-Tate, CA (May, 1990 - October, 1991)
+
+   * Design and Develop network applications for various industries such as
+     government, pharmaceutical, education, production
+     and real-estate.
+   * Develop front-end applications in a Client-Server environment.
+   * Submit bids and proposals.
+   * Perform and write Needs/Requirement Analysis.
+   * Administer and integrate in-house departmental Local Area Network
+     consisting of Macintosh, DOS, OS/2, UNIX, and VMS
+     workstations.
+   * Port dBASE/Clipper/Paradox DOS applications to dBASE for UNIX.
+   * Develop and Conduct UNIX and SQL Server training courses.
+   * Assist A-T sales reps in Product Presentations and Sales.
+   * Provide Hardware and Software Support for Trade shows and Technical
+     Conferences.
+   * Provide Technical Assistance to Product Marketing.
+
+International Support Specialist, Ashton-Tate, CA (June,1989-May, 1990)
+
+   * Act as a Liaison and Technical Advisor to all Ashton-Tate offices and
+     Distributors overseas.
+   * Provide Technical Support and Training Via E-mail to Ashton-Tate
+     Representatives only.
+   * Responsible for Distributing Training and Technical Materials to
+     overseas Correspondents.
+   * Novell Netware386 System Administrator.
+
+Software Support Technician II, Ashton-Tate (March, 1988-June, 1989)
+
+   * Provide technical assistance to a variety of users including
+     Developers, Corporate Users, and Dealers.
+   * Debug programs.
+   * Aid users in designing applications.
+   * Write technical articles for Ashton-Tate publications.
+   * Test new products for potential bugs and anomalies
+
+---------------------------------------------------------------------------
+EDUCATION: Bachelor of Science in Computer Science and Mathematics,
+University of
+                          California, Davis, 1987.
+---------------------------------------------------------------------------
+REFERENCES: Available Upon Request.
+---------------------------------------------------------------------------
+[Image]

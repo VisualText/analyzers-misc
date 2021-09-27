@@ -1,0 +1,105 @@
+ 
+                   
+Yilmaz Cengeloglu 
+PO Box 381, Mountain View, California, 94042-0381, USA 
+yilsoft@verio.com 
+
+
+
+WORK EXPERIENCE: 
+
+ISADRA Inc., Palo Alto, California (Acquired by VERTICALNET as of May, 24) 
+January 1997 - Present, 
+Working on design/development of Catsmart Shopper/Business which is a scaleable online database driven catalog
+design and operation software, Working on design/development of ERConnect which is Java-based server approach
+that access legacy systems (Prophet21, CICS, SAP/R3) over web at real-time such as real-time pricing avaiability or
+real-time ordering , worked and still supporting Catsmart Cooperative Commerce which is Java-based agent
+approach that integrates e-commerce services. Check out illustration of e-commerce services integration using
+Catsmart Cooperative Commerce product. Also worked on design/development of JMerchant which is a pure Java
+version of Catsmart Shopper/Busines that runs as servlets with most servers. Such as Java Server, Netscape
+Enterprise Server and Apachi server. Projects are related to Internet, Commerce, Online Shoping, Intelligent Agents,
+ACL, Artificial Intelligence, KQML, KIF, Distributed information retrieval, Parametric search, Client / Server
+programming, Dynamic web page generating, Wrapper/Spider for information extraction from web sites. Using C++,
+Java, JDBC, Java Server and Servlets. 
+
+LOCKHEED MARTIN, Palo Alto, California 
+December 1992 - January 1997, Worked at various Lockheed Martin locations. 
+
+     Advanced Technology Center, Palo Alto California 
+     Senior Software Engineer, Worked on Java Map Server project. Implemented JAVA application that
+     generates and displays 2D military maps. Worked in Modeling and Simulation area. Supported the
+     development of Exercise Manager software which is a tool for managing military simulation and training devices
+     (Flight Simulator, etc) across a network using Distributed Interactive Simulation (DIS) protocol. Used Object
+     Oriented approach and C++/UNIX for implementations. Implemented software that prepares low level packets
+     to be broadcast to other simulators on the network. Also supported Airborne Laser project which is the
+     defense for 21st century. Written C programs to integrate device drivers to manage the dynamically adjustable
+     mirror subsystem. 
+
+     Information Systems Division, Visual Systems, Orlando, Florida 
+     Software Design Engineer, Supported the development and maintenance of 3D Visual Data Base Generation
+     System Software. This software generates Object Oriented 3D visual database that contains microcode. This
+     3D database of world is used by realtime Image Generators and 3D graphics accelerators. Worked on all
+     phases of Object Oriented software design and development cycle. Worked on microcoding for Real3D,
+     SEGA Model 3 board, Compu-Scene(SE, C6, PT2000) 3D graphics hardwares. Also worked on Digital
+     Radar Landmass Simulator project, Written C/C++/UNIX programs. Most of the applications were Flight
+     Simulators and 3D games. 
+
+     Simulation and Automated Systems, Daytona Beach, Florida 
+     Software Design Engineer, Supported the development and maintenance of real-time 3D Visual Data Base
+     Loading software. This software loads micro-code from database to Image Generators in realtime. Written
+     C/UNIX programs.
+
+UNIVERSITY OF CENTRAL FLORIDA, Orlando, Florida. 
+July 1990 - December 92, Worked at various institutes. 
+
+     Intelligent Simulation and Training Systems Laboratory, Orlando, Florida 
+     Research Assistant, Implemented Air Traffic Control (ATC) Radar Simulation software. ATC Radar Simulation
+     has integrated with CLIPS using multiprocessing techniques. Software development was done with
+     C/C++/UNIX, X-WINDOWS and System V Interprocess Communication(IPC) facilities. 
+
+     Florida Solar Energy Center, Cape Canaveral, Florida. 
+     Research Assistant, Written Turbo PASCAL programs on PC and Dataplot programs on DEC VAX/VMS
+     computer systems.
+
+     Institute for Simulation and Training (IST), Orlando, Florida. 
+     Research Associate, Written low level networking programs for Distributed Interactive Simulation (DIS)
+     protocol and Simulator Network (SIMNET) protocol. Projects included writing Protocol Conversion and
+     Simulations programs. Software development was done using C/UNIX and System V IPC facilities on UNIX,
+     and Microsoft C on PC.
+
+SIEMENS STROMBERG-CARLSON, Lake Mary, Florida
+October 1989 - April 1990, Associate Systems Analyst, Developed a computer based training (CBT) system for
+telecommunications. Software development was done using PASCAL.
+
+EDUCATION: 
+
+University of Central Florida, Orlando, Florida 
+M.S. in Computer Engineering: August 1993
+
+Ege University, Izmir, Turkey 
+B.S. in Computer Engineering: August 1987
+
+De-Anza College, Cupertino, California 
+Completed Supervisory Management Seminars, January 1998 
+
+FootHill College, Los Altos, California 
+Completed Business Marketing/Management Seminars, June 1998 
+
+PUBLICATIONS: 
+
+Yilmaz Cengeloglu, Soheil Khajenoori, Darrell Linton. "A Framework For Dynamic Knowledge Exchange Among
+Intelligent Agents", American Association for Artificial Intelligence (AAAI) Fall Symposium. November 1994.
+
+Yilmaz Cengeloglu, Soheil Khajenoori, Darrell Linton. "DYNACLIPS (DYNAmic CLIPS) : A Dynamic Knowledge
+Exchange Tool for Intelligent Agents", The 3rd CLIPS Conference at NASA Johnson Space Center. September
+1994.
+
+Taha Sidani, Yilmaz Cengeloglu, Ali Sidani. "Inter/Intra Communication in Intelligent Simulation and Training Systems
+(ISTS) ". 14th Conference on Computers and Industrial Engineering, March 1992
+
+Scott Reinhart, Yilmaz Cengeloglu, "Exercise Registration and Initialization Using Simulation Management PDUs",
+14th Workshop on Standards for Distributed Interactive Simulation, March 1996. 
+
+PERSONAL DATA: 
+
+Single, Male, Age 32, US Citizen. 

@@ -1,0 +1,41 @@
+
+CONTACT:
+
+Contact Name: CARY JAMES FELBAB
+Title:    
+First Name:    CARY 
+Middle Name:    JAMES 
+Last Name:    FELBAB
+Suffix Name:    
+
+Number:      124
+Street:      Crystal Lake
+Road:        Road West
+City:        Burnsville
+State:       MN
+Zip:         55306
+Zip suffix:  5027
+Home phone:  612 898 1499
+Email:       cary@felbab.com
+
+EDUCATION:
+
+Date:    
+School Name: University of Wisconsin
+School Location: Madison, Wisconsin
+Degree: Bachelor 
+Major: Business Administration
+Honors: Dean's List  
+GPA: 3.8
+
+
+EXPERIENCE:
+
+Date: 7/91 to Present
+Company: West Group
+Position: Manager & Lead Architect
+
+Date: 10/88 to 7/91
+Company: Kaufman Group, Inc
+Position: Manager of Technical Services  
+

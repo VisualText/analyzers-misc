@@ -1,0 +1,145 @@
+IBM RS 6000
+IBM PC compatibles
+PDP 11 
+IBM 370 
+HP 9000 
+Dec Alpha 
+logic analyzer 
+Protocol Analyzer 
+Alpha AXP 
+PROM Burner 
+PCI bus 
+hardware design 
+In-Circuit Emulator 
+Silicon Graphics 
+Apple II 
+IBM PC 
+Pentium PC's
+DEC PDP-8
+Sun Workstation
+486 
+10-BaseT 
+AMD 
+Apollo 
+Apple 
+AS/400 
+ATM 
+AXP 
+Banyan 
+Bull 
+BURROUGHS 
+CDPD 
+CRAY 
+DASD
+DEC
+Ethernet
+FDDI
+Gateways
+HP
+Hubs
+IBM
+Intel
+Intergraph
+LAN
+Mac
+Macintosh
+mainframe
+MIPS
+Motorola
+NCR
+NEC
+NeXT
+OmniSQL
+oscilloscope
+PC
+PCI
+PCs
+PDP-11
+Pentium/486
+PowerPC
+Routers
+RS/6000
+RS232
+RS-232
+RS-422
+RS-485
+RS6000
+Sparcstation
+Spectrometer
+Symbolics
+Unisys
+USB
+Vax
+VAX
+Workstations
+x86
+PC-AT
+PC-EGA
+IBM PC/x86
+320C240
+68HC812
+HP730
+DEC6xxx
+S/390
+IBM 3090
+IBM 4380
+hubs
+switches
+Ethernet
+SCSI
+T1
+CSU
+router
+RFL
+Radian
+Z-80
+routers
+PDP-11/84
+PDP-11/34
+MicroVax II
+UNISYS 2200
+Smart Card
+Pentium-II
+Pentium
+Laptops
+PS/2
+PC/AT
+VAX 11/780
+Apollo
+Amiga
+Tandem
+Intel-PC
+Power PC
+Macintosh
+PDAs
+PCMCIA
+OCR
+CD-ROM
+RISC
+SGI
+PentiumPro
+PowerPC
+T3
+X.25
+Ethernet
+hubs
+Burroughs
+Convergent
+Unisys
+Wang
+Altos
+NCR
+Honeywell
+3COM LAN
+LCD graphics display
+Flatbed image scanner
+Motherboard
+ASIC
+ISDN
+Dialup
+PRI
+BRI
+Merced
+Motorola
+Amdahl
+Pyramid

@@ -1,0 +1,52 @@
+
+CONTACT:
+
+Contact Name: Jooyeon Lee
+First Name: Jooyeon
+Last Name: Lee
+
+Number:      1000
+Street:      Kiely
+Road:        Blvd
+City:        Santa Clara
+State:       CA
+Zip:         95051
+Country:     USA
+Home phone:  408 261 1090
+Email:       jooyeon_lee@hotmail.com
+
+EDUCATION:
+
+Date: Feb/1987
+School Name: Seogang University
+School Location: Seoul, Korea
+Degree: B.S.
+Major: Computer Science
+
+EXPERIENCE:
+
+Date: 2/92 - 7/98
+Company: Macro Data System
+Position: Senior software engineer
+Location: Korea 
+
+Date: 9/90 - 2/92
+Company: CNI Co
+Position: Senior software engineer
+Location: Korea  
+
+Date: 7/89 - 7/90
+Company: KISC   
+Position: Software engineer
+Location: Korea
+
+Date: 6/88 - 7/89
+Company:  HwaSung Elec. Co  
+Position: Software engineer
+Location: Korea
+
+Date: 12/86 - 6/88
+Company: KongKwan Co
+Position: Software engineer
+Location: Korea 
+

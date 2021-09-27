@@ -1,0 +1,14 @@
+
+# AUTOMATICALLY GENERATED! EDITS WILL BE LOST!
+# FILE: e:\apps\resume\spec\PublicationsHeaderPhrase.pat
+# TIME: 10:08:12 09/02/01
+@NODES _LINE
+
+@PRE
+<1,1>	cap();
+<3,3>	cap();
+@RULES
+
+# Ex:	Academic\_Publications
+_PublicationsHeaderPhrase [layer=(_header )] <- Academic [s] _xWHITE [star s] Publications [s] @@
+

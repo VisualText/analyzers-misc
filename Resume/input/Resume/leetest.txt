@@ -1,0 +1,20 @@
+                          Jooyeon Lee
+
+                 1000 Kiely Blvd , Santa Clara CA95051, USA
+
+                             Tel:(408)261-1090
+                       Email:jooyeon_lee@hotmail.com
+
+Objective
+
+   * I am looking for employment opportunity in Flash File System, Device
+     driver, BIOS-related programming.
+     Location preferred, Santa Clara/San jose, California.
+
+Field of Expertise
+
+   * DOS programming.
+        o Flash File System for Flash Disk Card.
+        o Device driver for RAM Disk Card .
+        o FAT File System Generation program for ROM Disk Card.
+        o KARAOKE system software.

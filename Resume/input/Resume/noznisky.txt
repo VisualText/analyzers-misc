@@ -1,0 +1,121 @@
+ANNE NOZNISKY                          
+1700 West Abingdon Drive Apt.302                                               
+Alexandria, Virginia 22314
+(703) 683-5373
+
+
+SUMMARY
+Ms. Noznisky offers expertise in the design and development of automated systems for the maintenance and analysis of Medicare/Medicaid, labor, health,
+and environmental data.  She is proficient in both PC and mainframe platforms. 
+Her education and work experience in the areas of health, programming, and relational databases enable Ms. Noznisky to provide technical support and clinical
+knowledge to a variety of systems applications.
+
+PROFESSIONAL EXPERIENCE
+
+SYSTEMS ANALYST AND PROGRAMMER - FU ASSOCIATES, LTD.
+JUNE 1987 TO PRESENT
+
+-Clinical Informatics
+
+-Database Development
+
+-Systems Design
+
+-Software Development
+
+-Database Maintenance
+
+-Website Management
+& Development
+
+- Technical Writing
+
+As a senior programmer with Fu Associates, Ms. Noznisky has successfully integrated her nursing background with her programming skills to support a
+range of clinical applications and projects for health care organizations.  She is particularly skilled at researching/finding answers, analyzing complex problems, and devising efficient solutions.  
+
+ACCOMPLISHMENTS
+
+Built data collection instruments for the Health Care Financing Administration (HCFA), Center for Beneficiary Services and the Center for
+Health Plan and Provider Data.  The instruments are currently used to upload and collect data by over 300 managed care plans.
+
+Member of the development team for the MedQuest suite of clinical software development tools at HCFA using Visual Basic 4.0 and 6.0. Builds and evaluate medical informatics databases to supplement the clinical
+capabilities of the MedQuest project using Microsoft Access.  Also involved in training HCFA staff and others in the use of the MedQuest software. 
+
+Has lead role in maintaining the MedQuest home page on the HCFA website.
+
+Played a major role in development of the data dictionaries from client specifications for the various clinical data abstraction modules, the construction of editing tools, and database design.  Assists clinicians on the development of
+medications database for use by abstractors to assure high quality data.  Uses Visual Basic to automate routine database lookup and maintenance tasks.  
+
+Instrumental in programming the Stata algorithms to determine outcomes for over 200,000 Medicare patients diagnosed with myocardial infarction. In addition, developed and implemented a testing plan using Stata and Microsoft Excel 5.0 for the 60 programs that were part of the suite of analytical and processing programs.  Using Wildcat software, set up and operates a bulletin board for the Medical Quality Indicator System  (MQIS) project to facilitate communication and file transfer between the Peer Review Organizations
+participating in the project.  
+
+Managed the development of ad hoc clinical queries for the Uniform Clinical Data Set (UCDS) and Minimum Data Set (MDS) data, for both research and data quality improvement.  Developed algorithms to flag cases for
+physician review for the Patient Care Algorithm System (PCAS).  Assisted with the development of a new inference engine for PCAS, new clinical query
+functions using Clipper, and a tool to automatically translate the PCAS logic into a more legible "English" format in order to assist physicians in the interpretation of criteria used to select cases for review.  
+
+Designed and managed the implementation of a reliability reporting system to report reliability by UCDS abstraction screen type and clinical groupings of
+variables.  Supported development of the UCDS clinical data dictionary including the construction of data dictionary editing tools, design of the dictionary database, and development of reports to support ongoing clinical additions to the dictionary.
+
+For the Cooperative Cardiovascular Project, coded a set of 15 Myocardial Infarction algorithms using Stata, and distributed them to state physician Peer
+Review Organizations (PROs).  These algorithms are being used to perform outcomes research on the quality of medical care.
+
+For the U.S. Department of Labor, Bureau of Apprenticeship and Training, completed the design and coding of a relational database information
+management system.  Played an integral role in all phases of the project, including assisting in user requirements analysis, screen design, and design of
+the database structures using INGRES and its Application-By-Form software running under UNIX.  After development and testing of the system, gave
+presentations to non-technical users and assisted in conducting training sessions. 
+
+
+For the U.S. Environmental Protection Agency, utilizing  PL/I and SAS, worked with large data files such as the 1980 Census Data, U.S. mortality files,
+and air quality monitoring data.  Using the IBM mainframe computer complex and the National Institutes of Health Computer Center, developed several
+databases that assess the impact of pollution controls on cardiac and respiratory deaths in major cities.  
+
+As a primary member of the team responsible for the design and development of a 1-gigabyte database for the U.S. Army's enlisted personnel retention and recruitment program, used SAS and PL/I in the IBM mainframe environment. 
+
+Assisted with the editing of descriptive databases as part of a program with the Occupational Safety and Health Administration (OSHA) to study hazardous
+chemicals in the work place and the economic impact on industry and government of stricter controls.  Converted raw data into "clean" data using
+knowledge of chemistry and medicine.
+
+SELECTED TECHNICAL SKILLS
+
+SOFTWARE TOOLS
+Active Reports
+Microsoft Word 97
+WordPerfect 8.0
+Excel 5.0/97
+Wildcat 4.0
+Power Builder
+Microsoft Image Composer
+Microsoft Front Page
+Microsoft Visual InterDev
+
+OPERATING SYSTEMS
+Microsoft Windows NT 4.0, '95,'98
+UNIX
+IBM 3090
+
+PROGRAMMING LANGUAGES
+Visual BASIC 3.0 - 6.0
+PL/I
+Clipper
+SAS 6.12
+Stata 5.0
+
+DATABASE MANAGEMENT SOFTWARE
+Microsoft Access 2.0 and 97
+SQL Server 6.0
+FoxPlus
+INGRES
+
+CLINICAL EXPERIENCE
+Between 1978 and 1987,  Ms. Noznisky held registered nurse positions with several organizations including Upjohn Healthcare, Family and Nursing Care,
+and the Washington Hospital Center.  At the Hebrew Home of Greater Washington, she was employed as the charge nurse on a 40-bed unit.  She also
+worked on a study entitled "Epidemiologic Study of Morbidity and Mortality in a Hospital Intensive Care Unit"  conducted jointly by The Maryland Department
+of Health and Mental Hygiene and the Center for Disease Control.
+
+EDUCATION
+Biostatistics; Biostatistics--Inference; Introduction to Epidemiology; Health Effects of Indoor and Outdoor Air Pollution; John Hopkins University,
+School of Hygiene and Public Health, 1991-1992
+Introduction to C Programming, USDA Graduate School, 1991
+Certificate in Data Processing, Yorktowne Business Institute, 1987
+B.S. in Nursing, Georgetown University, 1978
+B.S. in Biology, Simmons College, 1973

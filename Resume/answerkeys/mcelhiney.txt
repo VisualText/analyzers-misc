@@ -1,0 +1,84 @@
+
+CONTACT:
+
+First Name: James
+Middle Name: P  
+Last Name: McElhiney
+
+Number:      18
+Street:      Peters
+Road:        Street
+Unit:        Suite
+Room:        2
+City:		 Cambridge
+State:	 MA
+Zip:		 02139
+Email:       james@world.std.com
+URL:         http://world.std.com/~james/resume.html
+
+EDUCATION:
+
+Date: 1992-1994   
+School Name: Harvard University Extension School
+School Location: Cambridge MA
+Degree: Graduate Classes
+
+Date: 1982-1986
+School Name: Worcester Polytechnic Institute
+School Location: Worcester MA    
+Degree: B.S.E.E. 
+Major: E.E.   
+Honors: Distintion
+
+
+EXPERIENCE:
+
+Date: May 1998 - present
+Company: Boston Compliance Systems
+Position: Software Engineer/Co-founder
+Location: Boston, MA
+
+Date: December 1996 - April 1998
+Company:  MediaOne/Continental Cablevision
+Position:  Software Engineering Consultant
+Location: Boston, MA
+
+Date: Winter 1998 (part-time)
+Company: imachines
+Position:  Software Engineering Consultant
+Location: Needham, MA
+
+Date: Winter 1997 (part-time)
+Company: Unisys
+Position: Software Engineering Consultant
+Location: Cambridge, MA
+
+Date: Winter 1997 (part-time)
+Company:    Practical Engineering 
+Position:   Software Engineering Consultant
+Location: Newton, MA
+
+Date: Fall 1996
+Company: BBN
+Position:   Software Engineering Consultant
+Location: Cambridge, MA
+
+Date: 1995 to Summer 96
+Company: Unisys
+Position:   Principal Software Engineer
+Location: Cambridge, MA
+
+Date:  1994 to 1995
+Company:   Imaging:Machines 
+Position:  Senior Software Engineer
+Location: Boston, MA
+
+Date: 1986 to 1994
+Company: Teradyne 
+Position:  Software Engineer
+Location: Boston, MA
+
+Date: Summer 1985
+Company:  Raytheon
+Position:   Software Engineer 
+Location: Bedford, MA

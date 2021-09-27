@@ -1,0 +1,38 @@
+
+CONTACT:
+
+Contact Name: Elijah Saxon
+Title:    
+First Name: Elijah
+Middle Name:    
+Last Name: Saxon
+Suffix Name:    
+
+Number:      602
+Street:      17th
+Road:        Ave
+Room:		 E
+City:        Seattle
+State:       WA
+Zip:         98112
+Home phone:  206 322 1227
+Email:       elijah@co-op.com
+
+EDUCATION:
+
+Date: December 1996
+School Name: University of California at Santa Cruz
+School Location: Santa Cruz
+Degree: Bachelor of Arts
+Major: Sociology and Computer Science
+
+EXPERIENCE:
+
+Date: November 1997 to August 1998
+Company: Technicon Computer Services
+Location: Emeryville, CA
+
+Date: 1994 to 1997
+Company: Visualization Group
+Location: Santa Cruz, CA
+

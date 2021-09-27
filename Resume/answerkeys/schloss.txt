@@ -1,0 +1,44 @@
+
+CONTACT:
+
+Contact Name: David Schloss
+Title:    
+First Name: David
+Middle Name:    
+Last Name: Schloss
+Suffix Name:    
+
+City:        San Francisco
+State:       Ca
+Email:       dschloss@mail.com
+
+EDUCATION:
+
+Date: September 1995
+School Name: University of California
+School Location: Los Angeles, Ca
+Degree: BS
+Major: Computer Science 
+
+EXPERIENCE:
+
+Date: 1/99 - Present
+Company: Inventa Corp
+Position: E-Commerce Consultant
+
+Date: 8/98 ~ 11/98
+Company: TIBCO Finance Technology Inc
+Position: Java Engineer
+
+Date: 10/96 ~ 8/98
+Company: Internet Business Solutions
+Position: Web Engineer
+
+Date: 11/96 ~ 3/97
+Company: Yahoo
+Position: Java Consultant
+
+Date: 9/95 ~ 10/96
+Company: IBM
+Position: I/T Specialist
+

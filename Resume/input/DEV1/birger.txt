@@ -1,0 +1,99 @@
+                                YAKOV BIRGER
+
+                             San Francisco, CA
+
+                           voice: (415) 386-9238
+
+OBJECTIVE: Software Quality Assurance Engineer
+
+SKILLS
+
+• Automation Tools: Microsoft Test, QA Partner, Win-Runner, SQA Robot
+
+• Programming Languages: C (MS DOS, UNIX), COBOL (UNIX), Visual Basic 4.0
+
+• Software: Microsoft Office (Word, Excel, Access), LOTUS, Norton Utilities
+
+• Operating systems: Windows 3.X & 95, Windows NT DOS, UNIX
+
+• PC hardware knowledge
+
+EDUCATION
+
+08/95 – 12/96 City College of San Francisco, (C, COBOL, UNIX, CAD) - San
+Francisco
+
+11/95 – 07/96 Computer Repair Program, (PC Hardware Architecture) - San
+Francisco
+
+01/95 – 06/95 School for Business & Commerce, (LOTUS) - San Francisco
+
+01/92 – 03/92 College of Computer Science, (MSDOS , Norton Utilities,
+Windows 3.1) - Ukraine
+
+11/72 – 02/78 Land Reclamation and Construction University - Kazakhstan.
+
+   * Bachelor of Science in Civil Engineering.
+
+EXPERIENCE
+
+09/98 – 10/98 Software Tester, First Trust Corporation, Denver, CO
+
+07/97 – 09/98 Document Specialist, IKON Office Solutions, San Francisco, CA
+
+
+
+01/95 – 01/97 Software Quality Assurance Engineer, AC Inc., San Francisco,
+CA
+
+• Product acceptance testing of Windows 3.1 & Windows 95 Expenses
+Applications
+
+• Participated in creating Test Plan and writing Test Cases and Test Suites
+
+• Wrote Test Scripts in C(Visual 4Test) for QA Partner
+
+• Stress tested applications using Win-Runner
+
+• Performed regression and GUI testing for WinEstimator application for
+Windows 3.1
+
+• Tested cost-database for industry-standard compatibility
+
+• Implemented functional test of Online Help and Tutorial
+
+• Reported software problems into an Access bugbase.
+
+
+
+02/96 – 01/97 Computer Class Instructor, Turk Street Apartment Complex -
+San Francisco (part time)
+
+Was teaching: MSDOS, Windows 3.1 & 95, QA Partner.
+
+
+
+08/92 -- 06/94 Software Quality Assurance Engineer, Intellectual Systems
+Ltd., Ukraine.
+
+• Performed black box testing of "City Communications Online" application
+
+• Wrote test plans and test designs for the "County Forest Maps"
+application
+
+• Performed boundary data and invalid data test using MsTest
+
+• Tested software products above for topographical faults
+
+• Created algorithms for topographical programs
+
+• Reported bugs into the company bug tracking database
+
+
+
+03/78 -- 08/92 Civil Engineer, Motor-Car and Roads Ministry, Ukraine.
+
+• Created algorithms and tested hydrology programs ("Arial Rainfall
+Analysis",
+
+"Stream Flow and Water Loss", "Hydrological Forecasts", etc.)

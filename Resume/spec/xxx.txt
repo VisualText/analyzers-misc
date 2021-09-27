@@ -1,0 +1,224 @@
+# hello
+/end	LiteralPhrase	# end stub
+/end	Part	# comment
+/end	Phrase	# 06/23/99 AM. Trying out new stub pass type.
+/end	Word	# 07/28/99 AM.
+/stub	LiteralPhrase	# 09/15/99 AM.
+/stub	Part	# comment
+/stub	Phrase	# 06/23/99 AM. For simple phrases.
+/stub	Word	# For single tokens under the root. 07/28/99 AM.
+lines	nil	# Gen:   Build a list of text lines.
+pat	addr_count	# comment here
+pat	addr_zone	# comment here
+pat	addressLine	# RUG file!
+pat	addressPart	# RUG file!
+pat	addrpart2	# comment here
+pat	adjDirection	# RUG file!
+pat	ambiguousTerms	# Phil.  (merge 12/04/99 AM.)
+pat	certifications	# RUG file!
+pat	cityMod	# RUG file!
+pat	cityPhrase	# RUG file!
+pat	clean	# Gen:   Clean up the text (eg, "\r\n" => "\n").
+pat	clean1	# comment here
+pat	closePunct	# RUG file!
+pat	company	# RUG file!
+pat	companyMod	# RUG file!
+pat	companyModroot	# RUG file!
+pat	companyPhrase	# RUG file!
+pat	companyRoot	# RUG file!
+pat	conf_exper	# comment here
+pat	conf_geo	# comment here
+pat	contact_name	# Find contact name
+pat	contact_zone	# comment here
+pat	ContactHeaderPhrase	# RUG file!
+pat	countryPhrase	# RUG file!
+pat	ctc_addrs	# comment here
+pat	ctc_dump	# comment here
+pat	ctc_lines	# comment here
+pat	ctc_misc	# comment here
+pat	ctc_name_sem	# comment here
+pat	ctc_names	# comment here
+pat	ctc_names0	# comment here
+pat	ctc_names1	# comment here
+pat	ctc_names2	# comment here
+pat	ctc_x_blanklines	# comment here
+pat	DateRange	# RUG file!
+pat	debase	# comment here
+pat	degree1	# comment
+pat	degree2	# 10/09/99 PS.
+pat	degreeInMajor	# RUG file!
+pat	degreePhrase	# RUG file!
+pat	dict_headers	# 06/25/99 AM. Split from dictionary.
+pat	dict_skills	# 06/25/99 AM. Split from dictionary.
+pat	Direction	# RUG file!
+pat	dump_exp	# comment here
+pat	edu_setup	# comment here
+pat	edu_subzone1	# comment here
+pat	edu_subzone2	# comment here
+pat	edu_subzone3	# comment here
+pat	edu_subzone4	# comment here
+pat	edu0	# comment here
+pat	edu1	# comment here
+pat	edu2	# comment here
+pat	edu3	# comment here
+pat	edu4	# comment here
+pat	EducationHeaderWord	# RUG file!
+pat	emailHeader	# RUG file!
+pat	ex_contact	# Output addresses and contact information
+pat	ex_ctc	# comment here
+pat	ex_edu	# comment here
+pat	ex_experience	# Extract Experience
+pat	exp_anchors	# comment here
+pat	exp_anchors1	# comment here
+pat	exp_anchors2	# comment here
+pat	exp_anchors3	# comment here
+pat	exp_anchors4	# comment here
+pat	exp_misc	# comment here
+pat	exp0	# comment here
+pat	exp1	# comment here
+pat	exp2	# comment here
+pat	exp3	# comment here
+pat	ExperienceHeaderPhrase	# RUG file!
+pat	ExperienceHeaderWord	# RUG file!
+pat	experiencePart	# RUG file!
+pat	femaleName	# RUG file!
+pat	field	# RUG file!
+pat	fieldName	# RUG file!
+pat	fix_humanName	# comment here
+pat	fix_humanName1	# comment here
+pat	g_addr	# comment here
+rec	g_caps	# comment here
+pat	g_caps0	# comment here
+rec	g_caps1	# comment here
+rec	g_caps2	# comment here
+pat	g_email	# comment here
+pat	g_humanName	# comment here
+pat	g_url	# comment here
+pat	getEduParts	# comment here
+pat	getHonors	# comment here
+pat	glom1	# comment here
+pat	glom2	# comment here
+pat	glom3	# comment here
+pat	glom4	# comment here
+pat	grade0	# comment
+pat	grade1	# comment
+pat	group	# Group phrases into zones
+pat	hardware	# RUG file!
+pat	heur1	# comment here
+pat	html_name	# comment here
+pat	humanName	# RUG file!
+pat	jobMod	# RUG file!
+pat	jobPhrase	# RUG file!
+pat	jobTitle	# RUG file!
+pat	jobTitleRoot	# RUG file!
+pat	lines	# Gather Lines
+pat	lines1	# comment here
+pat	lists	# comment here
+pat	lists1	# comment here
+pat	lookup1	# comment here
+pat	lookup2	# comment here
+pat	MajoredIn	# comment here
+pat	maleName	# RUG file!
+pat	MinoredIn	# comment here
+pat	minorKey	# RUG file!
+pat	monthNum	# RUG file!
+pat	monthWord	# RUG file!
+pat	name_xfer	# 10/02/99 AM. Transfer name information.
+pat	naturalLanguages	# RUG file!
+pat	nums	# 08/10/99 AM. Handcraft year, month, etc.
+pat	nums1	# comment here
+pat	ObjectiveHeaderPhrase	# RUG file!
+pat	ObjectiveHeaderWord	# RUG file!
+pat	openPunct	# RUG file!
+pat	OtherHeaderPhrase	# RUG file!
+pat	OtherHeaderWord	# RUG file!
+pat	phoneCellPhrase	# RUG file!
+pat	phoneExtension	# RUG file!
+pat	phoneFaxPhrase	# RUG file!
+pat	phoneHomeFaxPhrase	# RUG file!
+pat	phoneHomePhrase	# RUG file!
+pat	phoneNumber	# RUG file!
+pat	phonePagerPhrase	# RUG file!
+pat	phoneWorkPhrase	# RUG file!
+pat	posCONJ	# RUG file!
+pat	posDET	# RUG file!
+pat	posPREP	# RUG file!
+pat	posPRO	# RUG file!
+pat	PostalRoad	# RUG file!
+pat	PostalState	# RUG file!
+pat	PostalUnit	# RUG file!
+pat	pr_addr	# comment here
+pat	pr_caps	# comment here
+pat	pr_caps1	# comment here
+pat	pr_ctc	# comment here
+pat	pr_ctc_caps	# comment here
+pat	pr_edu	# comment here
+pat	pr_exp	# comment here
+pat	pr_exp1	# comment here
+pat	pr_laddr	# comment here
+pat	pr_lines	# comment here
+pat	pr_lines2	# comment here
+pat	pr_z	# comment here
+pat	Present	# RUG file!
+pat	ProgrammingLanguage	# RUG file!
+pat	punct	# Marks punctuation
+pat	qlines	# comment here
+pat	qlines2	# comment here
+pat	ReferencesHeaderWord	# RUG file!
+pat	resumeOf	# comment here
+pat	resumeOf1	# comment here
+pat	ResumeOf2	# 10/02/99 AM. Continue resume of patterns.
+pat	resumeWord	# RUG file!
+pat	rez_boundaries	# Find zone headers
+pat	rez_zones	# Zone education & experience & other
+pat	schoolAbbrevs	# 10/09/99 PS.
+pat	SchoolName1	# 10/09/99 PS.
+pat	SchoolRoot	# comment
+pat	Season	# RUG file!
+pat	sem_contact	# comment here
+pat	SingleDate	# RUG file!
+pat	skills	# 6/25/99 AM. Split from phrases.pat
+pat	SkillsHeaderPhrase	# RUG file!
+pat	SkillsHeaderWord	# RUG file!
+pat	skillsPhrase	# RUG file!
+pat	statePhrase	# RUG file!
+pat	stNames	# 10/09/99 PS.
+pat	stNames2	# 10/09/99 PS.
+pat	sub_boundaries	# Mark dates as subboundaries for now
+pat	subOrg	# RUG file!
+pat	surName	# RUG file!
+pat	Thesis	# RUG file!
+pat	try_humanName	# comment here
+pat	un_edu1	# comment here
+pat	un_exp1	# comment here
+pat	un_exp2	# comment here
+pat	un_rez	# comment here
+pat	unitRoom	# RUG file!
+pat	unk1	# comment here
+pat	url	# RUG file!
+pat	weak_boundaries	# comment here
+pat	WebLinks	# RUG file!
+pat	x_wht_line	# Gen:   Zap whitespace in lines
+pat	x_wht2	# comment here
+pat	xml_CandidateProfile_end	# comment here
+pat	xml_CandidateProfile_hdr	# comment here
+pat	xml_JobCandidateContact	# comment here
+pat	xml_JobCandidateContact_end	# comment here
+pat	z_caps	# comment here
+pat	z_choose1	# comment here
+pat	z_company	# comment here
+pat	z_conf	# comment here
+pat	z_conf1	# comment here
+pat	z_context1	# comment here
+pat	z_dump0	# comment here
+pat	z_dump1	# comment here
+pat	z_edu	# comment here
+pat	z_exper	# comment here
+pat	z_exper1	# comment here
+pat	z_field	# comment here
+pat	z_geo	# comment here
+pat	z_humanName	# comment here
+pat	z_job	# comment here
+pat	zone_heur	# comment here
+pat	zones	# Zone the resume regions
+tokenize	nil	# Gen:   Convert input to token list.

@@ -1,0 +1,45 @@
+
+CONTACT:
+
+First Name: Pompeyo
+Middle Name: D 
+Last Name: Rios
+
+Number:      538
+Street:      Marion
+Road:        St
+City:        Denver
+State:       CO
+Zip:         80218
+Home phone:  303 722 1519
+Email:       pompeyo@writeme.com
+
+EDUCATION:
+
+Date: May 1998
+School Name: REGIS UNIVERSITY
+School Location: Denver, CO
+Degree: MASTER
+Major: BUSINESS ADMINISTRATION
+
+School Name: UNIVERSIDAD METROPOLITANA
+School Location: Caracas, Venezuela
+Degree: BS
+Major: MECHANICAL ENGINEERING
+
+EXPERIENCE:
+
+Date: 07/93 to 09/94
+Company: Vencemos Pertigalete  
+Position: Maintenance Engineer
+Location: Puerto La Cruz, Venezuela
+
+Date: 06/92 to 09/92
+Company: Venezolana de Cementos
+Position: Training Engineer
+Location: Caracas, Venezuela
+
+Date: 07/91 to 09/91
+Company: Vencemos Pertigalete
+Position: Training Engineer
+Location: Puerto La Cruz, Venezuela

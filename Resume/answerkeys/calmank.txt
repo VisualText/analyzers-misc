@@ -1,0 +1,137 @@
+
+CONTACT:
+
+Contact Name: Kevin Calman
+First Name: Kevin
+Last Name: Calman
+Suffix Name:    
+
+Number:      914
+Street:      Timber
+Road:        Trail
+City:        Cedar Park
+State:       Texas
+Zip:         78613
+Email:       codex@earthling.net
+Home phone:  512 219 1069
+URL:         http://www.GeoCities.com/ResearchTriangle/2435
+Work phone:  512 425 3449 ext 
+
+EDUCATION:
+
+Date: May, 1985
+School Name: Pace University
+School Location: White Plains, New York
+Degree: BACHELOR OF SCIENCE
+Major: COMPUTER SCIENCE
+
+Date: May, 1985
+School Name: Pace University
+School Location: White Plains, New York
+Degree: BACHELOR OF SCIENCE
+Major: COMPUTER SCIENCE 
+
+Date: 1990
+School Name: SUNY/New Paltz
+School Location: New Paltz, New York
+Degree: Graduate Study 
+Major: Computer Science
+Minor:    
+GPA:    
+
+Date: 1992
+School Name: Rensselaer Polytechnic Institute
+School Location: Troy, New York
+
+EXPERIENCE:
+
+Date: 1998 to present
+Company: Trilogy Development Group
+Position: LEAD ENGINEER, BUILD & CONFIGURATION MANAGEMENT
+Location: Austin, Texas
+
+Date: 1997
+Company: IBM Corporation
+Position: LEAD ENGINEER, CUSTOMER SIMULATION TEST
+Location: Austin, Texas
+
+Date: 1997
+Company: IBM Corporation
+Position: QUALITY ASSURANCE ENGINEER
+Location: Austin, Texas
+
+Date: 1996
+Company: IBM Corporation
+Position: Application Development Engineer
+Location: Austin, Texas
+
+Date: 1994 to 1995
+Company: IBM Corporation
+Position: CERTIFICATION PROGRAMMER
+Location: Austin, Texas
+
+Date: 1992 to 1993
+Company: IBM Corporation
+Position: PRODUCT BUILD LEAD
+Location: Austin, Texas
+
+Date: 1990 to 1992
+Company: IBM Corporation
+Position: BUILD ADMINISTRATOR
+Location: Kingston, New York
+
+Date: 1987 to 1989
+Company: IBM Corporation
+Position: APPLICATIONS DEVELOPER
+Location: Kingston, New York
+
+Date: 1984 to 1987
+Company: IBM Corporation
+Position: INFORMATION CENTER ANALYST
+Location: Mount Pleasant, New York
+
+Date: January, 1998 to present
+Company: Trilogy Development Group
+Position: LEAD ENGINEER
+Location: Austin, Texas
+
+Date: October, 1997 to December, 1997
+Company: IBM Corporation
+Position: LEAD ENGINEER
+Location: Austin, Texas
+
+Date: January, 1997 to September, 1997
+Company: IBM Corporation
+Position: QUALITY ASSURANCE ENGINEER
+Location: Austin, Texas
+
+Date: January, 1996 to December, 1996
+Company: IBM Corporation
+Position: DEVELOPMENT ENGINEER
+Location: Austin, Texas
+
+Date: January, 1994 to December, 1995
+Company: IBM Corporation
+Position: CERTIFICATION PROGRAMMER
+Location: Austin, Texas
+
+Date: November, 1992 to December, 1993
+Company: IBM Corporation
+Position: PRODUCT BUILD LEAD
+Location: Austin, Texas
+
+Date: January, 1990 to October, 1992
+Company: IBM Corporation
+Position: BUILD ADMINISTRATOR
+Location: Kingston, New York
+
+Date: October, 1987 to December, 1989
+Company: IBM Corporation
+Position: APPLICATIONS DEVELOPER
+Location: Kingston, New York
+
+Date: May, 1984 to September, 1987
+Company: IBM Corporation
+Position: INFORMATION CENTER ANALYST
+Location: Mount Pleasant, New York
+

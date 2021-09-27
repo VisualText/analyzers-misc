@@ -1,0 +1,178 @@
+                                   Résumé
+
+                              Stephen L. Favor
+                             sfavor@onramp.net
+
+                                  Summary
+
+After years of participation  in the architecture, implementation, testing,
+and support  of software products,  I have developed both  the personal and
+the technical skills necessary  for successful application development. The
+major disciplines in which  I have used my skills are graphical interfaces,
+database architecture, and distributed  systems. Industries in which I have
+completed   projects   include   academia,   petroleum   engineering,   and
+telecommunications.
+
+                                   Skills
+
+Java (2 years),  JavaScript (1 year), C (10+ years), C++ (4 years), OOD/OOP
+(6 years),  Client/Server (8 years), X Window System/Motif  (7 years), UNIX
+(8 years), Windows  NT (3 years), Internet/Intranet Architecture (6 years),
+HTML/CGI (3 years),  TCP/IP (6 years), SQL (5 years),  Assembly (15 years),
+LISP (10 years). Solid experience with most development tools and libraries
+including meta-HTML,  sh, csh, lex, yacc,  purify, perl, gnats, emacs, RCS,
+CVS, threads,  sockets, JDBC, Solstice  HA, SNA, TLI, OSI,  ASN.1, and STL.
+GUI skills  include XRT  widgets, ixBuild, XDesigner,  TeleUSE, and Builder
+Accessory.  Platforms include  SunOS, Solaris,  RS/6000, SGI,  MIPS, Linux,
+SCO, HP, Windows NT, Chorus, PSOS, OS/2, VMS, and DOS.
+
+                          Professional Experience
+
+The Dyskolos Project, August 1996 to present
+
+     Research concerning the commonalities between message driven
+     software and literary theory. This has mostly become centered on
+     a comparison of Rumbaugh's OMT and narratology. The goal of this
+     project is to construct a toolkit by which character types in
+     genre fiction may be translated into objects in distributed
+     software. Technically, it defines the software classes and
+     programming methodology necessary to map an OMT dynamic model to
+     Java or C++. Additionally, it defines how to implement
+     aggregation, sequenced or repetitive method invocations, and an
+     instance directory which lists all objects in an application.
+
+Alcatel Network Systems, January 1997 to August 1997
+
+     Analysis, trouble-shooting, and enhancement of a TCP service used
+     to manipulate debugging resources on a cross-connect. Updated a
+     single-user implementation on Chorus to a multi-threaded,
+     multi-user server composed of cooperative applications running on
+     Chorus and SunOS. The end product was used by both engineering
+     and production facilities within Alcatel to speed the diagnosis
+     of switch component failures.
+
+     Design and implementation of a graphical interface for a
+     cross-connect testing and debugging environment. The major roles
+     of this GUI are to specify, manipulate and monitor the resources
+     on the switch. To achieve this, custom X/Motif widgets were
+     written to define and display every aspect of the cabinet from
+     the control CPU down to the bits in ASIC registers.
+
+Network Managers, November 1996 to March 1997
+
+     Design and profitability testing of a high-availability system
+     for Solaris and Windows NT platforms.
+
+TCSI, September 1996 to January 1997
+
+     Senior Engineer responsible for developing network management
+     applications using the TCSI OSP (a precursor to CORBA) and NMFM
+     tool kits. Worked with a team of engineers tasked to uncover and
+     resolve interface problems between OSP and Solstice HA in a
+     network provisioning system. Assisted in the design of interfaces
+     using X/Motif, X-Designer, and Sybase embedded SQL to display and
+     navigate TMN performance data.
+
+Cygnus  Software/Free  Software Foundation,  July  1996  to September  1996
+
+     Debugging and enhancement of the exception subsystem of the GNU
+     C++ compiler. Added pre-RTTI polymorphic catches to the code.
+     This involved extensive assembly debugging under Linux, AIX, and
+     Solaris.
+
+Intecom Inc., September 1994 to September 1996
+
+     Staff Engineer responsible for the architecture of a system used
+     to distribute management, event notifications, and services of a
+     PBX. Rumbaugh's OMT was used to design the system which was
+     implemented in C++. Target platforms included RS/6000, Linux,
+     Windows NT, and OS/2 and each server was required to function
+     using TCP/IP, SNA, and OSI protocols. This was used for several
+     projects: an ANI routing service, CSTA emulation, ACD monitoring,
+     and compatibility between various versions of the PBX's
+     proprietary protocol. The design also included a database layer
+     that provided uniform access to a heterogeneous environment of
+     D-ISAM, C-Tree, in-memory, SQL, and PBX tables through a subset
+     of SQL3.
+
+DSC   Communications    Corporation,   June   1994    to   September   1994
+
+     Created an event management system used to coordinate the user
+     interfaces of a large service management system based on TCL,
+     Motif, and CORBA.
+
+Oryx Energy Company, February 1991 to June 1994
+
+     Responsibilities included programming assignments and training
+     Oryx staff concerning all levels of UNIX from network programming
+     to user interfaces in Motif. Projects included several
+     geophysical applications, a GUI for printing and plotting
+     facilities, X11 server debugging, and dozens of utilities
+     designed to meet specific internal needs. All projects were
+     required to execute under SunOS 4.1, Solaris 2, AIX, and IRIX.
+
+     Acted on a team which administered an intranet composed of over
+     200 NCD, Sun, IBM, SGI, and windows workstations as well as a
+     Cray super-computer and an Amdahl mainframe. Used early versions
+     of the NCSA web server and Mosaic to distribute support
+     information and obtain feedback from the Oryx user community.
+
+GTE, January 1991 to February 1991
+
+     Created a report generation mechanism in SQL and C for a large
+     tariff cataloging system.
+
+Mobil Design  and Research  Laboratory Corporation, March  1990 to December
+1990
+
+     Designed and developed a geophysical application. This included a
+     user interface in X/Motif, inter-language and process
+     communication, file handling scheme, speed optimized data
+     structures, digitizing board and plotter interfaces, and a
+     graphical editor for seismic data.
+
+Electrocom   Automation,   Inc.,    September   1990   to   December   1990
+
+     Designed and developed an embedded diagnostics package for a
+     HD64180 based mobile computer terminal.
+
+Tarrant County Junior College, March 1990 to April 1990
+
+     Taught various continuing education courses for the computer
+     science department.
+
+University   of   Texas   at   Arlington,   May   1985   to   August   1989
+
+     Designed and implemented a tracking system to maintain statistics
+     on the usage of the science department's supplemental materials
+     library. The finished product allowed multiple check-out stations
+     distributed over an Appleshare network.
+
+Interface   Development    Group,   January   1988    to   September   1988
+
+     Assisted in a port of Quick C to HP UNIX.
+
+Softkey Publishing, May 1984 to August 1985
+
+     Free-lance writer for a journal specializing in software and
+     hardware schemes used to prevent software piracy.
+
+TPC Designs, January 1980 to September 1984
+
+     Assistant to a petroleum engineer. Responsibilities included
+     maintaining several Apple II and IBM PC computers as well as
+     writing software in PASCAL and assembly.
+
+                                 Education
+
+University of Texas at Arlington
+
+     Bachelor of Science, Math and Computer Science. Emphases were
+     artificial intelligence, database constructs, and numerical
+     analysis.
+
+Golden Gate Seminary
+
+     Post-graduate work in counseling. Emphases were on the use of
+     group therapy to identify and resolve interpersonal conflicts
+     within familial and other domestic groups.

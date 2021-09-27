@@ -1,0 +1,46 @@
+First Name: Thomas
+Middle Name: M
+Last Name: Bernal
+Email: thomas@bernal.com
+Number: 1015
+Street:	Marlin Lakes
+Road:        Circle
+Room:        725
+City:        Sarasota
+State:       FL
+Zip:         34237
+Zip suffix:  5980
+Home phone:  941 362 0818
+Date: May 1994
+School Name: University of Puerto Rico
+School Location: Ponce, Puerto Rico
+Degree: Bachelor Degree
+Major: Computer Science
+Date: April 1992
+School Name:    
+School Location: Bayamon, Puerto Rico
+Date: May 1998 to Present
+Company: Computer Associates, Inc
+Position: Customer Support
+Location: Sarasota, Florida
+Date: November 1997 to May 1998
+Company: Infresco Corp
+Position: Programmer/Analyst
+Location: Sarasota, Florida
+Date: July 1997 to October 1997
+Company: Decision Consultants, Inc
+Position: Information Systems Consultant
+Location: Tampa, Florida
+Date: March 1994 to June 1997
+Company: MEGAsoft, Inc
+Position: Systems Analyst/Programmer
+Location: Orlando, Florida
+Date: June 1991 to December 1993
+Company: The MicroComputer Store of P.R
+Position: Salesperson
+Location: San Juan, Puerto Rico
+Date: March 1990 to July 1990
+Company: Guzco Guarantee Corporation
+Position: Systems Analyst
+Location: Bayamon, Puerto Rico
+

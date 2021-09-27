@@ -1,0 +1,167 @@
+ Torrey L. Maggard
+ [Image]Objective
+ [Image]Summary of Qualifications
+ [Image]Education
+ [Image]Computer Skills
+ [Image]Honors and Awards
+ [Image]Experience
+ [Image]Affiliations
+ [Image]MS Word 6.0 Version of this résumé
+
+ [Image]
+
+ Objective
+ A demanding position in database design, analysis, and administration.
+
+ Back to top
+
+ [Image]
+
+ Summary of Qualifications
+ An established record of success in proficiently designing and administering complex
+ relational databases. Strong analytical skills ensure well-designed applications
+ that are easy to use and greatly enhance management's ability to model business
+ processes and procedures. Extensive experience in resolving Year 2000 (Y2K) issues.
+ Highlights of abilities and accomplishments:
+
+    * Effectively communicate technical information to end-users.
+    * Excel at leading meetings with upper level management.
+    * Exceptional listening, assessment, and persuasive skills.
+    * Performed conversion for 23 years of data - 1.2 million records - with 98%
+      success.
+    * Heavily involved in Y2K engineering efforts and preventing future catastrophic
+      software failures.
+    * Performed short notice Y2K assessments of the Pilot Candidate Selection Method
+      and Forms Management Information System.
+    * Discovered an error in Y2K solution posted by Oracle Corporation for the
+      Structured Query Language. Designed a new Y2K solution for Oracle.
+    * Successfully completed the task of restructuring Defense English Language Y2K
+      database issues - in less than three months.
+    * Currently hold a SSBI (Single Scope Background Investigation) Top Secret
+      Security Clearance.
+    * Cited for being a "phenomenal performer" with an "outstanding work ethic."
+
+ Back to top
+
+ [Image]
+
+ Education
+ BACHELOR OF SCIENCE IN ELECTRICAL ENGINEERING, 1997
+ University of Texas at San Antonio, San Antonio, Texas
+
+ Back to top
+
+ [Image]
+
+ Computer Skills
+    * Oracle 7.0/7.3                            * Win95
+    * Developer 2000                            * NT 4.0
+    * SQL/PL-SQL/SQL*Plus                       * Access
+    * Oracle Forms/Reports                      * Visual Basic
+    * Powerbuilder                              * Microsoft SQL Server
+    * C / C++                                   * Sybase
+    * DOS                                       * Open Look (Unix Windows
+    * Unix                                        Environment)
+                                                * Assembler
+
+ Back to top
+
+ [Image]
+
+ Honors and Awards
+
+    * Dean's List, UTSA, 1995, 1996, 1997.
+    * Selected to Who's Who in American Colleges and Universities, 1996.
+    * NASA Tech Brief Certificate of Recognition, 1997.
+    * Achievement Medal, USAF, 1996, 1998.
+    * Good Conduct Medal, USAF, 1995.
+
+ Back to top
+
+ [Image]
+
+ Experience
+
+ Renaissance Worldwide, Inc. Orlando, Florida
+ ORACLE SOFTWARE ENGINEER CONSULTANT 5/1998 - present
+
+ Developed and implemented an Oracle 7.3 company-wide automated payroll application,
+ internal time and billing system, and executive loan tracking system for a major
+ real estate investment firm. Worked with non-technical users to transform conceptual
+ ideas into application reality.
+* Eliminated nearly all payroll processing time and increased payroll accuracy by
+ eliminating manual processing of timesheets.
+* Provided and maintained Oracle connectivity to 400+ users for their first ever
+ company-wide application.
+* Provided automated tracking and distribution of internal billing activities,
+ reducing overhead required by manual processing.
+
+ United States Air Force, Randolph AFB, Texas 1992 - 5/1998
+ PROGRAM MANAGER 1997 - present
+ SOFTWARE ENGINEER 1994 - 5/1998
+ DATABASE ADMINISTRATOR 1995 - 5/1998
+
+ Manage the design, development, implementation, maintenance, and follow-on support
+ for the Defense English Language Management Information System (DELMIS). Work with
+ non-technical users to assess their requirements, and provide direction,
+ coordination, clarification, and advice to end users and middle management. Perform
+ project analysis to determine technical requirements. Prepare overall
+ recommendations, including funding and time phasing estimates, and planning project
+ workloads, setting priorities, and developing resource requirement estimates.
+ Coordinate database development/changes and assign tasks to team members. Brief
+ upper management on status of project and make recommendations for future direction
+ and use of emerging technology.
+
+    * Managed and assisted in the development of an application generating financial
+      models for allocation of $1.4 billion in training funds from the USAF to
+      individual bases.
+    * Maintain liaison with the Defense Language Institute to troubleshoot problems
+      as they arise.
+    * Successfully completed the entire release and implementation of DELMIS.
+      Converted 1.2 million records from legacy Sperry system to Oracle with 98%
+      success.
+    * Established and maintained network connectivity for 50+ users on an Oracle 7.0
+      database often used to provide information to Congress.
+
+ Process Networks Plus, Inc. Austin, Texas
+ DATABASE ADMINISTRATOR/DEVELOPER 5/1997 - present
+
+ Developed and implemented Relational Database Management System to enable customers
+ timely retrievals of critical information used for business decisions.
+
+    * Designed Access 97 database to track hardware and maintenance requirements at
+      industrial plants. Adopted as a standardized system worldwide by
+      Fisher-Rosemount.
+    * Developed database for tracking high-speed outputs from industrial controllers.
+
+ NASA, Kennedy Space Center, Florida
+ CO-OP ELECTRICAL ENGINEER 1989 - 1992
+
+ Assisted Electrical Engineers to insure functionality of ground-based Shuttle
+ Support Equipment. Wrote a C program that automated a manual task of producing
+ simulated shuttle telemetry; reduced task from three hours to 30 seconds,
+ effectively saving more than 155 man hours, or almost 4 weeks each year. Assisted
+ with LAN installation used in data communication of a Payload Support Team.
+
+    * Eliminated a large error rate which was the result of outdated equipment with C
+      program - output used to program an EPROM chip.
+    * C program selected by NASA for internal patent.
+
+ Back to top
+
+ [Image]
+
+ Affiliations
+ Institute of Electrical and Electronic Engineers (IEEE), Member, 1995 - present.
+
+ Back to top
+
+ [Image]
+
+                If interested, please email me at maggard@bigfoot.com.
+
+                        Download MS Word version of my résumé.
+
+                                  Visit my homepage.
+
+                               Last Revised: 12 Nov 98

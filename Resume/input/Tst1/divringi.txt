@@ -1,0 +1,117 @@
+---------------------------------------------------------------------------
+
+         Murat Divringi  Bellevue, WA email: muratd@whitehot.com
+
+---------------------------------------------------------------------------
+
+ NOTE:  At the moment I am occupied  for the foreseeable future and am not
+                     soliciting any offers. Thanks...
+
+---------------------------------------------------------------------------
+
+Career Objective:
+
+To use my goal-oriented problem solving , technical leadership and
+management skills in a dynamic, growth-oriented software development
+environment.
+
+Summary of qualifications:
+
+Over fifteen years of systems software product design and development
+experience. Over seven years of hands-on technical management and program
+management experience in a pragmatic company environment. Respected by
+subordinates, peers and senior management as a strong and productive
+technical leader. Diverse background, experience ranging from designing
+technical product line strategies for networking products to designing and
+developing real-time operating systems allowing me to consider multiple
+facets of the issues while making day to day decisions.. Real-life tempered
+knowledge of technical product management, business planning, project
+management, operating system design, computer networks, real-time
+event-driven systems, object oriented / reusable design, distributed
+(client-server) applications design and implementation.
+
+Experience:
+
+WhiteHot Software Solutions, Bellevue, WA. April 95 - Current
+
+Principal. WhiteHot Software Solutions is a provider of software
+development management consulting services to organizations of various
+sizes and backgrounds.
+
+CacheFlow , Inc.  Redmond, WA. March 97 - Current
+
+Development Manager.  Responsibilities include various aspects of
+development, ranging from development and implementation of master test
+plans to design and implementation of value-added features in the
+high-performance proprietary HTTP accelerator product.
+
+Neda Communications, Inc.  Bellevue, WA. June  96 - Current
+
+Principal. Concentrate on the formation of Neda's various messaging
+products, ranging from developer toolkits to turnkey messaging servers.
+Manage the conception, prototyping and development of new connectivity
+solutions for computer networks. .
+
+InterConnections, Inc. (An Emulex Company) Bellevue, WA. Sep 87 - May 96
+
+Director, Engineering. Manage the conception, prototyping and development
+of new connectivity solutions for computer networks. Was a key contributor
+in the process of selling InterConnections, Inc. to Emulex, Inc. of Costa
+Mesa, Calif.
+
+Within the last few years, managed the technical development of the Emulex
+Entry into the Remote Access Server marketplace, creating a competitive
+product in less than one year elapsed time, from conception to FCS (First
+Customer Ship). The product has since been nominated as "innovative",
+"easiest to use" and "best buy" by the industry reviewers.
+
+Prior to Emulex acquisition, was the Technical Program Manager and Product
+Line Architect for InterConnections' Novell NetWare Value Added product
+line on VMS, Unix, NetWare, LanManager and MS­DOS/Windows platforms.
+Conducted technical marketing and feasibility research, designed and led
+the implementation/launching of several successful network connectivity
+products, which, to date, brought in several millions of dollars of
+revenue.
+
+Responsible for the product line architecture and technical strategy as
+well as providing strategic and technical guidance to the Marketing and
+Sales organizations within the company. Attend technical conferences,
+conduct interviews with large end users and system integrators, adjusting
+product design, packaging and licensing strategies as needed to better
+serve the customers' and company's needs. Regularly produce competitive
+self-analysis studies and internally publish the results to keep the
+company's products competitive in the long run. Conduct technical
+discussions and negotiations with strategic partners and vendors.
+
+Canberra Industries Inc. Meriden, CT. March 82- Aug 87
+
+Senior Software Engineer. Designed and led the implementation of several
+software systems, as well as hardware/software turnkey solution systems.
+Functioned as a Consulting Engineer for the various Software Engineering
+groups and the Marketing Department. Assisted the sales force as a
+pre-sales Technical Consultant, joining the Regional Sales Managers during
+their visits to various key customers. In the early days with the company,
+actively designed and developed several software packages, as well as
+preparing the documentation and performing internal training for the
+software. Designed and implemented and documented a complete Radioactive
+Material Management system which used the Ingres Relational Database
+management system for data management. Also designed and developed various
+VAX/VMS device drivers to drive the company's proprietary communications
+hardware.
+
+Education:
+
+Rensselaer Polytechnic Institute, Troy, NY. May 1986: M.S. degree in
+Computer Science: Software Systems Design.
+
+Bosphorus University, Istanbul, Turkey, July 1980: B.S. degree in
+Industrial Engineering.
+
+Other/Ongoing: Regular attendee of Interop, Comdex, various Microsoft and
+Novell Developers' Conferences.
+
+Personal Interests:
+
+Reading, individual sports. Member IEEE, ACM and Usenix.
+
+G-8729W

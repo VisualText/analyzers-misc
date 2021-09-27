@@ -1,0 +1,60 @@
+
+CONTACT:
+
+Contact Name: Emery Lapinski
+Title:    
+First Name: Emery
+Middle Name:    
+Last Name: Lapinski
+Suffix Name:    
+
+Number:      1333
+Street:      Thomas
+Road:        Ave
+Room:        22
+City:        San Diego
+State:       CA
+Zip:         92109
+Email:       ewl@panix.com
+Home phone:  619 270 1728
+
+EDUCATION:
+
+Date: Sep 89-May 92
+School Name: New York University  
+School Location: New York, NY
+Degree: B.A.
+Major: Computer Science   
+GPA: 3.5    
+
+
+Date: Sep 88-May 89
+School Name: Purdue University
+School Location: West Lafayette, IN
+
+EXPERIENCE:
+
+Date: Jan 97-Feb 99
+Company: Nicholas-Applegate Capital Management
+Location: San Diego, CA
+
+Date: Dec 95-Dec 96
+Company: General Instrument
+Location: San Diego, CA
+
+Date: May 95-Nov 95
+Company: GTE/TSI
+Location: Tampa, FL
+
+Date: May 94-Mar 95
+Company: Morgan Guaranty Trust Company
+Location: New York, NY
+
+Date: Apr 93-May 94
+Company: Fuji Capital Markets Corp
+Location: New York, NY
+
+Date: Jul 92-Mar 93
+Company: Loan Pricing Corp
+Location: New York, NY
+

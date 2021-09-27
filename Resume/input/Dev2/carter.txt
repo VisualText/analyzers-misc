@@ -1,0 +1,100 @@
+                                 Resume of
+                             Benjamin F. Carter
+
+                 Contact by email: bfcarter@cs.stanford.edu
+                       Last updated on June 01, 1999
+
+Goal
+
+   To work in an environment that will prepare me for a post-college
+   career.
+   I am currently looking for a position or internship for the summer of
+   2000.
+
+Education
+Click here for a list of my current classes.
+
+  Institution                                         Date
+  Stanford University (www.stanford.edu)              1996 - present
+  Expecting a BS degree in computer science in June,
+  2000.
+  Brentwood School (www.bwscampus.com)                1990 - 1996
+  Junior High & High School. Graduated on the Dean's
+  List with honors in Computer Science, English,
+  French, Math, and Physics.
+  Redeemer Baptist Elementary School                  1984 - 1990
+  Graduated as Valedictorian
+
+Work Experience
+Contact information for each of these positions can be provided via email.
+
+  Position                                            Date
+  Microsoft Corporation (www.microsoft.com)           Summer 1999
+  This summer, I will be working on a component of
+  Internet Explorer.
+  Electronic Arts (www.ea.com)                        Summer 1998
+  I was on the programming team for March Madness '99
+  (PlayStation). Work covered most aspects of
+  computer game programming.
+  Nucleus Interactive (www.atomic3d.com)              Summer 1997
+  Work consisted of writing a few Windows 95/NT 4.0
+  applications in C++, using MFC. Most work was
+  concentrated on redesigning the web site and
+  writing CGI/Perl scripts for it.
+  Brentwood School (www.bwscampus.com)                Summer 1997
+  Work consisted of writing a Windows 95/NT 4.0 suite
+  of applications known as Talon. Talon consisted of
+  a school schedule, network news, and workstation
+  update tool. Work also consisted of upgrading
+  Windows 95 and Macintosh workstations with new
+  hardware, such as CD-ROM drives, sound cards, and
+  RAM.
+  Brentwood School (www.bwscampus.com)                Summer 1996
+  Work consisted of installing 34 multimedia
+  computers for all classrooms with Internet and
+  Intranet connectivity; programming school utilities
+  for scheduling, news, and security; setting up user
+  profiles in Windows; and achieving cohesion between
+  several NetWare servers.
+  XXCAL, Inc. (www.xxcal.com)                         Summer 1995
+  Work consisted of testing multimedia software on
+  several PC and Mac platforms.
+  UCLA Mathematics, Dept. (www.math.ucla.edu)         Summer 1994
+  Worked consisted of setting up a PC computer lab
+  and working with Ethernet.
+
+Computer Languages
+
+   C/C++
+   Extensive use of the Microsoft Foundation Classes. Wrote several
+   freeware applications, including an award-winning screen saver.
+   Java
+   Wrote several applets, including a text fading applet and a small game.
+   See my Java page.
+   Pascal
+   Created a graphical computer game, The Fate of Magic, entirely in
+   Pascal.
+   HTML
+   Witness my homepage.
+
+Interests
+
+   3D Computer Graphics
+   In 1996, I used 3D Studio to create a 10 minute movie called Disunity.
+   For this web page, I created the rotating symbol and the opening logo
+   with 3D Studio MAX.
+   Computer Games
+   I've been playing computer games for over a decade. I wrote The Fate of
+   Magic, and I worked on the EA Sports title March Madness '99.
+   Music
+   I've played the piano for over 12 years and have begun to compose music
+   of my own. Click here for a sample.
+---------------------------------------------------------------------------
+
+Related Links:
+Classes
+Freeware
+AVI Screen Saver
+Hobbies
+
+[Return Home] Return Home

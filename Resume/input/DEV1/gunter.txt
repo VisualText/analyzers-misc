@@ -1,0 +1,134 @@
+Well, guess what!  I took the plunge.  I am now a full-time GlaxoWellcome
+employee.  So, needless to say, I am off the market.  Two years of
+traveling has been a real adventure!  But, time to settle down for a
+while.  Please no phone calls, although I will accept emails.
+
+JAMES WESLEY GUNTER
+416 Quartz Drive
+Durham, NC 27703
+Email: jgunter@mindspring.com
+_____________________________________________________________________________________________
+
+Business Experience
+
+GlaxoWellcome- System Analyst - HMD/IS Division -- May 1999 - Present
+Responsible for the systems list below.  Head of QA Team, member of
+department infrastructure group, project lead on system conversion, contact
+person for job scheduling.
+Programmer/Analyst II - HMD/IS Division -- February 1998 - May 1999
+Same position, more responsibility! Currently developer on 3 different
+projects and contact for departmental infrastructure concerns. Responsible
+for SQA administration for all 3 projects.
+
+Alltech Systems – Powerbuilder Consultant -- March 1997 through February
+1998
+Client- GlaxoWellcome- HMD/IS Division- Customization of a
+Powerbuilder/Oracle based  third party Contract and Rebate System based on
+business requirements. System contains over 1600 objects. Development of
+methodology for change control.  Promoted and pushed for SQA as a
+department wide solution to defect tracking/management. Mentoring and
+teaching of Powerbuilder and SQA, as well as client server solutions.
+Developed several in house applications, including one to  automatically
+generate Metadata from Powerbuilder source code.
+
+SCB Computer Technologies – Powerbuilder Consultant -- September 1996
+through February 1997
+Client- USA Administrations- Modifications and fixes to their
+Sybase/Powerbuilder financial system. System was used to process and track
+mutual funds. Majority of the work was Sybase stored procedures. System
+contained over 1000 stored procedures.
+
+Client- State of Arkansas Division of Child Services- Converting
+aPowerbuilder based Child Welfare System, developed by Oklahoma, to the
+needs and regulation of Arkansas. This system will be used state wide. It
+has an Oracle back-end, as well as mainframe data access. This is a very
+large system, with programmers responsible for changes to over 500 windows,
+700 datawindows, and 350 functions. Leading an effort to integrate SQA into
+the change management workflow. Using SQA Manager to track change requests
+in the system, and SQA Robot to record new bugs from the field as needed.
+
+Acquion, Inc. – Powerbuilder Consultant -- February 1996 through August
+1996
+Responsible for the conversion, upgrade, and implementation of Acquion's
+Powerbuilderbased Catalog Search Tool for each new customer. The Catalog
+Search Tool is a commercial product that accesses the buyer's database (any
+database) for purchase order information, and then allows buyers to search
+their supplier's catalogs at Acquion, via dial-up, or other type of,
+connections. This information is used by the system to price the purchase
+orders. Aid in the maintenance and modifications of other Powerbuilder
+based commercial products that links together many companies and allows for
+speedy processing of purchase orders.
+
+Independent Contracts -- August 1995 through January 1996
+Set up small business computer systems, consulted with them on their needs
+and wants, aided in purchasing of software and hardware, completed initial
+setup, performed data conversions (if needed), designed system and setup
+(if needed), and programming (if needed). Used Powerbuilder, MS Access, MS
+Works, and other software as needed.
+
+Graniteville Company -- Programmer -- June 1994 through July 1995
+Programmed, debugged, and maintained the company's Powerbuilder based Order
+Entry, Invoice Entry, Inventory Entry, and Mainframe Exporting systems,
+each handled by Sybase DBMS. Assisted analyst in determining what had to be
+done to implement a change to the system, and possible repercussions on
+that system and the other three systems.
+
+University of South Carolina at Aiken Computer Services Division-- Student
+Operator and Office Assistant -- August 1989 through May 1994
+Jobs involved assisting students and faculty in many computer related
+topics, but main function was a help desk for applications, programming ,
+troubleshooting, and malfunctions. Assisted in the processing of
+hardware/software ordering, inventorying of incoming software, receiving of
+departmental orders, and general upkeep of computer rooms. Assisted in
+assembling of new computer on campus, as well as installing of new
+software.
+
+Computer Related Experience
+
+   * Strong Powerbuilder background with strengths in debugging,
+     troubleshooting, initial programming, and maintenance of existing
+     code. Extremely skilled in "quick fixes" under pressure. Experienced
+     with custom made class-libraries and commercial libraries, including
+     PFC and ObjectStart. Experience in Powerbuilder 3-7.
+   * Extremely skilled in workflow design to enhance the develepement cycle
+     using SQA Manager.
+   * Skilled in QA processing and enforcement of standards and methologies.
+   * Involved in database activities of Oracle and Sybase SQL-Server, which
+     included programming of stored procedures, triggers, and rules, as
+     well as creation of tables. Have used Watcom and MS Access. Presently
+     using Oracle 7.3and Sybase, as well as other ODBC compliant databases.
+   * Extensive file management experience, as well file transfer/conversion
+     from one base system to another (PC to OS/2 to Unisys).
+   * Able to program in many languages, including Powerbuilder, Pascal,
+     PL/I, FORTRAN, HTML, VBA, C, and others. Listed in order of skill.
+   * Can read and trace through code in most languages given the syntax and
+     structure of the language, including COBOL.
+   * Application experiences includes, but not limited to, MS Word, MS
+     Excel, MS Access, Eastman-Kodak Workfolder for Exchange, MS Works,
+     Quattro Pro, Lotus 123, Netscape Navigator, WordStar, cc:Mail, Eudora,
+     Lotus Notes, and many others.
+   * Knowledge of hardware installation is vast: ranging from conversions,
+     upgrades, and repairs of original IBM PCs and XTs through upgrade of
+     486 and Pentiums.
+   * Skilled in technical writing of computer related topics.
+
+Higher Education
+
+Bachelor of Science with a Major in Math and Computer Science from the
+University of South Carolina at Aiken -August 1989 through May 1994
+Course work in math spanned Advanced Calculus to Vector Analysis. Computer
+topics covered Algorithmic Design through Database Management.
+
+Additional Achievements and Classes Completed
+
+   * Successfully completed Using Powerbuilder presented by The Computer
+     Group, August 23-26, 1994
+   * Completed first test in the Certified Powerbuilder Developer (CPD)
+     program
+   * Attended 1998 Powersoft Conference, took Fast Track to Web Site
+     Development with PowerSite and Distributed Powerbuilder Fundamentals
+
+Return to Home Page
+
+
+[Image]

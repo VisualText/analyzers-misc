@@ -1,0 +1,55 @@
+
+CONTACT:
+
+Contact Name: MICHAEL MOCIOIU
+First Name: MICHAEL
+Last Name: MOCIOIU
+
+Number:      822
+Street:      Roselawn
+Road:        Avenue
+Room:        305
+City:        Toronto
+State:       Ontario
+Zip:         M6B 1B4
+Home phone:  416 783 2034
+Email:       dmocioiu@sprint.ca
+
+EDUCATION:
+
+Date: 1996-1997
+School Name: CDI College of Business and Technology   
+School Location: Toronto, Ontario
+Degree: Diploma
+Major: Programmer Analyst   
+
+Date: 1988-1993
+School Name: Technical University Timisoara
+School Location: Romania
+Degree: Master of Science
+Major: Engineering
+Minor:    
+GPA:    
+
+Date: 1983-1987
+School Name: Computers High School
+School Location: Timisoara, Romania
+Degree: Certificate
+Major: Computer Operator and Programmer Analyst  
+
+EXPERIENCE:
+
+Date: January 1999 - present
+Position: Software Developer
+Location: Oakville, Ontario
+
+Date: June 1998 - December 1998
+Company: Rogers Shared Services
+Position: Software Developer
+Location: Markham, Ontario
+
+Date: 1997 - June 1998
+Company: NTG International Inc
+Position: Software Developer
+Location: Markham, Ontario
+

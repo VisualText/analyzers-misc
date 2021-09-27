@@ -1,0 +1,113 @@
+                      Resume for B. D. "BECK" BEYKPOUR
+
+                              (831) 438-6311         Microsoft Word version
+                         E-mail: beck@dataforce.com
+           Current Address:                      Mailing Address:
+           47 Appaloosa Court                    P.O. Box 67425
+           Scotts Valley, CA 95066               Scotts Valley, CA 95067
+                                 Objective
+ To satisfy the demand for leading edge technology in the merging software
+                       and communications industries.
+                               Qualifications
+    * Twelve years of professional experience in both commercial and custom
+      software development.
+    * Currently proficient in Microsoft Windows (9 years) development using
+      C/C++ (11 years).
+    * Recent focus on Internet standards, network protocols, and
+      client/server.
+    * Capable web developer on the client side using Java, JavaScript,
+      VBScript, FrontPage, HTML.
+    * Also adept at web server development using Microsoft ISAP, IDC, ASP,
+      Index Server, or Java.
+    * Use of Microsoft development tools, e.g. VC++, MFC, ActiveX, OLE,
+      ODBC, profiler, Visual Basic.
+    * Can setup and administer Microsoft IIS (Internet Server), Index
+      Server, Windows NT, Windows 95.
+    * Also familiar with UNIX, NetWare NLMs, SQL, dBASE, x86 assembly,
+      Pascal, and YACC/LEX.
+    * Eighteen years of personal involvement in programming and using
+      microcomputers.
+                                 Experience
+ DATAFORCE DEVELOPMENT CORPORATION
+ Founder/President
+ -September 1991 until Present in Scotts Valley, CA
+ Contract software development to various clients, including Mpath
+ Interactive, CERFnet, Borland, Informix, Fujitsu, and Thuridion. Projects
+ have involved architectural reviews, performance analysis, competitive
+ feature analysis, and platform portability of large existing code bases
+ for shipping software products. Development environments have focused on
+ using Microsoft C/C++, MFC, Java, ActiveX, and OLE controls for Windows
+ 95, Windows NT, the World Wide Web, and the Internet.
+ Most Recent Contract: Mpath Interactive, Inc.
+ -April 1995 until July 1997 in Mountain View, CA
+ Designed and implemented the Windows 95 client application for Mplayer--an
+ Internet multi-user gaming service. Developed the user sign-up wizard and
+ user account management property pages using MFC. Created OCX (ActiveX)
+ controls for voice communications, shared white board, and user profiles
+ using MFC. Involved in designing other aspects of the client application.
+
+ ROYKORE, INC. (acquired by Micrografx Corporation)
+ Project Leader/Engineering Manager
+ -January 1990 until September 1991 in San Francisco, CA
+ Lead a team of three programmers in the design, implementation, and
+ testing of a horizontal-market application for organizational charts:
+ Instant ORGcharting!. Also supervised other engineering efforts, including
+ improving, maintaining, and managing technical support for an existing
+ product: ABC Flowcharter. Both applications ran under Microsoft Windows
+ 3.0 and were developed using Microsoft C 6.0 under DOS. Instant
+ ORGcharting! implemented features new to Windows, such as combo boxes,
+ device independent bitmaps, extended device mode, and context sensitive
+ help. Both commercial products were marketed through software distributors
+ and major resellers. Flowcharter is currently one of Micrografx’s most
+ successful programs.
+
+ ABSOLUTE COMPUTER SERVICES, INC.
+ Applications programmer/developer
+ -April 1988 until January 1990 in Richardson, TX
+ Sole developer responsible for design and coding of vertical-market
+ applications: The Traffic Engineer, long-distance telecommunications
+ traffic analysis, and VENIS, vending machine income management. Both
+ applications run under DOS and were developed using MS C 5.1 and Clipper
+ compiled dBASE. Both have proven to be viable commercial products.
+ Consultant/programmer
+ -January 1987 to April 1988 in Dallas, TX
+ Involved in over twenty software/hardware installations requiring
+ development, training, and support. Managed custom programming projects in
+ accounting, marketing, operations, and telecommunications for IBM PC and
+ compatibles. Example applications include lead tracking, inventory and
+ invoicing, accounts receivable, equipment maintenance, and insurance claim
+ reimbursement. Programmed in Clipper/dBASE and C. NOVELL NetWare LAN
+ installation, setup, supervision, and remote software support.
+
+ CHAMPLIN PETROLEUM COMPANY (renamed Union Pacific Resources)
+ Engineering Assistant & Roustabout
+ -Summers of ’85, ’84, ’83 in Englewood, CO, Broomfield, CO, & Rock
+ Springs, WY
+ Initiated project and programmed database for downloading well information
+ from company mainframe to IBM AT. Compiled data on well locations and
+ potential oil spills and pollution. Operated and maintained oil well
+ pumping units and worked in a gas plant.
+                                 Education
+ MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+ Bachelor of Science in Chemistry
+ -May 1986 in Cambridge, MA
+ Emphasis in organic and physical chemistry. Minor concentration in
+ economics. Electives include classes in computer programming, differential
+ equations, patent and copyright law, political science, and literature.
+ Degree completed in 3 years. Grade point average: 4.4/5.0.
+
+ MIT SLOAN SCHOOL OF MANAGEMENT
+ Classes in Masters Program
+ -September 1985 to May 1986 in Cambridge, MA
+ Courses include economics, statistics, accounting, and organizational
+ behavior.
+                                Associations
+
+             Microsoft Certified Professional (MCP since 1996)
+ Member IEEE Member ACMAssociation for Software Design Software Forum (SEF)
+
+                             Personal Interests
+ Enjoys hiking, reading literature, and snow skiing. Other hobbies include
+ music and photography. VFR private pilot since 1985. Some IFR instrument
+ training.
+                     References available upon request

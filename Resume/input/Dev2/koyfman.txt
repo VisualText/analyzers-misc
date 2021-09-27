@@ -1,0 +1,67 @@
+                              Michael Koyfman
+                           1865 D Tanglewood Dr.
+                             Glenview, IL 60025
+                               (847)729-7629
+                               comp@iname.com
+
+---------------------------------------------------------------------------
+
+EDUCATION:
+
+9/93-6/97       Bachelor of Science in Computer Science
+                Northwestern University, Evanston.
+
+PROFESSIONAL EXPERIENCE
+
+6/96-9/96   Software Engineer, Motorola Inc., Arlington Heights, IL.
+6/97-present
+
+               * Developing next-generation Intranet with
+                 document-management and workflow capabilities based on
+                 Livelink system from OpenText.
+               * Used JavaScript/LiveWire/SQL to create Web-based
+                 applications that interface with Oracle database.
+               * Administration of Netscape Enterprise Web and Directory
+                 servers.
+               * Developed script to monitor and responsible for monitoring
+                 of the Solaris and NT servers.
+
+9/95-6/97   Sr. Residential Networking Consultant, Northwestern University,
+            Evanston, IL.
+
+               * Supervised 10 Residential Networking Consultants.
+               * Troubleshot various network problems in residence halls.
+               * Prepared and conducted training sessions for new
+                 consultants.
+
+6/95-9/95   Computer Science Intern, Peoples Gas Light & Coke Company,
+            Chicago, IL.
+
+               * Developed gas odorization analysis database using
+                 Microsoft Access.
+               * Made significant improvements to the communication program
+                 used to gather gas flow data from remote stations(ported
+                 to different set of communication utilities, added the
+                 ability to write data to remote computers using industry
+                 standard MODBUS protocol).
+               * Troubleshot and maintained departmental computers running
+                 DOS/Windows and OS/2 Warp.
+
+6/94-9/94   Systems Support Specialist, Shure Brothers Inc., Evanston, IL.
+
+               * Upgraded, configured and maintained IBM-compatible
+                 computers.
+               * Maintained Novell network clients and physical connections
+                 on user machines.
+               * Recommended and approved various hardware and software
+                 purchases.
+
+COMPUTER SKILLS
+
+     - Proficient in C/C++, Perl, Lisp, SQL, JavaScript programming
+     languages, Windows NT 4.0 Server/Workstation administration, Windows
+     95, OS/2, and UNIX(HP-UX, SunOS, Solaris 2.5, Linux) operating
+     systems, UNIX systems administration, Netscape server administration,
+     Livelink Intranet, all MS Office applications, Internet resources,
+     HTML, CGI scripting, LDAP, TCP/IP and Netware networks. Experience
+     with IBM PC assembly language, Java, Oracle DBA.

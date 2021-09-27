@@ -1,0 +1,88 @@
+                                Brent Biggs
+                   1119 Longshore Dr., San Jose, CA 95128
+     (408) 283-0605 – http://www.aimnet.com/~bbiggs – bbiggs@aimnet.com
+
+                                  [Image]
+
+       Career Objective: A career in software design with a sense of
+                     responsibility and accomplishment,
+      preferably in the South San Francisco Bay Area (Silicon Valley).
+
+                                  [Image]
+
+                              Formal Education
+
+ [Image]  UC Santa Cruz, Extension – Professional Certificate in Object
+          Oriented Programming – Pending
+ [Image]  Santa Clara University – Bachelor of Science in Mechanical
+          Engineering
+ [Image]  Riverside Community College – Associates of Science and
+          Certificate in Mechanical Drafting (CAD Emphasis)
+
+                              Work Experience
+
+    Mass Properties Engineer, Lockheed Martin Missiles and Space, 8/97 -
+                                  present
+
+ [Image]  Perform critical mass and center of gravity measurements on
+          satellites, including volatile fueling stage.
+ [Image]  Build and maintain proprietary databases for several commercial
+          communications satellites, a NASA/ESA optical atmospheric
+          payload, and a high-profile military ICBM early warning satellite
+          constellation.
+ [Image]  Develop computer tools, using Perl v.5, C++, C-shell scripts, and
+          Postscript to automate data manipulation and presentation.
+ [Image]  Possess DOD Secret Clearance, class 100 clean room certification,
+          and ESD certification.
+
+Physics Research Assistant, Department of Physics – Santa Clara University,
+                               3/95 - present
+
+ [Image]  Design and program automated data acquisition program interfacing
+          with a digital oscilloscope.
+ [Image]  Design and assemble cryogenic pumping and sensing assemblies.
+ [Image]  Study fundamentals of cryogenic subatomic physics, specifically
+          Dark Matter.
+
+          Plant Engineer, NASA Ames Research Center, 6/96 - 11/96
+
+ [Image]  Critically study statistical failure theory. Utilize IR
+          detectors, frequency analyzers, and statistical data in
+          conjunction with theory. Design and program a maintenance
+          suggestion tool using a statistical failure maintenance schedule.
+ [Image]  Study existing resource use and suggested cost-effective and
+          efficient alternatives. Several alternatives suggested include a
+          solar array power farm, a solar water heater, and low voltage
+          solar-powered street lighting.
+ [Image]  Perform water usage calculations and devise usage schedule for
+          non-metered buildings.
+
+ Network System Administrator, Pyramid Technology Corporation, 9/95 - 11/95
+
+ [Image]  Perform remote operating system installations and non-critical
+          system updates.
+ [Image]  Diagnose user problems related to account setup and usage.
+
+        Computer Systems Engineer, Elma Electronic Inc., 3/93 - 2/95
+
+ [Image]  Designed several computer systems, including Hughes Aircraft,
+          Lockheed, Evans and Sutherland, NASA, and McDonnell Douglas.
+ [Image]  Managed system development by way of customer interaction,
+          design, manufacturing, and quality control.
+ [Image]  Initiated solid modeling in design department.
+
+                            Leadership Positions
+
+President – Society of Automotive Engineers, Santa Clara University Chapter
+ | Team Leader – Formula SAE, Santa Clara University | Senator – Associated
+     Students of Santa Clara University | Member – American Society of
+ Mechanical Engineer | Member – Society of Allied Weight Engineers | Member
+   – Alpha Gamma Sigma Academic Honor Society | House Manager – Theta Chi
+                     Fraternity, Santa Clara University
+
+                         Applications and Standards
+
+Programs: Autodesk AutoCAD, Autodesk Designer, SDRC Ideas Master Series 6,
+Labview, Rational Rose, Microsoft Access
+Standards and Languages: UNIX, C, C++, UML, Java, Perl, HTML, Visual Basic,
+Postscript, SQL, ANSI/ASME Y14.5 1982

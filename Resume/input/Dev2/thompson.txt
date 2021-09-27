@@ -1,0 +1,162 @@
+David Andrew Thompson
+                                             Phone: (603) 860-0146
+                                             Email: thompd@guppi.org
+P.O. Box 1934                                WWW Page:
+Merrimack, NH 03054-1934                     http://www.guppi.org
+---------------------------------------------------------------------------
+  OBJECTIVE   A position involving Unix systems administration, computer
+
+              security and/or C, C++ or Java programming.
+   COMPUTER   Systems Administration Experience:
+     SKILLS   Solaris 2.4-2.7, IRIX 5.3-6.2, Digital Unix 4.0, HP/UX
+              10.20, UNICOS, Linux, BSD/OS 3.1-4.0, FreeBSD 2.2.6, OpenBSD
+              2.3, Trusted Solaris 2.5, Argus Pitbull 2.2 and Gibraltar
+              2.2, Wang STOP 4.4.3, Data General DG/UX 4.1, Windows NT
+              Server & Workstation 3.51-5.0
+
+              Programming Languages & Libraries:
+              C, C++, Perl, X/Motif, Tk/Tcl, Curses, Java, JavaScript,
+              shell scripting (bash, C shell, Bourne shell and Korn
+              shell), HTML, LaTeX, Fortran 77, Expect, Lisp, PostScript,
+              Forth, NFR N-code and Microsoft Visual Basic
+
+              Programming Environments and Tools:
+              SunSoft Workshop, Microsoft Developer Studio, Sniff+, make,
+              SCCS, RCS, CVS, and PureAtria Purify and PureLink
+
+              Database Experience:
+              Oracle8/8i Server (SQL*Plus and PL/SQL), Microsoft SQL
+              Server 6.5 & 7.0, MiniSQL 1.x & 2.x, MySQL and Microsoft
+              FoxPro
+  EDUCATION   Bachelor of Science, Chemistry
+              Rensselaer Polytechnic Institute, Troy, NY
+              Minor: Computer Science, Concentration: Philosophy
+              GPA: 3.0
+  COMPUTING   Systems Programmer (October 5, 1998-May 21, 1999)
+ EXPERIENCE   Mainstream Electronic Information Systems, Inc., Merrimack,
+              NH
+
+                 * Systems administration of internal BSD/OS, RedHat Linux
+                   and Solaris workstations, including software
+                   installation, administration and troubleshooting.
+                 * Database administration, including installation and
+                   administration of Oracle Server 8, MiniSQL and
+                   Microsoft SQL Server 6.5 & 7.0.
+                 * Help-desk style customer support, including web site
+                   maintenance and Unix and Windows systems administration
+                   support.
+                 * Perl CGI programming, including MiniSQL and Oracle
+                   database programming.
+                 * Installation and administration of firewall and TCP/IP
+                   filtering software.
+                 * Windows 95, Windows NT 4.0 & IIS 4.0 support and
+                   administration.
+                 * Established a basic security infrastructure for company
+                   Unix servers and for internal and external access to
+                   those servers.
+                 * Drafting of detailed technical documentation for
+                   product delivery to customers.
+
+              Network Security Engineer (May 18, 1998-September 22, 1998)
+              Network Security Technologies, Inc., Leesburg, VA
+
+                 * Development of Network Flight Recorder intrusion
+                   detection filters
+                 * Installation and administration of Solaris, FreeBSD,
+                   OpenBSD, SCO OpenServer and Windows 95, 98 & NT for
+                   internal workstations
+                 * Installation and administration of various trusted
+                   operating systems, including Trusted Solaris 2.5.1,
+                   Argus Gibraltar 2.2, Trusted DG/UX, and Wang STOP 4.4.3
+                 * Security evaluations of various trusted operating
+                   systems running on a variety of hardware platforms
+
+              Technical Staff (December 30, 1996-August 8, 1997)
+              Distributed Computing & System Engineering Group, NASA/Jet
+              Propulsion Laboratory, Pasadena, CA
+
+                 * Systems administration of various platforms including
+                   Solaris 2.x, SunOS 4.1, Digital Unix 4.0, HP/UX 10.20
+                   and Windows NT 4.0
+                 * AFS and DCE installation and administration
+                 * Light software development in C, C++, Perl and Java
+                   using SCCS in a controlled development environment
+                 * Creation of Solaris packages for future ease of
+                   administrative tasks
+                 * Setup of Sun JavaStation hardware and software
+                 * Light CDE administration
+                 * Prototyping and testing of various hardware and
+                   software packages
+                 * Setup and configuration of network hardware
+                 * Netscape FastTrack and Enterprise WWW server
+                   administration
+                 * Various levels of end-user support, including software
+                   and programming (including C, C++, Java, Perl and
+                   X/Motif) support
+
+              ACS Consultant (September 26, 1994-May 15, 1998)
+              Academic Computing Services, Rensselaer Polytechnic
+              Institute, Troy, NY
+
+                 * End-user support of a 600+ workstation distributed
+                   computing environment, including support for Solaris,
+                   AIX, IRIX, Windows 95 and Windows NT
+                 * Third-party software support for both Unix and PC
+                   platforms
+                 * Programming support (C, C++, Java, Fortran, Perl and
+                   Lisp)
+                 * Shell scripting and light C and Perl programming
+                 * Department WWW page maintenance
+      OTHER   Technical Editor (April 20, 1999-Present)
+  COMPUTING   MacMillan Publishing USA, Indianapolis, IN
+ EXPERIENCE
+                 * Performed technical editing duties for the Migrating to
+                   Oracle8i manuscript.
+
+              Teaching Assistant (January 1998-May 1998)
+              Department of Computer Science, Rensselaer Polytechnic
+              Institute, Troy, NY
+
+                 * Basic Unix and HTML support for Computer Science I
+                   students
+                 * C++ programming support for students
+                 * Grading of student assignments and projects
+
+              Programmer & Web Page Developer (April 1997-Present)
+              Gateway Equity & Loan Network, Canoga Park, CA
+
+                 * Development and maintenance of corporate Internet WWW
+                   pages
+                 * Extensive Perl, JavaScript and Unix shell scripting
+                 * Design, development and documentation of a
+                   user-friendly back-end administration utility for use
+                   by company management
+
+              Systems Administrator (May 1996-August 1996)
+              Department of Polymer Science, University of Southern
+              Mississippi, Hattiesburg, MS
+
+                 * Administered the Silicon Graphics machines for the
+                   Department of Polymer Science
+                 * Installation of the IRIX 6.2 operating system and IRIX
+                   IDO
+                 * Compilation and installation of various third-party
+                   software packages
+                 * Shell scripting and programming in C, C++, Java and
+                   Perl
+
+              Systems Administrator (December 1995-May 1998)
+              Department of Chemistry, Rensselaer Polytechnic Institute,
+              Troy, NY
+
+                 * Administered the Silicon Graphics Indigo2 for the
+                   Department of Chemistry
+                 * Installation of the IRIX 5.3 operating system and IRIX
+                   IDO
+                 * Compilation and installation of various third-party
+                   software packages
+                 * Light shell scripting and Perl programming
+---------------------------------------------------------------------------
+This page maintained by thompd@guppi.org
+Last modified on: Fri Jul 16 11:26:04 1999
+Access from 24.4.254.39 at Sat Jul 17 18:20:04 1999 logged.

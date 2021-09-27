@@ -1,0 +1,78 @@
+                                Yoonsang Koo
+
+                            Tel: 82-345-408-7934
+                          E-mail: yskoo@lgic.co.kr
+
+---------------------------------------------------------------------------
+
+   * Objective
+
+                    Embedded system programmer, Java programmer
+
+   * 　 Skills Summary :
+
+                        Languages - C, Assembly, Java, SQL, HTML
+                        Operating System - UNIX, NT, Embedded OS (VxWorks,
+STAROS)
+                        Firmware Development - Intel 8051, Motorola 68k,
+MPC860
+                        Database - Oracle
+                        * STAROS is a LGIC proprietary OS
+
+   * Employment :
+
+                        1/31/93 - LG Information & Communications
+
+   * Work experiences in projects
+
+        o Dec. 1997 to present : WLL(Wireless Local Loop)
+             + OS porting and writing device drivers on a WLL Base station
+               controller boards. (2 versions of board)
+             + 68030 board: ported STAROS, wrote device drivers for HDLC
+               chips, IPC*, PB* chips, wrote interrupt handlers for HDLC,
+               IPC*, PB* chips.
+                  + * IPC, PB is an ASIC made by LGIC.
+             + MPC860 board : porting VxWorks
+
+        o Jan. 1996 to Nov. 1997 : TRS System
+             + HDLC and backboard communication device drivers and Message
+               handling task programming for 68000 board for TRS main
+               controller-repeater communication.
+             + HLR (Home Location Registration) System Development.
+                  + Digital Unix System with Oracle 7.2 database.
+                  + Developed TRS controller-HLR system message handler
+                    using C, SQL, Pro*C.
+                  + Developed User interface with Netscape Webserver,
+                    CGI(C, Pro*C) JavaScript, HTML.
+
+        o 　Mar. 1994 to Dec. 1997 : DWPBX(Digital Wireless PBX) System
+             + Developed base station controller card, channel control card
+             + Intel 8051microcontroller. C/Assembly
+             + ISDN BRI, ADPCM
+             + Stanford Telecom¨s CDMA processor driver
+             + PBX-Base station message protocol design
+             + Base station message handler, channel card control task
+               programming
+     　
+        o Jan. 1993 to Feb. 1994 : Wireless PBX System (Analog)
+
+             + Base station control card development
+             + Message handling task programming
+                  + Intel 8051. C/Assembly
+             + PBX base station interface programming
+
+        o Other Experiences
+             + Windows NT Administration
+             + Motif programming
+
+   * Education
+        o 1991-1992 MS. in Electrical Engineering Korea Advanced Institute
+          of Technology, Korea
+        o 1987-1991 BS. in Electrical Engineering Korea Advanced Institute
+          of Technology, Korea
+
+   * 　 Technical Training
+        o Object Oriented Programming with C++, 1998 (2 weeks)
+        o Tornado(VxWorks) , 1998 (40 hrs)
+        o Oracle administration, 1996 (4weeks)
+        o UNIX Network programming, 1996 (40 hrs)

@@ -1,0 +1,17 @@
+MS Access
+MS BackOffice
+MS Excel
+MS FrontPage
+MS Internet Explorer
+MS ODBC
+MS Outlook
+MS PowerPoint
+MS Project
+MS SNA Server
+MS SQL Server
+MS VB
+MS Visual InterDev
+MS Visual Studio
+MS Windows NT
+MS Windows
+MS Word

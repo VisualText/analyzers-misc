@@ -1,0 +1,209 @@
+If you found this page, then you are probably looking for my resume.
+
+At this time, I am not looking for a job.
+
+Please be aware that my resume is provided here for my convenience, not
+yours. You do not have any rights with respect to the contents of my
+resume, except to view it. You may not make any electronic copies of it,
+for any purpose, including electronic indexing of the contents or adding it
+to your resume database, without my explicit permission.
+
+If you want to contact me, you may email me at otterson@mindspring.com.
+
+Do not telephone me.
+
+Thanks.
+---------------------------------------------------------------------------
+   This document may not be indexed in or added to any electronic resume
+                       database without permission.
+---------------------------------------------------------------------------
+                            Jeffrey B. Otterson
+                           3543 Tritt Springs Way
+                             Marietta, GA 30062
+                               (770) 565-4253
+                          otterson@mindspring.com
+
+SUMMARY:
+     Cross-platform/multi-platform, client-server software developer,
+     skilled in all phases of software development. Wide range of
+     experience developing software on a variety of platforms. Involved in
+     the successful development and deployment of large, complex software
+     projects for several Fortune 500 corporations.
+
+WORK EXPERIENCE:
+     January, 1998 - Present
+     The Home Depot
+     Chief Systems Engineer
+        o Design and develop Java-based Application for Employment and
+          related human-resources applications. This application was a
+          finalist in the 1998 Computerworld/Smithsonian Awards for
+          Business & Related Services. Perform object-oriented analysis and
+          design, write class descriptions, code and test applications.
+          Provide training on object-oriented design and analysis, and Java
+          programming to client company's IS personnel. Technologies in use
+          include Sun JDK 1.1.x, Swing 1.0.3, and Together/J.
+
+     June 1997 - December 1997
+     Staffing Technology, Inc., Atlanta GA
+     Consultant
+        o Contracted to The Home Depot, Inc. to design and develop
+          Java-based Application for Employment and related personnel
+          applications. Perform object-oriented analysis and design, write
+          class descriptions, code and test applications. Provide training
+          on object-oriented design and analysis, and Java programming to
+          client company's IS personnel. Technologies in use include Sun
+          JDK 1.1.3 and Rational Rose for Java.
+
+     February 1997 - June 1997
+     Security First Technologies, Atlanta, GA
+     Member of the Technical Staff
+        o Develop new applications, modify and maintain existing
+          applications, for World-Wide Web based Internet banking. These
+          applications include interactive HTML/CGI applications for user
+          interface and back-end batch processing for electronic bill
+          payment and funds transfer. Technologies in use include C++ on
+          HP-UX, HTML, and CGI scripting.
+
+     October 1994 - January 1997
+     Diversified Business Systems, Dunwoody, GA
+     Consultant
+
+        o Ported Windows NT CORBA application code to AIX 4.1, prepared
+          custom cross-platform software build environment, and developed
+          automated software testing applications in Java for Actamed
+          Development Corporation. Technology used included Java, Symantec
+          Cafe, Microsoft Developer Studio/Visual C++, IBM C++ set, and
+          Atria ClearCase.
+        o Designed and implemented client-server applications for Concert
+          Management Services on the following platforms: Microsoft Windows
+          3.11, NT 3.51, Sun Solaris/Motif and Digital OSF/1. Applications
+          included a GUI client to Concert's network management systems, an
+          icon-based map editor for design of network geography maps,
+          software installation and environment checking, real-time status
+          display and monitoring of network management system data
+          aqcuisition, and support applications. Technology included
+          Borland C++, Windows Sockets (winsock), OLE2, Nu-Mega's
+          BoundsChecker, Sun SparcWorks and Java.
+
+     July 1993 - October 1994
+     Daugherty Systems, Atlanta, GA
+     Software Development Specialist
+        o Contracted to Georgia-Pacific Corporation to design and develop a
+          mission-critical X-Window System based client/server system for
+          scheduling, pricing, availability, and order entry for structural
+          panels sales and manufacturing. Developed client, server, and
+          batch components for this system. Applications were coded in C,
+          SQL, and UIL using the X Window System Xlib and X Toolkit APIs.
+
+     May 1991 - July 1993
+     Digital Equipment Corporation, Nashua, NH
+     VMS System Software Group
+     Senior Software Engineer
+        o Team member porting OSF DCE to OpenVMS. Work involved converting
+          C language programs and build procedures from unix to OpenVMS
+          environment on both VAX and AXP platforms.
+        o Jointly authored OSF certified Motif compliant application,
+          DECwindows CD Player.
+        o C language software development and maintenance of VMS DECwindows
+          Motif user interface components (Login, Session Manager, and
+          Workstation Customization), using CASE tools, editor, compiler,
+          etc.
+        o Tested and maintained C program modules to improve
+          interoperability and internationalization.
+        o Ported DECwindows Motif applications to OpenVMS AXP.
+        o Project leader creating VMS DECwindows Motif Demo for trade
+          expositions.
+        o Company representative at Connectathon '92, annual multi-vendor X
+          Windows interoperability testing event.
+        o Project leader creating graphical user interface for VMS
+          factory-installed software startup.
+        o Led group's PC-to-VAX integration effort. Set up PATHWORKS
+          network software and other tools, including X Window System
+          servers, Microsoft Windows tools, and DESQview/X.
+        o Spearheaded PC/X Windows interoperability work.
+
+     January 1989 - May 1991
+     Digital Equipment Corporation, Nashua, NH
+     Customer Services Systems Engineering, VMS Corporate Support Group
+     Senior Information Systems Analyst
+        o Provided critical level disruption (CLD) corporate-level customer
+          support for critical problems with VMS DECwindows, VWS, and VMS
+          utilities, including problem reproduction, debugging, and
+          building repaired program modules.
+        o Coordinated corporate-level support for VMS security issues.
+        o Developed training "Using DECwindows" to department personnel.
+        o Received CSSE Recognition Award for coordination of computer lab
+          move.
+        o Provided system management for two VAXclusters: 50 user, 8-node
+          "production" and 12-node "test" cluster.
+        o Responsible for system upgrades and software installation, data
+          backups, and field service.
+        o Managed software testing laboratory environment.
+        o Increased cluster security and user's security awareness.
+
+     June 1983 - December 1988
+     Production Process, Londonderry, NH
+     Programmer/Analyst
+        o Developed and supported PC-based real-time manufacturing data
+          acquisition systems in Microsoft Quick BASIC and dBASE
+          III+/Clipper. These PC-network based client/server systems
+          communicated with on-machine monitors through a proprietary
+          network.
+        o Prepared software requirements, specifications, complete
+          documentation, installation, training, support and maintenance
+          for custom software for customers including: Johnson & Johnson,
+          S.C. Johnson and Son, Eastman Kodak, International Paper, and
+          AMF.
+        o Demonstrated and trained customers in their plants throughout the
+          United States and Mexico.
+
+ADDITIONAL EXPERIENCE:
+     Software:
+          Operating Systems:
+               MS-DOS, Windows 3.x, Windows 95, Windows NT, CP/M, VAX/VMS,
+               OpenVMS, RT-11, UNIX (AIX, Digital UNIX, HP-UX, Linux,
+               OSF/1, SunOs, Solaris, Ultrix).
+          Languages:
+               6809 Assembler, 68000 Assembler, PIC Assembler, BASIC, C,
+               C++, dBASE, HTML, Lisp, Java, Pascal, Smalltalk, Visual
+               Basic.
+          APIs:
+               CORBA, DCE, Motif, Win16, Win32, Winsock, X11, XUI.
+     Hardware:
+          Micro:
+               IBM PC Family and compatibles, Apple II.
+          Mini:
+               DEC PDP-8, PDP-11, VAX, Alpha AXP, IBM RS6000, HP 9000, Sun
+               SPARC.
+          Mainframe:
+               DEC VAX 9000, DEC 10000, CDC Cyber 172, IBM 370/158.
+
+EDUCATION:
+     BSCS, Southern Polytechnic State University, Marietta GA 1998.
+     Nominated to Who's Who Among Students in American Universities &
+     Colleges. Member of Alpha Alpha Chapter, Tau Alpha Pi National Honor
+     Society. 3.85 GPA (of 4.0).
+
+     ASGS, with High Honors, Daniel Webster College, Nashua NH 1993.
+
+INTERESTS:
+     Hold FCC Technician class Amateur Radio License, FCC Restricted
+     Radio-Telephone License. Hobbies include development of embedded
+     microprocessor devices and construction of radio apparatus.
+
+ARTICLES:
+     A $60 Programmable Talking Repeater Controller, QST Magazine,
+     February, 1997.
+     Build the NHRC-4 Linking Repeater Controller, 73 Amateur Radio Today
+     Magazine, September, 1998.
+
+---------------------------------------------------------------------------
+   This document may not be indexed in or added to any electronic resume
+                       database without permission.
+---------------------------------------------------------------------------
+Go back to Our Web Page
+---------------------------------------------------------------------------
+resume-jeff.html, 14 May 1999
+Copyright © 1995, 1996, 1997, 1998, 1999, Jeffrey B. Otterson, all rights
+reserved.
+Mail comments to otterson@mindspring.com

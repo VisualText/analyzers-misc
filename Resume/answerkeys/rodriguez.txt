@@ -1,0 +1,37 @@
+
+CONTACT:
+
+Contact Name: Benedicto Rodriguez
+First Name: Benedicto
+Last Name: Rodriguez
+Email:       brodrigu@students.miami.edu
+
+EDUCATION:
+
+Date: May 1999
+School Name: UNIVERSITY OF MIAMI
+School Location: MIAMI, FL
+Degree: Master of Science
+Major: Computer Engineering
+GPA: 3.64
+
+Date: August 1997
+School Name: UNIVERSITY OF GRANADA
+School Location: Granada, Spain
+Degree: Bachelor of Science
+Major: Computer Engineering
+
+EXPERIENCE:
+
+Date: August 96-Present
+Company: COLLEGE OF ENGINEERING
+Position: Teacher Assistant
+Location: Coral Gables, FL
+
+Date: September 94-May 96
+Company: HEWLETT-PACKARD
+Position: Software Engineer Intern
+Location: Granada, Spain
+
+Date: September 94-May 96
+Position: Administrator Intern

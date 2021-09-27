@@ -1,0 +1,297 @@
+                               Jonathan Tester
+
+                               (408) 252 2184
+                            (408) 505 7993 Pager
+
+                       [Image]Software@Consultant.com
+
+                                Email Pager
+
+                             Companies Helped:-
+
+ Intel, Hewlett-Packard, IBM, Sun, Auspex, International Network Services,
+  NeXT (Apple),Veritas, TRW, KLA, Schlumberger, Motorola, Ziff-Davis Labs,
+ ISD, Aptix, Technically Elite, Hitachi, DynaChip Gigalabs,Amdahl, Siemens
+    Nixdorf, ICL (Fujitsu), Optical Networks, Northern Telecom, Acuson,
+   WebXchange, Greystone, Clairvoyant Software, Managery, Plessey, Axil ,
+        Bridge Communications (3Com), OAZ Communications, Multimedia
+  Communications, Equatorial Communications, Signal Science, Wytec, Aydin,
+   Photon Dynamics, System Industries, Kubota,Scientific Software,Meeker
+      Group,Aurora/CMX, Verity, Data Storage Systems, nCUBE, Contract
+           Professional, Arbor, Manco, SPL and The Learning Game
+
+  Bachelor of Science w/honors in Computer Science, Sheffield University ,
+                               England, 1978
+
+   Advanced certificate in Computer Science awarded by Oxford University
+
+        Aylesbury Grammar School (400 year old High School), England
+
+                                  [Image]
+
+Experience:                                          Hardware:
+21 years                                             Sun, Dec, Alpha
+                                                     Intel, i960, Merced, Motorola,
+Device Drivers                                       Silicon Graphics, Next
+Unix Daemons                                         Amdahl, Hewlett-Packard
+Unix Kernel                                          Pyramid, Sequent
+Unix sockets, Streams                                Multiprocessor computers
+Unix IPC(pipes, signals)                             Ethernet, FDDI
+Applications                                         ATM,CDPD
+I/O subsystems
+Hardware Simulation and Verification                 UNIX (V.4,V.3,UTS,BSD,SunOS,
+Embedded Firmware                                    SCO, CTIX, NeXTstep, Mach, IRIX,
+Communications (Unix, Vax, MVS, Windows)             Interactive, OSF/1,Solaris,HP-UX, Linux, AIX)
+Unix Gateway                                         DOS, Windows, NT, 95, 98, DDK
+ATM Network                                          pSOS, Plan9, VX-Works, LynxOS
+Cellular Network,wireless communication
+RPC/XDR (Unix, MS-Windows, MS-DOS)                   Protocols worked with:
+Web programming                                      NFS (UNIX, MS-DOS,MVS)
+Object Orientated programming                        TCP/IP,UDP,TIRPC,RPC,XDR,NFS,SNMP
+Client/Server Networks                               OSI,CLNP,TP4
+Multiprocessors (both mpp and smp)                   LAPB,MDLC,LAPD,HDLC,SDLC
+Networks(Unix, MS-DOS,MVS, Windows)                  X.25, Frame Relay, SNA
+Network Design
+MFC (GUI)                                            Communications layers:
+Network Administrator                                Application,
+                                                     Presentation,
+Languages:                                           Transport,
+C,C++, Visual C++, Java, HTML, Codewright            Network ,
+Assemblers(Pyramid, INTEL, Motorola, DEC)            Data Link,
+sh, csh, ksh, make, SCCS, awk, sed, REXX, Perl,
+expect                                               Mac
+
+
+
+
+
+                                     [Image]
+
+               May 99 - date ISD/IBM
+
+               Port disk driver to Solaris(DDI) and HPUX from AIX.
+
+               April 99 - June 99 - DynaChip
+
+               Write Linux 64 bit PCI device driver, port driver to
+               solaris, using DDI.
+
+               Mar 99 - April 99 Optical Networks
+
+               Evaluate Object Orientated Database
+
+               Jan 99 - Mar 99 Aptix
+
+               Develop prototype system to work with Logic Analyzer.
+               Develop ASIC, diagnostics package that run on HP logic
+               Analyzer. Work was done on Solaris in C++.
+
+               Nov 98 - Mar 99 Clairvoyant Software
+
+               Write remote monitoring system using Perl, C++, SNMP, system
+               ran on Linux.
+
+               Oct 98 - Jan 99 Technical Elite
+
+               Write state based RMON/SNMP for embedded agent, protocols
+               implemented IP Fragments, SunRPC, Novel, IPX/SPX/SAP and
+               HTTP, Windows,Unix RTOS.     Port test environment to Visual
+               C++.
+
+               Sep 98 - Oct 98 International Network Services
+
+               Produce a small RMON Monitor application in MFC,VC++ and
+               SNMP++ to run on Windows 95.
+
+               Dec 97 - Sep 98 Wytec
+
+               Work on embedded wireless Settop box, ATM in VX-Works RTOS
+               on Intel platform, development system Windows/NT and
+               tornado.     Port ATM Stack to VX-Works, Design and
+               implement Network Management in SNMP/ILMI.
+
+               Nov 97 - May 98 Intel
+
+               Work on MERCED (IA-64), compiler optimization, Work was done
+               on Windows/NT with Visual C++, Multi-threading and Perl.
+               Instruction architecture.
+
+               Aug 97 - Oct 97 Veritas
+
+               Year 2000, Firewall integration with High Availability
+               Server, Work with Solaris threads.
+
+               June 97 - Aug 97 Acuson
+
+               Port Acuson embedded SCSI driver to current version of
+               LynxOS RTOS.
+
+               May 97 - June 97 Northern Telecom
+
+               System Admin on Solaris
+
+               May 97 Scientific Software
+
+               Debug, fix and test Windows/NT/95 Device Drivers
+
+               May 97 Meeker Group
+
+               Systems Admin on Solaris
+
+               Mar 97 - Apr 97 ISD/Greystone Peripherals/Menagery
+
+               Develop interface on PCMCIA bus between embedded VX-Works
+               RTOS and Windows/95 driver, Development was done on
+               Windows/NT
+
+               Jan 97 - Apr 97 ISD/Technically Elite/Gigalabs
+
+               Port RMON SNMP to i960, development was done on Windows 95
+               and embedded RTOS system.
+
+               Sep 96 - Mar 97 Auspex
+
+               Develop part of fault-tolerant NFS system, quotas, Perl
+               script
+
+               Sep 96 - Oct 96 ISD/Technically Elite/Hitachi
+
+               Ported RMON SNMP to embedded VX-Works RTOS, on Hitachi
+
+               June 96 - Aug 96 WebXchange
+
+               Develop Web transaction program in Java, VC++ on Windows NT.
+
+               June 96 - July 96 Axil Computers
+
+               Implement Patches on Solaris Kernel.
+
+               June 96 KLA
+
+               Solve problem with inetd
+
+               Jan 96 - Aug 96 Hewlett-Packard
+
+               Port debugger to 64 bit hardware, Multi-Processor,
+               Networking, UDP/IP internals, Develop Embedded Ethernet
+               Driver, bootp, tftp on HP RTOS.
+
+               Nov 95 - Feb 96 Sun/Arbor
+
+               Port a database package (essbase), from Visual C++ (Windows)
+               to Solaris.
+
+               Oct 95 - Nov nCUBE
+
+               Design striped files in MPP system.
+
+               Oct 95 - Nov Sun
+
+               Enhance ATM Device Driver for Video on Demand (MPEG). Use
+               kadb to debug.
+
+               Mar 95 - Sept 95 Photon Dynamics
+
+               Modify drivers for ATE, Design RS232 interface for Robotics
+               and X-Windows, diagnostics.
+
+               Jan 95 - June 95 Sun
+
+               Develop Enterprise client-server system using RPC, Solaris,
+               HP-UX, AIX ULTRIX. Make product into package.
+
+               July 94 - Dec 94 Amdahl
+
+               Develop Systems Admin client-server application using
+               C++,Visual C++, RPC, Novell, Solaris and DOS,Windows.
+
+               Sep 93 - Jun 94 Kubota Graphics
+
+               Simulate Hardware. Use TCP/IP, RPC, write graphics device
+               driver on OSF/1, Alpha. Modify Kernel. Rebuild Profiling
+               Kernel. Context Switching, Memory management, DMA.
+
+               Jun 93 - Dec 93 Signal Science
+
+               Cellular base station (CDPD) design and implementation.
+               Wireless communication. TP4, CLNP, MDLP, TCP/IP, X.25, LAPD,
+               Frame Relay.
+
+               March 93 - Jun 93 TRW Financial Systems
+
+               Network design. Evaluate ATM/FDDI/Fast Ethernet vendors.
+               Develop tests for TCP/IP, UDP and NFS, Write file system
+               utility.
+
+               March 93 ZD (Ziff Davis) Labs, Verity, Data Storage Systems
+
+               General Unix Consultancy, fix bugs, enhancements etc.
+
+               September 92 - March 93 System Industries
+
+               Hired sub-contractor and put together a consulting team to
+               design and implement a tape Librarian robot system on a SUN
+               IPX. Write streams device driver for Legato Networker.
+
+               Jan 92 - Nov 92 Aurora/CMX
+
+               Solved NFS speed problems, Fixed many bugs in SunOS paint
+               program. Ported UNIX drivers, Ported paint program from
+               Silicon Graphics (Mips) to pSOS.
+
+               July 92 - Aug 92 NeXT Computers
+
+               Port serial device driver to 486 from 68000. OS was
+               NeXTstep(Mach).
+
+               July 91 - July 92 Amdahl computers
+
+               Designed and implemented TCP/IP client/server network
+               connection to a real time UNIX Port windowing package to UTS
+               and develop RPC network.
+
+               April 91 - June 91 International Computers Limited (Fujitsu)
+
+               TCP/IP, Ethernet on UNIX V.4 (486 computer)
+
+               Feb 88 - April 91 Siemens Nixdorf Information Systems Inc,
+               California
+
+               Network layer and portions of transport layer for
+               OSI/OSI-like, streams GATEWAY on 486 UNIX V.4 system. Wrote
+               streams based module. Kernel modifications. Analyze and fix
+               many Kernel crashes in areas of interrupts, priorities,
+               overwriting memory, inodes, I/O subsystem etc, on a RISC
+               based multi-processor computer. Wrote Daemons to monitor the
+               device drivers.
+
+               Jul 87- Jan 88 Aydin Radar, California
+
+               Designed and implemented systems architecture and the HDLC
+               I/O processor link with the radar.
+
+               Oct 86 - Jul 87 Bridge (3Com) Communications, California
+
+               Enhancements and support to a VAX/ETHERNET.
+
+               Oct 84 - Oct 86 Equatorial Communications Co, California
+
+               Develop Satellite network, HDLC (X.25 project). Implement
+               all protocols in firmware.
+
+               Feb 82 - Oct 84 Motorola/Four Phase, California
+
+               Develop internal software tools, including the design of a
+               UNIX based cross assembler,
+
+               Sep 80 - Jan 82 Schlumberger, England
+
+               Develop a real time operating system RTOS.
+
+               Jun 78 - Sep 80 SPL Research Dept, Oxford, England
+
+               Develop an ADA like compiler.
+
+---------------------------------------------------------------------------
+
+

@@ -1,0 +1,37 @@
+
+CONTACT:
+
+Contact Name: ROBERT LEE STEVENS
+First Name: ROBERT
+Middle Name: LEE
+Last Name: STEVENS
+
+Home phone:  410 884 3761
+Email:       judahsoft@mail.geocities.com
+
+EDUCATION:
+
+Date: May, 1994
+School Name: Towson University
+School Location: Towson, Maryland
+Degree: Bachelor Of Arts
+Major: Computer Science
+Minor: Mass Communications
+
+EXPERIENCE:
+
+Date: April, 1996 - Present
+Company: Bell Atlantic Corporation
+Position: SOFTWARE ENGINEER
+Location: Silver Spring, Maryland
+
+Date: March, 1994 - April, 1996
+Company: Texas Instruments, Inc GSE Systems, Inc
+Position: SOFTWARE DESIGN ENGINEER
+Location: Hunt Valley, Maryland
+
+Date: March, 1992 - March, 1994
+Company: Towson University University Technical Services
+Position: NETWORK TECHNICIAN
+Location: Towson Maryland
+

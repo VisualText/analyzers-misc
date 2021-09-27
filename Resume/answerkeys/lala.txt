@@ -1,0 +1,48 @@
+
+First Name:  Jyoti 
+Last Name: Lala
+
+Number:      201
+Direction:   S
+Street:      Occidental
+Road:        Blvd
+Room:        3
+City:        Los Angeles
+State:       CA
+Zip:         90057
+Home phone:  213 382 6204
+Email:       jyoti@mailexcite.com
+
+EDUCATION:
+
+Date: 1996-1998
+School Name: LACC College
+School Location: Los Angeles, CA
+Degree: AA 
+Major: Computer Science
+
+Date: 1992-1995
+School Name: Aptech Computer School
+School Location: Bombay, India
+Degree: Diploma
+Major: Information Systems
+
+Date: 1983-1987
+School Location: Bombay, India
+Degree: Bachelors
+Major: Accountancy
+
+EXPERIENCE:
+
+Date: 1996-1998
+
+Date: 1994 - 1995
+Company: Aptech
+Position: Computer Lab help student 
+Location: Bombay, India
+
+Date: 1992 ~ 1994
+Company: New Vision Inc.
+Position: Data Operator Programmer
+Location: BOMBAY, INDIA
+

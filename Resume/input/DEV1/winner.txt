@@ -1,0 +1,37 @@
+                             Charles W. Winner
+                             917 Hathaway Dr.
+                             Trenton OH 45067
+                     E-mail: cwinner@eecs.utoledo.edu
+                              cwinner@one.net
+                              cwinner@sch.com
+            WWW Home Page: http://www.eecs.utoledo.edu/~cwinner
+---------------------------------------------------------------------------
+WORK EXPERIENCE:
+
+     Software Engineer
+            SCH Technologies
+                              May 27 1997 - Present
+                  ANSI C development on UNIX and Windows NT for Robotic
+Tape Library Control Software,
+                  a Storage Area Network aware application with a TCP/IP
+client/server implementation.
+                  Development activities on the following platforms: Sun
+Solaris, DEC UNIX, HP-UX, IBM AIX,
+                  Unisys SVR 4, NCR UNIX, SGI IRIX, Sequent DYNIX/ptx, NEC
+UNIX, RedHat Linux (Alpha/Intel),
+                  and Window NT.
+                  Addition responsibilities include InstallShield
+development, and porting of UNIX code over to Windows NT.
+
+EDUCATION:
+
+      Degree: Bachelor of Science, Computer Science & Engineering
+           University of Toledo, Toledo OH
+                  Sept. 1993- March 1997
+                An interdisciplinary field which deals with the design and
+construction of computing hardware and software.
+
+           Member of ACM(Association for Computing Machinery)
+                SIGAPP(ACM Student Interest Group - Applications)
+
+Last Updated: June 10, 1999

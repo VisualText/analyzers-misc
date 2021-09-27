@@ -1,0 +1,14 @@
+
+# AUTOMATICALLY GENERATED! EDITS WILL BE LOST!
+# FILE: e:\apps\resume\spec\OtherHeaderPhrase.pat
+# TIME: 10:08:13 09/02/01
+@NODES _LINE
+
+@PRE
+<1,1>	cap();
+<5,5>	cap();
+@RULES
+
+# Ex:	Activities\_and\_Honors
+_OtherHeaderPhrase [layer=(_header )] <- Activities [s] _xWHITE [star s] and [s] _xWHITE [star s] Honors [s] @@
+

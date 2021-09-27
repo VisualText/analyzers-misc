@@ -1,0 +1,59 @@
+Shenghuo (Steven) Zhu
+60 Crittenden Blvd, Apt. 809
+Rochester, NY 14620
+phone: (716)473-1958
+email: shenghuo@bigfoot.com
+
+OBJECTIVES
+Seek a programming position, which would utilize my proficiency in C/C++, Java, SQL, Networking, and strong knowledge of Windows NT/98 and UNIX. 
+QUALIFICATIONS
+o	Systematically trained in OOP, proficiency in C/C++, Java, Pascal, SQL;
+o	Many years experiences in project design and development;
+o	Good leadership abilities, teamwork spirit and able to meet deadlines under pressure;
+o	Strong background in mathematics, excellent modeling and analytical skills;
+o	Ability to learn quickly new computer science related technology.
+EXPERIENCE
+Research Assistant, 9/97-present
+University of Rochester, Rochester, NY 
+o	Research on natural language processing, focused on information extraction and retrieval, vagueness. Working on Unix(Solaris 2.5), Linux, GNU C/C++, perl, lisp, matlab, gnuplot, python.
+Software Engineer, 1/97-2/97 
+Bluesea Computer Corp., Wenzhou, China
+Patent Information Search 
+o	The project is to enable user to query Chinese patent information via WWW. The data is not several kinds of databases, MS SQL server, Foxbase, Access. I designed a prototype of search engine, using perl, ODBC on IIS.
+Research Assistant, 1/96-6/97 
+China State Laboratory of Artificial Intelligence and System, Beijing, China 
+o	Research on natural language processing, focused on Corpus-based English-Chinese machine translation, bilingual text alignment, Chinese POS tagging and segmenting. Working on Unix(Solaris 2.4), Windows NT 4.0, GNU C/C++, Visual C++, Visual Java, perl, SGML.
+o	Administrated network of Unix and MS Windows NT/95 and installed firewall, IP masquerade, DHCP, SAMBA and PPP server.
+Project Leader, 11/94-5/95
+Dawning Computer Inc., Beijing, China
+Information Query System 
+o	Developed a database management system on multi-processor machine. It is a 30k lines program written in C. When a SQL request comes from network (TCP/IP), the DBMS starts a pthread to analyze and processes the request.
+o	Designed a query user interface(Visual C++ 1.0+MFC+OLE). The user interface sends SQL requests to DBMS via WinSock.
+Software Engineer, 1/94-3/94 
+Bluesea Computer Corp., Wenzhou, China
+Gas Pump Control System 
+o	Implemented a monitor application (Windows GUI) to gather data from pumps via serial port and MODEM pool and save them to database (FoxPro).
+o	Designed a software of EEPROM programming toolkit for chips including 16k-64k EEPROM, Phillips 51 family with EEPROM. The software is developed in Borland C++ and assembly language(x86).
+Software Engineer, 8/92-7/93 
+Zhejiang University System Engineering Company, Hangzhou, China
+CAD/CAM/CAPP Integrate System 
+o	Developed EXPRESS utilities using C, Yacc, Lex. These utilities includes translators for model description language (ISO 10303-21) to data structure of C/C++, and toolkit for exchanging data between subsystems. Fixed bugs in other subsystems.
+Other projects
+o	Developed a BASIC interpreter for tutorial use, April 91.
+o	Contributed some Emacs elisp files to FSF, October 98.
+CERTIFICATE
+o	Microsoft Certified Systems Engineer, January 96, including MS Windows NT Server/Workstation, MS TCP/IP, SQL Server.
+SKILLS
+o	Expert level: C/C++, Perl, Java, LISP, HTML, SGML, Pascal, BASIC, shell script, Assembly languages; MFC, Yacc/Lex, SP, Jade; Emacs/elisp, Visual Studio, RCS; MS SQL Server, ODBC, JDBC; Linux, MS Windows NT; TCP/IP, PPP, MS IIS, Apache;
+o	Other: Tcl, python, Scheme, Javascript, DSSSL, Fortran, XML/XSL; JNI, RMI, Corba; Oracle, Access, xBase; Matlab, TeX, Mathematica; MS BackOffice Server; Firewall, SSL.
+EDUCATION
+M.S., Computer Science, October 1998, GPA 3.63
+University of Rochester, Rochester, NY
+o	99% in GRE subject (computer science)
+M.E., Computer Science and Technology, June 1997, GPA 3.7
+Tsinghua University, Beijing, China 
+B.E., Computer Science and Engineering, June 1994, GPA 3.6
+Zhejiang University, Hangzhou, China 
+PUBLICATIONS
+o	Zhu S., Zhou M., Liu X. & Huang C. "An Efficient Stochastic Context-free Parsing Algorithm", Journal of Software(Chinese), 1997
+o	Liu X., Zhou M., Zhu S. & Huang C. "Aligning Sentences in Parallel Corpora Using Self-Extracted Lexical Information", Chinese Journal of Computers(Chinese), 1997

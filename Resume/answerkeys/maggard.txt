@@ -1,0 +1,47 @@
+
+CONTACT:
+
+First Name: Torrey
+Middle Name: L
+Last Name: Maggard
+
+EDUCATION:
+
+Date: 1997
+School Name: University of Texas at San Antonio
+School Location: San Antonio, Texas
+Degree: BACHELOR OF SCIENCE
+Major: ELECTRICAL ENGINEERING
+
+EXPERIENCE:
+
+Date: 5/1998 - present
+Company: Renaissance Worldwide, Inc
+Position: ORACLE SOFTWARE ENGINEER CONSULTANT
+Location: Orlando, Florida
+
+Date: 1997 - Present
+Company: United States Air Force   
+Position: PROGRAM MANAGER
+Location: Randolph AFB, Texas
+
+Date: 1994 - 5/1998
+Company: United States Air Force
+Position: SOFTWARE ENGINEER
+Location:   Randolph AFB, Texas 
+
+Date: 1995 - 5/1998
+Company: United States Air Force   
+Position: DATABASE ADMINISTRATOR
+Location: Randolph AFB, Texas 
+
+Date: 5/1997 - present
+Company: Process Networks Plus, Inc
+Position: DATABASE ADMINISTRATOR/DEVELOPER
+Location: Austin, Texas
+
+Date: 1989 - 1992
+Company: NASA, Kennedy Space Center
+Position: CO-OP ELECTRICAL ENGINEER
+Location: Florida
+

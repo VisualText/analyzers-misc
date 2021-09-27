@@ -1,0 +1,235 @@
+                               Steve Hickman
+
+                  2904 Ridgerow Dr., Grapevine, Tx 76051
+
+                               817-949-2040
+
+                                 Objective
+
+                            Software Architect
+
+                                  Summary
+
+Software Architect with 16 years experience in:
+Software Design New Ventures
+Project Management Technology Transfer
+
+
+
+     10 years experience in Object Oriented design/ development
+          Experience in multiple industries
+          Excellent written/ verbal communication skills
+          Strategic thinker - able to quickly identify project needs and
+          dependencies
+
+Abstract Modeling & Adaptive Pattern Expertise
+Strong mentoring/ leadership skills
+
+
+Technical Skills
+
+     Workstation Environment: RS/6000 (AIX, Cset++), Dec Alpha (OSF/1,
+     g++), NeXT (NeXTStep, Mach, Objective-C),Sun Sparcstation( Sun OS 4.x,
+     C++); Symbolics (Common Lisp with Flavors, Statice); Vax 11/ 780 (Unix
+     4.2 BSD, C, Franz Lisp; VMS, C, FMS); TI Explorer LX (Common Lisp with
+     Flavors); Sequent Balance 21000 (Unix, C), Java
+     Micro Environment:
+          Operating Systems: OS/2, Microsoft Windows, PC/DOS,MacOS, CP/M
+          Languages: Java, IBM CSet++, Borland C++, Microsoft C/C++
+          7.0,Objective-C, PL/I, FORTRAN, Z80 Assembler
+          Productivity Tools: Standard Template Library, IBM CSet++
+          UILibrary, ObjectPM, Microsoft Foundation Classes, Windows
+          SDK,TurboVision, ObjectVision
+          Packages: Oracle 7,Personal AS/2, dBase, Informix, various
+          spreadsheets & word processors
+
+Education
+
+MS - Computer Science SMU - Dec 87 Focus: Algorithm design, Artificial
+Intelligence, network analysis.
+
+BS - Elect Engr/Comp Sci/Math SciRice University - May 81
+
+ Publications
+
+ "OOPS: An Environment for Implementing Protocols", Principal author with
+R. Dunning, 21st Annual Hawaii International Conference on Systems
+Sciences.
+Business Experience
+
+Consultant      MCI
+Jun 97 - Present
+Rearchitected shared memory based software monitoring/ debugging tool.
+Included port of C++ Standard Template Library to shared memory.
+Designed/coded new architecture and integrated with existing code
+Work done in C++ on DEC Alpha.
+
+Consultant Sprint
+Feb 97 - May 97
+Software architect for XPS 2. Took first phase development and smoothly
+integrated new Patterns-based flexibility for long term growth. Design done
+using OMT-2. Worked with other developers on C++ related design & code
+questions. Helped isolate a multithreading bug in Oracle 7.3 for AIX.
+Work done in C++ on RS/6000.
+
+Consultant MCI Wireless
+Aug 95 - Dec 96
+Software architect for IS41 - based Wireless Network elements. Designed,
+developed, coded and debugged overall software architecture to implement
+WIN HLR. Personally responsible for essentially all of the code in the
+first 2 releases.
+Defined overall distributed software architecture for team of 15
+developers.
+Defined code development and management issues that became the foundation
+of the group's development standards.
+OO Mentor for development group. Introduced group to OOA/D using OMT-2 and
+Adaptive Patterns.
+Work done in C++ on Dec Alpha & OSF/1.
+
+Consultant Suite Software
+Jan 95 - Aug 95
+Team member porting Suite's Distributed Object Management Environment
+(DOME) to OS/2 & OSF/1. DOME is a multiplatform environment that provides
+transparent Object Request Broker facilities for networked applications.
+Work included developing/ extending a operating system independent platform
+that provides the foundation for DOME, porting Directory and Communications
+subsystems and porting a Kerberos V- based Authentication subsystem. Work
+done in Objective-C, IBM CSet++, & gcc.
+
+Consultant American Airlines
+July 94 - Jan 95
+Principal designer for PRISM, a tool to integrate multiple functions for
+Pricing & Yield Management. This product, when fully implemented, will
+provide a consistent integrated system for use by Pricing and Yield
+Management analysts. System designed for ultimate sale to external
+customers as well as internal use by American and American Eagle. Worked
+with team DBA's on embedded SQL interface to Oracle DB.
+Team member on Good Morning FBM - a productivity tool for American's Fare
+Base Management group. Designed/ developed several structural elements as
+well as associated user interfaces. Work done on OS/2 using IBM CSet++ and
+IBM CSet++ Class Libraries.
+
+Consultant MCI
+May 93 - July 94
+OO Consultant and team member on POET project - a suite of planning tools
+for network planning and provisioning. Analyzed project status for
+potential design problems. Provided several standard coding techniques to
+eliminate common C++ bugs. Developed general purpose classes to form a
+foundation for modelling the fundamental structure of MCI's underlying
+business model. Evaluated compilers and class libraries for use in project.
+Reorganized and cleanup code. Taught C++ philosophy and coding techniques.
+Work done on OS/2 with Borland C++ and ObjectPM. Design work done with OMT.
+Wrote and debugged embedded SQL for Oracle. Prototyped stored procedures in
+SQL*PLUS.
+OO Lead on BATON - Bandwidth Aggregation Tool for an Optimized Network.
+Took basic algorithm and developed a robust implementation. Developed DDE
+interface between background process (algorithm) and user interface front
+end. Worked with users to define additional requirements. Designed/
+implemented additional requirements with a view to continued flexibility /
+expandability / maintainability of code. Work done on OS/2 with Borland C++
+& ObjectPM (back end) and Personal AS/2 (front end).
+
+Consultant NEC America
+Nov 92 - Apr 93
+Team member on RTDBMS project - a Relational Main Memory Database. Designed
+and implemented general purpose classes for handling shared memory as well
+as project specific classes involved in managing the shared memory used to
+house the Main Memory Database. These classes form the core of RTDBMS. Also
+developed a general purpose semaphore class (to provide more capability
+that standard UNIX semaphores as well as machine independence), and the
+standard method for initializing the database from the data dictionary.
+Work also included writing associated design documents and developing test
+suites for coverage analysis and maintenance benchmarks. Work done on
+SparcStations (SunOS 4.3 and Solaris) as well as Stratus machines. Work
+done in ObjectCenter C++ and UNIX.
+
+Consultant IEX Corporation
+July 92 - Feb 93
+Complete design and development of a general purpose communications server
+for use with GTE Airfone Maintenance Terminal Units. This package includes
+a C++ class library designed for extendibility (including working classes
+for handling serial, modem, and X.25 protocols) as well as project specific
+classes for handling GTE specific protocols. Project done using Microsoft
+C/C++ 7.0, Microsoft Foundation Classes and Windows 3.0.
+
+ Consultant Trinity Consultants
+Feb 92 through June 92
+Industrial Source Complex - Principal Designer & Technical Manager on
+complete redesign of air quality analysis software. Involved leading five
+person team, knowledge extraction, and training software team in Object
+Oriented principles. Work done in DOS with Borland C++ and TurboVision.
+
+Director - Software Development Concurrent Knowledge Systems
+Aug 91 through Dec 91
+SpecCheck - Continued as Principal Designer after project purchased from
+CIM Systems. Developed Object Oriented interfaces to relational database,
+memory management software and MS Windows.
+Principal Designer for KnowledgeNet - a Object Oriented Distributed
+Computing Environment for heterogeneous networks.
+Did additional design work on general purpose demand pull manufacturing
+model for discrete and continuous output systems.
+Laid off due to company financial difficulties.
+
+ Project Manager CIM Systems
+Aug 88 through Aug 91
+Successfully managed EPAS, a $417,000 government project to develop
+SpecCheck, a tool to analyze PCB designs for compliance with Military
+Specifications. Project involved up to 6-10 engineers during various phases
+of implementation. Work included project management, liaising with Air
+Force, knowledge extraction, Object Oriented design & implementation.
+Concurrently managed clerical staff.
+Rescued a $400,000 government contract to develop IPA, a process planning
+aid for machined parts that had been abandoned for 9 months. Redesigned the
+deliverables and redirected it successfully to completion. Project staff
+included up to 5 engineers during implementation cycle. Responsibilities
+included primary technical direction such as Object Oriented software
+design and knowledge extraction from ME experts, team administration,
+subcontractor management, liaising with Navy contracting officer. Final
+product went far beyond original Navy expectations.
+Consulted with various industrial clients (Reed Tool Co., National
+Semiconductor, Apple Computer) regarding use of information systems in the
+overall corporate environment.
+
+Research Southern Methodist University
+Nov 86 through Aug 87
+Designed and implemented a software simulation of a precision demand-driven
+arithmetic co-processor. Also did some research on data compression
+techniques.
+Designed and implemented an Object Oriented Lisp-based version of TCP/IP
+level IV in conjunction with a presentation to the 21st Annual Hawaii
+International Conference on Systems Sciences.
+Research in parallel processing & NP-Complete problems. Proved that certain
+classes of search problems can obtain superlinear speedup.
+
+Founder/ Owner Research Group
+Mar 85 through Apr 86
+Founded & managed Research Group, an information brokerage in Tulsa.
+Employed several research assistants and salespeople. Provided legal and
+business computerized research.
+
+Consultant AMOCO Research
+Aug 84 through Apr 86
+Designed and implemented embedded bubble memory subsystem device driver for
+proprietary field equipment. Designed and implemented software/hardware
+interface for automated radio test equipment.
+
+Consultant Getty Oil (now Texaco)
+Sep 83 through Dec 84
+Designed and coded algorithms for GEODE, an Oil & Gas economics evaluation
+package.
+
+Instructor Tulsa Junior College
+Aug 82 through May 83
+Taught intro programming via IBM 370 Assembler. Also taught Intro to the
+IBM PC, 123, Wordstar, dBase at several computer stores around Tulsa during
+this same general time frame.
+
+Founder/Owner Specialty Systems
+Jan 82 through Jan 83
+Started software development company with Rice classmate to develop dental
+office automation software. Employed several programmers and tech writers.
+
+Systems Engineer Irma Corp
+May 81 through Jan 82
+Provided DOS/VSE systems programming and consulting services to small &
+medium sized companies throughout Northeast Oklahoma.

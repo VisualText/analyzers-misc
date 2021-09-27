@@ -1,0 +1,247 @@
+tokenize	nil	# Gen:   Convert input to token list.
+lines	nil	# Gen:   Build a list of text lines.
+nlp	clean	# Gen:   Clean up the text (eg, "\r\n" => "\n").
+nlp	line_s	# Gather Lines
+nlp	qlines	# comment here
+nlp	qlines2	# comment here
+nlp	pr_lines	# comment here
+nlp	pr_lines2	# comment here
+nlp	lookup1	# comment here
+nlp	lookup2	# comment here
+nlp	unk1	# comment here
+nlp	z_format1	# comment here
+nlp	heur1	# comment here
+nlp	clean1	# comment here
+nlp	nums1	# comment here
+nlp	nums	# 08/10/99 AM. Handcraft year, month, etc.
+nlp	punct	# Marks punctuation
+nlp	ambiguousTerms	# Phil.  (merge 12/04/99 AM.)
+/stub	LiteralPhrase	# 09/15/99 AM.
+nlp	ContactHeaderPhrase	# RUG file!
+nlp	ObjectiveHeaderPhrase	# RUG file!
+nlp	EducationHeaderPhrase	# RUG file!
+nlp	ExperienceHeaderPhrase	# RUG file!
+nlp	SkillsHeaderPhrase	# RUG file!
+nlp	PublicationsHeaderPhrase	# RUG file!
+nlp	OtherHeaderPhrase	# RUG file!
+nlp	degreeInMajor	# RUG file!
+nlp	WebLinks	# RUG file!
+nlp	emailHeader	# RUG file!
+nlp	minorKey	# RUG file!
+nlp	degree	# RUG file!
+nlp	cityPhrase	# RUG file!
+nlp	statePhrase	# RUG file!
+nlp	countryPhrase	# RUG file!
+nlp	companyPhrase	# RUG file!
+nlp	skillsPhrase	# RUG file!
+nlp	naturalLanguages	# RUG file!
+nlp	hardware	# RUG file!
+nlp	certifications	# RUG file!
+nlp	field	# RUG file!
+nlp	Thesis	# RUG file!
+nlp	jobTitle	# RUG file!
+nlp	jobPhrase	# RUG file!
+nlp	schoolPhrase	# RUG file!
+nlp	verb	# RUG file!
+/end	LiteralPhrase	# end stub
+/stub	Word	# For single tokens under the root. 07/28/99 AM.
+nlp	posPREP	# RUG file!
+nlp	posDET	# RUG file!
+nlp	posPRO	# RUG file!
+nlp	posCONJ	# RUG file!
+nlp	ObjectiveHeaderWord	# RUG file!
+nlp	EducationHeaderWord	# RUG file!
+nlp	ExperienceHeaderWord	# RUG file!
+nlp	SkillsHeaderWord	# RUG file!
+nlp	PublicationsHeaderWord	# RUG file!
+nlp	ReferencesHeaderWord	# RUG file!
+nlp	OtherHeaderWord	# RUG file!
+nlp	headerMod	# RUG file!
+nlp	openPunct	# RUG file!
+nlp	closePunct	# RUG file!
+nlp	resumeWord	# RUG file!
+nlp	Present	# RUG file!
+nlp	Direction	# RUG file!
+nlp	adjDirection	# RUG file!
+nlp	PostalUnit	# RUG file!
+nlp	PostalRoad	# RUG file!
+nlp	monthWord	# RUG file!
+nlp	monthNum	# RUG file!
+nlp	Season	# RUG file!
+nlp	PostalState	# RUG file!
+nlp	jobTitleRoot	# RUG file!
+nlp	jobMod	# RUG file!
+nlp	companyRoot	# RUG file!
+nlp	companyModroot	# RUG file!
+nlp	companyMod	# RUG file!
+nlp	ProgrammingLanguage	# RUG file!
+nlp	cityMod	# RUG file!
+nlp	femaleName	# RUG file!
+nlp	maleName	# RUG file!
+nlp	surName	# RUG file!
+nlp	fieldName	# RUG file!
+nlp	subOrg	# RUG file!
+nlp	softwareWord	# RUG file!
+/end	Word	# 07/28/99 AM.
+nlp	stNames	# 10/09/99 PS.
+nlp	lists	# comment here
+nlp	lists1	# comment here
+nlp	g_url	# comment here
+nlp	g_email	# comment here
+nlp	g_addr	# comment here
+/stub	Phrase	# 06/23/99 AM. For simple phrases.
+nlp	humanName	# RUG file!
+nlp	phoneExtension	# RUG file!
+nlp	phoneNumber	# RUG file!
+nlp	phoneHomeFaxPhrase	# RUG file!
+nlp	phoneWorkPhrase	# RUG file!
+nlp	phoneFaxPhrase	# RUG file!
+nlp	phonePagerPhrase	# RUG file!
+nlp	phoneCellPhrase	# RUG file!
+nlp	phoneHomePhrase	# RUG file!
+nlp	unitRoom	# RUG file!
+nlp	addressLine	# RUG file!
+nlp	url	# RUG file!
+nlp	company	# RUG file!
+nlp	SingleDate	# RUG file!
+nlp	DateRange	# RUG file!
+/end	Phrase	# 06/23/99 AM. Trying out new stub pass type.
+nlp	grade0	# comment
+nlp	grade0am	# comment here
+nlp	grade1	# comment
+nlp	grade2	# comment here
+nlp	degree1	# comment
+nlp	degree2	# 10/09/99 PS.
+nlp	SchoolRoot	# comment
+nlp	stNames2	# 10/09/99 PS.
+nlp	SchoolName1	# 10/09/99 PS.
+nlp	MinoredIn	# comment here
+nlp	MajoredIn	# comment here
+nlp	getHonors	# comment here
+nlp	getEduParts	# comment here
+/stub	Part	# comment
+nlp	addressPart	# RUG file!
+nlp	humanname	# RUG file!
+nlp	experiencePart	# RUG file!
+/end	Part	# comment
+nlp	resumeOf	# comment here
+nlp	resumeOf1	# comment here
+nlp	g_caps0	# comment here
+nlp	g_caps02	# Copy of g_caps0
+rec	g_caps	# comment here
+nlp	debase	# comment here
+nlp	z_header	# comment here
+nlp	z_edu	# comment here
+nlp	z_humanName	# comment here
+nlp	z_field	# comment here
+nlp	z_company	# comment here
+nlp	z_job	# comment here
+nlp	z_job2	# comment here
+nlp	z_geo	# comment here
+nlp	z_caps	# comment here
+nlp	z_conf	# comment here
+nlp	z_dump0	# comment here
+nlp	glom1	# comment here
+nlp	z_context1	# comment here
+rec	g_caps1	# comment here
+nlp	z_conf1	# comment here
+nlp	z_dump1	# comment here
+nlp	conf_geo	# comment here
+nlp	z_choose1	# comment here
+nlp	glom4	# comment here
+rec	g_caps2	# comment here
+nlp	glom2	# comment here
+nlp	glom3	# comment here
+nlp	glom5	# comment here
+nlp	z_header1	# comment here
+nlp	z_header2	# comment here
+nlp	hdr_choose	# comment here
+nlp	pr_z	# comment here
+nlp	pr_caps1	# comment here
+nlp	ResumeOf2	# 10/02/99 AM. Continue resume of patterns.
+nlp	fix_humanName	# comment here
+nlp	addrpart2	# comment here
+nlp	addr_count	# comment here
+nlp	pr_laddr	# comment here
+nlp	dict_headers	# 06/25/99 AM. Split from dictionary.
+nlp	dict_skills	# 06/25/99 AM. Split from dictionary.
+nlp	x_wht_line	# Gen:   Zap whitespace in lines
+nlp	skills	# 6/25/99 AM. Split from phrases.pat
+nlp	contact_name	# Find contact name
+nlp	sub_boundaries	# Mark dates as subboundaries for now
+nlp	rez_boundaries	# Find zone headers
+nlp	weak0	# comment
+nlp	weak_boundaries	# comment here
+nlp	zones	# Zone the resume regions
+nlp	rez_zones	# Zone education & experience & other
+nlp	contact_zone	# comment here
+nlp	un_rez	# comment here
+nlp	pr_caps	# comment here
+nlp	x_wht2	# comment here
+nlp	lines1	# comment here
+nlp	exp_misc	# comment here
+nlp	exp_anchors	# comment here
+nlp	exp_anchors1	# comment here
+nlp	exp_anchors2	# comment here
+nlp	pr_exp	# comment here
+nlp	exp_anchors3	# comment here
+nlp	exp_anchors4	# comment here
+nlp	un_exp1	# comment here
+nlp	un_exp2	# comment here
+nlp	exp_neg	# comment here
+nlp	expTest	# comment
+nlp	expPS1	# comment here
+nlp	expa	# comment here
+nlp	expm	# comment here
+nlp	exp0	# comment here
+nlp	exp1	# comment here
+nlp	exp2	# comment here
+nlp	exp3	# comment here
+nlp	dump_exp	# comment here
+nlp	pr_exp1	# comment here
+nlp	edu_setup	# comment here
+nlp	edu_subzone1	# comment here
+nlp	edu_subzone2	# comment here
+nlp	pr_edu	# comment here
+nlp	edu_subzone3	# comment here
+nlp	edu_subzone4	# comment here
+nlp	un_edu1	# comment here
+nlp	edu0	# comment here
+nlp	edu1	# comment here
+nlp	edu2	# comment here
+nlp	edu3	# comment here
+nlp	edu4	# comment here
+nlp	dump_edu	# comment here
+nlp	addr_zone	# comment here
+nlp	pr_addr	# comment here
+nlp	zone_heur	# comment here
+nlp	ctc_lines	# comment here
+nlp	ctc_addrs	# comment here
+nlp	ctc_names0	# comment here
+nlp	try_humanName	# comment here
+nlp	ctc_names1	# comment here
+nlp	ctc_names	# comment here
+nlp	ctc_names2	# comment here
+nlp	fix_humanName1	# comment here
+nlp	ctc_name_sem	# comment here
+nlp	pr_ctc	# comment here
+nlp	ctc_dump	# comment here
+nlp	pr_ctc_caps	# comment here
+nlp	ctc_x_blanklines	# comment here
+nlp	html_name	# comment here
+nlp	g_humanName	# comment here
+nlp	name_xfer	# 10/02/99 AM. Transfer name information.
+nlp	group	# Group phrases into zones
+nlp	sem_contact	# comment here
+nlp	ex_ctc	# comment here
+nlp	ex_contact	# Output addresses and contact information
+nlp	ex_edu	# comment here
+nlp	ex_experience	# Extract Experience
+nlp	xml_CandidateProfile_hdr	# comment here
+nlp	xml_JobCandidateContact	# comment here
+nlp	xml_JobCandidateContact_end	# comment here
+nlp	xml_History	# comment here
+nlp	xml_Education	# comment here
+nlp	xml_Position	# comment here
+nlp	xml_History_end	# comment here
+nlp	xml_CandidateProfile_end	# comment here

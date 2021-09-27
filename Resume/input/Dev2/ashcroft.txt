@@ -1,0 +1,135 @@
+                                  [Image]
+                                  [Image]
+
+       [Image]                 Jon E. Ashcroft                 [Image]
+                               268 Bush Street #3728
+ ash2@earthlink.net            San Francisco, CA 94104      (415) 954-9858
+                                  [Image]
+
+
+Career Objective
+
+
+Goal is to obtain a position with an organization on a permanent or
+contract basis. Positions of interest include Visual Basic / MS Access
+client server programming / Database Management / Web development.
+
+
+Skills
+
+
+     Systems /
+     Hardware           PC Languages     AS/400 Languages    Software
+ IBM AS/400         Visual BASIC 5.0     RPG III         Windows 3.x/95/NT
+
+ IBM PC             MS Access            Query           OS/2 2.1/3.0
+                    2.0/7.0/97
+ IBM 3090           'C'                  CL              MS Office 97
+ NCR (8595, 9800)   Pascal               DFU             PC Support/400
+ NIC Cards          FoxPro/DOS           IDDU            Novell Netware
+                    Rexx                 DDS             Netscape / IE
+
+                    Ctree 4.3 using      SDA             Lotus Notes
+                    'C'
+                    HTML
+                    SQL                                  z
+
+
+Work Experience
+
+
+2/17/98 - 5/1/98
+RHO, Inc.
+Under contract to BASF, Inc.
+Mount Olive, NJ
+Database Programmer
+
+Developed Microsoft Access 2.0/97 databases to convert data from legacy
+systems to SAP R/3 Material Master data files. Purpose was to eliminate
+duplicate product codes across 40 warehouses running legacy systems before
+actual SAP conversion.  Wrote pattern matching routines in Access Basic 2.0
+and VBA for Access 97, as well as a standard front end for processing data
+files.
+
+
+10/23/96 - 10/31/97
+UII Corporation
+Under contract to Unisys Corporation
+Blue Bell, PA
+Database Programmer
+
+Developed a Microsoft Access 2.0 database that parsed product information
+from over 50 vendor Excel spreadsheets and prepared the transactions (Price
+Book) for automated entry into Unisys' worldwide database systems. The
+result is an up to date price book for over 50 vendors for the Unisys sales
+force, worldwide.  Purpose is to reduce time spent by Product Managers
+dealing with clerical issues.
+
+
+11/16/93 - 10/1/96
+Cucina Holdings, Inc / Java City
+Sacramento, CA
+Technical Support Specialist
+
+Operated a Help Desk for 70 retail locations using DOS and a retail
+management software package. Supported corporate staff with PC and AS/400
+related issues. Developed applications in RPG, Query, 'C', CL, MS Access
+2.0, FoxPro/DOS, Visual BASIC 3.0, and Rexx. System administration and
+operations for an AS/400. Troubleshoot data communications
+software/hardware. Configure PC's.
+
+Was instrumental in building the MIS department from scratch. Created and
+implemented MIS procedures for operations, Help Desk, and corporate user
+support. Wrote a comprehensive Help Desk database in MS Access 1.1.
+Configured and rolled out 50 PC's to remote locations. Wrote a
+comprehensive training manual for the corporate staff.
+
+
+5/14/93 - 11/14/94
+Barber Cashew Supply Corporation
+Woodland, CA
+System Operator
+
+System administration and operations for an AS/400. Supported corporate
+staff with PC and AS/400 related issues. Developed applications in RPG, CL,
+and Query. Posted A/R payments, closed A/R monthly and yearly.
+
+
+3/6/92 - 5/13/92
+Cameron Group (Delta Dental)
+Sacramento, CA
+Computer Operator
+
+Operated an IBM 3090 mainframe. Operated tape drives.
+
+
+9/23/91 - 2/26/92
+Kelley Temporary Services (Nestle Distribution)
+Stockton, CA
+System Operator
+
+System Operations for an IBM AS/400. Running, breaking down, and
+distributing reports. Shipping / Receiving.
+
+
+7/9/88 - 9/18/91
+Bank of Stockton.
+System Operator / PC Specialist
+Stockton, CA
+
+Operated NCR (8595, 9800) mainframes. Troubleshoot data communications
+problems (software/hardware). Installed point-to-point communications
+links. Wrote catalog jobs.
+
+
+Education
+
+
+8/88 - 2/90
+San Joaquin Delta College
+Stockton, CA
+
+
+8/93 - 2/94
+Sacramento City College
+Sacramento, CA

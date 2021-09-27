@@ -1,0 +1,145 @@
+Back to Homepage
+Click here to send E-Mail
+Download MS Word 6.0 version of CV, English
+
+CV
+
+The ASCII-version:     - Page under construction -
+
+TORSTEN MAILAHN                                            Curriculum Vitae
+
+                      Citibank IT Security Auditor
+             NT Specialist, UNIX and Novell Audit Experience
+                Programming / Network / Support Background
+                    Diploma in Business Administration
+
+                             Good Analyst
+                 Credible, Persuasive, Good People Skills
+    Efficient, Unsupervised and on Own Initiative as well as in Teams
+
+E-Mail:        Mailahn@compuserve.com                  Full Driving Licence
+Date of Birth: 16 December 1969                      Marital Status: Single
+Nationality:   German                                             Sex: Male
+
+TECHNICAL SUMMARY
+
+Supported, audited or programmed the following
+(and used the ones in parenthesis):
+
+OS:            Windows NT 3 & 4 / 95 / 3.x, Novell 3 & 4, NDS,
+               NT IntraNetWare Clients, UNIX HP / DEC / Solaris, DOS,
+               Apple System 7.5 (+ VMS, OS/2)
+
+Networking:    Familiar with OSI stack, security issues of routing,
+               switching etc., firewalls, TCP/IP, Internet/Intranet
+               protocol family (all layers), Novell protocol family,
+               DECnet family, AppleTalk (+ ISDN dial-on-demand with
+               Cisco routers)
+
+Security:      SeOS, BoKS, TACACS, PC/DACS (+ BindView, KANE, March)
+
+Prog. Lang.:   Pascal, SQL, dBase, Lotus Notes, Visual Basic, C++,
+               Assembler, HTML
+
+Methodolog.:   OOP, GUI, Client/Server, Delphi components
+
+Hardware:      Intel-PC, Power PC, Apple Macintosh, div. UNIX Boxes
+               (+ Digital VAX)
+
+Stand. appl.:  MS Word, MS Excel, Netscape Navigator, Lotus Notes
+               (+ Powerpoint, Outlook, etc., etc.)
+
+WORK EXPERIENCE
+
+Since          Citibank N.A., Corporate Audit, London, U.K.
+July 1997      IT Security Auditor
+               Responsibilities: Performing and leading audits in Europe,
+               Middle East, India and Africa / Supporting other auditors as
+               the secondary global NT specialist for Corporate Audit /
+               Leading the Business Monitoring for the European Datacenter
+               in Duesseldorf
+               Performed 29 reviews in 12 audits, including, additionally
+               to OS/security configuration reviews: Technology Management,
+               Financial Management, Continuity of Business, Premises and
+               Facilities, Year 2000, Computer Operations, Change
+               Management, Problem Management and Security Administration
+               Received the following training: Advanced Computer Auditing,
+               Anti Money Laundering, UNIX System and Network Security,
+               Compliance Awareness, Fraud Awareness, Open VMS System
+               Security Features, Client/Server LAN Security, NT Trainer,
+               Train the Trainer, Audit Methodology and Report Writing
+
+Sep. 1995      VdAK, association of German health-insurances:
+- Apr. 1996    IT / Management Consultant and Programmer
+               Analysed organisation and processes on deficiencies in
+               information flow as part of diploma-thesis, developed draft,
+               prototype and economical efficiency analysis of WAN
+               communication and group-knowledge-base system on basis of
+               Lotus Notes, programmed exemplary interfaces in Word Basic,
+               Excel Visual Basic and Lotus Notes to automate data
+               exchange. Installed and presented the prototype in a TCP/IP
+               test-network of NT servers and workstations connected by
+               Cisco-routed ISDN dial-on-demand lines
+
+Since          Kienbaum Personalberatung GmbH, company of Kienbaum Holding,
+July 1995      largest independent German consultancy, partner of
+               The European Independents:
+               Freelance IT Consultant
+               Advised only in urgent cases to be able to finish my
+               studies, supported dBase to CA-Ingres migration, programmed
+               tools for automated database conversions
+
+Feb. 1994      Kienbaum Management Service GmbH:
+- July 1995    Freelance member of IT Department with wide range of duties
+               One of two employees responsible for support and training of
+               about 100 employees at Duesseldorf subsidiaries, Intel and
+               Apple hardware support, Word and Excel software support,
+               network maintenance of a multi-protocol
+               heterogeneous WAN, advice in internal and external
+               Inter/Intranet projects, development of structural concepts
+               and participation in strategic company planning
+
+Since 1988     Self-employed IT / Management Consultant and Programmer
+               Clients included: Lottner in Leverkusen, Gebhardt und
+               Augenstein in Duesseldorf, Mordhorst in Cologne, Neuss and
+               Kiel, Böke at Hilden, GEFCO in Cologne and Frankfurt, SF-Bau
+               in Cologne, Steup at Gehlert-Hachenburg:
+               Developed among other projects an integrated order,
+               material, article, customer and invoice-management system in
+               dBase, a program for steering bridge-saws in pascal to cut
+               contours out of stone (used e.g. for restoring churches),
+               and a two-dimensional cut-optimisation with interface for
+               steering saws of different manufacturers in Pascal and SQL
+
+EDUCATION
+
+June 1997      Graduation, Diploma in Business Administration ('Diplom-
+               Kaufmann', 7 years average in Cologne), exam subjects:
+               Computer Science, Planning and Logistics (Quantitative
+               Planning, Controlling, Strategic Management), Accounting,
+               overall result equivalent to 'C'
+
+Feb. 1993      Bachelor's equivalent ('Vordiplom') in Business
+               Administration, grade equivalent to 'B', subjects: Law,
+               Statistics, General Economics, General Business
+               Administration incl. Operations Research and Decisions
+               Theory
+
+Apr. 1990      University of Cologne, matriculation for Business
+               Administration Curriculum
+
+1980 - 1989    Nicolaus-Cusanus-Gymnasium, 'A'-level equivalent 'Abitur',
+               main subjects: English, German, Physics, History, average
+               grade equivalent to 'A'
+
+INTERESTS
+
+Natural Science
+Theatre-Group at school
+Flying: Held Private Pilot Licences for Gliders and Powered Gliders
+
+REFERENCES
+
+Please do not approach without prior permission.
+Further references on request.
+---------------------------------------------------------------------------

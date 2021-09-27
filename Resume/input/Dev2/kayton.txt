@@ -1,0 +1,217 @@
+ [Image]  Bruce Anthony Kayton
+
+Last updated 12/19/97  e-mail : bakayton@ix.netcom.com  Currently on
+assignment until .......
+
+This page has been accessed [Image] times since 19 December 1997.
+
+TECHNICAL SUMMARY
+
+                             Mainframe IBM 3380/3390, DEC ALPHA/VAX,
+ Hardware                    PC's,
+                             Sun Sparcstation, AIX
+
+ Operating Systems           MVS/XA TSO, VM/CMS, VAX/VMS, DOS, Windows
+                             3.1 95 & NT, UNIX
+
+ Databases                   DB2, Oracle, SQL/DS, IDMS/R, XDB
+
+ Program Languages           SAS, JCL, COBOL, ADS/O, REXX, AS, C/C++,
+                             HTML
+
+                             ISPF, FTP, RACF, FILEAID, MS Exchange,
+ Software/Utilities/Editors  MS Scheduler, MS Word, Wordperfect, Excel,
+                             Visio, Profs, Netscape,PC Workbench,
+                             RxClinical, ROSCOE
+
+SAS Specifics:
+
+
+
+ Base SAS:           Display Manager, data step, data _null_ reports,
+                     macros, array processing.
+
+                     Sort, Transpose, Tabulate, Report, Print, Contents,
+ Procedures:         Means, Univariate, Compare, SQL, Printto, Datasets,
+                     Format, Copy, Cport, Cimport, Download, Operate,
+                     Display using batch SCL&nsbp;
+
+                     Tab2htm and Out2htm Web enablement macros
+                     SAS/Graph, Gchart, DSGI, SAS/FSP, SAS/AF, Frames,
+ Products/Features:  SCL,Pmenus, SCL Lists, Extended tables, CBT's,
+                     Catalogs,SCL Debugger, SAS/Connect, Remote
+                     libraries, SAS/Share.
+
+Objective:
+
+     To continue to develop as a SAS applications developer utilizing the
+     most current technology that SAS has to offer in it's many software
+     and hardware environments.
+     My dream position would include application development making use of
+     SAS Web tools in a client/server environment which would also allow me
+     to further develop my SAS, C++ and Java skills.
+
+Other:
+
+      Presented Coder's corner FRAME application at Western Users of SAS
+     Software Conference, San Francisco October 1994.
+     Regularly attend regional and local SAS user group meetings.
+
+ Work Experience
+---------------------------------------------------------------------------
+9/15/97 - Present
+Contract Programmer/Analyst - Community Care Network, San Diego, CA
+
+     AF and batch applications development in a DEC/Alpha/VAX environment
+     using SAS 6.09 and 6.12. Ongoing new development and upgrade of
+     existing systems to improve functionality and efficiency.
+
+5/19/97 - 9/5/97
+Contract Programmer/Analyst - Roche Pharmaceuticals, Palo Alto,CA
+
+     Development of SAS analysis programs to support pharmacoeconomic
+     evaluations.
+     Design and implementation of a file transfer utility for data exchange
+     between UNIX, DEC/Alpha and Oracle table via AF/Frame application.
+     Utility had bookmark and logging feature to facilitate repetitive data
+     transfers and audit trails. Used SAS/CONNECT and FTP for data transfer
+     routines. Application developed using SAS 6.12 on DEC/Alpha in an
+     X-Windows environment for easy to use GUI.
+
+3/7/97 - 5/17/97
+Contract Programmer/Analyst at Charles Schwab, San Francisco ,CA
+
+     Development of SAS utility programs to analyze and report on WWW
+     server performance. Netscape logs and server performance data reside
+     in multiple environments, MVS/TSO and UNIX and is formatted and loaded
+     into SAS datasets for analysis. Programs utilize SAS/GRAPH,
+     SAS/INSIGHT and various tabulate and report processes. SAS/CONNECT
+     used to access data on MVS from UNIX. Web development tools. Output
+     reports are formatted as HTML documents and made available for
+     intranet access. Mainframe data is accessed via SAS/CONNECT, using
+     Telnet and TCP/IP protocols from a Sun Solaris UNIX platform.
+
+5/8/95-2/7/97 : Contract Programmer - Pacific Bell, San Ramon, CA
+
+     Development of enhancements to the Work Tracking System. Primarily a
+     SAS/AF application which interfaces with MULTITRAK VSAM files to
+     accommodate a menu driven batch reporting system. Includes interactive
+     time reporting features.
+     Utilizes SAS/SHARE, SAS/AF, SCL, extensive use of extended tables and
+     macros.
+     Complexities of the system involve:
+        o Multiple daily extracts from VSAM files to mirrored GDG SAS disk
+          volumes.
+        o Utilization of SAS/SHARE to accommodate simultaneous access to
+          work management and timecard data.
+        o Automated downloads of user driven extracts to Excel spreadsheets
+          via FTP from mainframe to LAN.
+        o E-mail notifications to users utilizes hypertext to invoke helper
+          applications via NETSCAPE browsers.
+        o Ongoing performance enhancements utilizing indexes, data
+          partitioning/archiving and SAS/SHARE.
+        o Report distribution formats reports in Rich Text Format and
+          utilizes internet e-mail ids for report distribution.
+        o Complex macros to facilitate parameter driven report generation
+          and standardized data validation.
+
+---------------------------------------------------------------------------
+2/6/95-05/6/95 :
+Contract Programmer - Kaiser Permanente, Walnut Creek, CA
+
+     System analysis to identify data discrepancies. Database and program
+     modifications for data transfer routines. Ad-hoc extracts and loads of
+     Tandem data into SAS structures for end users. Used SAS and DB2 in
+     MVS/XA TSO environment & Cobol with Enform on Tandem.
+
+---------------------------------------------------------------------------
+
+
+11/92-01/95 : Programming Consultant (Permanent employee)
+              Trilogy Consulting Corporation, Waukegan, IL.
+
+
+     Consultant at various sites doing SAS programming and analysis.
+      Syntex        DEC/VAX, ORACLE,        Clinical Trials. Statistical
+      Palo Alto, CA RxClinical, SAS, SAS/AF reports and data validation
+
+      Upjohn        VM/CMS, SQL/DS, SAS     Clinical Trials. Statistical
+      Kalamazoo, MI Windows, SAS/AF, FRAME, reports, data validation.
+                    DSGI                    Frame application.
+      Steelcase
+      Grand Rapids, MVS/XA, SAS Windows,    Sales and Marketing Research.
+      MI            SAS/AF, FRAME           Client Server Application.
+
+
+---------------------------------------------------------------------------
+
+09/91-02/92 : Independent Consultant - ENGEN (dba Mobil Oil)
+              Cape Town, South Africa
+
+
+     System analysis, design and implementation of ADS/O, IDMS application.
+     Design of additional records and indexes for IDMS database. Worked
+     closely with DBA to implement changes to database. Application
+     monitored oil product delivery & driver performance statistics.
+     ADS/O, ISDM/R, COBOL, JCL, IBM VM/XA, CMS
+
+---------------------------------------------------------------------------
+
+12/90- 03/91 : Independent Consultant - Barclay's Bank Plc
+               Knutsford, England
+
+
+     Programming resource for an Anderson Consulting project to develop a
+     dynamic Bank Marketing system. Used parameters to generate batch
+     program code which was compiled and submitted for retrieval of
+     mainframe marketing data from DB2 database. All development done in a
+     PC/LAN Environment using COBOL II with embedded DB2 code and then
+     migrated to mainframe for implementation. Used DB2, Cobol II, PC
+     Workbench, XDB. Anderson Consulting's Design1 methodology.
+
+---------------------------------------------------------------------------
+
+02/90-09/90 : Analyst/Programmer (Permanent employee)
+              Bankorpdata, Cape Town, South Africa
+
+
+     Marketing division of Bank doing batch and online applications.
+     Maintenance of online and batch production systems. Ad-hoc retrieval
+     programs for marketing mailing campaigns involving extract and
+     download of corporate data to PC for enduser applications. Responsible
+     for analysis, design and specification of programs. Supervised two
+     junior programmers.
+     Used COBOL, IDMS/R, ADS/O, JCL in an MVS/XA TSO Environment using ISPF
+     and ROSCOE.
+
+---------------------------------------------------------------------------
+
+05/86-01/90 : S.A. Mutual Life Assurance Society (Permanent employee)
+              Cape Town, South Africa
+
+
+          Programmer/Trainee DBA (02/89-01/90)
+               SQL/DS Database design and implementation. Designed and
+               implemented parameter driven applications to retrieve
+               database data for report generation. Included mail merge,
+               campaign performance and response analysis for direct
+               marketing campaigns. Worked in conjunction with Anderson
+               Consulting group. Used AS, SQL/DS in VM/CMS Environment,
+               Andersen Consulting's Design1. Worked in a separate, but
+               related project, to evaluate SQL/DS with benchmark testing.
+               Served on committee to devise SQL/DS programming standards.
+          Trainee Programmer/Programmer (05/86-01/89)
+               Assigned to various projects for database marketing system.
+                  + Campaign specific applications to generate sales leads
+                    for direct mail campaigns.
+                  + Applications to update customer lists with current or
+                    additional data.
+                  + Enhancements to existing production systems to improve
+                    performance.
+                  + Development of utilities to enable users to retrieve
+                    data on an ad-hoc basis.
+                  + Provided end user support for ad-hoc retrieval
+                    enquiries.
+          Was also responsible for maintenance and support of production
+          systems.
+          Used Cobol, IDMS/R, JCL, IBM MVS/XA, TSO, ISPF, ICL VME2900, SCL

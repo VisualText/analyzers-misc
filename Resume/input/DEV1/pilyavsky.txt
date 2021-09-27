@@ -1,0 +1,147 @@
+Desired Location:      San Francisco, Japan, South East Asia.
+Desired Rate:            $120/hr on contracts.
+---------------------------------------------------------------------------
+
+Mark Pilyavsky
+2199 California Street #4
+San Francisco, CA 94115
+(415) 929 - 7305
+Email: pilyavsky@hotmail.com
+
+Expertise
+
+C, SYBASE SQL, PERL,  FORTRAN; ATOM, UG, PHIGS, X-Windows, CYRANO,
+DBArtisan; UNIX, Digital UNIX/OSF, SUNOS/Solaris, HP-UX, AIX, IRIX, Windows
+NT; DEC ALPHA, SUN, IBM/Bull, HP, SGI, Intergraph, Apple.
+
+Experience
+
+Independent Consultant., April 1998 - Present
+
+   * For Nations Banc/Montgomery Securities - Working on a complete
+     replication/fail-over strategy of a international trade settlement
+     system Wilco/Gloss. This implementation is based on Sybase Replication
+     Server. Tuning, performance and DBA tasks have been accomplished as
+     part of this project.
+
+   * For TCW Group - Developed database monitoring/notification system,
+     which monitored all Sybase SQL Servers present at TCW. This system
+     monitored 8 critical aspects of each Sybase SQL Server. The
+     implementation was done using UNIX shell scripts, and Sybase stored
+     procedures. Implemented emergency database recovery strategy, for
+     production Sybase databases. This strategy utilized Sybase Replication
+     and complete fail-over procedures for recovery of user and system
+     databases. Redesigned database backup/recovery scripts to log errors,
+     and be consistent/robust across all servers. Performance improvements,
+     documentation of all Sybase servers.
+
+Nicholas Applegate Capital Management., January 1997 - March 1998
+Sr. Database Administrator/Sr. Database Developer
+
+   * Duties included database performance, backups, and consistency checks
+     via UNIX shell scripts and AUTOSYS. Further duties included
+     installing, and using database products such as CYRANO, DesktopDBA,
+     Patrol, etc.. Other duties included upgrading Sybase System10 to
+     System11, maintaining database users and permissions, evaluating
+     database products and most importantly dealing with database related
+     problems. Lastly my duties included support of production data feeds
+     coming from various data vendors such as SHAW and SECAPL.
+   * As a database developer my focus was on the development and
+     modification of our Accounting system. This Accounting system was
+     based on the daily data feeds, coming from our data vendors such as
+     SHAW and SECAPL. My responsibility was to write and enhance this
+     system using PERL and SYBASE SQL.
+
+Sybase Software Corporation., April 1996 - December 1996
+Performance Engineer
+
+   * Worked in the SQL server performance group. Duties included tuning the
+     Sybase system 11 server for various benchmarks, such as TPC-C. Much of
+     the benchmarking involved, various hardware vendors, such as Sun, HP,
+     Digital, IBM, and Bull. As a result of this effort I learned many
+     hardware specific tuning issues, such as Kernel specific parameters,
+     Logical Storage Managers, RAID, compiler optimizations, and most of
+     all Sybase tuning issues. Furthermore by dealing with partner
+     companies, I understood how to communicate with them effectively.
+   * Implemented various performance enhancements for the Sybase SQL
+     server, such as list_io, feedback optimization, and effective shared
+     memory usage’s. To track down the server bottlenecks I used Sybase
+     monitor tools, and vendor specific tools such as Gprof, ATOM, Iprobe,
+     Pepsi, etc.
+
+Migration Software Systems, Ltd., April 1993 - March 1996
+Consulting Engineer
+
+   * For Sybase Corp. & Digital Equipment Corporation - Worked on porting
+     Sybase SQL Server V11 & V10 to Alpha/OSF SMP (Symmetric
+     Multiprocessing implementation). As part of this port debugged Alpha
+     specific bugs such as 32-64 bit incompatibilities, as well as generic
+     bugs, thus stabilizing the nightly builds of the “AXPOSFSMP” code
+     line. Worked on the VLDB (Very Large Database) project, which enabled
+     Sybase System11 use more than 2 GIG of memory.
+   * Worked on the Sybase/Digital TPC-C benchmark for systems 10 and 11 on
+     Alpha/OSF. These TPC-C efforts included tuning of the system
+     parameters for optimal performance, taking the profile of the server
+     with ATOM tool to point out the server bottlenecks, figuring out a
+     feedback optimization strategy to gain 10% - 15% improvement in
+     throughput, in-lining of the locking code, re-implementing the ASYNC
+     I/O interface, optimally aligning the shared memory segments, adding
+     CPU affinity code to the server, etc..
+   * For Digital Equipment Corp. & EDS - Ported UNIGRAPHICS V10 written in
+     C and FORTRAN, CAD product from Hewlett-Packard to Alpha OSF. Due to
+     non portable nature of the product, much code had to be rewritten,
+     including the C+ FORTRAN interface. The rewrite of the code involved
+     an “address-to-integer” index scheme to work around 32 to 64 bit
+     addressing differences.
+   * Ported and Implemented benchmarking software used to analyze
+     performance of UNIGRAPHICS V10 running on Alpha/OSF. These benchmarks
+     used the “User Function” feature of UG and Alpha specific onchip
+     counters to collect performance information such as: CPU usage, swap
+     utilization, time spent in the rendering module, and other relevant
+     information.
+
+Independent Consultant, January 1992 - April 1993
+
+   * For Megatek Corporation - Implemented C programs and UNIX shell
+     scripts; Designed and developed programs which used PHIGS 3D graphics
+     library, to test reliability of customized X server which utilized
+     Camellia graphics accelerator. Wrote programs, which served as demos
+     for efficient use of PHIGS, and as benchmarks to analyze performance
+     of Camellia graphics accelerator.
+   * For NCR Corporation - Supported ITX and NCR COBOL compilers, corrected
+     critical bugs in the COBOL compiler by isolating and debugging them;
+     implemented UNIX shell scripts used as a test bed for the COBOL
+     compiler.
+   * For San Diego DPC - Designed and developed UNIX shell scripts and C
+     programs for data extraction and corruption recovery. These programs
+     functioned by gathering accounting data over MAN (Metropolitan Area
+     Network) and then loading the filtered data into a central Informix
+     database.
+
+FPS Computing, December 1990 - January 1992
+Programmer
+
+   * Designed and developed circuit analysis software in UNIX/C which used
+     extracted data from VALID database to generate routing information of
+     desired circuit board(s). Wrote test vector generation programs used
+     in testing PLD devices, and to supplement ABEL software. Wrote
+     analysis software which generated micro code for Vector processors,
+     loaded the target board with the micro code, and ran it through
+     several clock cycles before unloading it to determine validity of the
+     boards.
+
+General Dynamics Corporation, May 1989 - December 1990
+Junior Engineer
+
+   * Performed, documented and analyzed real-time software simulation tests
+     for the DCU and INU flight computers used by the Atlas rocket. Tested
+     and documented assembler and ADA routines for the DCU and INU fight
+     computers. Developed C and FORTRAN software used to analyze flight
+     telemetry data on VAX/VMS. The output of this software was used to
+     verify the validity of flight steering vectors, guidance, and engine
+     activity.
+
+Education
+
+B.S., with honors, Major GPA 3.6, Computer Science, San Diego State
+University. [Image]

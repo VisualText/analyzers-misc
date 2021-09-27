@@ -1,0 +1,163 @@
+Christopher Gwyer
+3441 Balboa
+San Francisco, CA 94121-2701
+H)415-387-9884
+Email: gwyer@wwa.com
+Web Page: http://www.wwa.com/~gwyer/resume.html
+
+Last revised: 23 March 1997 
+Employment Status: Available April 1998   
+
+OBJECTIVE
+
+Looking for position in company using cutting-edge technology as a
+Software Architect/Engineer using my knowledge of Java, CORBA,
+Client/Server, Windows NT, Servlets, Java Beans, JDBC, RMI, Java IIOP,
+CORBA Gateway, Activator, ISAPI DLLs, security, Active-X. and/or Delphi
+using distributed object environment. 
+
+My preference is to stay as a contractor working in San Francisco, but I
+will consider full-time positions and anything related to my expertise
+
+SUMMARY
+
+I have over seven months experience as a contractor working with JAVA and
+CORBA in a distributed object Client/Server environment.  I have worked
+with JAVA SERVLETS, third-party JAVA utilities such as Sun's ACTIVATOR. 
+Currently working with cutting edge technology on projects which involves
+the deployment of Java Applets across an Intranet, I am familiar with
+Sun's JDK1.1.5, ACTIVATOR, the CORBA Gateway, and cross-network
+communication.  I recently attended seminars on Design Patterns, and the
+Software Development 98 and JAVA ONE conferences. 
+
+SKILLS
+Languages: Java, CORBA 3.2, JavaScript, HTML, Active X, Delphi. 
+Development Environments: Visual Cafe for Java 2.5, JDK1.1.5, Delphi 3.0 Client/Server 
+Servlet Wrappers : ServletExec, JRun, JavaWebServer
+Java Technologies: Activator, HTML Converter, JFC, Beans, RMI
+Applications: Activator, Word, Excel, PowerPoint, FrontPage, ADOBE Photoshop 4.0 
+Operating Systems: Windows 95/NT/3.1, Dos, UNIX.                                                              
+
+EMPLOYMENT
+
+Contractor - Software Engineer COVAD, San Jose, CA September '98
+
+Built an intranet-based Purchase Order System for Accounting department.
+This system allows people within the company to create purchase orders
+using the web intranet. The approval process for each purchase order is
+automated -- email is sent sequentially from one approver to another until
+the approval process is completed. All data is stored via Oracle 7.3.3.
+This application is written using Java servlets and implemented on a
+Solaris UNIX box running Netscape SuiteSpot. The implementation of this
+system requires knowledge of JDBC, SERVLETS, UNIX, ORACLE, messaging.
+
+Contractor - Software Engineer IBM, San Jose, CA July 98 - August 1998
+
+"Galvanization" responsibilities. This project involved enhancing and
+improving existing Java code on an in-house e-commerce project for IBM's
+partners. Responsiblities included increasing speed and reducing memory
+use, debugging existing code. This system runs on a UNIX box, with a DBII
+back-end, and involved extensive applet-server communications.
+
+Contractor - Software Engineer OnCommand Corporation, San Jose, CA May 98
+- June 1998 
+
+Responsible for all Java development Projects. Work on intranet project
+which facilitates Oracle database operations from a browser. This is a
+multi-tier scalable application which uses a distributed-object
+architecture through the use of RMI, JDBC and server-side Java (SERVLETS). 
+
+Contractor - Software Engineer NextCard, San Francisco, CA September 97 -present 
+
+Design and implement JAVA Applet utility for internal customer service representatives over intranet.  The utility communicates with remote SQL
+Server database behind firewall through CORBA server object.  I deployed the applet using cutting-edge technologies including Java, CORBA, ACTIVATOR, 
+JDBC, BEANS and JFC.
+Develop SERVLET to email form data from a web page using SMTP.
+Develop a servlet to 
+Develop '3-tier' online credit card application process using Java and CORBA. Write and debug JAVA SERVLETS.
+
+Consultant - Applications Programmer Tenera, San Francisco, CA April 97 - 
+-----------------------------------------------------------------------
+September 97 
+------------
+Develop Repetitive Maintenance Module for transportation software using Delphi 2.0 in NT 4.0 env. 
+Use Oracle 7.3.3. to produce views, write PL/SQL, stored procedures, triggers, to meet database requirements 
+
+Senior Systems Programmer Computer Language Research, Chicago, IL Sept 96 - 
+--------------------------------------------------------------------------
+March 97 
+---------
+
+Developing internal software for Windows 95 using Visual C++ ver 4.2/MFC 
+Responsible for maintaining, upgrading, and supporting RAR (audit) portion of CLR's corporate tax software 
+
+Software Developer Vestek Systems, San Francisco, CA June 95 - Sept 96 
+--------------------------------------------------------------------------
+Designed and implemented financial software GUI product using Delphi 
+Produced database-view component for Visual C++ 
+Wrote custom components 
+Incorporated Dynamic Data Exchange (DDE) for interfacing with third-party product for data- downloading of financial information from a proprietary source. 
+Wrote financial calculation functions 
+Utilized third-party components to facilitate design and implementation 
+Wrote test applications using Microsoft Test 
+Wrote DLL's for Visual C++ and Delphi 
+Familiar with :- 
+Client/Server design and implementation. 
+Borland Database Engine, SQL and ODBC for interfacing with most database formats including: Btrieve, dBASE, PARADOX, Informix, SQL server, Oracle, and Interbase. 
+Limitations of Windows 16-bit architecture and the benefits of 32 bit architecture 
+Use of Window's API - Windows 16 and 32 bit API 
+Subclassing Windows Controls 
+Absract Data Types for object/component design 
+Used Delphi 32 with OCX to develop prototypes of financial models 
+
+Computer Lab Manager, Division of Education, UCDAVIS, Davis, CA , Fall 94
+--------------------------------------------------------------------------
+
+Teaching Assistant for "Population, Agriculture and World Resources", UCDAVIS, Fall 94 
+
+Teaching Assistant for "Consumers and Markets", UCDAVIS, Winter Quarter 94 
+
+Consultant Research Economist,  Operations Evaluation Department, Division of Agriculture and Human Resources, World Bank, WASHINGTON, D.C. Oct 92 - July 93 
+
+Provided analytic support for Senior Economists. 
+Calculated internal rates of return for audit report on Indonesian Transmigration Projects I, II, and III. 
+Utilized variety of software and programming languages including Shazam, Mathematica, dBASE, Javelin, Paradox, Excel and others.  
+
+Economist, AGRISYTEMS (OVERSEAS) LTD., UK July 1991 - July 1992 Agricultural Survey Department, Swedish Committee for Afghanistan, Peshawar, Pakistan. Taught statistics, dBASE programming and various types of software to support staff. Interviewed job app
+
+licants. Provided advice on planning and implementation of software and hardware. 
+
+  
+EDUCATION 
+
+Completed one year of Ph.D. program in Agricultural Economics, University of California, Davis, Sept 93 - Dec 94 
+
+Courses included: Microeconomics, Mathematical Statistics, Systems Modeling and Simulation, Econometrics I and II (Multiple Regression and Time Series Analysis), Social Accounting
+Matrices and Computable General Equilibrium Models. 
+
+MS Applied Economics, University of East Anglia,UK Oct 90 - July 91 
+
+BS Agricultural Engineering, University of Newcastle upon Tyne, UK Oct 87 - July 90 
+
+AWARDS 
+
+Vestek Award for most hard-working employee, April 1996, Vestek Systems, San Francisco. 
+
+Sir James Knott Award - for conducting agricultural research overseas. Paper entitled: "Agricultural Mechanization in the Sudan" was researched over the course of five weeks in Wad
+Medani, Showak , Juba, and Kassala.-- Ne wcastle Upon Tyne, March,1988 
+
+PROFESSIONAL INTERESTS AND ASSOCIATIONS 
+
+Attend monthly Bay Area Internet User Group concerning advances in techniques for Web Page Development. 
+Develop web sites: Fairtex Muay Thai  and my Wedding Web Site 
+Attended seminar given by BluePrint Technologies on Design Patterns 
+
+  
+INTERESTS
+
+Squash, Muay Thai, Running, Inline skating (Midnight Rollers), Rock-climbing.
+
+                                                                       
+REFERENCES
+Available on request
+

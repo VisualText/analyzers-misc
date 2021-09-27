@@ -1,0 +1,54 @@
+                                Kevin Birch
+
+                            2171 Seaman Circle.
+                             Atlanta, GA 30341
+                              kbirch@pobox.com
+
+Objective:          A challenging and rewarding career in Software
+                    Engineering or Research and Development.
+Education:
+1992 - 1997:        Middle Tennessee State University
+                    Murfreesboro, TN
+                    Major: Broadcast Production
+                    Minors: Computer Science & Theater Production
+Employment:
+1998 - Present:     Greenberg News Networks, Inc.
+                    Atlanta, GA
+                    Software Engineer in a team environment developing the
+                    server-side and Oracle database access software for
+                    the Medcast subscription-based online information
+                    service. This service, which runs on Sun Ultra
+                    servers, is accessed by physicians, hospitals and
+                    pharmaceutical companies nation-wide.
+1994-1997:          Silicon Graphics, Inc.
+                    Knoxville, TN; Nashville, TN
+                    Co-op employment responsible for assisting sales force
+                    by maintaining demo equipment, answering technical
+                    questions from pre-sales customers, and administrating
+                    office network.
+1994:               Gibson Guitars, USA
+                    Nashville, TN
+                    Worked in a team that authored and maintained the
+                    corporate web site describing Gibson's product line
+                    and history. Developed CGI's in csh and Perl for
+                    interactive content, as well as static HTML.
+Technical
+Experience:
+                    Administration, Maintenance and Use
+                    Macintosh using MacOS 7 & 8 and BeOS.
+                    PC using Linux and BeOS.
+                    UN*X using IRIX, HP-UX, X-Windows and NeXTSTEP.
+                    Applications Development
+                    Macintosh: Toolbox and PowerPlant using CodeWarrior.
+                    UN*X: Client/Server in C, C++ & Java; C, C++ & Perl
+                    CGI.
+                    BeOS: Applications and utilities in C++ using native
+                    framework.
+                    Languages: C, C++ and Java.
+                    Electronic Publishing
+                    Credits include internal Silicon Graphics WWW site,
+                    development work on Gibson Guitars' WWW site, and
+                    co-founding MTSU's WWW site.
+Honors:
+1991:               Eagle Scout, Boy Scouts of America.
+                    Knoxville, TN

@@ -1,0 +1,107 @@
+[rotat_earth.gif (69833 bytes)][homeimg3.JPG (16446 bytes)][homeimg4.JPG (17372 bytes)]
+    [homeimg2.JPG (5339 bytes)]                                                   LEON YAO
+                                                                           1141 Fairview Ave. #I,
+                                                                             ARCADIA, CA 91007
+                                                                         Email: leonyao@onlineclick.com
+                                                                                                            [connerblue.gif (256 bytes)]
+[homeimg5.JPG (4778 bytes)]                                      [reddimon.gif (132 bytes)]    [reddimon.gif (132 bytes)]
+
+                                                                 Objective:                    Education:
+           DEMO 1
+           DEMO 2                                                To obtain a position as a     Bachelor of  Computer Science.
+           DEMO 3                                                Windows software engineer     Wuhan University, Wuhan, China.
+           DEMO 4                                                with growing company where I  1979 - 1983.
+           DEMO 5                                                can make an effective         Took course of SGML(Standard
+                                                                 contribution to a team.       Generalized Markup Language).
+                                                                                               1996.
+                         [reddimon.gif (132 bytes)]   Skills:
+
+[skills1.gif (768 bytes)]Operating Systems: MS-Windows (7 years), Windows-NT (4 year),        [experience.jpg (19323 bytes)]
+                         Windows-95 (3.5 years), UNIX (6 months ), MS-DOS (13 years), NOVELL
+                         Net Ware(5 years).
+       Programming Languages: Fluent in C++(8 years), C(8 years),   Other Knowledge: CGI, SGML/HTML, GUI, Multimedia CD-ROM Software,
+       Windows SDK(4 years), Visual C++ with Cross - Development    Animation, Auto Desk FLC&FLI, Graphics Halftone Display, Graphics
+       for Macintosh, CGI Programming, PERL, Microsoft Video for    Enhance, TCP/IP, OLE, DDE, STL, COM, ATL, Modem Communication, DOS
+       Windows Development Kit(4 years), Basic (2 years), COBOL(3   Printer Drive, DOS Display Drive, Chinese Display Drive & Chinese
+       year), 80x86 Assembly Language (8 years), JAVA(10 months).   Applications. Digital logic circuit, IBM PC Bus, Principle of IBM PC
+       Database Applications: FOXPRO (2 years), Visual FOXPRO,      Motherboard, Hardware design,
+       DBASE II, III, III+ and IV (2 years).                        Chinese Display CGI  for display chinese characters in English Web
+                                                                    Browse(Using dynamic image)    [Image]
+
+
+
+Experience:
+
+ Auto Graphics,      1).  Develop CD-ROM software for "IMPACT SGML" and "IMPACT
+ Inc.                BIBLE" using    Borland C++ and OWL working under Windows
+ Pomona, CA          3.1, Windows-95 and Windows-NT.
+ Software Engineer   2). Created DLL Engine for SGML Database Display. It can
+ Sep. 1995 -         be used for HTML browse
+ Present             3). Created Tree View for huge data browse.
+                     4). Created Table Editor for "SGML Smart Editor".
+                     5). Convert over two products from "Borland C++ / OWL" to
+                     "Microsoft Visual C++",   Using Visual C Cross-Development
+                     to Generate MAC Platform.
+                     6). "IMPACT SGML" for WEB, Using "Microsoft Visual C++"
+                     Create CGI Search      Engine, Convert SGML to HTML.
+                     See demo: http://lxy.auto-graphics.com
+
+ American MPC        Responsible for the creation and programming of all
+ Research            Windows/MPC CD-ROM multimedia product lines. Develop
+ Santa Fe Springs,   Multimedia Applications for "US Military CD Title",
+ CA                  "National Park CD Title" and "Space Exploration CD Title"
+ R & D Director      . using Visual C++ and Microsoft Video for Windows
+ Jan. 1994 - Sep.    Development Kit., working under Windows 3.1, Windows-95
+ 1995                and Windows-NT. It has Multi-Language(English, Japanese,
+                     Chinese, etc.) interface running under Normal Windows 3.1,
+                     Windows-95 and Windows-NT. It can shift between different
+                     Language without exit program.
+
+ PC-House.           Developed POSMGR --- a point of sale system using FOXPRO,
+ Carson, CA          working under MS-DOS and Novell Net Ware. System include:
+ Project Manager     Invoicing, Receiving, Account receivable, Account Payable,
+ May. 1992 - Jan.    Cash Receipt, Cash Payment, Customer Control, Inventory
+ 1994                Control, UPS, General Ledger, Multi-user Control.
+
+                     Develop BARCODE Printing Software using MS C , it is a
+                     Graphics Interface Application working under MS-DOS.
+
+ S&H Electronic,     Develop Multimedia Creating Tools/Animation Editing Tools,
+ Inc.                Using Visual C++ and Microsoft Video for Windows
+ Monterey Park, CA   Development Kit. working under Windows 3.1
+ Software Dept.
+ Manager             Develop Financial Investment Statistic Support System ---
+ Nov. 1991 - May.    Real-time data display. Capture for Satellite, using MS C
+ 1992                , working under MS-DOS.
+
+                     Develop Real Estates Service System, using FoxPro, working
+                     under MS-DOS and Novell Net Ware.
+
+ Beijing Hiway       Software:
+ Electrical Co.
+ Beijing, China      Develop "Hiway Chinese Processing System", using MASM,
+ Software Engineer   working under MS-DOS
+ Jan. 1987 - Nov.
+ 1991                Develop "Strategic Decision Helping System of Local Air
+                     Environment." system, using MS C, it is a Graphics
+                     Interface Applications working under MS-DOS. This software
+                     has been chosen to be a spreading product by the Bureau of
+                     national Environment Protection in China. And it has been
+                     chosen by the World Bank as the assigned product of
+                     environment protection in the southeast Asia areas.
+
+                     Develop "Hiway Electrical Files Center" system, using MS
+                     C++, it is a Multimedia Chinese Graphics Interface
+                     Applications working under MS-DOS and Novell Net Ware,
+                     which won the Golden Medal Award at the Beijing Second
+                     International Exposition.
+
+                     Hardware:
+
+                     Design Auto Error Tracing Card for PC .
+                     Chinese Font Generate Card.
+
+References:
+    Available upon request.
+
+This page was designed by Helen Chen

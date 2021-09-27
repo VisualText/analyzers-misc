@@ -1,0 +1,220 @@
+                    [Image]
+
+---------------------------------------------------------------------------
+
+                    TECHNICAL SUMMARY
+
+LANGUAGES: COBOL, COBOL II, Command Level CICS , Transact SQL, BCP, ANSI
+SQL, MVS JCL, INFORMATION EXPERT (MSA), EASYTRIEVE, CSP, C, Visual Basic
+(4.0, 5.0), PowerBuilder 3.0-5.0, APS
+
+DATABASES: VSAM, DB2, MSA DATAFRAMES, SYBASE 11.5, MS ACCESS
+
+COMMUNICATIONS: NOVELL, IRMA, WINFAX, SYBASE, BANYAN VINES, SYBASE's MDI
+
+PACKAGES: DBS E Series - HR/Payroll, DBS M Series - GL, EDS Case Data
+System, CODE-1, GroupFacts, TESSERECT
+
+UTILITIES: IDCAMS, CEDF, BMS, DATAEXPERT, DB2 EXPERT, LIBRARIAN, PANVALET,
+FILEAID, XPEDITER, INTERTEST, VIASOFT, OPTIMIZER, TSO/ISPF, ICCF, SPFPC,
+RMS, WORDPERFECT, WORD, SPUFI, QMF, DESIGN1, VISIO, WINQUERY, EXCEL,
+PLATINUM, PROEDIT, RapidSQL, ISQL
+
+SYSTEMS: OS/390. MVS/ESA, VSE/ESA, UNIX, DOS 5.0 - 6.2, WINDOWS 95, WINDOWS
+3.1, OS/2
+
+HARDWARE: S/390, IBM 3090, IBM 4380, IBM compatible PC's
+
+METHODOLOGIES: DMR P+, Arthur Anderson's DESIGN1
+
+---------------------------------------------------------------------------
+
+                    EXPERIENCE
+
+ 02/08/99         A company in    Position:
+ -Present         the Midwest     System
+                                  Conversion
+                                  Consultant
+
+Duties:
+
+Porting data from an MVS/Rosecoe Geac E Series HR/Payroll environmet to a
+Sybase 11.5/RS6000 Geac Smartstream and Powerbuilder environment utilizing
+COBOL, IE, JCL, Transact SQL, Rapid SQL, BCP, and ISQL.
+
+ 04/28/97 -      Foster Farms,    Position:
+ 01/15/99        Livingston CA    System Analyst
+                                  Consultant
+
+Duties:
+
+Analyzed, designed, modified, and tested Legacy Online (CICS, DB2) and
+Batch (DB2, VSAM) COBOL, APS, and MSA's Information Expert programs for
+Foster Farm's Labortory Management, AR, AP, and Purchasing systems. Created
+and modified test and production JCL in an MVS/ESA, WIN 3.1 environment.
+Used SPUFI, QMF, PROEDIT, FILEAID, and VIASOFT as testing tools and for
+data manipulation.
+
+ 12/01/96 -      Oregon Div. Of   Position:
+ 02/06/97        Child Support    System Analyst
+                 Enforcement      Consultant
+                 Salem, OR
+
+Duties:
+
+Analyzed, designed, and tested Legacy Online (CICS& DB2) and Batch (DB2)
+programs. Created and modified test and production JCL in an MVS/ESA, WIN
+3.1 environment. Used SPUFI and QMF as testing tools and for data
+manipulation. Project involved setting up and populating DB2 Tables for the
+purpose of tracking clients and obligors.
+
+ 08/10/96 -      Pacific Bell,    Position:
+ 11/29/96        San Francisco,   System Analyst
+                 CA               Consultant
+
+Duties:
+
+Analyzed, designed, modified, tested, debugged and implemented Legacy
+Online (CICS, VSAM, & DB2) and Batch COBOL programs for Pac Bell's Reseller
+New Developement Project. Used XPEDITER and CEDF as testing tools.
+Interfaced with users and management (Technical and non-technical).
+Modified and enhanced Excel Time Reporting spreadsheet using VBA.
+
+ 05/08/96 -      Jantzen          Position:
+ 08/08/96        Portland, OR     System Analyst
+                                  Consultant
+
+Duties:
+
+Analyzed, designed, modified, tested, debugged and implemented Legacy
+Online (CICS & VSAM) and Batch COBOL programs for Jantzen's Canadian AR
+consolidation conversion. Created and modified test and production JCL in
+an MVS/ESA, WIN 3.1 environment. Used XPEDITER and CEDF as testing tools.
+Interfaced with users and management (Technical and non-technical).
+
+ 02/06/96 -      Oregon Dept.     Position:
+ 05/06/96        of Motor         System Analyst
+                 Vehicles         Consultant
+                 Salem, OR
+
+Duties:
+
+Analyzed, designed, and tested Legacy Online (CICS& DB2) and Batch (DB2)
+programs. Created and modified test and production JCL in an MVS/ESA, OS/2
+environment. Used SPUFI and PLATINUM as testing tools and for data
+manipulation. Methodology uses was DMR's P+.
+
+
+
+ 09/04/95 -       Intel Inc.      Position:
+ 10/19/95         Santa Clara,    Programmer
+                  CA              Analyst
+                                  Consultant
+
+Duties:
+
+Designed, coded, tested, and installed DB2 Batch programs that interfaced
+to Intel's DBS GL/M System. Created and modified test and production JCL in
+an MVS/ESA environment. Used SPUFI and QMF as testing tools and for data
+manipulation.
+
+ 03/01/95 -      Intel Inc.       Position:
+ 08/24/95        Hillsbourgh,     Programmer
+                 OR               Analyst
+                                  Consultant
+
+Duties:
+
+Created Design and Test documents using VISIO and WORD for Windows.
+Designed, coded, tested, and installed DB2 Batch and Online (CICS) programs
+(MDI Remote Stored Procedures executed Thru UNIX via an EXCEL spreadsheet
+). Created and modified test and production JCL in an MVS/ESAenvironment.
+Used WINQUERY and INTERTEST as testing tools. These applications were
+interfaces to the DBS GL:M system and as such used many of DBS's DB2 Tables
+and VSAM Files.
+
+ 09/06/94 -      Kaiser           Position:
+ 10/14/94        Permanente       Programmer
+                 Walnut Creek,    Analyst
+                 CA               Consultant
+
+Duties:
+
+Created Design and Test documents for COBOL DB2 Batch applications using
+WORDPERFECT for WINDOWS and Arthur Anderson's DESIGN1. These were
+HR/Payroll applications focussed primarily in the area of Personal Loans
+and Benefits. Coded, tested, and implemented these applications. Created
+and modified test and production JCL in an MVS/ESA environment.
+
+ 05/02/94 -      Vision           Position:
+ 08/31/94        Services Plan    Programmer
+                 Rancho           Analyst
+                 Cordova, CA      Consultant
+
+Duties:
+
+Created Design and Test documents for COBOL II, CICS, and FOXPRO 2.6
+applications using WORDPERFECT for WINDOWS. These were HMO Group
+applications which encompassed Billing, Membership, Claim Processing, Claim
+Adjustments, and General Ledger processes. Coded, tested, and implemented
+these applications. Created and modified test and production JCL in an
+MVS/ESA environment.
+
+ 11/10/92 -      Foundation       Position:
+ 01/11/94        Health Rancho    Programmer
+                 Cordova CA       Analyst
+                                  Consultant
+
+
+
+Duties:
+
+Analyzed, fixed, enhanced, designed, and tested CICS programs. Interfaced
+with users over Production Online problems and potential impacts to
+existing system of fixes and enhancements. Enhanced and created new CSP
+programs for the champus system. Designed, coded, tested, debugged,
+installed Batch COBOL II and EASYTRIEVE programs that accessed and
+processsed VSAM databases of over 9 million claim records.
+
+ 11/07/91 -      Health           Position:
+ 09/01/92        Dimensions       Programmer
+                 Inc. San Jose    Analyst
+                 CA
+
+Duties:
+
+Designed, coded, tested, debugged, installed Command Level CICS programs,
+Batch COBOL II programs, and IE (4GL) programs for MSA HR/Payroll and
+Patient/Provider billing systems. Created test and production JCL in a
+VSE/ESA environment. Interfaced with users and staff for problem
+determination and resolution. Instructed users and staff in the use of IE.
+
+ 10/01/88 -      Fresno County    Position:
+ 11/01/91        Computer         Programmer III
+                 Services
+                 Department,
+                 Fresno CA
+
+Duties:
+
+Analyzed, designed, coded, tested, and implemented Command Level CICS and
+Batch COBOL programs under MVS/XA in support of the County Social Services
+Department. I was the lead programmer for a tracking system for AFDC
+recipients and their benefit authorizations. Provided technical direction
+to other staff members.
+
+ 07/01/85 -      California       Position:
+ 10/01/87        Department of    Programmer
+                 Housing
+                 Sacramento CA
+
+Duties:
+
+Designed, coded, tested, debugged, on implemented Batch COBOL and COBOL II
+programs. Created test and production JCL in an MVS/XA environment.
+
+---------------------------------------------------------------------------
+
+
+
+

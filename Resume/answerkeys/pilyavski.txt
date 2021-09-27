@@ -1,0 +1,44 @@
+
+CONTACT:
+
+Contact Name: ANDREY D
+Title:    
+First Name: ANDREY
+Middle Name: D.
+Last Name: Petrov
+Number:      19
+Street:      Iljicha
+Road:        Str.
+Unit		 kv.
+Room:        19
+City:        Novosibirsk
+Country:	 Russia
+Zip:         630090
+Email:       andrey_petrov@usa.net
+Office phone:  (7-3832) 11-97-59
+Email:       andrey_petrov@usa.net
+
+EDUCATION:
+
+Date: 1987-1989
+School Name: Moscow Institute of Engineering Physics
+School Location: Moscow, Russia
+Degree: MSEE 
+Major: MSEE 
+Honors: high honors    
+
+
+EXPERIENCE:
+
+Date: 1996 to present
+Company: "Sherl" Transport Group Ltd.
+Position: Senior system engineer
+Location: Novosibirsk, Russia
+
+Date: 1994 - Mar 1996
+Company: Budker Institute of Nuclear Physics (BINP)
+Position: Junior researcher 
+Location: Novosibirsk, Russia
+
+Date: Feb. 1993 - Mar.1994
+Company: BINP

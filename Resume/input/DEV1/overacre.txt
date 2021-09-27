@@ -1,0 +1,163 @@
+                              Christina Elaine Overacre
+                                       HIRED!!!
+                              (but thanks for lookin'!)
+
+                               Box 192 Spotswood Trail
+                                Penn Laird, VA 22846
+                                  (540) 433 - 9045
+                                philosopher@rica.net
+
+                                       [Image]
+
+               Objective:
+
+               A position in software development which demands
+               quality programming and technical writing skills.
+
+               Education:
+
+               B.S., Computer Science
+               May, 1998
+               Information Technology concentration
+               GPA: still awaiting final grades
+               James Madison University, Harrisonburg, VA
+
+               B.A., Communications and English double major
+               May, 1992
+               Writing concentration (English)
+               Journalism concentration (Communications)
+               Honors: cum laude
+               James Madison University, Harrisonburg, VA
+
+               Brookville High School
+               June 1988
+               Honors: Advanced Diploma
+               Lynchburg, Virginia
+
+
+               Environments, Programming Languages and Applications:
+
+               [bullet.gif (947 bytes)]Windows '95, Windows NT, UNIX
+               [bullet.gif (947 bytes)]C, C++ (including Visual C++),
+               Java
+               [bullet.gif (947 bytes)]HTML, Visual Basic, Oracle, SQL
+               [bullet.gif (947 bytes)]HTML editors: Netscape
+               Navigator Gold,
+                   MS FrontPage 98
+               [bullet.gif (947 bytes)]MS Access, Word, Excel,
+               PowerPoint
+               [bullet.gif (947 bytes)]Corel PhotoPaint, Adobe
+               PhotoShop,
+                   MS Image Composer
+               [bullet.gif (947 bytes)]Adobe PageMaker
+               [bullet.gif (947 bytes)]Telnet, FTP, various E-Mail
+               applications
+
+               Coursework:
+
+               [bullet.gif (947 bytes)]Object-Oriented Analysis and
+               Design Methodologies
+               [bullet.gif (947 bytes)]Software Engineering Life Cycle
+               Models and Techniques
+               [bullet.gif (947 bytes)]Networking, TCP/IP
+               [bullet.gif (947 bytes)]Client-Server Models, Routing,
+               IP addressing schemes
+               [bullet.gif (947 bytes)]ISO Standards and the OSI
+               Reference Model
+               [bullet.gif (947 bytes)]Database Design, Database
+               Administration
+               [bullet.gif (947 bytes)]Advanced Web Design
+               [bullet.gif (947 bytes)]Multimedia Design (Macromedia
+               Director)
+               [bullet.gif (947 bytes)]Knowledge Base / Expert Systems
+               (Exsys)
+               [bullet.gif (947 bytes)]Artificial Intelligence
+               (NeuroShell)
+
+               Writing Courses:
+
+               Technical Writing
+               Desktop Publishing
+               Writing for Public Relations
+               News Writing, News Editing
+               Advanced Composition
+
+               Advanced Young Writers' Workshop, June 1988
+               University of Virginia, Charlottesville, Virginia
+               Based on submission of written work, invited to attend
+               a two-week advanced writing workshop.
+
+               Integrated Science and Technology Courses:
+
+               Science and Technology I & II:
+               [bullet.gif (947 bytes)]studied genetics, genetic
+               engineering, and infectious diseases
+               [bullet.gif (947 bytes)]integrated biology, chemistry,
+               and statistics in environmental issues
+               [bullet.gif (947 bytes)]applied formal laboratory and
+               field research intstrumentation and measurement
+               procedures
+
+               Analytical Methods I--IV:
+               [bullet.gif (947 bytes)]applied statistics and
+               graphical data analysis
+               [bullet.gif (947 bytes)]collected data, modeled
+               real-world systems, and solved selected problems in
+               mechanics with the use of a computer
+               [bullet.gif (947 bytes)]developed project management
+               skills
+               [bullet.gif (947 bytes)]investigated systems involving
+               electricity, magnetism, lasers and optics
+               [bullet.gif (947 bytes)]studied formal logic and its
+               various methods of representation in analytical
+               constructs and semantics (predicate logic,
+               propositional logic, discrete math and set theory)
+               [bullet.gif (947 bytes)]developed knowledge-based and
+               expert systems
+
+               Related Work Experience:
+
+               Assistant Project Manager, December '96 to present
+               Myositis Association of America (MAA)
+               Harrisonburg, Virginia
+               [bullet.gif (947 bytes)]Developed a database in MS
+               Access to hold confidential medical survey information.
+               [bullet.gif (947 bytes)]Implemented Visual Basic code
+               for manipulation of database forms by data entry
+               operators.
+               [bullet.gif (947 bytes)]Created database queries and
+               reports for information retrieval.
+               [bullet.gif (947 bytes)]Performed data analysis in MS
+               Excel on data exported from the MS Access database.
+               [bullet.gif (947 bytes)]Documented preliminary data
+               analysis findings.
+               [bullet.gif (947 bytes)]Compiled and formatted final
+               statistical survey reports.
+               [bullet.gif (947 bytes)]Proofed and edited copy for the
+               organization's newsletter, "The OutLook."
+               [bullet.gif (947 bytes)]Composed user-documentation for
+               in-house technical support.
+               [bullet.gif (947 bytes)]Collaborated in designing and
+               maintaining the organization's internet website,
+               www.myositis.org.
+               [bullet.gif (947 bytes)]Instructed staff members in the
+               use of various office applications, including the MS
+               Office Pro Suite (95 & 97), e-mail applications (MS
+               Exchange, Eudora, Netscape Messenger, ProComm Plus),
+               and Internet Browsers (Netscape Navigator Gold &
+               Communicator, MS Explorer, ProComm Plus).
+
+               Current Projects:
+
+               [bullet.gif (947 bytes)]Collaborative project to
+               redesign the James Madison University home page on the
+               Campus-Wide Information System (CWIS) server.
+               Requirements include analysis and design documentation,
+               implementation of design in code (may include all or
+               some of the following: html, java, sql, cgi forms &
+               scripts), client feedback, testing and review.
+               [bullet.gif (947 bytes)]Creation of a new website for
+               an independent real estate company to showcase
+               available listings, incorporate digital images of the
+               properties, and provide links indexed by both location
+               and price.

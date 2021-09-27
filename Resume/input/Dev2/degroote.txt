@@ -1,0 +1,71 @@
+                                  David G. DeGroote
+                               Embedded Systems Consultant
+                                 21009 Fowlers Mill Circle
+                                   Ashburn, VA 20147
+                                     (703)729-8905
+                               E-Mail: David@DeGroote.Com
+                      Web Resume:  http://DeGroote.com/dave/resume/
+
+
+Professional Experience:
+
+Orbital Sciences Corporation 1991 - Present
+
+Principal software engineer for Orbital Sciences' global communications 
+satellite network (Orbcomm). Responsible for software system design;
+ground station to spacecraft and  inter-subsystem interface definition
+and enforcement (thru spreadsheets and automatically generated code); 
+software coding standards, configuration management, reliability and
+multi-satellite configuration issues; and  command & telemetry
+definitions. Developed the ground station interface subsystem software;
+the system level  and subsystem level fault detection and correction
+software (Health and Maintenance); and hardware interface  drivers (dsp,
+pll, adc, dac, etc) using the VxWorks operating system (68302, C
+language). 
+
+Lead software engineer responsible for developing the system software
+for  Orbital Sciences first satellite, APEX (Advanced Photovoltaic and
+Electronics Experiment). Responsible for the  software system design and
+development (68302, C and assembly language), subsystem interface
+definitions, command and telemetry format definitions, and ground
+support equipment definition. Acted as technical assistant  to the Air
+Force supporting on-orbit operations. 
+
+Hark Software 1989 - 1991 
+
+Embedded microprocessor consulting services, electronic mail gateway
+(Joiner Associates Jmail-InBox (JMI), X  Windows system code
+development, Macintosh code development (Apple partner/certified
+developer). 
+
+HRB Systems 1983 - 1990 
+
+Responsible for developing man-machine interfaces for  signal processing
+equipment including system, hardware, firmware and software design.
+Successfully brought two  major projects (RTSA and Outreach) from
+inception to completion. Designed digital hardware including designs 
+with embedded microprocessors, bit-sliced processors, high speed vector
+drawing hardware, plasma display  video interfaces, operator input
+device interfaces, peripheral interfaces, and gate arrays. Firmware
+design included  graphics processor microcode, image transformation
+microcode, and operator input device scanning firmware.  Software system
+development included screen management software, simulation software,
+event management  software, image processing software, device drivers
+and a multi-tasking kernel. Software based on 68000 VME  cards and VAXs
+running VAXEln. Responsible for code management and performance
+analysis. Staff member  assisting in VAX computer operations and CAE
+operations. Top Secret clearance with Extended Background 
+Investigation. 
+
+Textrum Industries 1982 - 1983 
+
+Responsible for hardware and software design of Textrum's energy
+management system. Designed system  software (6802), man-machine
+interface, peripheral interface hardware, relay control and temperature 
+measurement hardware, and network communications protocol. 
+
+Pennsylvania State University 1980 - 1982 
+
+Designed hardware and software (6502/6809) for a data switch and data
+multiplexer used to connect remote  terminals to Engineering Computer
+Laboratory computers. B.S.E.E. 1981 

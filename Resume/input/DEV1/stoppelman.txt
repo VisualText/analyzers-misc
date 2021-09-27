@@ -1,0 +1,94 @@
+Jeremy R. Stoppelman
+408 E. Springfield Ave #207, Champaign, IL 61820
+stoppelm@uiuc.edu || (217) 352-4114
+
+Objectives:
+
+To acquire a software development position that builds upon my substantial
+technical expertise and creativity.
+
+Qualifications:
+
+   * Programming Languages: C/C++, x86 Assembly, OpenGL, Glut, VHDL, ML,
+     APL, Windows API, HTML, Pascal.
+   * Platforms: Windows 9x, Unix/X-Windows, Windows 3.x, DOS.
+
+Education:
+
+   * Computer Engineering Senior at The University of Illinois;
+     Urbana-Champaign
+     Minor: Technology Management
+     Graduation date: Aug 1999
+     GPA: 3.68 (4.0 scale)
+   * Graduate of Langley High School; McLean, Virginia
+     Class of 1995
+     Advanced Studies Diploma, GPA: 3.5 (4.0 scale)
+
+Honors and Activities:
+
+   * Dean's List (6 semesters), ECE291 Teaching Assistant, Best Overall
+     Project Award (ECE 291), Representative on the Electrical and Computer
+     Engineering Student Advisory Committee (3-years), Anderson Consulting
+     Outstanding Student Award ('98 and '99), Founding Member and Former
+     Pres. of Visionaries (Investing Club), James Scholar, ECE Freshman
+     Mentor, Guest Author IEEE Newsletter (March 98), Eta Kappa Nu (ECE
+     Honor Society), Phi Eta Sigma (Freshman Honor Society), Alpha Lambda
+     Delta (Freshman Honor Society), AP Scholar.
+
+Professional Experience:
+
+*Program Manager (Intern)
+MICROSOFT CORPORATION
+May 1998 - August 1998
+
+   * Was the sole "owner" of the monitoring system for MS Search. Developed
+     a detailed monitoring specification document. Document included both
+     general requirements and detailed functional specifications. Organized
+     and ran cross-group meetings to ensure that the monitoring system met
+     the needs of the end-users. Oversaw development and test activities.
+     Maintained project focus, established priorities, and resolved
+     problems.
+
+*International Operations Engineer (Intern)
+UUNET TECHNOLOGIES
+May 1997 - August 1997
+
+   * Assisted in the build-out and maintenance of UUNET's International
+     Data Network. Interacted with and observed network engineering staff
+     as they implemented and deployed new networking technologies.
+     Conducted integrity audits of International Operation's network
+     deployment data, and developed simple PERL tools.
+
+*Network Operations Center Engineer (Intern)
+UUNET TECHNOLOGIES
+May 1996 - August 1996
+
+   * Assuming the full responsibilities of a Network Operations Center
+     Engineer, I quickly learned the basics of TCP/IP networking and
+     troubleshooting. I assisted in the maintenance of a nationwide,
+     high-speed, network backbone. Became familiar with: routers, switches,
+     CSU/DSU's, T-1's, DS-3's, frame relay, PPP, HDLC,ISDN, 56K, etc.
+
+*Sales Associate
+COMPUTER CITY
+May 1995 - August 1995
+
+   * Working as a computer salesman I was exposed to the art of making a
+     deal and successful selling. This position allowed me to expand my
+     interpersonal communication skills. In dealing with a variety of
+     customers I acquired the ability to relate high technology to the
+     layman.
+
+Related Coursework:
+
+   * CS 225 - Data Structures using C++.
+   * CS 223 - C++ Programming Laboratory.
+   * ECE 291 - x86 Assembly Language Programming.
+   * CS 318 - Computer Graphics.
+   * CS 338 - TCP/IP Networking in Unix.
+   * CS 321 - Programming Languages (Intro to Compilers).
+   * ECE 312 - Microprocessor Architecture.
+   * BA 295a - Organizing For Innovation.
+   * BA 295b - New Product Marketing.
+   * BA 295c - Business Process Modeling.
+   * ACCY 200 - Basic Accounting Principles.

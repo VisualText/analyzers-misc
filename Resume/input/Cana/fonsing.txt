@@ -1,0 +1,133 @@
+[Headhunter.net Homepage] [Find Jobs] [Find Resumes] [My Stuff] [Get Help]
+
+  [Image]                              [Image]
+
+Find Résumés : Résumé Details
+
+Application Developer
+ Brian Fon-Sing
+
+ 301-4758 Grange Street Tel: (604) 438-8834
+ Burnaby, BC V5H 1R2 e-mail: bfonsing@hotmail.com
+
+ OBJECTIVE
+
+ To obtain employment working with Visual Basic, Oracle and JAVA for the
+ purpose of developing business solutions with a progressive company in
+ the IT industry where hard work and dedication is rewarded and
+ recognized.
+
+ INFORMATION TECHNOLOGY SKILLS AND DEVELOPMENT
+
+ Learned how to install, configure and migrate to Microsoft Exchange
+ Server 5.0 as part of the MCSE program
+
+ Installed a two computer home based LAN using NT Server/Workstation 4.0
+
+ Developed a merchandise section of a restaurant web site for a school
+ project with a team of five people using VBScript, D/HTML, JavaScript and
+ FrontPage98
+
+ Collaborated with three classmates to develop a client/server Virtual
+ Placement Agency (VPA) using Visual Basic 6.0, ActiveX components, Active
+ Server Pages (ASP) and Access 97. This application was deployed over the
+ Internet using Microsoft Transaction Server (MTS) and Internet
+ Information Server 4.0 (IIS)
+
+ Converted the above VPA , with four teammates, using Object Oriented
+ Programming in JAVA, JDBC, JDK and IBM VisualAge for JAVA, JavaBeans and
+ applets
+
+ Built a Web based Project Tracking System using Oracle8, PL/SQL,
+ Developer 2000 and Oracle Web Application Server. This application was
+ deployed over the Web using a 3-tier, thin client, Network Computing
+ Architecture (NCA) system
+
+ Methodologies used included Microsoft Solutions Framework (MSF), Unified
+ Modelling Language 1.2 (UML), GUIDS, Visual Modeler and a response to a
+ Request for Proposal (RFP)
+
+ WORK EXPERIENCE
+
+ 1995-1998 Senior Manager in Training
+ Richmond, BC Future Shop
+
+ Promoted from video sales to Department Supervisor and Manager in
+ Training in second year while maintaining above average commissions
+ Brought Video Department to and maintained top four position in region in
+ sales volume
+ Increased department and store results in sales, extended service
+ programs, merchandising, credit penetration and gross margin by 10%
+ Managed 55 employees, including sales, customer service and music staff
+ Developed and motivated six new employees through product knowledge and
+ sales training
+
+ 1993-1995 International Exchange Programme Administrator
+ Montreal, PQ Concordia University
+
+ Reduced acceptance time for incoming students by coordinating foreign
+ credit equivalency with the Registrar's Office
+ Promoted and maintained relationships with foreign-partner exchange
+ schools leading to an increased intake of foreign students
+ Negotiated housing contract with local apartment manager for foreign
+ students
+ Increased outgoing students by 30% through hosting information meetings
+ on campus
+ Co-coordinated organization of China-Canada National Conference in
+ Vancouver with the University of British Columbia
+
+ 1988-1990 Volunteer Trainee/Summer
+ Island of Mauritius KPMG: Peat Marwick Chartered Accountants
+
+ Developed organizational and detail skills by by performing bank
+ reconciliations and castings
+ Posted journal entries at two client sites
+ Performed word processing and spreadsheet duties
+
+ EDUCATION/CERTIFICATION
+
+ 1999 - present Applied Information Technology Diploma in January 2000
+ Vancouver, BC Information Technology Institute
+
+ 1999 MCSE (Exchange Server 5.0), MCP, Network+, A+
+ Richmond, BC Northwest Digital Systems
+
+ 1993 Bachelor of Commerce (Marketing)
+ Montreal, PQ Concordia University
+
+ SPECIAL PROJECT
+
+ 1994 Co-Author
+ Montreal, PQ Concordia University
+
+ Co-wrote Management Case: "Jacques Cartier Pizza" with Didier Pomerleau.
+ Prepared for Family Business Management Concepts and Practice by A.B.
+ Ibrahim and W.H. Ellis, published by Kendall/Hunt: 1994.
+
+ EXTRACURRICULAR ACTIVITY
+
+ 1999 Participated in 5km race to raise funds for the Canadian Cancer
+ Society
+
+ REFERENCES
+
+ Available upon request
+
+ Details
+   Desired Job Type: Full Time                      Location:CA-BC-Burnaby
+  Desired Employment
+               Type: Employee                       Relocate:Country
+             Degree: 4 Year Degree               Will Travel:Negligible
+
+         Experience: At Least 3              Citizen/SecurityNo/No
+                     Years                         Clearance:
+ Contact
+            Company:
+              Email: bfonsing@hotmail.com
+               Name: Brian Fon-Sing
+              Phone: (604) 438-8834
+                Fax:
+       Contact Type: Job Seeker
+ Miscellaneous
+         Categories: Computer,Sales
+        Last Change: 1999/08/17 23:54:27

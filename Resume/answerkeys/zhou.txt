@@ -1,0 +1,45 @@
+
+CONTACT:
+
+Contact Name: Hong Zhou
+First Name: Hong
+Last Name: Zhou
+
+State: CA
+Zip: 90291
+Email:       z1m06@ttacs.ttu.edu
+
+EDUCATION:
+
+Date: Aug. 96~May 98
+School Name: Texas Tech University
+School Location: Texas  
+Degree: MS
+Major: Computer Science
+
+Date: Aug. 95~May 96   
+School Name: Texas Tech University
+School Location: Texas   
+Degree: Graduate Student
+Major: Civil Engineering
+
+Date: May 96
+School Name: Xian Jiaotong University
+Degree: BS
+Major: Applied Mechanics    
+
+EXPERIENCE:
+
+Date: Aug 96 ~ May 98
+Company: Graduate School Texas Tech University
+Position: Computer Programmer/ Webmaster
+
+Date: Jan. 96 ~ Aug 96
+Company: Wind Engineering Research Center Texas Tech University
+Position: Computer Programmer
+
+Date: July 88~May 95
+Company: Xian Coal Mining Machinery Company
+Position: Mechanical Engineer/Software Engineer
+Location: xian Shaanxi, China
+

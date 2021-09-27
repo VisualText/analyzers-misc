@@ -1,0 +1,120 @@
+[Headhunter.net Homepage] [Find Jobs] [Find Resumes] [My Stuff] [Get Help]
+
+  [Image]                              [Image]
+
+Find Résumés : Résumé Details
+
+Application Developer
+ Stephen Pan
+ #103-5350 Vine St.  Vancouver, BC  V6M 3Z8  (604) 267-0932
+ pan@axion.net
+
+ Objective:  To obtain a challenging position as an application
+ developer in a progressive and innovative company, where my excellent
+ technical, communication and interpersonal skills can be utilized.
+
+ Education:  Applied Information Technology Diploma
+ Information Technology Institute, Vancouver, BC  July 1999
+
+ Bachelor of Science
+ University of Alberta, Edmonton, AB 1992
+
+ Work Experience:
+ BC Telecom 1997-98
+ SAP Project Clerk, Burnaby, BC
+ ? Maintained efficient operation of a 200+ personnel office.
+ ? Prepared monthly financial reports for employee budgets/wages.
+ ? Created PowerPoint presentations for management team members
+ that were used at Comdex 98 (Los Angeles).
+ ? Tested/entered data for SAP R/3 modules.
+ ? Received a BCTEL Team Recognition Award.
+
+ Kamiyubetsu/Shimokawa Board of Education 1992-95
+ English Teacher, Japan
+ ? Prepared and taught English classes in the Japanese public
+ school system (K-12).
+ ? Translated documents/speech, judged English speech contests
+ and organized international events.
+ ? Proposed and actualized a 15 day tour of Western Canada to the
+ town council.  Guided a group of 12 town dignitaries.
+ ? Founded the sister-town relationship between Shimokawa,
+ Hokkaido and Kenora, Ontario (continuing member).
+
+ Painter’s Lodge/Anchor Inn Charter’s/River’s Inlet Fishing Lodge
+ 1986-92
+ Sportfishing Guide, Campbell River, BC
+ ? Provided guided fishing/sightseeing tours in the Georgia
+ Strait area.
+ ? Ensured guests’ safety and well-being for the duration of the
+ tour (1-7 days).
+
+ IT Skills & Experience:
+ SAP
+ Involved in a 2 year SAP R/3 implementation project at BC Telecom.
+ Tested various modules (HR, SD, MM, PS, FI) for possible errors and
+ security access clearance.  Flagged the transaction forms that had
+ incorrect business rules and notified on-site SAP consultants.  Entered
+ billing customers’ of BCTEL into the new SAP system.
+
+ Visual Basic
+ Developed a server-side business application using VB 5.0.  The job
+ placement application was then posted to a web-site for virtual on-line
+ use by implementing Active Server Pages.  Access was used as the
+ back-end DB with updates made by using SQL.
+
+ JAVA
+ Developed an Explorer-based internet application using Java, JavaBeans
+ and applets.  Redesigned previous internet applications by converting
+ VB codes to Java script, Java applets and converted ODBC access to JDBC
+ DB access.
+
+ Oracle
+ Implemented an enterprise tracking system application using Oracle’s
+ 3-tier, thin client, NCA over the web.  Using SQL and PL/SQL the DB
+ objects were created.  The application was then deployed over the web
+ using various components of Oracle’s Web Developer Suite 2.1.
+
+ Windows NT Network
+ Built and configured a Windows NT Server that hosted internet
+ applications.  Connected the server to the internet using TCP/IP and
+ configured IIS and MTS for security measures.
+
+ Internet
+ Created an outdoor adventure web presence prototype that was presented
+ to a business related client.  The site required skill in the use of
+ HTML, VBScript, Access,  FrontPage and the integration of ActiveX
+ components and scripts. Currently developing a web presence for a
+ Vancouver based cruise/tour company.
+
+ Interests & Activities
+ Avid outdoorsman.  Enjoy such activities as hiking/camping,
+ fishing/hunting, snowboarding, golfing, and motorcycling.  Weight-train
+ on a regular basis and have played squash at the provincial level.
+ Further interests include cooking, reading, playing the piano (grade 9
+ completed) and listening to all types of music.  When time permits,
+ enjoy travelling and have visited over 20 countries to date.
+
+ References:  Available upon request.
+
+ Available Starting Date:  Immediately.
+
+ Details
+    Desired Job
+          Type: Full Time                         Location:CA-BC-Vancouver
+        Desired
+     Employment Employee or                       Relocate:World
+          Type: Contractor
+        Degree: 4 Year Degree                  Will Travel:Up to 25%
+
+    Experience: At Least 1 Year            Citizen/SecurityYes/No
+                                                 Clearance:
+ Contact
+       Company:
+         Email: pan@axion.net
+          Name: Stephen Pan
+         Phone: (604)-267-0932
+           Fax:
+  Contact Type: Job Seeker
+ Miscellaneous
+    Categories: Computer,Consulting,Financial,Internet,Telecommunications
+   Last Change: 1999/08/05 02:51:09

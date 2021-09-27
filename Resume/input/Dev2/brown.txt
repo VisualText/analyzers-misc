@@ -1,0 +1,149 @@
+                              Daniel E. Brown
+
+                           5896 WinterGreen Dr.
+
+                           Newark, CA 94560-4841
+
+                    Email: DanEdBrown@WorldNet.Att.Net
+
+
+
+Objective
+
+I am looking for software engineering consulting work.
+
+Background and Experience
+
+I have been programming computers for about Seventeen years. I have
+considerable experience with embedded applications and PC systems, under
+DOS and Windows. Extensive system programming in both DOS and Windows has
+given me in depth knowledge to the point where I am considered expert by my
+colleagues. I have considerable skill and experience in the following
+areas:
+
+   * Device Drivers and related items for DOS, Windows and embedded
+     systems. - I have worked with and have an extensive knowledge of
+     printer languages: HP-PCL, EPSON, POSTSCRIPT, OKI, etc.; have written
+     a number of modem drivers for fax and data communication, using the
+     Hayes AT command set as well as the fax CLASS II extensions; and have
+     developed a number of serial I/O routines, for both TSR as well as
+     application levels.
+   * ROM BIOS software for PC clones.
+   * PC graphics. - I have programmed more than a dozen display adapters
+     for DOS systems, including VGA which gave me extensive knowledge of
+     the devices. I’m also an expert in the Windows GDI.
+   * Hardware control applications. - While at Award Software and Osborne I
+     wrote software (firmware) for a microprocessor based keyboard
+     controller and a hard disk controller. In addition I developed
+     software to control an array of specialized hardware.
+   * Data communication and telephony. - In addition to my work with device
+     drivers I have worked with communication at the systems and
+     applications levels while at Fujitsu and I have become familiar with
+     wireless technology through my contract work at Wireless Access.
+   * Database access methods. - I have developed some special purpose
+     access methods for various projects of my own and am adept in the use
+     of a number of popular commercially available data base packages such
+     as DBASE, Code Base, and MS Access.
+   * Software debugging tools. - I have developed a number of powerful
+     debugging tools.
+
+I consider myself an application software engineer as well as a system
+person and have often held the position of the chief product architect. I
+have developed products in the areas of word processing, pen computing and
+MIS systems.
+
+I am an accomplished programmer in 80x86 assembler, C and C++, with
+extensive knowledge of the application programming interfaces to DOS,
+Windows, OLE, etc. I am familiar with various other computers and
+programming languages and have used a number of common software development
+products such as DBASE, BORLAND C++ Compiler, etc.
+
+I worked as an electronic technician for several years before becoming a
+programmer. This experience left me with the ability to read schematics,
+timing diagrams, and other hardware documentation, and skill in the use of
+logic analyzers, scopes, ICEs, etc. These hardware related skills have
+proved to be very valuable to me as a programmer: enabling me to relate to
+the hardware in driver and interfacing work, and providing me with a means
+to check-out hardware/software interactions in embedded microprocessors and
+prototype work.
+
+Work History
+
+Nov 1994 - Present Wireless Access, 2101 Tasman Dr., Santa Clara, CA
+
+Senior Software Architect
+
+Responsible for the Software Architecture of the Skywriter (SkyTel’s 2-way
+Reflex-50 pager), this included the User Interface and the Real Time
+Operating System. I designed and implemented most of the OS, message file
+system, external and internal diagnostics, network monitoring software (in
+the pager), musical messages and alerts, FLASH download program and a
+serial port protocol. I worked very closely with the hardware engineers and
+outside suppliers.
+
+
+
+Jan 1990 - Aug. 1994 Communication Intelligence Corporation, 275 Shoreline
+Drive, Redwood Shores, CA
+
+Software Architect
+
+Designed and implemented most of the following products: PenDOS operating
+environment for the pen, YPad-the electronic note taker, protect mode
+loader and TSR work, PenDOS application programming interface, DOS and
+Windows install programs. Used Windows OLE. Optimized handwriting
+recognition and stroke compression software.
+
+
+
+July 1989 - Dec. 1992 Consulting, Fremont, CA
+
+Fixed the 386 BIOS for Award Software, FAX scaling and compression for
+Cygnet (Everex), Page Preview source code documentation for MicroPro, word
+processor optimization for PowerUp and worked on embedded systems (pagers)
+for Wireless Access.
+
+
+
+Jan 1988 - July 1989 MicroPro International Corporation, San Rafael, CA
+
+Director of Technology
+
+Designed and implemented WordStar's Advanced Page Preview. Directed a group
+of 4 to build an interactive graphics WordStar (ie. WYSIWYG).
+
+
+
+Nov. 1985 - Jan 1988 Award Software Inc., Los Gatos, CA
+
+Software Development Manager
+
+Wrote the PC-AT and PC-EGA BIOS ROM software for PC clones. Designed and
+implemented a page preview for a batch-typesetting program. This was sold
+to MicroPro as PageSetter.
+
+
+
+Oct. 1983 - Oct. 1985 Fujitsu Micro Systems, San Jose, CA
+
+Project Manager and Senior Programmer
+
+Managed the development of six main frame communication packages from three
+venders. This included setup of the main frame, testing, and releasing.
+Also managed the PC to PC local area network project.
+
+
+
+June 1981 - Oct. 1983 Osborne Computer Corporation, Hayward, CA
+
+Project Manager and Senior Programmer
+
+Designed and implemented the Osborne 1 and VIXEN system software. This
+included the ROM BIOS and all the utilities. Wrote diagnostics for the
+Osborne 1, VIXEN and double density floppy disk controllers. Wrote
+interface software a hard disk network using Osbornes and Corvus disk
+drives.
+
+
+
+[Image]

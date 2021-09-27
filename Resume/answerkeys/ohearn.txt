@@ -1,0 +1,55 @@
+
+CONTACT:
+
+First Name: Stephen
+Middle Name: L.  
+Last Name: O'Hearn
+
+Number:      12315
+Street:      Manvel
+Road:        Lane
+City:        Bowie
+State:       Maryland
+Zip:         20715
+Email:       soh@clark.net
+
+EDUCATION:
+
+Date: 1983
+School Name: The George Washington University
+Degree: B.B.A.
+Major: Business Administration
+Minor: Information Processing  
+
+EXPERIENCE:
+
+Date: 1995 - Present
+Company: World Bank
+Position: Independent Computer Consultant
+
+Date: 1993 - 1995
+Company: Boeing Information Services, Inc
+Position: Business Systems Programmer / Analyst
+
+Date: 1993 - Present
+Company: Reserve Component Automation System
+
+Date: 1994
+Company: NASA Information Resource and Management Systems
+
+Date: 1993 - 1994
+Company: Atlantic Research Corporation
+Position: Independent Consultant
+
+Date: 1983 - 1993
+Company: Atlantic Research Corporation
+Position: Senior Staff
+
+Date: 1988-91
+Company: NASA Space Station Technical Mgmt Info Support
+
+Date: 1983-84,86,90
+Company: U.S. Army Foreign Science and Technology Center
+
+Date: 1985-1988
+Company: NASA Office of Aeronautics and Space Technology

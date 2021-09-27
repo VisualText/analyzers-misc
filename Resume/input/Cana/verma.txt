@@ -1,0 +1,187 @@
+[Headhunter.net Homepage] [Find Jobs] [Find Resumes] [My Stuff] [Get Help]
+
+  [Image]                              [Image]
+
+Find Résumés : Résumé Details
+
+Software Engineer
+ Mohit Verma 6730 Dow Avenue, #7, Burnaby, BC V5H 3C9,CANADA Phone: 604
+ 436-3190
+ Summary
+ Several years experience in UNIX/C/C++, Windows NT and software
+ engineering. Proficient in several programming languages including C,
+ C++, Pascal, and Ada. Experienced in full life-cycle development of
+ software products. Experienced in software testing methodologies, Test
+ Plan generation, automation tools. Excellent System administration skills
+ on NT, UNIX, and Netware platforms. Excellent knowledge of
+ UNIX , VMS, Windows NT/95, Netware, and Macintosh operating systems.
+ Programmed on several platforms. Strong training, leadership and
+ documentation skills. Experienced in Performance tuning of applications,
+ web site development and maintenance using HTML. Strong skills in
+ Artificial Intelligence and Applied Mathematical techniques. Excellent
+ interpersonal and communication skills.
+
+ Education
+ Brandeis University, Waltham, MA
+ M.A. Computer Science,1996.
+
+ Washington University, St. Louis, MO
+ B.S.(Double Major) Computer and Applied Science, 1989.
+
+ Honors and Distinctions
+ Awarded Merit Scholarship in Expert Systems
+ Dean’s List Student
+ Research/Teaching Assistantship
+
+ Technical Skills
+ Computer Languages: C,C++, PROLOG, LISP, PASCAL, ADA, CLPR, COBOL, BASIC,
+ ASSEMBLY, HTML, SPSS, KORN SHELL, TEX, NROFF/TROFF, MOTIF, YACC,LEX,
+ WINRUNNER, XRUNNER, SQL
+ Operating Systems: UNIX(SOLARIS, SUN-OS, HP-UX, BSD, IRIX, AIX, LINUX),
+ VMS, MS-DOS, WINDOWS NT/95, NETWARE, OS-9, NEXTSTEP, MACINTOSH, MVS
+ Hardware: IBM, VAX, SUN, APPLE, NEXT, HP, MASPAR, SGI
+ Databases:Sybase, Oracle
+ Software: VISIO, MICROSOFT OFFICE, PROJECT 98, LOTUS
+
+ Relevant Experience
+ Mobile Data Solutions Inc. March 1999-Present
+ Richmond, BC
+ Verification Engineer: Currently working as Verification Engineer in the
+ Telco and Cable group. Prepare a test strategy for each project and test
+ plan, develop and maintain test cases, automate testing where
+ appropriate, participate in system integration and testing to ensure
+ proper coverage for risk reduction, participate in Y2K testing, prepare
+ and maintain a test lab, prepare builds for projects prior to release to
+ customers, work with in-house configuration management tools, and
+ participate in the contract and customer document reviews.
+
+ GTE Enterprise Solutions September 1998-December 1998
+ Burnaby, BC
+ Configuration Engineer: Configuration Engineer in the QA department.
+ Responsible for developing Winrunner scripts for existing products and
+ new releases, performing hardware and software benchmarks to ascertain if
+ the contract requirements are met. Worked with network configuration
+ tools. Lead the Performance team, interacted with the development,
+ database management, system implementation and the product management
+ team, generated/implemented new ideas to improve the system performance.
+ Produced technical reports documenting the possible enhancements and
+ optimizations.
+
+ Knowledge Technologies International 1998
+ Burlington, MA
+ Release/QA Engineer: Worked with Quality Assurance tools(XRUNNER, Bug
+ tracking tools) to test new products and new releases of in-house
+ products on several UNIX platforms (IBM-AIX(4.2,4.3), HP-UX (9.05,10.20),
+ SOLARIS(2.5, 2.6), SUN-OS(5.6), SGI-IRIX(6.2, 6.4, 6.5)). Worked closely
+ with the developers to analyse the bugs and develop
+ workarounds/solutions. Provided technical support within the group.
+
+ Brandeis University 1998
+ Waltham, MA
+ System Administrator: Setup and Managed Windows NT LAN. Provided TCP/IP
+ connectivity, internet access. Performed backups, upgrades of
+ hardware/software as required by the network, group. Provided support,
+ training and troubleshooting to users.
+
+ Price Waterhouse LLP 1996-1997
+ Boston, MA
+ Senior Systems Analyst: Lead programmer for Executive Services-Personal
+ Financial Products group. Key member of the software engineering team.
+ Responsible for the full life-cycle development of several
+ Financial Planning products for a variety of clients in a
+ UNIX/C/C++/Sybase environment. Design, implement, test and debug the
+ products as per client requirements and specifications. Responsible for
+ the development of the Financial Planning reports using NROFF/TROFF.
+ Intensively interact with the clients providing product support and
+ ensuring client satisfaction.
+ System administrator for Windows NT/Solaris LAN. Setup and manage the
+ networks providing inter-network connectivity. Perform backups and
+ provide technical support/training within the group. System Analysis of
+ the system specifications, recommending any changes needed and training
+ user/staff. Participated in System design which included database design,
+ defining programming environment and other requirements. Responsible for
+ selection and upgrades of hardware/software and peripherals. Prepare
+ Technical Documentation for the Products/hardware. Worked with project
+ management tools.
+
+ Brandeis University. 1993-1996
+ Heller Graduate School.
+ Network Support Consultant: Setup and Administered Windows NT LAN.
+ Provided Troubleshooting, Installation, other User Support. Selected to
+ design and setup Local Web Site.Setup MS Mail Server.
+ Data Analyst: Analyzed data for a research project using PARADOX and
+ SPSS.
+ Academic Computing Services.
+ Consultant Programmer: Supported Faculty, Staff and Student users of
+ Macintosh, PC compatible microcomputers, Netware and the VAX. Provided
+ troubleshooting, installation, and technical support. Programmed in VMS,
+ MS-DOS/Windows 95, and Macintosh environments.
+ Rabb School of Summer, Special and Continuing Studies, Summer Odyssey
+ Program.
+ Instructor: Selected to teach an introductory Computer Science research
+ course to academically gifted students. Directed students through their
+ assignments and projects. Conducted exams, quizzes.
+ Computer Science Department.
+ Teaching Assistant: Taught several classes in Parallel Computing,
+ Automata Theory and Logic
+ Programming to undergraduate and graduate students.Evaluated assignments,
+ exams and projects.
+ Biochemistry Department.
+ Programmer: Researched and Documented the RS/1 graphics package for a
+ Biomedical Research Lab.
+ Developed programs in RPL programming language to meet the specific needs
+ of the Lab.
+
+ Infratech Systems, New Delhi, India 1990,1993
+ Sr. Systems Programmer: Wrote device drivers, developed communication
+ interfaces, developed statistical packages. Programmed in C, Pascal and
+ command languages in the Unix/MS-DOS environments. Promoted
+ from Systems Programmer to Senior Systems Programmer.
+
+ Delhi Institute of Technology, New Delhi, India 1993
+ Instructor: Selected to teach an introductory course in Artificial
+ Intelligence using the Lisp programming language to upper level Computer
+ Science undergraduates. Conducted examinations. Directed student
+ projects.
+
+ Logic Programming Lab, School of Computing Science 1991-1992
+ Simon Fraser University, Burnaby, BC, Canada.
+ Research/Teaching Assistant: Researched the area of Constraint-Based
+ Reasoning and Natural Language Systems using Prolog programming language.
+ Consultant/programmer for Computer Science Lab; supported undergraduate
+ users. Awarded a merit scholarship for expert systems.
+
+ Computer Science Department, Washington University 1989-1991
+ Research/Teaching Assistant: Researched and Documented the OS-9 operating
+ system for the KUMON project. Wrote device drivers. Researched the area
+ of Genetic Algorithms and its applications to Pattern
+ Recognition. Consultant/Programmer for Computer Science Lab; supported
+ undergraduate and graduate users. Evaluated assignments, exams, and
+ projects for graduate and undergraduate computer science courses.
+
+ Publications
+ Technical Report 91-35, Department of Computer Science,Washington
+ University
+
+ References available upon request.
+
+ Details
+ Desired Job Type: Full Time                        Location:CA-BC-Burnaby
+           Desired
+  Employment Type: Employee                         Relocate:World
+
+           Degree: Graduate                      Will Travel:Up to 50%
+                   Degree
+
+       Experience: At Least 3     Citizen/Security Clearance:No/No
+                   Years
+ Contact
+          Company:
+            Email: mverma@my-dejanews.com
+             Name: mverma
+            Phone: 604 4363190
+              Fax:
+     Contact Type: Job Seeker
+ Miscellaneous
+       Categories: Computer,Financial,Professional,Telecommunications
+      Last Change: 1999/08/06 05:13:21

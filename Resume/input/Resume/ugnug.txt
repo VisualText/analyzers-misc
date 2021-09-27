@@ -1,0 +1,84 @@
+AMNON MEYERS
+
+1261 Starlit Drive
+Laguna Beach, California 92651
+work: (310)812-9750
+home: (714) 497-5318
+
+
+SKILLS
+
+C++: SunOS C++, Symantec C/C++.
+Java: SunOS Java, Symantec Visual Cafe, Symantec Cafe.
+C: (9 years + 2 years coursework).  Sun Ultra, Sun Sparc.
+Db: Informix/Illustra 3.2 on Sun Ultra Sparc.
+Web: JavaScript, Netscape Communicator, HTML, CGI.
+Lisp: (8 years) Lisp and Common Lisp environments.
+Other Tools: Perl, UNIX tools, MS Word, Canvas, Excel, and many others.
+Other languages: Prolog, Fortran, Pascal, APL, Basic, assembly language.
+Other machines: Macintosh, PC, VAX, Integrated Solutions.
+
+
+EDUCATION
+
+[1] MS in Computer Science, UC Berkeley, California.  Jun 82.
+[2] MS in Organic Chemistry, UC Berkeley, California.  Dec 76.
+[3] BS in Biology, MIT, Cambridge, Massachusetts.  Jun 73.
+
+[4] Advanced C++ (40 hr).   C++ for C Programmers (30 hr) (TRW training courses).
+[5] Java computer-based training courses at TRW.
+[6] Galaxy GUI builder training by Visix at TRW. Apr 1994.
+[7] McDonnell Douglas courses in SEI, presentation skills. 1988-present.
+[8] UCI Extension.  Irvine, California.  Programming in Prolog. 1991.
+[9] UCB Extension.  Berkeley, California. Computer Science courses. 1977-79.
+
+WORK EXPERIENCE
+
+TRW Space & Defense, Redondo Beach, CA.  Open-Source Intelligence Technologies.  Senior Engr/Scientist.  Sep 93-present.
+
+Responsible for automated document processing, information extraction, and system integration in an end-to-end open-source processing, storage, and dissemination IR&D project (InfoWeb).  Designed and implemented a new Deft text analysis system and Swift profiling system.   Developed and maintained TRW's Core DEFT software system and co-developed applications.  Assisted in developing a natural language processing (NLP) parser for DEFT.  Helped develop applications for TRW internal and external customers.  Participated in $10M win of a Digital Library System contract from a major Southern California news organization.  Contributed to proposals, presentations, and demonstrations. Converted InfoWeb subsystems from C to C++ and enhanced the Java client GUI.  Installed, administered, and built Informix/Illustra databases on Sparc Ultra.
+
+McDonnell Douglas Defense & Electronic Systems Company, Santa Ana, California and Huntington Beach, California.  Advanced Software Technologies Lab.  Senior Engineer/Scientist.  Dec 87-Sep 93.
+
+Conducted artificial intelligence (AI) system development, co-creating TexUS (Text Understanding System). (Sparcstation, C) and extending the VOX (Vocabulary Extension) system and approach (Symbolics, Common Lisp).  Co-led a corporate project for NLP and speech understanding.  Led R&D projects and tasks in military intelligence processing and intelligent human machine interfaces.  Integrated message analysis and expert system-based situation assessment.  Supported SEI Level III self-assessment.  Participated in proposals, presentations, and demonstrations.
+
+UC Irvine, AI Project, Dept. of Information and Computer Science.  Programmer/Analyst III.  Jul 82-Dec 87.
+
+Developed AI systems and theories in NLP, knowledge representation, and knowledge acquisition. 1983-1987. Designed and implemented the VOX NLP system.  Created the Conceptual Grammar knowledge representation framework.  Oversaw message processing contract with DARPA and Naval Ocean Systems Center (NOSC, in San Diego) (Decsystem2020, UCI-MLISP and Symbolics, Zetalisp).  Converted the World Modeling System (CMU) to use UNIX 4.2 interprocess communication (Integrated Solutions, UNIX, C). 1982-1983 Maintained the NOMAD Navy message processing system under contract to NOSC (Decsystem2020, UCI-MLISP). Designed and implemented PSYCHO, a system for real-time testing of human inferencing during reading (Apple, Basic).
+
+UC Berkeley, Dept. of Computer Science.  Research Assistant.  Sep 79-Jun 82.
+
+1980-1982 Co-implemented PLAIN compiler and run-time system (VAX, C).
+1979 Co-implemented threaded-code APL compiler (VAX, Fortran).
+
+UC Berkeley, Dept. of Chemistry.  RA; TA; Teaching Associate in Organic Chemistry.  Sep 74-Dec 78.
+
+PROFESSIONAL ORGANIZATIONS:	AAAI, ACL.
+
+PUBLICATIONS
+
+TexUS: Text Understanding System.  With David de Hilster.  Proceedings of the Fourth Message Understanding Conference (MUC-4).  DARPA.  Naval Command, Control & Ocean Surveillance Center (NCCOSC), San Diego, California.  Jun 1992.
+Heuristic Skimming of Voluminous Text.  With David de Hilster.  Natural Language Text Retrieval Workshop.  American Association for Artificial Intelligence (AAAI), Anaheim, California.  Jul 1991.
+INLET: Interactive Natural Language Engineering Tool.  With David de Hilster.  MUC-3.  DARPA.  Naval Ocean Systems Center (NOSC), San Diego, California.  May 1991.
+Lexical Acquisition Tools in VOX.  With Anne Knowles and Karen Ruoff.  Proceedings of the First International Language Acquisition Workshop.  International Joint Conference on Artificial Intelligence (IJCAI), Detroit, Michigan.  Aug 1989.
+Military Intelligence Advisory System & Message Analyzer. With Laurie Byrnes and Jon Lemelin.  Sixth Annual Workshop on C2 Decision Aiding.  Naval Ocean Systems Center.  San Diego, California.  Feb 1989.
+VOX:  An Extensible Natural Language Processor.  IJCAI, UCLA, Los Angeles, California.  Aug 1985.  Also, UCI Technical Report 85-02, Irvine, California.  Jan 1985.
+VOX Naval Text Understanding System.  With Beth Sundheim and Timothy W. Wadsworth.  Naval Ocean Systems Center (NOSC) Technical Report 1073.  San Diego, California. Jul 1985.
+Conceptual Grammar.  UCI Technical Report 215.  Dec 1983.
+NOMAD: A Navy Message Understanding System.  Proceedings of the Conference on Artificial Intelligence. Oakland Univ., Rochester, Michigan.  With R. Granger, G. Taylor, and R. Yoshii.  1983.  Also, UCI Technical Report 209.
+
+PRESENTATIONS
+
+TexUS: Text Understanding System.  MUC-4 at PRC.  McLean, Virginia.  Jun 1992.
+INLET: Interactive Natural Language Engineering Tool.  MUC-3, NOSC, San Diego, California.  May, 1991.
+Knowledge Acquisition Tools in VOX.  RADC NLP Workshop, Rome, New York.  Sep 1989.  Also, Message Understanding Conference (MUCK II), NOSC, San Diego, California.  Jun 1989.
+Understanding Free Text in Military Messages.  McDonnell Douglas, St. Louis, Missouri.  Sep  1989.
+Military Intelligence Processing System (exhibit).  IJCAI, Detroit, Michigan.  Aug 1989.
+VOX: An Extensible Natural Language Processor.
+	a.	McDonnell Douglas Astronautics Co., Huntington Beach, California.  Nov 1987.
+	b.	Message Understanding Conference (MUCK I). NOSC, San Diego, California.  Jun 1987.
+	c.	USC/ISI at Marina Del Rey, California.  Jun 1986.
+	d.	IJCAI at UCLA, California.  Aug  1985.
+	e.	Southern California AI Society (SCAIS), USC, California.  Apr 1985.
+	f.	NAVALEX, Technical Review, Washington D.C.  Dec 1984.
+NOMAD: A Navy Message Understanding System.  Conference on Artificial Intelligence, Oakland Univ., Rochester, Michigan. Apr 1983.

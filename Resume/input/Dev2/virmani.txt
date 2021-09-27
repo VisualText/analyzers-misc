@@ -1,0 +1,182 @@
+   [Photo]                       Vic Virmani                 [Greeting...]
+
+
+
+                    System Designer [+] Software Engineer
+   [Image]
+
+    Work Experience      Education          Skills         Contact Info
+   [Image]
+
+              1997 - 99      V Consulting
+              1997 - 97      RightPoint Software
+              1995 - 96      BarOn Motion Communication
+              1994 - 95      V Consulting
+              1991 - 94      Cadence Design Systems
+              1988 - 91      GTE Laboratories
+              1987 - 88      M.C.C.
+              1985 - 88      University of Texas at Austin
+              1980 - 85      Indian Institute of Technology
+   [Image]
+
+                                   [Image]
+
+   Work Experience
+
+   Nov. 97 - Present:           V Consulting             South Florida, FL
+
+   Software Development Engineer providing software systems planning and
+   development to several companies.
+
+   Developed modules for a Time Tracking web-based application using
+   Microsoft Visual InterDev 6.0, HTML, VBScript, JavaScript, Internet
+   Explorer, Netscape Communicator and IIS 4.0.
+
+   Developed core and GUI components for a Network Management product and
+   an Office Access Management product. Both using Visual C++ 5.0 & MFC.
+
+   Engaged for position setup and consulting at several other technology
+   companies.
+
+                                   [Image]
+   Jan. 97 - Aug. 97:       [RightPoint Software]            San Mateo, CA
+
+   RightPoint Software, formerly DataMind, provides tools and consulting to
+   data mining markets.
+
+   Senior Development Engineer in User Interface Engineering group.
+   Responsible for design and development of several components of DataMind
+   DataCruncher Client product.
+
+   Developed using MS Visual C++ 4.0 and MFC, MS Visual SourceSafe for
+   source control, PVCS for incident reporting, Objective Grid and Olectra
+   Chart DLLs for specialized functionality.
+
+                                   [Image]
+
+   May 95 - Dec 96:     [Image] BarOn Motion Communication   Palo Alto, CA
+
+   As a subsidiary of Israel-based Baron Technologies, Baron Motion
+   Communication provided contract software development and market research
+   for Baron Technologies innovative computer-user interface technologies.
+
+   Software Engineering Group: Involved in all software development for the
+   Motion Pen product. Product software contained a trainable hierarchical
+   recognizer for motion data from patented pen technology.
+
+   Architected a recognition OLE Server and client Active X Control in
+   Windows 95 using MS Visual C++ and MFC. Responsible for all aspects of
+   Motion Pen software including design, implementation and quality.
+
+                                   [Image]
+
+   Sep. 94 - Apr. 95:           V Consulting            Silicon Valley, CA
+
+   Contributed to two database related projects. The first used an RDBMS to
+   implement a workflow engine and SDK. The second used an RDBMS to build
+   an end-user multimedia database for advertising agencies.
+
+   This work used Oracle, Sybase, C++, and Visual Basic on Windows, Mac OS,
+   and Unix.
+
+                                   [Image]
+
+   June 91 - Aug. 94:         [Cadence Design Systems]        San Jose, CA
+
+   Cadence, with revenues exceeding a billion dollars, is the leader in
+   providing integrated-circuit and printed-circuit-board design tools and
+   consulting.
+
+   Systems Group: As a Senior Member of the Technical Staff worked on open
+   distributed multi-engine simulation workbench products [1] [2] . Main
+   responsibility was a waveform editing tool.
+
+   Involved in prototyping, enhancing, testing, debugging, porting, and
+   release building, of several component tools in many releases. These
+   tools developed in C and C++ varied in size and complexity. Improved
+   software by making strategic structural changes for easier enhancement
+   and maintenance.
+
+                                   [Image]
+
+   Aug. 88 - Apr. 91:            [GTE Laboratories]            Waltham, MA
+   [Image]
+
+   GTE Labs conducts R&D for GTE, a diversified 20 billion dollar
+   telecommunications company.
+
+   Intelligent Database Systems Department in Advanced Systems Lab : Member
+   of a team working on a Distributed Object Management project. Designed
+   and implemented a distributed object management system: a runtime
+   configurable network of Distributed Object Manager, DOM, processes that
+   supported multiple users and transparent distributed object-oriented
+   transaction-based programming.
+
+   Bridged Sybase SQL server, Ontos ODBMS, and HyperCard systems to DOM.
+   With these specialized DOMs constructed an Office Automation prototype
+   including multimedia data types.
+
+                                   [Image]
+
+   May 87 - July 88:              [M.C.C.]                      Austin, TX
+   [Image]
+
+   Funded by several computer companies and government agencies, MCC does
+   R&D in microelectronics and computers.
+
+   Experimental Systems Project: Research Assistant in the development of a
+   distributed C++-based operating system kernel for rapidly reconfigurable
+   modular multiprocessor hardware. Implemented task scheduling, memory
+   management, and dynamic incremental loading linking.
+
+                                   [Image]
+
+   Education
+
+   1985 - 88:    [Image] [The University of Texas at Austin]    Austin, TX
+
+           Master of Science in Electrical & Computer Engineering
+
+   [Image]
+
+   1980 - 85:     [Indian Institute of Technology]           Bombay, India
+
+              Bachelor of Technology in Electrical Engineering
+
+                                   [Image]
+
+   Skills
+
+   Microsoft Visual C++ 6.0, MFC, Win32 API & SDK, Visual InterDev 6.0,
+   Visual Basic 6.0, Windows 98 & NT, SUN Solaris, HP-UX, Linux, GNU Tools,
+   MacOS, MS SQL Sever, Oracle ProC, MS Access, SQL, ODBC, MS IIS, HTML,
+   VBScript, JavaScript, Perl, Java, MS Internet Explorer 5, TCP/IP, RPC,
+   OLE, ActiveX Controls, COM
+
+                      [Microsoft Certified Professional]
+
+   [Image]
+
+                                   [Image]
+
+   Contact Information
+
+                                (954 474 6552
+
+                        E-mail: v_virmani@bigfoot.com
+
+                   URL: http://www.bigfoot.com/~v_virmani/
+
+                            907 N.W. 111 th Avenue
+                            Plantation, FL 33324
+
+                          Resume in Word 97 Format
+
+                            Resume in Plain Text
+
+                                   [Image]
+
+      Last modified: July 5, 1999. Comments to v_virmani@bigfoot.com
+            Copyright © 1999 Vic Virmani. All Rights Reserved.
+
+Accessed [Image] times.

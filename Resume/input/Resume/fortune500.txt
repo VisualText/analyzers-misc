@@ -1,0 +1,803 @@
+General Motors
+Ford Motor
+Wal-Mart Stores
+Exxon
+General Electric
+Intl. Business Machines
+Citigroup
+Philip Morris
+Boeing
+AT&T
+Bank of America
+Mobil
+Hewlett-Packard
+State Farm Insurance Cos.
+Sears Roebuck
+E.I. du Pont de Nemours
+Proctor & Gamble
+TIAA-CREF
+Merrill Lynch
+Prudential Ins. Co. of America
+Kmart
+American International Group
+Chase Manhattan Corp.
+Texaco
+Bell Atlantic
+Fannie Mae
+Enron
+Compaq Computer
+Morgan Stanley Dean Witter
+Dayton Hudson
+J.C. Penney
+Home Depot
+Lucent Technologies
+Motorola
+SBC Communications
+Kroger
+Merck
+Chevron
+Metropolitan Life Insurance
+Intel
+Lockheed Martin
+Allstate
+United Technologies
+Bank One Corp.
+GTE
+United Parcel Service
+USX
+Safeway
+Costco
+ConAgra
+Johnson & Johnson
+BellSouth
+Walt Disney
+PepsiCo
+Ingram Micro
+First Union Corp.
+Cigna
+Caterpillar
+McKesson HBOC
+Loews
+Aetna
+Wells Fargo
+Xerox
+Sara Lee
+PG&E Corp.
+Lehman Brothers Holdings
+American Stores
+New York Life Insurance
+Columbia/HCA Healthcare
+Raytheon
+International Paper
+AMR
+American Express
+Coca-Cola
+Dow Chemical
+J.P. Morgan & Co.
+Bristol-Myers Squibb
+Dell Computer
+Freddie Mac
+MCI WorldCom
+Duke Energy
+UAL
+AutoNation
+United HealthCare
+Halliburton
+Supervalu
+Ameritech
+Sprint
+RJR Nabisco Holdings
+Electronic Data Systems
+Archer Daniels Midland
+Albertson's
+Cardinal Health
+FDX
+Federated Department Stores
+Alcoa
+Sysco
+Walgreen
+CVS
+AlliedSignal
+Fleming
+Hartford Financial Services
+Minnesota Mining & Mfg.
+Fred Meyer
+Texas Utilities
+Pfizer
+Northwestern Mutual Life Ins.
+Time Warner
+Microsoft
+Dynergy
+Delta Air Lines
+Berkshire Hathaway
+Deere
+Bergen Brunswig
+Winn-Dixie Stores
+Fluor
+American Home Products
+Emerson Electric
+Coca-Cola Enterprises
+May Department Stores
+Eastman Kodak
+Georgia-Pacific
+Atlantic Richfield
+Liberty Mutual Insurance Group
+Nationwide Ins. Enterprise
+IBP
+Dana
+Washington Mutual
+Waste Management
+Goodyear Tire & Rubber
+Johnson Controls
+UtiliCorp United
+Abbott Laboratories
+McDonald's
+US West
+Kimberly-Clark
+Lowe's
+Viacom
+Publix Super Markets
+Bankers Trust Corp.
+Tosco
+TRW
+Phillips Petroleum
+Textron
+Tech Data
+Entergy
+Houston Industries
+Southern
+Rite Aid
+Anheuser-Busch
+Toys 'R' Us
+Weyerhaeuser
+Mass. Mutual Life Ins.
+Union Pacific
+Whirlpool
+American General
+Warner-Lambert
+Edison International
+Gillette
+Eli Lilly
+Fleet Financial Group
+CSX
+Tenet Healthcare
+Sun Microsystems
+Humana
+Nike
+PacifiCare Health Systems
+PacifiCorp
+Limited
+H.J. Heinz
+St. Paul Cos.
+CBS
+Lear
+Gap
+Northwest Airlines
+Office Depot
+Colgate-Palmolive
+Burlington Northern Santa Fe
+John Hancock Mutual Life Ins.
+Northrop Grumman
+Foundation Health Systems
+Circuit City Group
+Manpower
+Farmland Industries
+Household International
+US Airways Group
+Monsanto
+AmeriSource Health
+CHS Electronics
+Tricon Global Restaurants
+Texas Instruments
+Cisco Systems
+Honeywell
+Bestfoods
+Best Buy
+Ultramar Diamond Shamrock
+Arrow Electronics
+Crown Cork & Seal
+Ingersoll-Rand
+Schering-Plough
+National City Corp.
+Rockwell International
+Dillard's
+Bear Stearns
+Guardian Life Ins. Co. of America
+Marriott International
+Continental Airlines
+TJX
+PNC Bank Corp.
+Paccar
+Navistar International
+Conseco
+Principal Financial
+United Services Automobile Assn.
+U.S. Bancorp
+Williams
+Bindley Western
+BankBoston Corp.
+Tenneco
+ITT Industries
+PPG Industries
+Campbell Soup
+Gateway 2000
+Nebco Evans
+Unisource
+Tyson Foods
+SunTrust Banks
+Tele-Communications
+Fort James Corp
+Paine Webber Group
+Unisys
+Marsh & McLennan
+Unicom
+Oracle
+Coastal
+Staples
+AFLAC
+KeyCorp
+Consolidated Edison
+Sunoco
+MedPartners
+Ashland
+Pharmacia & Upjohn
+Seagate Technology
+SCI Systems
+Kellogg
+Sodexho Marriott Services
+FPL Group
+American Standard
+Eaton
+Amerada Hess
+Genuine Parts
+Computer Sciences
+Baxter International
+Occidental Petroleum
+WellPoint Health Networks
+Columbia Energy Group
+NCR
+Aon
+Safeco
+Transamerica
+Aramark
+Chubb
+American Electric Power
+Baker Hughes
+Cummins Engine
+Saks
+Boise Cascade
+Case
+Lincoln National
+Dominion Resources
+General Mills
+Apple Computer
+Public Service Enterprise Group
+Avnet
+Wachovia Corp.
+R.R. Donnelley & Sons
+Anthem Insurance
+Cinergy
+FirstEnergy
+Reynolds Metals
+Cendant
+Mellon Bank Corp.
+Quantum
+Bank of New York Co.
+El Paso Energy
+Venator
+Union Carbide
+Champion International
+Illinois Tool Works
+Ikon Office Solutions
+Comcast
+Ralston Purina
+Valero Energy Corp.
+LG&E Energy
+Sempra Energy
+MicroAge
+U.S. Foodservice
+AMP
+Central & South West
+VF
+Owens-Illinois
+3Com
+Unocal
+Progressive
+Solectron
+CompUSA
+Avon Products
+PECO Energy
+MBNA
+Alltel
+Ryder System
+AirTouch Communications
+CMS Energy
+Gannett
+First Data
+Cooper Industries
+Nordstrom
+Owens-Corning
+General Dynamics
+CNF Transportation
+Sherwin-Williams
+Air Products & Chemicals
+Dover
+Quaker Oats
+Praxair
+Starwood Hotels & Resorts
+Automatic Data Processing
+Fortune Brands
+Tandy
+Mattel
+Browning-Ferris Industries
+ServiceMaster
+Oxford Health Plans
+Computer Associates Intl.
+Parker Hannifin
+Unum
+Olsten
+Foster Wheeler
+Mead
+Allegiance
+Black & Decker
+Merisel
+Union Camp
+Eastman Chemical
+Bethlehem Steel
+Science Applications Intl.
+Corporate Express
+Federal-Mogul
+Hershey Foods
+Norfolk Southern
+Dole Food
+Litton Industries
+KN Energy
+FMC
+Masco
+W.W. Grainger
+OfficeMax
+Pitney Bowes
+TruServ
+Universal
+LTV
+InaCom
+GPU
+Harcourt General
+State Street Corp.
+Giant Food
+DTE Energy
+Consolidated Stores
+Engelhard
+Southwest Airlines
+Nash Finch
+Pacific Life Insurance
+Nucor
+Turner Corp.
+Ryerson Tull
+Kelly Services
+Omnicom Group
+Maytag
+Hilton Hotels
+American Financial Group
+Applied Materials
+Healthsouth
+American Family Ins. Group
+Centex
+EMC
+Interpublic Group
+B.F. Goodrich
+Brunswick
+Harris
+Allegheny Teledyne
+GenAmerica Corporation
+Provident Cos.
+Thermo Electron
+Smithfield Foods
+MarketSpan
+Meritor Automotive
+Niagara Mohawk Power
+Mutual of Omaha Insurance
+Smurfit-Stone Container
+PP&L Resources
+Flowers Industries
+Northeast Utilities
+Pittston
+Graybar Electric
+Temple-Inland
+McGraw-Hill
+Newell
+Rohm & Haas
+Sonat
+Willamette Industries
+Corning
+Avista Corp.
+Kohl's
+Clark USA
+Supermarkets Genl. Holdings
+Florida Progress
+Estee Lauder
+New Century Energies
+U.S. Office Products
+Consolidated Natural Gas
+BJ's Wholesale Club
+Shaw Industries
+Western Digital
+Republic New York Corp.
+Host Marriott
+Firstar Corp.
+Autoliv
+IMC Global
+Avery Dennison
+Hechinger
+Phoenix Home Life Mutual Ins.
+Allmerica Financial
+Peter Kiewit Sons'
+Charles Schwab
+Leggett & Platt
+Reliance Group Holdings
+U.S. Industries
+Constellation Energy Group
+Qualcomm
+Service Merchandise
+Hannaford Bros.
+Suiza Foods
+Ameren
+Hasbro
+Times Mirror
+York International
+Darden Restaurants
+Dean Foods
+Longs Drug Stores
+Interstate Bakeries
+Cablevision Systems
+Hormel Foods
+Trans World Airlines
+Comdisco
+AutoZone
+United States Filter
+Reebok International
+Dollar General
+Comerica
+Aid Association for Lutherans
+Richfood Holdings
+Sun Healthcare Group
+Vencor
+Carolina Power & Light
+USG
+Ace Hardware
+Becton Dickinson
+Yellow
+Silicon Graphics
+Golden West Financial Corp.
+Knight-Ridder
+Anixter International
+Owens & Minor
+Airborne Freight
+Regions Financial
+Conectiv
+SLM Holding Corp
+Phelps Dodge
+United Stationers
+Fleetwood Enterprises
+United Auto Group
+Lutheran Brotherhood
+Golden State Bancorp
+Wesco International
+Lexmark International
+Micron Technology
+BB&T Corp
+Barnes & Noble
+Shopko Stores
+Tribune
+Integrated Health Services
+SouthTrust Corp.
+AGCO
+New York Times
+Mercantile Bancorp.
+Nipsco Industries
+Danaher
+Westvaco
+Ball
+
+=====================================================
+TOP WEB COMPANIES
+=================
+Chrysler Corporation
+Sears, Roebuck & Company
+The Travelers Group
+Prudential Insurance Company of America
+Chevron Corporation
+Citicorp
+Amoco Corporation
+Dayton Hudson Corporation
+The Kroger Company
+The Allstate Corporation
+SBC Communications Inc.
+United Parcel Service of America Inc.
+NationsBank Corporation
+USX Corporation
+Enron Corp.
+Aetna Inc.
+Xerox Corporation
+Ingram Micro
+Federal Home Loan Mortgage
+
+=====================================================
+INTERNATIONAL
+========================================
+        o Abbott Laboratories
+Adecco
+Aerospatiale
+        o Aetna
+Air France Group
+        o Albertson's
+        o ALCOA
+        o AlliedSignal
+        o Allstate
+Alstom
+        o American Express
+        o American General
+        o American Home Products
+        o American International Group
+        o American Stores
+        o Ameritech
+        o AMR
+        o Anheuser-Busch
+Arbed
+        o Archer Daniels Midland
+Asahi Chemical Industry
+Asahi Glass
+ASDA Group
+Astra Zeneca
+        o AT&T
+        o Atlantic Richfield
+        o Autonation
+Banca Commerciale Italiana
+        o Banc One Corp.
+        o Bank of America Corporation
+Bank of Montreal
+Bank of Nova Scotia
+        o Bankers Trust Corporation
+        o Bell Atlantic
+        o Bellsouth
+        o Bergen Brunswig
+        o Berkshire Hathaway
+        o Best Buy
+        o Boeing
+        o Bristol-Myers Squibb
+British Aerospace
+British Post Office
+British Steel
+        o Burlington Northern Santa FE
+        o Cardinal Health
+        o Caterpillar
+Cathay Life
+        o CBS
+Central Japan Railway
+Centrica
+        o Chase Manhattan Corporation
+        o Chevron
+Chinese Petroleum
+Chiyoda Mutual Life Insurance
+        o CIGNA
+        o Circuit City Group
+        o Citigroup
+        o Coca-Cola
+        o Coca-Cola Enterprises
+COFCO
+        o Colgate-Palmolive
+        o Columbia/HCA Healthcare
+        o Compaq Computer
+        o ConAgra
+        o Costco
+        o CSX
+        o CVS
+Daido Life Insurance
+Dai Nippon Printing
+        o DANA
+        o Dayton Hudson
+DDI
+        o Deere
+        o Dell Computer
+        o Delta Air Lines
+Dentsu
+Deutsche Genossenschaftsbank
+        o Dow Chemical
+        o Duke Energy
+        o Dynegy
+        o E.I. Du Pont De Nemours
+        o Eastman Kodak
+Edeka Zentrale
+        o Edison International
+        o Electronic Data Systems
+        o Eli Lilly
+        o Emerson Electric
+        o Enron
+        o Entergy
+        o Exxon
+        o Fannie Mae
+        o FDX
+        o Federated Department Stores
+        o First Union Corp.
+        o Fleet Financial Group
+        o Fleming
+        o Fluor
+        o Ford Motor
+Fortum
+        o Fred Meyer
+        o Freddie Mac
+Fuji Heavy Industries
+Fuji Photo Film
+        o GAP
+Gaz de France
+        o General Electric
+        o General Motors
+George Weston
+        o Georgia-Pacific
+        o Gillette
+        o Goodyear Tire & Rubber
+        o Great Atlantic & Pacific Tea
+Great Universal Stores
+        o GTE
+        o Halliburton
+        o Hartford Financial Services
+Henkel
+        o Hewlett-Packard
+        o H.J. Heinz
+        o Home Depot
+        o Humana
+        o IBP
+Idemitsu Kosan
+        o Ingram Micro
+        o Intel
+        o International Business Machines
+        o International Paper
+Japan Airlines
+Japan Energy
+Japan Travel Bureau
+Jardine Matheson
+        o J.C. Penney
+        o J.P. Morgan & Co.
+        o John Hancock Mutual Life Insurance
+        o Johnson & Johnson
+        o Johnson Controls
+Karstadt
+Kawasaki Heavy Industries
+Kawasho
+        o Kimberly-Clark
+Kingfisher
+        o KMart
+Kobe Steel
+Korea Electric Power
+Kreditanstalt fur Wiederaufbau
+        o Kroger
+Kyoei Life Insurance
+Kyushu Electric Power
+Lafarge
+Lagardere Groupe
+        o Lear
+Legal & General
+        o Lehman Brothers Holdings
+LG Electronics
+        o Liberty Mutual Insurance Group
+        o Limited
+        o Lockheed Martin
+        o Loews
+        o Lowe's
+        o Lucent Technologies
+        o Massachusetts Mutual Life Insurance
+        o May Department Stores
+        o McDonald's
+        o MCI Worldcom
+        o McKesson HBOC
+        o Merck
+        o Merrill Lynch
+Metallgesellschaft
+        o Metropolitan Life Insurance
+        o Microsoft
+Migros
+        o Minnesota Mining & Manufacturing
+Mitsubishi Chemical
+        o Mobil
+        o Morgan Stanley Dean Witter
+        o Motorola
+        o Nabisco Group Holdings
+        o Nationwide Insurance Enterprise
+        o New York Life Insurance
+        o Nike
+Norddeutsche Landesbank
+Norinchukin Bank
+        o Northrop Grumman
+        o Northwest Airlines
+        o Northwestern Mutual Life Insurance
+Obayashi
+        o Office Depot
+Oji Paper
+Otto Versand
+        o Pacificare Health Systems
+Pechiney
+Peninsular & Oriental Steam Nav.
+        o PepsiCo.
+PetroFina
+Petronas
+        o Pfizer
+        o PG&E Corp.
+        o Philip Morris
+        o Phillips Petroleum
+Pohang Iron & Steel
+Power Corp of Canada
+        o Procter & Gamble
+        o Prudential Insurance Co. of America
+        o Publix Super Markets
+        o Raytheon
+        o Reliant Energy
+Ricoh
+        o Rite Aid
+Royal Bank of Scotland
+        o Safeway
+        o Sara Lee
+        o SBC Communications
+        o Schlumberger
+Scottish Widows Fund
+Seagram
+        o Sears Roebuck
+Sekisui House
+SEPI
+Shimizu
+Snow Brand Milk Products
+        o Southern
+SPAR Handels
+        o Sprint
+Stora Enso
+        o St.Paul Cos.
+        o State Farm Insurance Cos.
+Sumitomo Electric Industries
+Sumitomo Metal Industries
+Sun Life Assurance of Canada
+        o Sun Microsystems
+        o Supervalu
+Suzuki Motor
+        o Sysco
+Takashimaya
+Takenaka
+        o Tech Data
+Telstra
+        o Tenet Healthcare
+        o Texaco
+        o Texas Utilities
+        o Textron
+        o TIAA-CREF
+        o Time Warner
+Tohoku Electric Power
+Tokai Bank
+Toronto-Dominion Bank
+        o TOSCO
+        o Toys "R" US
+        o TRW
+        o Tyco International
+        o UAL
+        o Union Pacific
+        o United Healthcare
+        o United Parcel Service
+        o United Technologies
+UPM-Kymmene
+Usinor
+        o US Postal Service
+        o US West
+        o USX
+        o Utilicorp United
+        o Viacom
+        o Wal-Mart Stores
+        o Walgreen
+        o Walt Disney
+        o Warner-Lambert
+        o Washington Mutual
+        o Waste Management
+        o Wells Fargo
+West Japan Railway
+        o Weyerhaeuser
+        o Whirlpool
+        o Winn-Dixie Stores
+Woolworths
+        o Xerox
+Yasuda Fire & Marine Insurance

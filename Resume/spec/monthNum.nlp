@@ -1,0 +1,13 @@
+
+# AUTOMATICALLY GENERATED! EDITS WILL BE LOST!
+# FILE: e:\apps\resume\spec\monthNum.pat
+# TIME: 10:19:04 09/02/01
+@NODES _LINE
+
+@RULES
+
+# Ex:	02
+_monthNum <- _xWILD [min=1 max=1 s match=("02" "2" "3" "4" "5" "6" "7" "8" "9"
+ "01" "1" "03" "04" "05" "06" "07" "08" "09" "10"
+ "11" "12")] @@
+

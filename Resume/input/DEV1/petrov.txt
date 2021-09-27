@@ -1,0 +1,138 @@
+                              ANDREY D. PETROV
+            Iljicha Str. 19 kv. 19, Novosibirsk 630090, Russia.
+      Phone: office (7-3832) 11-97-59, e-mail: andrey_petrov@usa.net
+
+OBJECTIVE
+
+Software development for a wide range of application, system analysis and
+RDBMS implementation.
+
+BACKGROUND
+
+Six years of experience in system analysis, software development,
+installation, configuration and troubleshooting. Experience in distributed
+databases programming and maintenance.
+
+TRAINING AND EDUCATION
+
+September 1986 — April 1994 (except of the army service in 1987-1989):
+Moscow Institute of Engineering Physics; Moscow, Russia.
+Automatics & Electronics Dept.: MSEE degree with high honors.
+
+TECHNICAL SKILLS
+
+Computer hardware:
+
+     IBM PC compatibles (ISA, PCI), data acquisition and control systems
+     hardware (CAMAC, GPIB, RS232, PCI).
+
+Operating systems and environments:
+
+     Windows NT 4.0, Windows 95/98, MS DOS, NetWare 3.12, BSDI UNIX.
+
+Networking:
+
+     TCP/IP (sockets, winsock), IPX/SPX, MS Windows networking, DNS and
+     SMPT configuration, FTP, Telnet.
+
+Professional tools and programming languages:
+
+   * Delphi 1-4, InstallShield 3, InterBase 4 tools, DBExplorer 3;
+     MSOffice;
+   * proficient in Object Pascal, C++, SQL-92, PL/SQL, Visual Basic , Java,
+     Fortran 77, assembler Intel x86;
+   * extensive knowledge of InterBase 4, Paradox 7, MS Access; basic
+     knowledge of Oracle 8.
+
+Task and procedures:
+
+     Object oriented analysis, design and programming, including COM
+     programming. Distributed RDBMS development. Specific hands-on
+     experience in client-server technology. System documentation.
+
+WORKING EXPERIENCE
+
+Dec. 1996 to present :
+
+Senior system engineer in “SHERL” Transport Group Ltd.
+
+(medium-size private transportation company); Novosibirsk, Russia.
+
+     Responsible for system analysis and system policy planning, software
+     development for industrial purposes, collaboration and task definition
+     to third-party programmers, consulting of system adminstrators on
+     custom software installation, implementation and troubleshouting.
+
+     The principal project is Corporate Service Accounting System
+     (distributed client-server database application).
+
+   * Designed the structure of database and wrote SQL script for database
+     generation (InterBase 4; about 20 main tables, 30 stored procedures
+     and 60 triggers).
+   * Developed data server (Windows 95/98 and Windows NT 4; used Delphi 3,
+     COM, BDE, InterBase 4).
+   * Developed a visual query builder with specific graphic interface for
+     unskilled users, provided generation of arbitrary query to database
+     (Windows 95; used Delphi 3, BDE, Interbase 4).
+   * Designed an Internet server, provided access to database, corporate
+     billboard and electronic mail (ISAPI application for Microsoft IIS 3.0
+     on Windows NT 4.0; used Delphi 3, BDE, Interbase 4, stored procedures
+     and Java scripts) — this work is not completed yet.
+   * Wrote User Guides.
+
+Mar. 1996 – Dec. 1996:
+
+Junior system engineer in “SHERL” Transport Group Ltd.".
+
+     LAN administration and small application programming, software and
+     hardware installation and troubleshooting; e-mail systems
+     configuration; antivirus protection, backup, installation of
+     interoffice links and WAN connections.
+
+   * Designed several database applications on Microsoft Access and Delphi
+     2 (RDBMS: Paradox 7 and Interbase 4).
+   * Designed special graphic editor to process diagrams of load stowage in
+     railway wagons (Windows 95; used Delphi 2).
+
+Mar. 1994 - Mar 1996:
+
+Junior researcher in Budker Institute of Nuclear Physics (BINP);
+
+Novosibirsk, Russia.
+
+     High-speed digital transient recorders development in CAMAC and GPIB
+     for scientific and industrial application. Software design for testing
+     and adjustment of acquisition systems. Printed circuit board design.
+     Specific hands-on experience in ECL, high-speed CMOS and programmed
+     logic devices implementation.
+
+   * Developed two families of 10-ns digital oscilloscopes (ADC AD9002),
+     software kit for these devices (MS DOS, used Pascal 7) and technical
+     documentation. About 200 of units have been made in BINP electronic
+     plant.
+
+Feb. 1993 – Mar.1994:
+
+Part-time employment in BINP.
+
+     Masters thesis project: "Development of 10-ns Transient Recorder Using
+     ADC AD9002". Responsible for hardware development for data acquisition
+     and control systems (in CAMAC), software development and printed
+     circuit board design.
+
+PERSONAL
+
+Birth date: 27 November 1968.
+
+Nationality Russian; citizen and resident of Russian Federation.
+
+Marital status married (with one child).
+
+Languages Russian (native), English (fluently); Portuguese, German and
+French (reading and writing knowledge).
+
+PREFERABLE WORK
+
+Full-time employment or long-term contract worldwide.
+
+REFERENCES AVAILABLE UPON REQUEST

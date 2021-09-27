@@ -1,0 +1,124 @@
+			Kevin Calman
+		914 Timber Trail, Cedar Park, Texas, 78613
+mailto:codex@earthling.net				512/219-1069 (Home)
+http://www.GeoCities.com/ResearchTriangle/2435		512/425-3449 (Work)
+
+-------------------------------------------------------------------------------
+		PROFESSIONAL OBJECTIVE
+A Configuration Management or Software Engineering position in the development
+of object oriented applications or systems, which utilizes my skills, experience,
+and creativity, with potential for growth, recognition and advancement.
+
+-------------------------------------------------------------------------------
+		PRODUCT EXPERIENCE
+- Windows NT (v4.0), Windows'95, Unix (AIX v4.2), OS/2 (v4), DOS (v6.22), VM/CMS
+- TCP/IP, Microsoft Network Administration (NT Domains)
+- HTML, SGML, JavaScript, LotusScript, HTTPD, Java, Perl, CGI; Lotus Notes, Domino; MS Office 97
+- C++, C; Unix shells (Korn, etc.); Tcl, Rexx, Awk, DOS Batch, LISP, BASIC; Make, Nmake, Opus; SQL
+- Microsoft Visual C++ (v5), VisualBASIC (v5), IBM VisualAge for C++, Symantec Caf‚  for Java
+- Intersolv PVCS & Tracker, MS Visual SourceSafe, IBM TeamConnection (CMVC), RCS; Oracle DBA
+- Q&A Partner, X/Runner, OS2/Runner; BoundsChecker, Purify
+- SDE/Workbench, Excellerator, Cadre Teamwork, Project Scheduler/5
+- IBM ComponentBroker (CORBA-compliant ORB and Services), IBM System Object Model frameworks (SOM), 
+  IBM OpenDoc frameworks, IBM/Taligent CommonPoint frameworks, IBM OpenClass frameworks
+
+-------------------------------------------------------------------------------
+		PROFESSIONAL EXPERIENCE SUMMARY
+	LEAD ENGINEER, BUILD & CONFIGURATION MANAGEMENT
+Trilogy Development Group, Independent Business Unit, Austin, Texas		1998 to present
+	LEAD ENGINEER, CUSTOMER SIMULATION TEST
+IBM Corporation, Software Solutions, Austin, Texas 				1997
+	QUALITY ASSURANCE ENGINEER 
+IBM Corporation, Software Solutions, Austin, Texas 				1997
+	APPLICATION DEVELOPMENT ENGINEER 
+IBM Corporation, Software Solutions, Austin, Texas				1996
+	CERTIFICATION PROGRAMMER 
+IBM Corporation, Personal Software Products, Austin, Texas			1994 to 1995
+	PRODUCT BUILD LEAD 
+IBM Corporation, Personal Software Products, Austin, Texas			1992 to 1993
+	BUILD ADMINISTRATOR 
+IBM Corporation, Applications Solutions Line-Of-Business Kingston, New York	1990 to 1992
+	APPLICATIONS DEVELOPER 
+IBM Corporation, Industrial Sector Organization, Kingston, New York		1987 to 1989
+	INFORMATION CENTER ANALYST 
+IBM Corporation, World Trade/Americas Group, Mount Pleasant, New York		1984 to 1987
+
+-------------------------------------------------------------------------------
+		EDUCATION
+	BACHELOR OF SCIENCE, COMPUTER SCIENCE
+Pace University, White Plains, New York						May, 1985
+	HONORS AND AFFILIATIONS
+SPELLMAN SCHOLARSHIP FOR ACADEMIC ACHIEVEMENT, 
+DYSON SCHOLARSHIP
+Pace University, White Plains, New York						1984, 1985
+
+-------------------------------------------------------------------------------
+		REFERENCES AND SALARY HISTORY
+Available upon request.
+
+-------------------------------------------------------------------------------
+		PROFESSIONAL EXPERIENCE DETAIL
+	LEAD ENGINEER, BUILD & CONFIGURATION MANAGEMENT
+Trilogy Development Group, Consolidated Build Team, Austin, Texas	January, 1998 to present
+Lead a team of three, designed and participated in implementation of internal build and CM processes.
+- Chaired architecture design committee.
+- Authored Process architecture specification, makefile and repository low-level design documents.
+- Executed makefile and repository implementations (Nmake, Opus, PVCS, Notes).
+Departmental process documentation, and web page development and maintenance (Notes, Domino).
+
+	LEAD ENGINEER, CUSTOMER SIMULATION TEST  	 		October, 1997 to December, 1997
+IBM Corporation, Component Broker Quality Assurance, Austin, Texas
+Lead a team of three, performed customer scenario generation and installation testing for a CORBA framework.
+- Design, code, execute, and document CST test cases for the entire product (NT).
+- Represent function in cross-site regular status conference.
+- Departmental process documentation, and web page development and maintenance (HTML, Perl/CGI).
+
+	QUALITY ASSURANCE ENGINEER  			 		January, 1997 to September, 1997
+IBM Corporation, Component Broker Connector ORB Development, Austin, Texas
+Test case development, test suite execution and maintenance for a CORBA-compliant services framework.
+- Design, code, execute, and document FVT test cases for the Object Request Broker (ORB) (C++)
+- Memory leak detection and correction for entire product using automated tools (BoundsChecker, Purify)
+- Departmental process documentation, and web page development and maintenance (HTML, Perl/CGI).
+
+	APPLICATION DEVELOPMENT ENGINEER 				January, 1996 to December, 1996
+IBM Corporation, OpenDoc Parts Development, Austin, Texas
+Parts development (framework-based applications), including:
+- Design, code, document, and FVT a vector graphic editor application (C++)
+- Port and integrate additional parts from previous product releases and platforms (Java)
+- Product verification test on three releases of the product (NT/Win95, OS/2, AIX)
+Departmental consulting and mentoring, productivity and schedule tracking and management.
+
+	CERTIFICATION PROGRAMMER 			 		January, 1994 to December, 1995
+IBM Corporation, Taligent System Certification Austin, Texas
+Performed product verification testing. Coordinated technical support for multi-site development effort. 
+Developed local tools (Bourne & Korn shells, Perl, Rexx, Tcl), Investigated and specified CASE solutions.
+
+	PRODUCT BUILD LEAD 						November, 1992 to December, 1993
+IBM Corporation, Object Technology Products Austin, Texas
+Directed a team of three. Code repository administration. Specified, designed, implemented, and tested a 
+makefile infrastructure. Specified, developed, tested, and documented local tools (Korn shell, Rexx, Awk, Perl)
+
+	BUILD ADMINISTRATOR 						January, 1990 to October, 1992
+IBM Corporation, Geographic Information Systems Project Office, Kingston, New York
+Process design and code repository administration. Specify and develop local tools (Bourne & Korn 
+shells, Awk, SQL); DBA (Oracle). Specify and investigate CASE solutions (Cadre, Excellerator). Technical 
+consultant for workstation/LAN support.
+
+	APPLICATIONS DEVELOPER 						October, 1987 to December, 1989
+IBM Corporation, GIS Applications Support Kingston, New York
+Preliminary design of product's relational data model (Cadre Teamwork). 
+
+	INFORMATION CENTER ANALYST 					May, 1984 to September, 1987
+IBM Corporation, World Trade/Americas Group, Mount Pleasant, New York
+Proposed and implemented policies for a corporate Information Center. 
+
+-------------------------------------------------------------------------------
+		EDUCATION DETAIL
+	BACHELOR OF SCIENCE, COMPUTER SCIENCE
+Pace University, White Plains, New York 				May, 1985
+Major:	Computer Science 	Major QPA:	3.94 / 4.00
+Minor:	Mathematics		Overall QPA:	3.40 / 4.00
+	GRADUATE STUDY, COMPUTER SCIENCE
+SUNY/New Paltz, New Paltz, New York					1990
+Rensselaer Polytechnic Institute, Troy, New York			1992
+

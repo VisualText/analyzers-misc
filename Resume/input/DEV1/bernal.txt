@@ -1,0 +1,98 @@
+Thomas M. Bernal
+
+---------------------------------------------------------------------------
+
+thomas@bernal.com ~ 1015 Marlin Lakes Circle #725 ~ Sarasota, FL 34237-5980
+~ 941-362-0818
+
+     Experience
+
+     -----------------------------------------------------------------
+
+          Computer Associates, Inc. / Sarasota, Florida
+          Level 2 Customer Support, May 1998 to Present
+
+             * Resolved customer support issues, most requiring
+               changes to Opal code base. Interacted directly
+               with customer contact to obtain information and
+               inform of status. Documented solutions in
+               configuration tool and code for developers, and in
+               issue tracking database for primary customer
+               service and customer's own use.
+
+          Infresco Corp. / Sarasota, Florida
+          Programmer/Analyst, November 1997 to May 1998
+
+             * Part of team responsible for adding multi-tier
+               distributed transaction processing to Opal, the
+               company's main product. Opal involves host and
+               database connectivity, presented in a graphical,
+               multi-platform, web-enabled environment.
+
+          Decision Consultants, Inc. / Tampa, Florida
+          Information Systems Consultant, July 1997 to October
+          1997
+
+             * Client engagement involved analysis, code, and
+               test of a public utilities customer service system
+               using Oracle RDBMS with COBOL in an HP-Unix
+               environment.
+
+          MEGAsoft, Inc. / Orlando, Florida
+          Systems Analyst/Programmer, March 1994 to June 1997
+
+             * Designed, developed, and maintained a suite of
+               database and networking tools, occasionally as
+               project leader, using C and C++ under DOS, Windows
+               3.1.x/95/NT, OS/2 Warp, and Unix (AIX).
+             * Produced a template-based report writing
+               application that generates scripts using an
+               in-house 4GL language, allowing end users to
+               custom tailor reports through an intuitive,
+               user-friendly interface without programming
+               knowledge.
+
+          The MicroComputer Store of P.R. / San Juan, Puerto Rico
+          Salesperson, June 1991 to December 1993
+
+             * Retail sales of computers (PC & Amiga),
+               peripherals, supplies, and accessories.
+             * Build custom PC's and setup hardware and software
+               for special orders.
+             * Performed demonstrations of high-end video
+               production systems.
+
+          Guzco Guarantee Corporation / Bayamon, Puerto Rico
+          Systems Analyst/Programmer, March 1990 to July 1990
+
+             * Designed and developed an information system to
+               manage a database of clients, produce a listing of
+               fraudulent checks and check writers, and summarize
+               information about Check Cash Card holders.
+
+     Education
+
+     -----------------------------------------------------------------
+
+          University of Puerto Rico
+          Bachelor Degree in Computer Science, May 1994
+
+             * First Annual Inter-Universitary Programming
+               Contest / Ponce, Puerto Rico
+               Second Place, April 1992
+               Held by the Interamerican University.
+             * "Introduction to OOP: Smalltalk and C++" /
+               Bayamon, Puerto Rico
+               Short Seminar, March 1992
+               Held by the UPR Continuing Education Department.
+
+     Skills
+
+     -----------------------------------------------------------------
+
+             * C, C++ (Borland, MS Visual), MFC/WinAPI,
+               STL/RogueWave
+             * DOS, Windows 3.1.x/95/NT, Unix (AIX, HP, Linux), X
+               Window System
+             * MS FrontPage, HTML/CGI/Java, Web/Mail server
+               administration

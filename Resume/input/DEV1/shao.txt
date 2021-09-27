@@ -1,0 +1,182 @@
+A Java Advocate!
+                                Weidong Shao
+                             Tel: (301)345-2028
+                          Email: weidong@erols.com
+                          http://www.acbridge.com
+
+Sorry, I am not available for assignment for now. Please check back after
+July, 1999.
+Asking rate for contracting: $85+/hr on 1099. W2 Okay.
+
+Objective
+---------------------------------------------------------------------------
+
+     Seeking a position as the solution provider in data/telecom
+     network management software development projects.
+
+Technical Skills
+---------------------------------------------------------------------------
+           MSEE with 6+ years of experience in C++/C under Unix.
+          Programming:C++/C, Java, CORBA, OOAD, Unix system programming,
+                      multithread programming, SQL, HTML, perl, CGI.
+                      Sun Certified Java Programmer
+                   OS:Unix(Solaris, HP-UX, Linux), Windows 95.
+ Tools & Applications:Orbix 2.3, OrbixWeb3.1, Visibroker for Java, TCSI
+                      Object Service Package(OSP), Purify, Continuus(A
+                      software CM tool), SparcWorks, HP OpenView, SNMP
+                      Research ARL library, Matlab, Visual C++.
+   Network Management:Expert in TL1, SNMP, and CMIP.
+            Academics:Data communications, network protocols and
+                      management; digital signal/image processing;
+                      stochastic processes; very strong in math and
+                      problem-solving.
+
+Professional Experience
+---------------------------------------------------------------------------
+
+     06/1998 to present
+     Senior Software Engineer
+     A telecom company in Washington DC.
+     Design and develop CORBA based distributed Element Management
+     System(EMS) for the corporate's nationwide SONET networks.
+     Responbilities include system architecture design and review, and
+     TL-1 adapters for SONET Add/Drop multiplexers from various
+     vendors.
+
+     The design uses the state-of-the-art technologies in network
+     management in telecom industry. I will represent the company to
+     have a demo in the upcoming TeleManagement World/NMF Expo in
+     Hamburg, Germany this April.
+
+     01/1998 to present
+     Part-time Adjunct Faculty
+     Southeastern University, Washington DC.
+     Taught a graduate CS course in data communications and networks.
+     Teaching a graduate CS course on Java programming.
+
+     01/1998 to 06/1998
+     Consultant, Senior Software Engineer
+     Orbcomm.
+     Helped developed an NMS system for a X.400-based satellite
+     messaging system. Responsibilities included problem analysis,
+     drafting functional specifications, design and coding, and test
+     plan documentation.
+
+        * Analyzed the existing message software, designed and
+          developed event filtering for the system. Conducted HP
+          OpenView event configurations.
+        * Designed a X/MOTIF graphical command interface for the NMS
+          system using UIM/X with XRT/Gear toolkit. Sudo is used for
+          security management. This utility frees operators from using
+          Unix shell to achieve daily duties. Commands are
+          configurable and are displayed as a tree view. Command and
+          response history are stored using GDBM.
+        * Change a satellite calculation program into agent. Designed
+          a new MIB for the managed information, and use BMC SNMP
+          Toolkit to develop a subagent.
+
+     03/96 to 01/98
+     Software Engineer
+     Bell Atlantic - Advanced Network System, Silver Spring, MD.
+     Designed and implemented a distributed, object-oriented Data
+     Network Management System(DNMS). This system is responsible for
+     handling inventory, trouble ticketing, and proactive alarm
+     management for Bell Atlantic's data networks, including ATM,
+     COLAN, FDDI, FNS, Frame Relay, PDN, and SMDS services. A near
+     CORBA compliant tool OSP(Object Service Package) is used.
+
+        * Designed and coded the inventory systems in DNMS.
+        * Developed performance-monitoring API for alarm processing.
+        * Developed a set C++ classes and functions as the OSP API's
+          enhancement, including SQL support, bulk operations
+          enhancement, automated cross-reference updating, and
+          improved functions of object and object list.
+        * Developed an MIB loader (with perl5 and OSP's tclcli API) to
+          parse MIB files and automatically generate data in DNMS
+          mediation subsystem.
+        * Designed and coded DNMS provisioning gateway to
+          Ascend(Cascade) NMS provisioning server using its C++ API.
+        * (8/4/97-9/2/97) Worked with Sun and PSW consultants in BOLD
+          performance team to solve BOLD performance problems.
+
+     02/95 - 03/96
+     Communicaton Engineer
+     RMS technologies, Inc, Washington DC.
+     Supported FAA AOP-400 in system analysis of the GPS Wide-Area
+     Augmentation System(WAAS). Conducted simulation study for WAAS
+     telecommunication availability, reliability and latency with
+     OPNET.
+
+        * Developed OPNET network, node and process models for WAAS
+          terrestrial system over the MCI LINCS backbone circuits.
+        * OPNET EMA(External Model Access) C codes to automatically
+          generate network model from a generic network topology.
+        * Proto-C codes for animation of operational networks.
+
+     05/93 - 08/94
+     Research Assistant
+     Institute for Systems Research, University of Maryland, College
+     Park, MD
+
+     Developed a singular-value-decomposition-based algorithm in
+     direction-of-arrival analysis.
+     Research interests include:
+
+        * Matrix computation and application to signal processing.
+        * Advanced digital signal processing.
+
+     08/91-06/92
+     Software Engineer
+     Hua-zhong Electronic Group, Wuhan, China.
+     Coded and tested client projects. Provided technical support and
+     training for Fangzheng, a Chinese desktop publishing system.
+
+     08/90-06/91
+     Electrical Engineer
+     Haihua Scientific Corporation, Beijing, China.
+     Designed and tested a highly-stable current source for a fiber
+     optical temperature sensor. Designed an interface circuit for
+     digital data processing.
+
+Education and Selected Professional Trainings
+---------------------------------------------------------------------------
+
+     Building Distributed Applications With Orbix and CORBA, 1998
+     IONA Professional Services
+
+     Java Programmer's Workshop, 1997
+     Sun Education Services
+
+     Multithread Programming Training, 1997
+     Sun Education Services
+
+     Sybase Training, 1996
+     Bell Atlantic IS Education Center
+
+     Object Oriented Analysis and Design, 1996
+     Bell Atlantic IS Education Center
+
+     MSEE, 1995
+     University of Maryland, College Park, Maryland.
+
+     BSEE, 1991
+     Tsinghua University, Beijing, China.
+
+Honors
+---------------------------------------------------------------------------
+
+     Bell Atlantic "Leaders of Excellence" award in 1997. Shared with
+     selected team members of the DNMS project team. Only the members
+     from 11 project teams were nominated for this award in the entire
+     Bell Atlantic.
+
+     First prize in 1984 and 1985 Chinese national mathematics
+     competition. Admitted to Tsinghua University, the top Chinese
+     engineering and science school, without taking the national
+     college entrance examinations in 1986.
+
+Yes! This is on the Web. Try: http://www.acbridge.com/resume.html.
+
+Sorry, I am not available for assignment for now. Please check back after
+July, 1999.
+Asking rate for contracting: $85+/hr on 1099. W2 Okay.

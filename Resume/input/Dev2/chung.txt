@@ -1,0 +1,44 @@
+     for best format results, widen resume to normal page width (about
+                                8.5inches)
+
+                                Peter Chung
+                          kimchi_monster@yahoo.com
+
+-----------------------------------------------------------------------------------
+Work         November 1997 - present             Amdahl Corporation, Sunnyvale CA
+Experience                                                 Software Business Group
+             Software Engineer
+                * Part of a small team developing a Java multi-platform user
+                  management application prototype that uses LDAP directories to
+                  store user information.
+                * Concentration on GUI, and LDAP calls.
+                * Participate in System Test efforts for Intelligent Network
+                  Applications such as Local Number Portability, and Caller ID.
+                * Work as a team member in the design and development of
+                  middleware for the Intelligent Network Project.
+             ----------------------------------------------------------------------
+             March 1996 - September 1997 Boston University Information Technology
+                                               Personal Computing Support Services
+             Computer Consultant
+                * Assist customers with various dial-up networking (PPP) and
+                  personal computing problems over the phone, and in person.
+                * Tackle hardware problems, software installation, and software
+                  trouble-shooting.
+                * PCSC homepage- http://web.bu.edu/PCSC
+------------ ----------------------------------------------------------------------
+Education    1993 - 1997                             Boston University.  Boston, MA
+                * Bachelor of Science, Computer Science.
+                * Dean's List. -three semesters
+------------ ----------------------------------------------------------------------
+Skills          * languages: C, Java, Perl5, OpenGL, HTML, SPARC Assembly.
+                * os: Solaris2.5/2.6 (sun sysadmin class completed), NT.
+                * protocols: TCAP, AIN and IN LRN message formats.
+                * BILINGUAL in Korean and English.
+------------ ----------------------------------------------------------------------
+Projects        * Interactive game Applet -
+                  http://www.angelfire.com/hi/noon/peteris.html. (work in
+                  progress)
+                * Calculator Applet -
+                  http://www.angelfire.com/hi/noon/calculator.html.
+------------ ----------------------------------------------------------------------
+Interests       * Films, BU symphonic chorus, snowboarding.

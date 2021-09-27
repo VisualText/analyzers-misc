@@ -1,0 +1,102 @@
+
+CONTACT:
+
+Contact Name: RICHARD MARC GANSLER
+Title:    
+First Name: RICHARD
+Middle Name: MARC
+Last Name: GANSLER
+Suffix Name:    
+
+City:        Framingham
+State:       MA
+Number:      39
+Street:      Claudette
+Road:        Circle
+Home phone:  508 877 3309
+Fax phone:   508 877 1870
+Email:       rick@gansler.com
+URL:         www.gansler.com
+
+EDUCATION: 
+
+Date: May 1985
+School Name: Boston University
+School Location: Boston, Mass
+Degree: Bachelor of Arts
+Major: Computer Science
+
+EXPERIENCE:
+
+Date: 5/97 to present
+Company: Thomson Financial Services
+Location: Boston, MA
+
+Date: 11/96 to 5/97
+Company: Polaroid - Polaroid Graphics Imaging (PGI)
+Location: Waltham, MA
+
+Date: 10/96 to 11/96
+Company: Polaroid - Image Systems Labs (ISL)
+Position:    
+Location: Cambridge, MA
+
+Date: 9/96
+Company: Manelis, Berensen, Baron & Foglia
+Location: Framingham, MA
+
+Date: 6/96 to 10/96
+Company: Massachusetts Institute of Technology - Information Systems Group 
+Location: Cambridge, Mass
+
+Date: 4/96 to 6/96
+Company: Black Diamond Consulting   
+Location: Portsmouth, NH
+
+Date: 4/95 to 3/96
+Company: Lotus Development Corporation 
+Location: Cambridge, Mass
+
+Date: 3/94 to 4/95
+Company: Gutenberg Systems, Inc
+Location: Andover, Mass
+
+Date: 1/94 to 3/94
+Company: Digital Equipment Corporation  
+Location: Nashua, New Hampshire 
+
+Date: 6/93 to 2/94
+Company: Scientific American Magazine  
+Location: New York, NY
+
+Date: 3/93 to 6/93
+Company: Digital Equipment Corporation
+Location: Nashua, New Hampshire
+
+Date: 12/92 to 3/93
+Company: Gutenberg Systems, Inc
+Location: Andover, Mass
+
+Date: 5/92 to 12/92
+Company: Lotus Development Corporation
+Location: Cambridge, Mass
+
+Date: 12/91 to 5/92
+Company: Occam Research
+Location: Watertown, Mass
+ 
+Date: 5/89 to 12/91
+Company: Turning Point Software
+Location: Boston, Mass
+
+Date: 10/88 to 5/89
+Company: Softbridge Financial Services
+Location: Cambridge, Mass
+
+Date: 8/87 to 10/88
+Company: Layered, Inc  
+Location: Charlestown, Mass   
+
+Date: 8/85 to 8/87
+Company: Quinsept, Inc
+Location: Arlington, Mass

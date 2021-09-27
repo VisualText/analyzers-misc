@@ -1,0 +1,147 @@
+
+CONTACT:
+
+Contact Name: Paul Wujek
+First Name: Paul
+Last Name: Wujek
+
+EDUCATION:
+
+Date: 1978
+School Name: University of Toronto
+School Location: Toronto
+Degree: B.A. 
+Major: Computer Science, Accounting 
+
+EXPERIENCE:
+
+Date: 02/98
+Company: i2   
+Position: System Architect
+
+Date: 08/97 - 11/97
+Company: Sony Canada Inc
+Position: Team Leader
+
+Date: 03/97 - 09/97
+Company: Dell Financial Services
+Position: Team Leader/System Architect
+
+Date: 03/97 - 05/97
+Company: Medius Communications                                                              Inc
+Position: System Architect
+
+Date: 08/96 - 02/97
+Company: e-Commerce Inc
+Position: Director R&D   
+
+Date: 01/95 - 07/96
+Company: IBM
+Position: Client/Server Architect, Lead Architect
+
+Date: 08/95 - 10/95
+Company: Eclipse Claims Services
+Position: Systems Architect
+
+Date: 07/95
+Company: Electronic Direct Marketing
+Position: Systems/Database Analyst
+
+Date: 08/94 - 05/95
+Company: Dow Jones Telerate
+Position: Communications Architect
+
+Date: 04/95
+Company: e-Commerce
+Position: Instructor
+
+Date: 10/94
+Company: IBM VisualAge/Smalltalk Training
+
+Date: 02/94 - 06/94
+Company: Unitel
+Position: Chief Architect/DBA
+Location:    
+
+Date: 01/93 - 12/93
+Company: IBM Software Solutions
+Position: Senior Analyst/Programmer
+
+Date: 12/90 - 12/92
+Company: IBM Manufacturing
+Position: Technical Leader
+
+Date: 9/90 - 12/90
+Company: TSB International
+Position: Technical Analyst/Programmer
+
+Date: 11/88 - 07/90
+Company: Mead Data Central
+Position: Technical Analyst/Programmer
+
+Date: 09/88 - 07/89
+Company: Dupont
+Position: Analyst/Technical Leader
+
+Date: 04/88 - 05/88
+Company: Laurentian Financial Services
+Position: Analyst/Programmer  
+
+Date: 12/86 - 03/88
+Company: Ministry of Agriculture   
+Position: Analyst
+Location: Ontario
+
+Date: 08/86 - 11/86
+Company: Laurentian Financial
+Position: Analyst/Programme
+
+Date: 02/86 - 06/88
+Company: New York State
+Position: Data Base Analyst
+Location: New York
+
+Date: 11/85 - 01/86
+Company: Ministry of Housing
+Position: Data Administrator
+Location: Ontario
+
+Date: 10/85
+Company: New England Telephone
+Position: Analyst/Programmer
+
+Date: 08/85 - 09/85
+Company: Canada Trust
+Position: Project Leader
+
+Date: 08/85 - 9/85
+Company: Molson's Ontario Breweries
+Position: Analyst/Programmer
+Location: Ontario
+
+Date: 05/84 - 04/85
+Company: Online People Inc
+Position: Analyst/Programmer
+
+Date: 12/81 - 04/84
+Company: Ministry of Housing, Ontario
+Position: DBA/Technical Leader
+Location: Ontario
+
+Date: 02/81 - 12/81
+Company: Canada Trust
+Position: Analyst/Programmer
+
+Date: 12/78 - 02/81
+Company: Hudson's Bay Company
+Position: Programmer
+
+Date: 06/78 - 09/78
+Company: IBM U.K. Ltd
+Position: Programmer
+Location: U.K.    
+
+Date: 12/77 - 04/78
+Company: Woods Gordon Consultants
+Position: Operator
+

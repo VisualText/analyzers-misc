@@ -1,0 +1,335 @@
+                                 Resume for
+
+                                 Paul Wujek
+
+---------------------------------------------------------------------------
+
+A professional software architecture and development consultant with 20
+years experience in design of data architectures, applications, back-end
+systems, and network protocols. Varied experience provides an
+'all-encompassing'view of system design, that incorporates elements from
+communications, and database design, and combines them with a knowledge of
+management practices and end-user requirements to produce functional,
+integrated, economical systems.
+
+Strong technical knowledge regarding design of relational database
+architectures,TCP/IP based communication protocol design, systems
+integration, object oriented design and development (OOA, OOD, OODBMS) and
+system/network monitoring.
+
+---------------------------------------------------------------------------
+                         PROFESSIONAL EXPERIENCE
+---------------------------------------------------------------------------
+
+02/98 -
+Present                System Architect                                 i2
+Development of architecture to enable printing over WAN, and
+HTML/Java/Servlet/JDBC/CORBA architecture for conversion of the existing
+2-tier software product to Internet/Extranet
+
+---------------------------------------------------------------------------
+08/97 - 11/97             Team Leader                     Sony Canada Inc.
+Integration of an Oracle data-warehouse with legacy applications, SAP/R3,
+and Oracle Express on Sun Solaris. Data-modelling and database design for
+new data added to the data-warehouse.
+
+Architecture, design and leadership for a system to display
+data-warehoused reports over intranet using Java, Javascript, Netscape
+Enterprise Server and Oracle on Sun Solaris. The system included code to
+enable cascading style sheet (CSS) functionality for any browser.
+---------------------------------------------------------------------------
+03/97 - 09/97    Team Leader/System Architect      Dell Financial Services
+Responsible for architecture and design of intranet modules for
+inter-system communications with credit bureaus (Experian/TRW, Equifax,
+Trans Union, Power Credit), and tax calculation software (Vertax Quantum)
+and direction of staff responsible for the implementation of the design of
+the system using Oracle WebServer SQLPlus and 'C' cartridges ONC-RPC and
+Oracle RDBMS running on Windows NT.
+---------------------------------------------------------------------------
+
+03/97 - 05/97          System Architect              Medius Communications
+                                                                      Inc.
+This position involved architecting an Object Model design for a
+Java-based Workflow Management System.
+---------------------------------------------------------------------------
+08/96 - 02/97            Director R&D                      e-Commerce Inc.
+In the capacity if Director of Research and Development my
+responsibilities included directing the efforts of the product and custom
+development staff, research and development withthe Java language,
+implementation of systems with Netscape Enterprise Server, LiveWire Pro,
+Informix,and Microsoft Internet Information Server (IIS).
+---------------------------------------------------------------------------
+
+01/95 - 07/96       Client/Server Architect            Information Systems
+                                                          Management (IBM)
+As Lead Architect analyzed and negotiatedcosting and technical scope for
+$800M in outsourcing contracts inWindowsNT, OS/2, VMS, Unix environments
+totalling 600servers and 10,000 client workstations. Provided leadershipon
+project to implement SNMP based performance monitoring andcapacity
+planning for a network of 160 locations with 200 serversrunning WindowsNT,
+and AIX.
+---------------------------------------------------------------------------
+08/95 - 10/95          Systems Architect           Eclipse Claims Services
+As the customer's agent, supervised the contractto deliver a health
+insurance claims application. Recommended software,and hardware extensions
+to the system architecture for the ORACLE 7.1,AIX, Client/Server
+environment. Provided database and operatingsystem tuning services.
+---------------------------------------------------------------------------
+
+07/95              Systems/Database Analyst              Electronic Direct
+                                                                 Marketing
+Tuning of an Informix 7.1database, application and Sequent Dynix/ptx Unix
+to improveOLTP response times from five minutes down to sub-second on a
+mission-criticalsystem. Produced a report based on the examination and
+analysis of theexisting systems, operations and development efforts to
+suggest immediatechanges, and future requirements.
+---------------------------------------------------------------------------
+08/94 - 05/95      Communications Architect             Dow Jones Telerate
+Architecture and design of a Network Monitoring Systemfor new and legacy
+applications including SNMP and RDBMS using Tcl/Tk(X GUI development
+language) under HP-UX, Linux, andStratus-VOS. Coding of an Oracle 7.1
+interface between VOSapplications and Oracle databases distributed across
+the WAN usingONC/RPC over TCP/IP with failover capabilities.
+---------------------------------------------------------------------------
+04/95                     Instructor                            e-Commerce
+Wrote, and presented a course in Tk/Tclto introduce developers to the
+language and extensions.
+---------------------------------------------------------------------------
+10/94          IBM VisualAge/Smalltalk Training
+Attended the original course for vendors,and application developers.
+---------------------------------------------------------------------------
+02/94 - 06/94         Chief Architect/DBA                           Unitel
+Architecture and database design of a Client/Serverbased
+Telecommunications billing system. Client side was done withVisual Basic,
+and Crystal Reports, under Windows . The Server sideused Sun Solaris 2.3
+(UNIX V4), Oracle7 RDBMS and C++(Gnu). Fifty tables were involved in the
+database structure, and approximately30 reports are available in paperless
+form, via Crystal Reports. AdministeredSun server, and Oracle database,
+did several installs at the home, andcustomer sites, and for the wrote
+Pro*C database access library used inthe system.
+---------------------------------------------------------------------------
+01/93 - 12/93     Senior Analyst/Programmer         IBM Software Solutions
+As a member of the development team that producedthe multi-platform
+version of DB2 designed and wrote an application systemfor testing of
+communication protocols for the implementation of DistributedUnit of Work,
+and Two-Phase Commit (utilizing DRDA-II and X/Open protocols)using TCP/IP
+and SNA LU6.2 for DB2/6000, and DB2/2database products and the DDCS
+distributed database enhancements,with the GUI controlled via X/Motif.
+Analyzed the existing design,and produced manpower estimates for
+conversion of current design to a multiplexedbasis. Participated in the
+implementation of ISO9000 standards.
+---------------------------------------------------------------------------
+12/90 - 12/92          Technical Leader                  IBM Manufacturing
+Technical leader for a team of 12, with responsibilitiesfor all technical
+aspects of the architecture, administration, and installation.Involved in
+the implementation of real-time data collection and controlfor a robotic
+circuit board production network with 120 stations and 365process steps.
+The design used Gensym G2 knowledge bases for control positions,and the
+GemStone Object Oriented Database (Smalltalk based)for data storage and
+access. Designed bridging software to integrate productionline controllers
+and data entry terminals with the database, the knowledgebase,and a
+statistical package (Statit), supervised the programmers, and trainedthem
+in C++, Smalltalk and OODBMS issues (security,design, syntax and coding).
+Some other activities included installationof databases (Sybase,
+GemStone), operating system upgrades,network design and implementation.
+Design of C++ class libraries for ASCIIterminal handling, network database
+control, and software interconnection.Design and coding of software to
+receive data in real time on an RS232line, and store it into a Sybase
+database, plus pass it on to objects underGensym G2 Knowledgebase control.
+Some coding of objects under G2. Setupof FTP, NFS, NIS, UUCP on
+Ethernet,Token ring and SLIP. Used AIX 3.x, RS6000,X11/Motif, Gensym G2
+Knowledgebase, Servio GemStoneOODBMS, Object Oriented Analysis/Design,
+C++, Smalltalk,Sybase, Interleaf, FrameMaker, ISO9000.
+---------------------------------------------------------------------------
+9/90 - 12/90     Technical Analyst/Programmer           TSB International
+Programming of a private circuit managementsystem product to deal with
+PBX's and leased lines. Porting of an applicationfrom Oracle to Ingres
+under VMS. Set-up and administrationof the Ingres database, tuning of VMS
+parameters. Technical reviewand scheduling for a project to port 200,000
+lines of Oracle codeto DEC-RDB.
+---------------------------------------------------------------------------
+11/88 - 07/90    Technical Analyst/Programmer            Mead Data Central
+Design and development of a portable TCP/IPdistributed server
+communications protocol, library and API (MessageOriented Middleware), for
+a distributed client/server database application.Features of the design
+included a multi-threading scheme for processesand designation of backup
+servers, message prioritization, and automaticfallback for fault
+tolerance. Development of a distributed multi-vendorhardware (Sun,
+Stratus, Amdahl, etc.) ticker plant. Development using CASE Tools
+(Excelerator, IDE Software Through Pictures)under SunOS (Unix BSD 4.3),
+using Sybase and a proprietaryRAM-based database, porting to Stratus-VOS.
+
+Design and development of a spooler for synchronous, and asynchronousinput
+from RS232 ports in real time involving approximately 30 concurrentUnix
+processes communicating with additional processes on intelligent
+boardsusing shared memory, semaphores, signals, and named pipes. Device
+driverswere modified for DMA, and the embedded M68010 and Zilog
+processorson the communications boards using the VRTX Real-Time Operating
+System.
+---------------------------------------------------------------------------
+09/88 - 07/89      Analyst/Technical Leader                         Dupont
+Analysis, database design and programmingof a plastics manufacturing
+inventory system linking Intermec Bar-codeequipment to DEC computers under
+Oracle and Vax/VMS.
+---------------------------------------------------------------------------
+04/88 -                                               Laurentian Financial
+05/88                 Analyst/Programmer                          Services
+Converted an online securities system to allowscreens to be changed
+dynamically between french and english. Providedtraining for staff in M204
+User Language and Database design.
+---------------------------------------------------------------------------
+
+12/86 - 03/88               Analyst               Ministry of Agriculture,
+                                                                   Ontario
+Analysis, data model, and development of groupwarefor case analysis in a
+clinical laboratory. Used M204 together with PCsacting as intelligent
+gateways between lab equipment and the mainframe.
+---------------------------------------------------------------------------
+
+08/86 - 11/86         Analyst/Programmer         Laurentian Financial
+                                                 Services
+Developed programs in M204 for use in a customerinformation system.
+---------------------------------------------------------------------------
+02/86 - 06/86          Data Base Analyst                    New York State
+Complete Data Model and design of M204 databasesfor the New York State
+Rent Review system.
+---------------------------------------------------------------------------
+
+11/85 - 01/86         Data Administrator              Ministry of Housing,
+                                                                   Ontario
+M204 Data Dictionary enhancements, maintainedData Dictionary. Produced
+introduction to Data Dictionary concepts seminar.
+---------------------------------------------------------------------------
+10/85                 Analyst/Programmer             New England Telephone
+Developed a system to track, and report onclient contact using VM and
+Model204.
+---------------------------------------------------------------------------
+08/85 - 09/85           Project Leader                        Canada Trust
+Supervised development of personal financialplanning system utilizing
+Lotus 1-2-3 and Dbase III.
+---------------------------------------------------------------------------
+
+08/85 - 9/85          Analyst/Programmer                  Molson's Ontario
+                                                                 Breweries
+Personnel Absence Reporting system using M204Database and the M204 User
+Language.
+---------------------------------------------------------------------------
+05/84 - 04/85         Analyst/Programmer                Online People Inc.
+Distributed office automation using gatewaysand networks programmed in MS-
+DOS based PCs and C.
+---------------------------------------------------------------------------
+
+12/81 - 04/84        DBA/Technical Leader             Ministry of Housing,
+                                                                   Ontario
+Inventory Control and a document trackingoffice administration system in
+Model 204, MVS.
+---------------------------------------------------------------------------
+02/81 - 12/81         Analyst/Programmer                      Canada Trust
+Pension trust system using COBOL, CICS, S2K.
+---------------------------------------------------------------------------
+12/78 - 02/81             Programmer                 Hudson's Bay Company
+Inventory systems using COBOL, CICS, IDMS.
+---------------------------------------------------------------------------
+06/78 - 09/78             Programmer                         IBM U.K. Ltd.
+Transportation/Logistics system using PL/I,CICS, DL/I.
+---------------------------------------------------------------------------
+12/77 - 04/78              Operator               Woods Gordon Consultants
+Operation of a Data General Eclipse C/300Mini-Computer.
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+                                INDUSTRIES
+---------------------------------------------------------------------------
+
+   * Government
+   * Electronics Manufacturing
+   * Plastics Manufacturing
+   * Trust
+   * Financial Services
+   * Insurance
+   * Telecommunications
+   * Packaged Software
+   * Fullfillment
+   * Office Automation
+   * Computer Systems Outsourcing
+
+---------------------------------------------------------------------------
+                                EDUCATION
+---------------------------------------------------------------------------
+
+       B.A. University of Toronto 1978 (Computer Science, Accounting)
+
+---------------------------------------------------------------------------
+                             TECHNICAL SKILLS
+---------------------------------------------------------------------------
+
+                                 Languages
+
+   * Java
+   * C++
+   * Smalltalk
+   * SQL
+   * perl
+   * Tcl/Tk
+   * Assembler
+   * COBOL
+   * Visual Basic
+   * Informix 4GL
+
+                                  Database
+
+   * Oracle 7.x
+   * Sybase
+   * GemStone(OODB)
+   * Informix
+   * Ingres
+   * DB2 (DB2/2, DB2/6000, AS400, VM, VMS
+   * Gensym G2 KBS
+
+                                    O/S
+
+   * AIX
+   * UNIX
+   * Sun/OS
+   * Solaris
+   * HP/UX
+   * Linux
+   * Windows NT
+   * OS/2
+   * VAX-VMS
+   * Stratus-VOS
+   * Dynix/ptx
+
+                                  Hardware
+
+   * IBM RS6000/PowerPC - including SP2
+   * IBM Mainframe
+   * PC
+   * DEC VAX
+   * Sun
+   * HP-PA-RISC
+   * Sequent
+
+                                    GUI
+
+   * X/Motif
+   * Windows
+   * Tcl/Tk
+
+                               Communications
+
+   * TCP/IP
+   * Internet (Java)
+   * RS232
+   * CORBA
+   * Java RMI
+   * SNA(LU6.2)
+   * SNMP
+   * MOM (Message Oriented Middleware)
+   * RPC
+   * Tuxedo (OLTP)
+     ----------------------------------------------------------------------
+                             wujek@rogers.wave.ca
+     ----------------------------------------------------------------------
+         This document: http://home.on.rogers.wave.ca/wujek/Index.html
+     ----------------------------------------------------------------------

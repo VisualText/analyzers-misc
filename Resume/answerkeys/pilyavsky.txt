@@ -1,0 +1,56 @@
+
+CONTACT:
+
+Contact Name: Mark Pilyavsky
+First Name: Mark
+Last Name: Pilyavsky
+
+Number:      2199
+Street:      California
+Road:        Street
+Room:        4
+City:        San Francisco
+State:       CA
+Zip:         94115
+Home phone:  415 929 7305
+Email:       pilyavsky@hotmail.com
+
+EDUCATION:
+   
+School Name: San Diego State University
+School Location: San Diego
+Degree: B.S.
+Major: Computer Science   
+Major GPA: 3.6
+Honors: honors
+
+EXPERIENCE:
+
+Date: April 1998 - Present
+Company: Nations Banc/Montgomery Securities
+Position: Independent Consultant
+
+Date: January 1997 - March 1998
+Company: Nicholas Applegate Capital Management
+Position: Database Developer
+
+Date: April 1996 - December 1996
+Company: Sybase Software Corporation
+Position: Performance Engineer
+
+Date: April 1993 - March 1996
+Company: Migration Software Systems, Ltd
+Position: Consulting Engineer
+
+Date: January 1992 - April 1993
+Company: Megatek Corporation
+Position: Independent Consultant
+
+Date: December 1990 - January 1992
+Company: FPS Computing
+Position: Programmer
+
+Date: May 1989 - December 1990
+Company: General Dynamics Corporation
+Position: Junior Engineer
+

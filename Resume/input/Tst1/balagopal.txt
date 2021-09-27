@@ -1,0 +1,117 @@
+
+JAIDEV BALAGOPAL
+Apt.3D, 47 Saint Nicholas Avenue                                                              (212) 316 0315
+New York, New York 10026                                                             jaidevb@hotmail.com
+                                                                          http://www.concentric.net/~Jpockyar/jdb/
+____________________________________________________________________________________
+
+OBJECTIVE:
+                  To obtain a computer engineering position that will channel my intelligence
+                  and energy to create something innovative and challenging.
+
+EDUCATION:
+                  Boston University, College of Engineering, Boston, Massachusetts
+                  Bachelor of Science in Computer Systems Engineering, May 1998.
+                  G.P.A.:  3.5/4.0 ( Magna cum Laude, Dean's List)
+
+                  COMPUTER EXPERTISE
+                  Hardware: IBM PC, Apple Mac, Sun workstation
+                  Operating Systems: Windows NT/95/98, UNIX (Sun, AIX, IRIX, System V),
+                                     VAX VMS, MacOS, MS-DOS
+                  Languages:  C/C++, Visual C++(ActiveX, COM, MFCs), Assembly, SQL,
+                              FORTRAN, RPL, Java (learning), Visual Basic(learning)
+                  Software Packages: MATLAB, MS-Access, MS-Office, Mathematica,
+                              Borland-Office, Photoshop, Director, Authorware,
+                              VisualAge (for Java), Visual Studio
+                  Databases: MS-Access, Oracle 7.3, SQL 6.5(learning),
+                             DB2-UDB (learning)
+                  Internet: Netscape Application Server, Enterprise Server, IIS,
+                            Cold-Fusion
+
+                  COURSES TAKEN
+                  Small Computers          C and Data Structures      Computer Communication
+                  Microprocessors           Operating Systems                   and Networks
+                  Senior Design               Software Design               VLSI Design
+                  Stochastic Processes   Software Systems Design
+
+                  PROJECTS
+                  * As team leader, designed and implemented a MEMS (Micro-Electromechanical
+                     System) Mirror controller to control an array of 100 micro-mechanical
+                     mirrors. This multi-disciplinary effort combines research on mechanism
+                     design, optics and high-speed parallel control, to produce massively parallel
+                     coordinated micro-mirror devices. Involved Visual C++ and Assembly
+                     (MC68HC705C8A, for data generation).
+                     (Web site: http://www.concentric.net/~Jpockyar/jdb/mems)
+                  * As team leader, designed and implemented a graphical chat software, using
+                     Visual C++, which is networked over the internet.
+                     (Web site: http://www.concentric.net/~Jpockyar/jdb/sc447)
+                  * As team leader, designed a Real Time Object Oriented Model (ROOM) for an
+                     automated Gas Station using ObjectTime (smalltalk based). Involved OOA/D.
+                     (Web site: http://www.orbweavers.com/511)
+                  * As team leader, designed and implemented a CISC type architecture computer
+                     using PowerView.
+                  * Coded a number of data storage and retrieval systems in C, using
+                     different types of data structures (linked lists, trees, tries and hash tables).
+                  * Designed a bridge using trusses. Won second place out of a class of 60
+                     students for the most economical design.
+
+EXPERIENCE:
+                  Online Creation Inc., New York, New York
+                  eCommerce Consultant/Developer (November 1998 to present)
+                  * Work as a consultant for an online brokerage company (ndb.com).
+                    - Define and develop NAS AppLogics (in C++ and Java) and
+                        Extensions (in C++) for their brokerage site.
+                    - Define and develop front end Java Applets and ActiveX Controls
+                        for trade notifications, trading desks, etc.
+                    - Define and develop Intranet applications (in ColdFusion), that
+                        are necessary for day to day operations.
+                  * Work as a consultant for an ISP (isfree.com).
+                    - Define and develop their web site.
+                    - Automate their accounting system (CyberCash).
+                  * Work with Netscape Application Server, Netscape Enterprise Server, IIS,
+                    Cold Fusion, SQL 6.5, Oracle 7, MS Visual C++ 5.0, MS Visual J++ 1.1,
+                    ODBC, ActiveX, COM, LoadRunner.
+
+                  Self Employed.
+                  Web Designer (July 1997 to present)
+                  * Design Web-sites for companies and individuals.
+                    Involves CGI, JavaScript and Java applets programming.
+
+                  Boston University, Network Computing Laboratory.
+                  Research Assistant (September 1997 to July 1998)
+                  * Test and verify network protocols using ObjecTime (Smalltalk based).
+                     Set up heterogeneous LAN.
+
+                  Boston University, College Of Engineering.
+                  Grader, Electronics (September 1997 to December 1997)
+
+                  BPL Ltd., Bangalore, India.
+                  Assistant Programmer (Summer 1996)
+                  * Helped in building hardware test software in C to test PCBs.
+
+                  University Of Massachusetts, Research Foundation, Lowell
+                  Multimedia Programmer (January 1996 - May 1996)
+                  * Developed  multimedia applications for certain engineering
+                     topics. Compiled the group's work and debugged as necessary.
+                     Used Photoshop, Authorware, Director, MATLAB and C.
+
+                  University Of Massachusetts, Lowell.
+                  Tutor/Peer Advisor (September 1995 - May 1996 )
+                  * Tutored students in Calculus, Chemistry, Physics, and
+                     Differential Equations. Taught a class of 50 students Chemistry
+                     as Supplemental Instruction.
+
+LANGUAGES:
+                  Fluent in Hindi, Malayalam and Tamil. Also familiar with French,
+                  German and Kannada.
+
+ACTIVITIES:
+                  Elected to the Boston University Student Union by over 600 students.
+                  Member of the Student Union Financial Review Board.
+                  Also member of the Multicultural Affairs committee.
+
+INTERESTS:
+                  Soccer, Jogging, Tennis, Cricket and Languages (both human and computer).
+
+
+---------------------------------------------------------------------------

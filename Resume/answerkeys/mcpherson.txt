@@ -1,0 +1,47 @@
+
+CONTACT:
+
+Contact Name: David McPherson
+First Name: David
+Last Name: McPherson
+
+Email:       David_McPherson@compuserve.com
+
+EDUCATION:
+
+Date: May 88
+School Name: Loyola College
+School Location: Baltimore, MD
+Degree: Bachelor of Science
+Major: Computer Science
+GPA: 3.5
+Max GPA: 4.0
+
+
+EXPERIENCE:
+
+Date: 1994 - Present
+Company: Cara Corporation
+Position: Software Engineer
+Location: Oak Brook, IL
+
+Date: 1991 - 1994
+Company: microSys Corporation   
+Position: Owner/Consultant
+Location: Baltimore, MD & Chicago, IL
+
+Date: 1989 - 1991
+Company: Interior Elements Inc
+Position: MIS Manager
+Location: Columbia, MD
+
+Date: 1988 - 1989
+Company: Westinghouse Electric Corporation
+Position: Systems Analyst
+Location: Linthicum, MD
+
+Date: 1987 - 1988
+Company: HCIA, Inc
+Position: Systems Analyst
+Location: Baltimore, MD
+

@@ -1,0 +1,57 @@
+
+CONTACT:
+
+Contact Name: Benjamin K
+Title:    
+First Name: Benjamin
+Middle Name: K  
+Last Name: Shisler
+Suffix Name:    
+
+Number:      8
+Street:      Dudley
+Road:        St
+City:		 Cambridge
+State:       MA
+Home phone:  617 864 6386
+Email:       bshislerNOSPAM@hotmail.com
+
+EDUCATION:
+
+Date: May, 1997
+School Name: University of New Hampshire
+School Location: Durham, New Hampshire
+Degree: BS  
+Major: Computer Science
+Minor: Linguistics Philosophy
+GPA: 3.2
+
+Date: Fall 1995
+School Name: Technical University of Budapest
+School Location: Budapest, Hungary
+
+EXPERIENCE:
+
+Date: Sept 1998 to May 1999
+Company: Artificial Life, Inc
+Location: Boston, MA
+
+Date: Feb 1998 to Sept 1998
+Company: Circle Strategies 
+Position: Internet and Database Developer
+Location: Cambridge, MA
+
+Date: June 1997-Feb 1998
+Company: InterLynx Technology 
+Position: IVR and Database Developer
+Location: Boston, MA
+
+Date: 1992, 1993, 1994, 1995
+Company: U. S. Army Corps of Engineers Cold Regions Research and Engineering Laboratory, 
+Position: Engineering Aide
+Location: Hanover, NH
+
+Date: spring 1993
+Company: Codman Research Group, Inc
+Position: Computer Aide
+Location: Lebanon, NH

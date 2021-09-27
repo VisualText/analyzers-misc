@@ -1,0 +1,115 @@
+
+
+                                 Resume of
+
+                           Reginald Anthony Young
+
+                        IS/Communications Consultant
+
+                              Arlington, Texas
+
+    Period        Company       Equipment       Languages     Operating   Comm Systems      Accomplishments
+                                                               Systems
+                  Alpega                                                                  Providing contract
+                                                                                          services to clients
+                     of                        Delphi 1-3,                                    in banking,
+                                                                                            communications,
+                 Arlington,                 ActiveX,Java,HTML                             legal, health care,
+                   Texas       IBM AS/400,      publisher,                                    insurance,
+                              System 3/x's,                      DOS,
+                                                                                              automotive,
+                  Internet     327x / 5250    Objectvision,    Windows  TCP/IP, NetBEUI,  engineering, retail
+                  Service      emulation's,                      2.0       IPX/SPX, PC       and software
+                                 Build &                       through
+ 1986-Present   Provider and     Service        C - C++,       NT 4.xx,  Communications,      development
+               Consultant to                                            Dialup, ISDN BRI  industries. Design,
+                  over 100       Personal    RPGII, III,400,    XENIX,     & PRI, T1,     build, convert and
+               clients in all computers for                    OS/2 and     Internet         repair custom
+               phases of the   Microsoft &    Oracle SQL, MS    Novell                     computer systems
+                business and      Novell      SQL, Interbase   Networks                      according to
+                 government      Networks   SQL, Btreive XQL,                             specifications also
+               communities.                      Paradox,                                    trouble shoot
+                                              Dbase,Access.                              problems in software
+                  formerly                                                                   and hardware
+               Software/Plus+                                                                integration.
+                Fundamental                                                               Manager of several
+                 Software,                                                                varied accounts for
+               Euless, Texas                                                              software consulting
+                 Consulting    IBM AS/400,                     Windows   IBM Midrange -        company.
+   1989-1990     company in   System 3/x's,    RPGII & III,   2.xx, and        PC         Pharmaceutical, Oil
+                banking, oil     Personal        Paradox       DeskView  Communications.  & Gas, Banking, and
+                and gas, and    computers                                                Accounting were some
+               pharmaceutical                                                              of the industries
+                companies.                                                                     serviced.
+
+                 Municipal                                                                 Technical Support
+                 Software,                                                                 Manager. Provide
+               Irving, Texas                                                              support to over 125
+                 Consulting    IBM AS/400,                     Windows   IBM Midrange -     clients of this
+   1987-1988     company in   System 3/x's,    RPGII & III,   3.xx, and        PC        corporation. Develop
+                 Municipal       Personal       Lotus 123       Novell   Communications. time/billing system,
+               government and   computers                      Networks                       along with
+                    law                                                                      documentation
+               enforcement.                                                                standards for all
+                                                                                              software.
+                                                                                             Contract Data
+                                                                                          Processing Manager.
+                 Container                                                                Design and convert
+               Corporation Of   IBM System                                               software from Sys/34
+                 Carolina,     36, Personal                              IBM Midrange -  to Sys/36. Supervise
+   1985-1986  Charlotte, N.C.   computers,        RPGII,         DOS           PC           and staff three
+                   Refuse        HP-Laser      WordPerfect               Communications.  information systems
+                 collection      Printers                                                 departments. Design
+                 company.                                                                     and install
+                                                                                           inventory system.
+                                                                                            Modify existing
+                                                                                         financial programs.
+                                                                                            Data Processing
+                                                                                           Manager. Oversee
+                   Texas                                                                    data processing
+                 Industrial                                                                  areas of four
+               Disposal Inc.,   IBM System                               IBM Midrange -       branches in
+   1983-1984   Dallas, Texas  34, IBM PC's,  RPGII, Lotus 123    DOS           PC            organization.
+                   Refuse     and Datapoint                              Communications.   Develop Billing,
+                 collection                                                                Routing, A/R, and
+                 company.                                                                    cost analysis
+                                                                                           systems. Maintain
+                                                                                                 G/L.
+                                                                                          Analyze systems to
+                A&A Moving &                                                                   decrease
+                  Storage                                                                inefficiencies, code
+     1982      Company, Fort  IBM System 32       RPGII                                   and install bill of
+                Worth, Texas      and 34                                                  lading, and vehicle
+                  Contract                                                                   trip analysis
+                 Carrier.                                                                 systems for a fleet
+                                                                                         of tractor trailers.
+                                                                                           Systems Analyst,
+              Pier I Imports,                                                                Lead computer
+                Fort Worth,     IBM System                                                operator 2nd shift.
+     1981       Texas Exotic   34, NCR 8500   RPGII, Neat/3                 Satellite      Convert warehouse
+                merchandise     Criterion         COBOL                                    inventory system
+                 retailer.                                                               from RPGII on Sys/34
+                                                                                           to Neat/3 on NCR
+                                                                                                8500.
+                                                                                            Data Processing
+               American Glass                                                              Manager, software
+               Distributors,                                                              installer. Designed
+                Fort Worth,                                                                and instituted a
+   1980-1981  Texas Wholesale   IBM System   RPGII and DE/RPG                              unique inventory
+                 Automotive    34, IBM 5280                                               control/accounting
+                   Glass                                                                    method, saving
+               Distributor.                                                                substantial down
+                                                                                           time each year.
+                  Hooper &
+               Company, Fort
+                               IBM System 3
+   1977-1979    Worth, Texas    Model 10D,        RPGII                                  Programmer/Operator.
+                 Financial
+                  Services      Datapoint
+                  Bureau.
+                                                                         1976 O.D. Wyatt
+   Education      C++ 1993     1978-79,1985     Cobol 1983     1976-77     High, Fort
+                  T.C.J.C.         IBM          F.W.I.S.D.    U.S. Navy
+                                                                          Worth, Texas.
+
+                  References made available upon request.

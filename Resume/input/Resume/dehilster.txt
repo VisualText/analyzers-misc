@@ -1,0 +1,64 @@
+RESUME
+
+Dr. David de Hilster
+Home: (562) 437-2211
+Work: (562) 491-2148
+535 Magnolia Dr. Apt. #102
+Long Beach, CA 90802-6648
+david@dehilster.com
+http://www.dehilster.com
+
+ Education
+--------------------------------------------------------------------------------
+ 
+1985 M.S, Linguistics, Ohio State University 
+1983 BS, Mathematics, Minor in Architecture, Ohio State University 
+
+ Projects
+--------------------------------------------------------------------------------
+ 
+1998-present Senior Software Engineer at Text Analysis International Inc., California 
+1996-98 Senior Software Engineer at I-Search, Los Angeles, California 
+1993-96 Senior Engineer/Scientist for InfoWeb, TRW, Redondo Beach, California 
+1990-93 Senior Engineer/Scientist McDonnell Douglas, Huntington Beach / Santa Ana, California
+for TexUS (Text Understanding System),
+1987-89 Head Research Scientist for VERBO, TECSIS, Rio de Janeiro, Brazil
+(natural language interface to databases in Portuguese),  
+1985-87 Research scientist, Battelle Memorial Institute, Columbus, Ohio
+for NLQ (Natural Language Query): natural language interface to relational databases,  
+1984-85 Researcher for READ (program to read newswire articles), Battelle Memorial Institute
+
+ General Information
+--------------------------------------------------------------------------------
+ 
+Computer Languages C (11 years, Sun, Borland, Mircosoft), Lisp (5 years),
+Sunview (3 Years), Basic (3 years), FORTRAN (3 years), Assembly (2 years),
+SQL (2 years), Galaxay (2 year) Pascal (1 year), Motif, C++ and Object-Oriented languages (general knowledge), Prolog (general knowledge) 
+Internet HTML (2 years), perl, CGI, JavaScript, Java (1 year) 
+Webmaster www.autodynamics.org, www.sambala.org, www.worldsamba.org
+www.sambacollection.com, www.dehilster.com, www.carnaval.org 
+Graphic Interfaces Extensive graphic interface experience in Galaxy,
+Sunview, and Motif on Sun Workstation. Windowing system and interface
+from scratch on PC in C and Lisp (VERBO, Brazil). Interface design for
+PC and Xerox 1108 workstation (NLQ). 
+Software  Attended classes and applied McDonnell Douglas' SEI (Software
+Engineering Engineering Institutes) level 3 documentation and processes
+to the TexUS project 
+Computer Hardware Sun workstation, PC, NeXT Machine, Xerox 1108, Dec, VAX 
+Operating Systems DOS, UNIX, NeXT Step, Windows 95 
+Teaching Graduate Natural Language Processing course & undergraduate
+linguistics course, Instituto Militar de Engenharia, Rio de Janeiro,
+Brazil & Ohio State University 
+Writing Proposal writing, technical papers (10+), 15 articles for PC
+Mundo (PC World) on Artificial Intelligence (Brazil) 
+Misc.  Extensive experience with Macintosh, PC, word processing,
+graphics, and demonstrations
+
+Personal
+36 years old, married, no children, fluent in Portuguese.
+Hobbies include art (4 works with the L.A. County Museum of Art's Art
+Rental and Sales Gallery), music, and rock climbing. Active in the Long
+Beach and Brazilian community including being founder and
+president of SambaLá Samba School. Also president and founder of the
+Society for the Advancement of Autodynamics, a new theory of relativity
+proposed by Dr. Ricardo Carezani. 

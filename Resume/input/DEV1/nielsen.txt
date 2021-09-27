@@ -1,0 +1,160 @@
+Brooke L. Nielsen
+
+email: bln@umn.edu
+
+Word 97 version of resume
+
+Education
+University of Minnesota, Twin Cities
+Masters of Science in Software Engineering; Expected Spring 2000.
+
+University of Minnesota, Twin Cities
+Bachelor of Science in Astrophysics; Spring 1998.
+
+MacPhail School of Music, Minneapolis MN.
+Guitar with blues emphasis, performing ensembles.
+1990-1996
+
+Publications
+*"Atomic Structure of Solid and Liquid Polyethylene Oxide," J.A. Johnson,
+M.-L. Saboungi, D.L. Price, S. Ansell, T.P. Russell, J.W. Halley, and B.
+Nielsen, Chem. Phys. 109, 16 (1998). PDF Postscript
+*"Simulation Studies of Polymer Electrolytes for Battery Applications,"
+J.W. Halley and B. Nielsen, University of Minnesota Supercomputing
+Institute Research Report UMSI 98/211, December 1998. Publication in press.
+
+Work Experience
+
+Maxim Group
+February 1999 - present
+Consultant
+
+   * Currently at Deluxe Corp. as a contract programmer. Programming in
+     Java using Visual Age for Java.
+
+University of Minnesota
+Enterprise Web Development Team
+January 1997 - January 1999
+Lead Analyst/Programmer
+
+   * Developing student/staff self-service web applications using Java into
+     Peoplesoft HRSA v7.0
+   * Programming in Java, perl, sh for web based applications.
+   * Peoplesoft development.
+   * Data modeling and DB application development.
+   * Manage technical team members.
+
+Ulysses Telemedia Networks
+March 1996 to January 1997
+Sr Software Engineer
+
+   * Lead large scale software development primarily in java. Applications
+     include intranet groupware, foundation classes, and applications aimed
+     at the network computer.
+   * Primary developer of the Odyssey Software Suite. Web-based groupware
+     written in perl and c, including a calendar, personal contact manager
+     and a reminder system. Software in use by companies such as 3M and
+     Motorola. Software package received 5 stars by PC Magazine.
+   * Complete systems integration for sun and sgi system networks. Set up
+     and configure routers, csu/dsu, hubs. Build and install software
+     including sendmail 8.6.1 and sendmail 8.7.5, dns setup and
+     administration, usenet news, web server with multiple virtual domain
+     hosting.
+   * Provide systems administration for ulysses' unix machines (SGI & SUN).
+     DNS, www, NIS+, autoclient, sendmail.
+
+Computer and Information Services, University of Minnesota
+August 1994 to March 1996
+Applications Programmer
+
+     Web site development involving large data exchanges between many
+     departments. Web work included standard cgi-bin utilities, custom
+     database development and web interface design, web page design and
+     planning including many online publications, and sites at the
+     University.
+
+     Projects included:
+        o The Office of the Registrar homepage; designed and programmed
+          many cgi scripts including an online interactive course search,
+          design and implementation of the underlying database the search
+          queries in unix dbm format, gpa computer, course planner and
+          database, course book search including underlying database, and
+          the graduation computer. In use today by over 10,000 students.
+        o The Kiosk Publication; developed all the cgi programs in perl,
+          including online classified postings, editorial submission, and
+          calendar.
+        o Programming and design behind the main University of Minnesota
+          web pages.
+        o Online x500 student/staff directory which queries x500 through a
+          WWW form and returns public student/staff information.
+        o Online x500 change forms which allow for a student or staff
+          member to update and change their directory and account
+          information in the University of Minnesota X.500 Database,
+          through a web interface. Developed x500 management tools, which
+          allow privileged users to update and change the x500 information
+          for students and staff. This is used by all University of MN
+          coordinate campuses.
+
+     Other duties included web server administration, software development
+     in perl, and c for the department as well as other departments and the
+     University as a whole. Provided software services for unix, mac, pc,
+     windows, and novell to University departments including software
+     installation, technical support, and networking solutions. Performed
+     system administration tasks including system security, and maintained
+     over 120,000 accounts .
+
+Independent Computer Consulting
+Networking Wizards
+May 1995 - March 1996
+
+     Worked with the company's clients on a variety of tasks, including SCO
+     Unix system administration, custom software development for the SCO
+     Unix environment, and custom web cgi programming in a unix
+     environment.
+
+Department of Astronomy, University of Minnesota
+December 1994 to July 1995
+Undergraduate Research Assistant
+
+     Worked with digitized data from the automated plate scanner (APS) in a
+     unix environment. Duties included running the data through a series of
+     calibration and classification scripts, identification of the stars in
+     the data with known stars from a star catalog, removing bad images
+     from the data, and final reduction of the data into the starbase
+     online catalog.
+
+College of Education, University of Minnesota
+April 1994 to October 1994
+Network Consultant
+
+     Provided technical support for the College of Education's network.
+     Duties included administrating a College of Ed. appletalk server,
+     monitoring the computer lab, software installation, network set up for
+     novell, pc and macintosh, hardware installation, and onsite technical
+     support for faculty and staff.
+
+Independent Computer Consulting
+Baker Bearing, Inc.
+January 1995 - March 1996
+
+     Provided consulting on novell network, novell workstation setup,
+     software installation, hardware installation, backup services.
+
+Department of Physics, University of Minnesota
+September 1992 to June 1993
+Jr. Scientist Trainee
+
+     Studies of the interactions of relativistic heavy nuclei with
+     particular emphasis on the influence of these interactions on the
+     abundances of the nuclei in the cosmic radiation. Scanned nuclear
+     emulsions of high energy gold beams for interactions, used data to
+     calculate mfp and other properties of gold at particular energy
+     levels. Built targets to be used in future experiments at CERN.
+
+[Image]
+[Last updated 4/7/98]
+
+The views and opinions expressed in this page are strictly those of the
+page author.
+The contents of this page have not been reviewed or approved by the
+University of Minnesota.

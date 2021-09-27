@@ -1,0 +1,139 @@
+                          ROBERT LEE STEVENS, JR.
+
+                               (410) 884-3761
+                        judahsoft@mail.geocities.com
+
+ Objective Technical      Employment        Professional       References
+           Skills         Experience        Training
+
+                   [Image]      Download this resume
+                                (MS-Word 7.0 Format)
+
+                                 OBJECTIVE
+
+To lead the development of network applications from within a growing and
+technologically progressive organization.
+
+                             TECHNICAL SKILLS
+
+ DEVELOPMENT:     C/C++ (Unix/Windows 9x & NT), Visual C++,
+                  RogueWave, MFC, ActiveX/COM Programming, DCE RPC,
+                  DCE Threads, Java, JavaScript, Persistence,
+                  TCP/IP socket programming, SQL, HTML, Sybase,
+                  JAM, DirectX. Experience with Continuus CM tool.
+                  Familiarity with CORBA.
+
+ DESIGN:          Strong Object-Oriented Design/Development, Real
+                  Time Design/Development, GUI Design.
+
+ PLATFORMS:       Solaris 2.x, Windows NT, Windows 9x, OpenVMS
+
+                           EMPLOYMENT EXPERIENCE
+            Bell Atlantic  Texas Insruments  Towson University
+
+ SOFTWARE ENGINEER
+ Bell Atlantic Corporation
+ Broadband Systems, Silver Spring, Maryland
+ April, 1996 - Present
+
+   * Developed support systems for Bell Atlantic's High Speed Internet
+     (ADSL) and Switched Digital Video initiatives using Object-Oriented
+     C++ and DCE on a Solaris platform using Sybase System 11.
+   * Led development of a DCE RPC-based system used to switch customer
+     connections to a Broadband network.
+   * Led development of an interface between trouble ticketing system and
+     corporate-wide customer information system using a proprietary
+     protocol. Developed C++ class library which simplified future
+     development using the protocol.
+   * Developed an FTP-based interface application used to obtain large
+     amounts of video customer circuit data from a network provisioning
+     system and synchronize the databases for the maintenance and sales
+     systems.
+   * Supervised the consolidation and restructuring of code for two
+     systems, modifying them to use a common GUI and utility function
+     library, reducing the size and complexity of each application and
+     facilitating faster development cycle.
+   * Conceived and developed an HTML-based help system. Wrote an HTML/GUI
+     processor which finds screen flows and uses a data dictionary to
+     convert screens into HTML content, reducing need for help content
+     rewrites between releases.
+   * Authored OO DCE development standards governing distributed
+     application development practices for 125 engineers.
+   * Presented demonstrations of internally-developed applications to Bell
+     Atlantic CEO and senior corporate officers.
+   * Represented Bell Atlantic as a guest speaker at events held by
+     community organizations.
+
+ SOFTWARE DESIGN ENGINEER
+ Texas Instruments, Inc. (currently GSE Systems, Inc.)
+ Process Automation Systems, Hunt Valley, Maryland
+ March, 1994 - April, 1996
+
+   * Designed, coded and maintained software for real-time Supervisory
+     Control and Data Acquisition (SCADA) systems controlling oil and gas
+     pipelines on Windows NT and VMS platforms.
+   * Served as project lead for system delivered to Lagoven, a large
+     Venezuelan petroleum company. Designed, coded, and made repeated trips
+     to Venezuela to oversee installation of a SCADA device driver which
+     uses TCP/IP to provide fail-safe communications via redundant Ethernet
+     networks with field devices controlling a petroleum pipeline.
+   * Assumed responsibility for the redesign, optimization, and completion
+     of a real-time DCE/RPC-based information server used to provide
+     real-time engineering data to 100+ simultaneous clients. Assumed chief
+     responsibility for development during extended absence of lead
+     engineer, allowing two SCADA systems to be delivered on schedule.
+   * Designed and developed a TCP/IP API layer which hides the details of
+     socket programming to simplify the development of real-time client
+     applications accessing multiple TCP/IP servers. The API is still being
+     used today to create SCADA device drivers on Windows NT.
+   * Served as development leader for SCADA device driver application which
+     allows the system to communicate with Remote Terminal Units (RTU's)
+     over serial lines on TEPPCO's (Texas Eastern Panhandle Products
+     Corporation's) interstate oil pipeline. Traveled to Houston to discuss
+     technical requirements with TEPPCO representatives.
+   * Designed SCADA Windows NT system installation program using
+     InstallShield. Designed password protection mechanism to prevent
+     unauthorized installation of product
+
+ NETWORK TECHNICIAN
+ Towson University
+ University Technical Services, Towson Maryland
+ March, 1992 - March, 1994
+
+   * Responsible for ensuring uptime for the campus network and resolving
+     problems with network hardware and software.
+   * Worked with Bell Atlantic technicians to correct problems university
+     personnel experienced using dedicated dial-in lines. As a result,
+     users were provided with uninterrupted network access during
+     replacement of campus network.
+   * Installed, tested, and maintained network hardware including Routers,
+     Bridges, and Modems.
+   * Responsible for the wiring and troubleshooting of network cabling
+     using 10 Base-T and thinwire ethernet.
+   * Handled day-to-day maintenance of the existing physical network while
+     Network Manager was engaged in the planning activities for a new fiber
+     optic network throughout campus.
+   * Configured and maintained client/server software throughout campus,
+     using TCP/IP and DEC Pathworks packages.
+
+                           PROFESSIONAL TRAINING
+
+ Advanced Java Programming, Bluestone Technology, October, 1997
+ Persistence CORBA Programming, Persistence Corporation, October, 1997
+ DCE Programming I & II, Transarc Corporation, October, 1996
+
+                                 EDUCATION
+ Bachelor Of Arts, Computer Science, May, 1994
+ Minor In Mass Communications
+ Towson University, Towson, Maryland
+
+Completed coursework includes Compiler Design, Systems Analysis & Design,
+and Neural Networks. Studied Japanese language through intermediate level
+to earn Bachelor Of Arts over BS degree.
+
+                     REFERENCES FURNISHED UPON REQUEST
+
+                            BACK TO TOP OF PAGE
+
+           This page hosted by [Image] Get your own Free Homepage
+[Image]

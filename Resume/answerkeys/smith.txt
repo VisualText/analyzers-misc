@@ -1,0 +1,60 @@
+
+CONTACT:
+
+Contact Name: Thomas H. Smith
+First Name: Thomas
+Middle Name: H  
+Last Name: Smith
+
+Number:      811
+Street:      Russet
+Road:        Valley
+City:        Cedar Park
+State:       TX
+Zip:         78613
+Zip suffix:  4426
+Home phone:  512 331 9914
+Work phone:  512 838 8842
+Pager phone: 512 613 9136
+Cell phone:  512 922 9907
+Email:       abner@bga.com
+Email:       tomhs@austin.ibm.com
+URL:         http://www.realtime.net/~abner/index.html
+
+EDUCATION:
+
+Date: 1994 - 1996
+School Name: Austin Community College
+School Location: Austin, Texas
+Degree: Associate of Science
+Major: CIS
+GPA: 3.986
+
+EXPERIENCE:
+
+Date: 1998 - present
+Company: PSW Technologies (IBM AIX Lab)
+Position: Product Verification Tester/Install Team Lead    
+Location: Austin, Texas
+
+Date: 1996 - May 1998
+Company: Office of the Consumer Credit Commissioner
+Position: Database Programmer/LAN Manager/Y2K Remediation Coordinator
+Location: Austin, Texas
+
+Date: Jun. 1984 - Dec. 1997
+Company: Little Italy
+Position: Kitchen Manager/Chef Jun
+Location: Austin, Texas
+
+Date: 1995 - May 1996
+Company: Austin Community College
+Position: Calculus Supplemental Studies Instructor
+Location: Cedar Park, Texas
+
+
+Date: Sep. 1996 - present
+Company: austin.jobs.computer-geek   
+Position: Moderator/Archivist
+Location: Austin, Texas
+

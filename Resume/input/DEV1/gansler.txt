@@ -1,0 +1,311 @@
+[Image][Image][Image]
+
+---------------------------------------------------------------------------
+
+Note to recruiters:
+
+     I prefer to do contract work in the Boston, Massachusetts
+     metropolitan area. I have also "tele-commuted", working for
+     clients outside of the Boston area.
+
+---------------------------------------------------------------------------
+
+   * RICHARD MARC GANSLER
+        o 39 Claudette Circle
+          Framingham, MA 01701 (about 15 miles west of Boston)
+          508-877-3309 voice
+          508-877-1870 fax
+        o rick@gansler.com
+        o www.gansler.com
+
+
+
+   * Education
+   * Platforms, Development Environments & Tools
+   * Consulting Experience (1992 to present)
+   * Employment Experience (1985 to 1992)
+   * Independent Work
+
+[Image]
+
+   * EDUCATION
+        o Boston University, Boston, Mass., Bachelor of Arts, Computer
+          Science, May 1985
+
+[Image]
+
+   * PLATFORMS, DEVELOPMENT ENVIRONMENTS & TOOLS
+        o Macintosh
+             + Metrowerks CodeWarrior, PowerPlant
+             + Symantec Think C, C++, Think Class Library
+             + AppMaker
+             + MPW
+             + AppleEvents, AppleScript, FaceSpan
+             + MacsBug, ResEdit
+             + Code Fragment Manager (CFM), Code Resources
+             + extensive Toolbox experience
+        o Windows
+             + Microsoft Visual C++
+             + Zinc Application Framework
+        o Internet
+             + Java
+             + HTML, WWW
+             + TCP/IP
+             + FTP
+
+[Image]
+
+   * CONSULTING EXPERIENCE
+        o Thomson Financial Services (First Call), Boston, MA.,
+             + 5/97 to present
+             + Project Management of internet based financial services
+               application for stock brokers. Doing analysis of
+               technologies and implementations, coordinating development
+               effort, and coordinating communication between Boston and
+               Tokyo offices.
+        o Polaroid - Polaroid Graphics Imaging (PGI), Waltham, MA.,
+             + 11/96 to 5/97
+             + Fixed bugs in the printing engine (RIP) for the Polaroid
+               DryJet printer. Helped coordinate testing and completion of
+               software during alpha and beta testing.
+             + Implemented Java applets for DryJet printer diagnostic tool.
+               One Java applet (server) runs on the Mac that the SCSI
+               printer is connected to. The second Java applet (client)
+               implements the user interface and runs on any machine that
+               supports Java. The "server" interacts with the printer
+               through "native" C code running on the Mac as a CFM shared
+               library.
+             + Implemented remote reporting system in which the printer's
+               error log file is automatically emailed to Polaroid where my
+               software parses it, merges it into a database, and then
+               generates weekly status reports of all customer sites.
+               Software used included AppleScript, Eudora, FileMaker Pro,
+               and Excel.
+             + [Image]
+        o Polaroid - Image Systems Labs (ISL), Cambridge, MA.,
+             + 10/96 to 11/96
+             + Developed application front end for MacOS color
+               configuration software using AppleScript and FaceSpan.
+             + Implemented drag and drop class and hex editor class in C++.
+        o Manelis, Beresen, Baron & Foglia, Framingham, MA.,
+             + 9/96
+             + Developed internet web site for law firm that includes email
+               forms and tables.
+        o Massachusetts Institute of Technology - Information Systems
+          Group, Cambridge, Mass.,
+             + 6/96 to 10/96
+             + Developed a custom FTP client for the MIT IS group that
+               enables the university's 4000 Macintosh users to install
+               software directly from the internet. The FTP client was
+               implemented as a code resource, and is used as an extension
+               to MindVision VICE. Developed a web site to document the
+               project.
+             + [Image]
+        o Black Diamond Consulting, Portsmouth,NH.
+             + 4/96 to 6/96
+             + Developed Macintosh software using Metrowerks CodeWarrior
+               and PowerPlant. Tasks included developing a Control Strip
+               Module for an internet based application.
+        o Lotus Development Corporation, Cambridge, Mass.
+             + 4/95 to 3/96
+             + Ported Lotus Notes Release 4.0 C API sample code for MacOS.
+               Updated documentation where appropriate. The C API is used
+               by developers when developing applications that interact and
+               share data with the Lotus Notes application and server.
+             + Developed C API sample program that demonstrates how to
+               extract and transfer data from Notes databases to the Apple
+               Newton.
+             + Developed API sample program that uses MacOS Notification
+               Manager to check for unread Notes Mail, and notifies the
+               user by flashing an icon over the Apple Menu icon.
+             + Trained members of C API and C++ API teams in using MacOS
+               software development tools. Helped to (re)build a MacOS
+               software development infrastructure within Lotus.
+             + Worked closely with Apple employees to coordinate Apple's
+               message and development assistance within Lotus, as well as
+               with Apple's efforts to recruit third party developers to
+               implement products using the Notes API for Macintosh.
+             + Presented at LotusSphere '96, the Apple WWDC '96, and at a
+               Lotus Architect's Class about the Notes/MacOS/Newton
+               technology that I developed. The speaker notes for this
+               presentation were at one time available at the Lotus web
+               site, and were the basis of an article that I wrote for the
+               September 1996 issue of MacTech Magazine
+             + [Image][Image][Image]
+        o Gutenberg Systems, Inc. (for JVC Information Products), Andover,
+          Mass.
+             + 3/94 to 4/95
+             + Developed major upgrade to both Archiver and RomMaker
+               (developed during 12/92 to 3/93 contract). New features
+               included support of the Drag and Drop Manager (allowing user
+               to drag items from the Finder directly to positions in the
+               application window). Programs were developed on the
+               Macintosh using AppMaker and Symantec Think C++ with the
+               Think Class Library.
+             + [Image][Image]
+        o Digital Equipment Corporation, Nashua, New Hampshire
+             + 1/94 to 3/94
+             + Macintosh TeamLinks: Helped implement automated test suites,
+               developed manual testing scenarios, and did manual testing
+               (over 200 bugs reported). Worked with the same QA and
+               Engineering groups that I worked with as a programmer from
+               3/93 to 6/93.
+             + [Image][Image]
+        o Scientific American Magazine, New York, NY
+             + 6/93 to 2/94
+             + Implemented self-paced tutorial program called DISCOTEST II
+               for use by medical doctors. Developed for Macintosh, MS
+               Windows 3.1, and MS DOS (both text and graphics modes),
+               using cross platform shared code. An authoring program is
+               used to create and compile the more than 100 script files
+               written by Scientific American staff. In compiled form, the
+               scripts are platform independent files which provide test
+               content and program flow control to all three applications.
+             + Mac programs were implemented using Think C++ (TCL) and
+               AppMaker. The PC versions were implemented using Microsoft
+               Visual C++ and Zinc Application Framework. The PC versions
+               shared about 95% of their code with each other. The bulk of
+               the source code that I wrote (not including operating
+               specfic specific functions) was shared between the Mac and
+               PC versions, making about 50% of the product's source code
+               platform independent. The script and all data files are 100%
+               platform independent.
+             + User interface tasks included implementation of multi-line
+               checkboxes that are displayed within a scrolling list. The
+               list is resized when its window is resized, causing the
+               multi-line checkboxes to word wrap to the new size of their
+               enclosure.
+             + [Image]
+        o Digital Equipment Corporation, Nashua, New Hampshire
+             + 3/93 to 6/93
+             + Worked on Macintosh TeamLinks, a forms based groupware
+               product that supports Macintosh, MS DOS, MS Windows, and
+               VMS. Responsibilities included programming the Macintosh
+               external file system, which provides TeamLinks and Finder
+               access to VMS file servers. When I started the project, a
+               prototype of the external file system already existed. My
+               main task was to improve performance (accomplished more than
+               50% in some areas), implement some remaining features, and
+               fix bugs.
+        o Gutenberg Systems, Inc. (for JVC Information Products), Andover,
+          Mass.
+             + 12/92 to 3/93
+             + Developed two Macintosh based CD-ROM mastering systems using
+               AppMaker and Think C (TCL). The Personal Archiver, a low-end
+               system, was mentioned in the January 15, 1993 issue of
+               MacWeek. The Personal RomMaker, is a high end system that
+               produces both data and audio CDs. The data CDs can be made
+               using HFS, ISO 9660, and Hi Sierra formats, so can be used
+               by Macintosh, PC, and UNIX systems. The Personal RomMaker
+               was given an "Award of Merit" in the 1993 year end awards
+               issue (1/94) of Byte.
+        o Lotus Development Corporation, Cambridge, Mass.
+             + 5/92 to 12/92
+             + Japanese version of 123/Macintosh: Wrote new code and ported
+               code from the Windows and UNIX/VMS versions of 123. Wrote a
+               40 page document detailing what code was ported and why.
+               Areas of coding included reading and writing of Japanese
+               file formats, conversion to multibyte character sets, and
+               implementation of new "@functions".
+             + [Image]
+
+[Image]
+
+   * EMPLOYMENT EXPERIENCE
+        o Occam Research, Watertown, Mass.
+             + 12/91 to 5/92
+             + Tracked and fixed bugs in Mac "spreadbase" product called
+               MUSE, during development of versions 1.0 and 1.1. MUSE was
+               favorably reviewed in MacWeek (2/24/92).
+             + [Image]
+        o Turning Point Software (a consulting firm), Boston, Mass.
+             + 5/89 to 12/91
+             + Implemented Macintosh printer driver and telecommunications
+               program to remotely print slides for Autographix, Inc.
+               Responsibilities included project and team management ,
+               programming, and client contact.
+             + Wrote design study, managed and was lead programmer of a
+               four engineer team during an eight month project contracted
+               by Organizational Dynamics, Inc. The project involved
+               implementing Mac version of MS DOS management analysis
+               application.
+             + Ported to Mac RightWriter , an MS DOS grammar checker
+               developed by RightSoft. Responsibilities included design and
+               coding of the user interface and low-level functions.
+             + Wrote article "Porting Between Dissimilar Platforms" for
+               3/91 issue of Developer's Insight. The article, targeted to
+               technical managers, discussed in what situations porting is
+               appropriate, and how to structure the project.
+        o Softbridge Financial Services, Cambridge, Mass.
+             + 10/88 to 5/89
+             + Designed and implemented a data base access engine. The
+               program, written in Microsoft C, was used in two different
+               MS DOS workstation products. Other projects included a small
+               electronic mail program developed using OS/2 and the
+               Presentation Manager.
+        o Layered, Inc., Charlestown, Mass.
+             + 8/87 to 10/88
+             + Implemented Macintosh accounting transaction windows in
+               Insight Inventory and Payroll programs. Inventory was very
+               favorably reviewed in the April 1989 MacUser. Insight was
+               developed using MPW Pascal.
+        o Quinsept, Inc., Arlington, Mass.
+             + 8/85 to 8/87
+             + Designed and implemented the Mac version of an existing
+               Apple II and MS DOS database for tracking genealogical
+               information, allowing user to enter information including
+               relatives, birth, death, and marriage dates. Family Roots
+               received a very favorable review in the 2/88 issue of
+               MacWorld.
+
+[Image]
+
+   * Independent Experience
+        o I have developed a number of public domain programs that are
+          available for downloading from my web site, and are also
+          available from a number of other web sites.
+        o HTML Printer
+             + MacOS printer driver to convert a document to HTML. Supports
+               text styles & sizes, links to anchors and other files, and
+               display of image files. Over 125 copies downloaded from my
+               site.
+        o ToddlerKeys & ToddlerMouse
+             + I designed a few programs for small children who haven't
+               quite mastered the concept of using the mouse. These
+               programs are currently available only for MacOS, but I'm
+               planning on writing Windows and Java versions.
+                  + ToddlerMouse consists of one large window containing
+                    the letters A to Z and the numbers 0 to 9. When the
+                    arrow is moved over a letter or number, that letter or
+                    number is flashed in different colors and then "spoken"
+                    using my digitized voice. Over 800 copies downloaded
+                    from my site.
+                  + When a letter or number key is pressed, ToddlerKeys
+                    speaks that letter or number and draws it in large
+                    colorful type. Over 2500 copies downloaded from my
+                    site. Published on the AMUG CD volume 20.
+        o Talking Clock
+             + Application that "says" the time using my digitized voice.
+               Available for both MacOS and Windows. Over 350 copies
+               downloaded from my site.
+
+---------------------------------------------------------------------------
+
+[Image]
+
+                         last updated: 7 July 1997
+
+                  You can download a copy of this resume in Adobe
+[Image][Image]    Acrobat format for printing on three pages. You can
+                  also print this window using your web browser
+                  (Netscape, Explorer. etc.).
+
+[Image]           You may need to download the free Adobe Acrobat
+                  software for Mac or Windows
+
+.
+
+
+
+---------------------------------------------------------------------------
+[Image][Image]

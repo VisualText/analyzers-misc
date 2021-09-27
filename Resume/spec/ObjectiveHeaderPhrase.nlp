@@ -1,0 +1,14 @@
+
+# AUTOMATICALLY GENERATED! EDITS WILL BE LOST!
+# FILE: e:\apps\resume\spec\ObjectiveHeaderPhrase.pat
+# TIME: 10:07:57 09/02/01
+@NODES _LINE
+
+@PRE
+<1,1>	cap();
+<3,3>	cap();
+@RULES
+
+# Ex:	Professional\_Objective
+_ObjectiveHeaderPhrase [layer=(_header )] <- Professional [s] _xWHITE [star s] Objective [s] @@
+

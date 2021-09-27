@@ -1,0 +1,57 @@
+                               Marv Vandehey
+                        Contract Software Developer
+
+                                   Resume
+
+11844 8th Ave. S.
+Seattle, WA 98168                                         marv@vandehey.com
+206-244-0515                                        http://www.vandehey.com
+---------------------------------------------------------------------------
+
+I am seeking new software assignments, especially assignments directly
+related to web development and involving C/C++, CGI, ActiveX, ASP,
+JavaScript, or Java programming. I work on a contract (1099) basis in the
+Seattle area.
+
+---------------------------------------------------------------------------
+
+Capabilities:
+
+  * C/C++              * CGI Programming       * HTML
+  * Visual C++         * ActiveX               * Graphics
+  * Assembly Language  * Real-Time Software    * Fractal Design Painter
+  * Windows Software   * Algorithm Development * Adobe Illustrator
+  * Windows NT         * FrontPage             * Adobe Photoshop
+
+Experience:
+
+   * Syllogistics 1997-1998. Visual C++ programming for a domain name
+     registrar (http://www.eNom.com/). Ported UNIX internet communication
+     software to Windows NT. Converted software into ActiveX component.
+   * Microsoft, Brodie Technology Group 1996-1997. Windows C++ programming
+     for Microsoft Outlook.
+   * Database Publishing Associates 1995. Visual C++ programming for
+     Windows pricebook publishing software. Windows GDI.
+   * Nobeltec 1995. Visual C++ programming for Windows navigation software.
+     Visual Basic programming. C programming for vending machine firmware.
+   * Photography and Art 1992-1995. Freelance work.
+   * SpaceLabs 1991-1992. Software for LCD graphics display. C programming.
+     User interface design.
+   * Regent Peripherals 1990-1991. Flatbed image scanner design. Electronic
+     and Microprocessor design. C and Assembly language programming. Device
+     driver. Windows SDK software.
+   * Tone Commander 1987-1988. System design of communication network.
+   * First Medic 1985-1989. ECG interpreter for defibrillator. Computer
+     graphics and database software. C programming. Patent.
+   * GLI Corporation 1982-1985. Project Engineer. Microprocessor design.
+     Electronic design. Analog design. C programming. Assembly language
+     programming. Patent.
+   * Boeing 1978-1982. Control system design. Computer simulation. Fortran
+     programming. Basic programming. Assembly language programming. Patent.
+
+Education:
+
+   * M.S. in Electrical Engineering, University of Washington, 1983
+   * B.S. in Electrical Engineering, Oregon State University, 1978
+   * M.A. in Zoology, University of California, Davis, 1976
+   * B.A., in Biology, University of Chicago, 1971

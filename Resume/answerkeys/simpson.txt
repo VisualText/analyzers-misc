@@ -1,0 +1,84 @@
+
+CONTACT:
+
+Contact Name: Cameron Simpson
+First Name: Cameron
+Last Name: Simpson
+
+Number:      6
+Street:      Patricia
+Road:        Street
+City: Rydalmere
+Zip: 2116
+Email:       cs@zip.com.au
+URL:         http://www.zip.com.au/~cs/
+
+EDUCATION:
+
+Date: 1983
+Degree: HSC
+Major: Physics, Chemistry, Engineering Science, English
+
+Date: 1993
+School Name: UNSW
+Degree: BSc
+Major: Computer Science
+
+EXPERIENCE:
+
+Date: 1996-1998
+Company: Canon Information Systems Research 
+Position: System administrator   
+Location: Australia
+
+Date: 1995-1996
+
+Date: 1994-1996
+Company: Division of Applied Physics 
+Position: System administrator   
+
+Date: 1987-1994
+Company: School of Computer Science and Engineering
+Position: System administrator    
+
+Date: 1993-1994
+Company: North Sydney Institute of TAFE   
+Position: Teaching
+
+Date: 1990-1993
+Position: Tutoring
+
+Date: 1992
+Company: IIT
+Position: Teaching
+
+Date: 1991, 1992
+Company: Australian Graduate School of Management    
+Position: system administrator    
+Location: Technology
+
+Date: 1991-1992
+Company: Institute of Information Technology / UNSW
+Position: Teaching   
+Location: Technology
+
+Date: 1989
+Company: OTC R&D
+Position: C programmer    
+
+Date: 1986
+Company: Joint Microelectronics Research Centre at the University of NSW   
+
+Date: 1986
+Company: Osiris Technology
+Position: C programmer
+
+Date: 1984
+Company: CIG
+
+Date: 1982
+Company: CIG Medishield Ryde
+
+Date: 1981
+Company: ICI Botany
+

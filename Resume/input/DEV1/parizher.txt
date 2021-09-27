@@ -1,0 +1,102 @@
+                               VADIM PARIZHER
+
+                                US Citizen
+                                Tarzana, CA
+                            vadimp@hotmail.com
+---------------------------------------------------------------------------
+OBJECTIVE: To obtain a position that applies my education and experience as
+a Software Engineer.
+
+LANGUAGES: Java, C++, OSF/Motif, UNIX Script Languages (shell, sed, awk),
+HTML, Perl, SQL, Pascal
+
+SYSTEMS: UNIX, MS-Windows, X Windows, VMS, OS/400
+
+TOOLS: IBM Visual Age for Java, Rational Rose SOFTWARE ENGINEERING
+METHODOLOGIES: UML, Rumbaugh
+
+SKILLS: Thorough understanding of Java and C++, Object-Oriented software
+development process, SEI Capability Maturity Model, Graphical User
+Interfaces, Interactive Development Environments, Rational Rose, and UML.
+
+EDUCATION:
+
+M.S. Computer Science, CSU Northridge, 1997
+
+   * Master Project: Design and Implementation of Image Tiepoint Collection
+     Program
+
+B.S. Computer Science (Mathematics Minor), CSU Northridge, 1995
+
+   * Cum Laude
+   * Dean's List - 5 semesters.
+   * Honors Coop in 94/95.
+
+Key Courses:
+
+   * Software Engineering
+   * Graphical User Interfaces
+   * Object-Oriented Programming
+   * Object-Oriented Software Design
+   * Data Base Design
+   * High-Speed Computer Networks
+   * Software Engineering Economics
+
+Other Universities attended:
+
+     Moscow Transport Engineering University (MIIT) - 1987-91
+
+On-the-job training:
+
+     Enterprise Java Beans (8 hrs.) - 1998
+     Java Programming (40 hrs.) - 1997
+     Object-Oriented Software Engineering Class (80 hrs.) - 1996
+     Perl Programming Class (16 hrs.) - 1996
+     C++ Advanced Topics (40 hrs.) - 1996
+
+---------------------------------------------------------------------------
+EXPERIENCE:
+
+Technical Systems Analyst (September 1998 - Present)
+McKesson Water Products Co., Los Angeles, CA
+
+   * Development of Java applications on the client using JDBC and Swing.
+     Development of Java applications on the server using EJB technology.
+
+Software Engineer/Programmer (June 1994 - September 1998)
+Jet Propulsion Laboratory (JPL), Pasadena, CA
+
+Image Processing Systems Group
+
+   * Developing Science Analysis Graphical Environment (SAGE).
+   * Writing Graphical User Interface (GUI) for VICAR image processing
+     system.
+   * Developing image processing programs.
+   * Participated on Mars Pathfinder, Galileo, Mars-96 projects, developing
+     interactive programs to assist Image Analysts in Scientific Data
+     Analysis.
+   * Use Motif and C++ in UNIX and X Windows environment.
+   * Participated in both design and coding stages.
+   * Used object-oriented methodology to create reusable UI components.
+   * Developing framework to be used by other programmers.
+
+AS/400 PC Support Specialist (June 1991 - June 1994)
+Los Angeles County, Department of Beaches and Harbors
+
+   * Maintained remote PC access to the AS/400.
+   * Wrote PC and AS/400 database applications and queries.
+   * Set up PCs, modems, controllers from the box.
+   * Administered user accounts.
+   * User training and support with PC applications. Wrote procedures.
+   * Developed official forms, labels, presentation documents.
+
+Computer-programming Lab Assistant (January 1992 - May 1992)
+Santa Monica College, Santa Monica, CA
+
+   * Assisted undergraduates with programming assignments.
+
+---------------------------------------------------------------------------
+
+ADDITIONAL ACTIVITIES: Certified State Coach of the USA Table Tennis.
+Presently maintain an internet home page for the annual international table
+tennis tournament.

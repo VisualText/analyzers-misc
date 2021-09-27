@@ -1,0 +1,331 @@
+Kevin Jones' Resume
+
+                                Kevin Jones
+
+                        E-Mail To: cklose@abest.com
+
+SUMMARY OF QUALIFICATIONS
+
+Beginning October 20th, 1997 I will be a senior analyst with the DASD
+corporation of Bethesda, maryland. I will be creating ActiveX controls
+using Visual Basic 5.0 and the Control Creation Editor. I will be
+customizing software created by Eastman Kodak and Versatility.
+
+I was most recently Computer Operations Manager for the Bureau of
+Information and Computer Services of the New York City Fire Department.
+There are two main systems under the responsibility of this group, the
+Starfire Dispatch System and the UNISYS Administrative system. The Starfire
+system is responsible for dispatching all of the 450+ firefighting units to
+fires in any of the 5 boroughs of New York City. The UNISYS Administrative
+system is used to support our Permit's cashiers system, Overtime system,
+Dispatch Incident archive and report, etc.
+
+Over the last 16 years, I have held positions from application and system's
+Programmer to project leader To Software Manager. I have written device
+drivers, application code, and communications software. I have implemented
+industry standard protocols as well as custom written protocols. I have
+written and used software for project management. I have managed staff of 2
+to 7 programmers. I have very good communication and leadership skills. I
+seek a position that allows me to use these skills, grow with and expand on
+them, while providing the kind of job satisfaction that I get now through
+dispatching Firefighters and Paramedics.
+
+Over the last year I have spent much time using and experimenting with the
+new PC database and software development tools. While devoting most of this
+effort to Visual Basic and Access, we have also used Borland’s Delphi and
+PowerSoft’s Powerbuilder. We are in the process of installing ODBC links to
+our older database product’s ( Informix and UNISYS’s DMS/1100 ) so that
+these packages can be used as front ends.
+
+I have also started writing an ActiveX application that will serve as the
+base for an Intranet system for the Computer Department. This will serve to
+give access to the Operational data as well as a real-time link to our
+dispatch system for certain lookup functions. Clients around the department
+will only need a browser to access the information.
+
+---------------------------------------------------------------------------
+
+WORK EXPERIENCE
+
+Beginning October 20, 1997
+
+DASD Corporation - Bethesda, Maryland
+
+Senior Analyst
+
+Fire Department of New York City
+
+1981 - October 4, 1997
+
+November 1, 1996 -> October 4, 1997 / Manager, Computer Operations
+
+Bureau of Information & Computer Services, Fire Department, New York City
+
+Digital PDP-11/84, PDP-11/34, MicroVax II, 3300
+VAX 4000, 6510
+UNISYS 2200/400, DCP40
+MACRO-11, 'C', COBOL, RSX-11M+, VMS, ULTRIX, Linux.
+Windows 3.1, 3.1.1, 95, Windows NT
+Visual Basic 5.0, Access, Remote Access Services, TCP/IP
+Internet Information Server, ISAPI, ActiveX
+
+Manage a staff of 15 Operators
+
+As manager, I am responsible for the staff that operate the Starfire and
+UNISYS systems. This is a 24 x 7 responsibility. The staff is reponsible
+that all systems are available to the users while performing any and all
+backup procedures. The operations staff also performs all production report
+jobs.
+
+Develop and Implement Touch-Screen based Tape Library application. Develop
+VB 5.0 and ACCESS based report distribution database.
+
+June, 1986 -> 11/1/96
+Bureau of Information & Computer Services, Fire Department, New York City
+Manager
+Starfire Software Group
+Digital PDP-11/84, PDP-11/70, PDP-11/34, MicroVax II, 3300
+VAX 4000, 6510
+Vaxstation 5000/240
+MACRO-11, 'C', COBOL, RSX-11M+, VMS, ULTRIX.
+Windows 3.1, 3.1.1, 95
+Visual Basic, Smalltalk, Delphi, Access, Paradox
+
+Manage a staff of 5 programmers performing application and system software
+maintenance as well as all data changes.
+
+As manager, I am responsible for all aspects of software maintenance and
+any new features/functions. I manage a staff of 7 programmers and data
+administrators (the number was 2 when I began in 1986). We update online
+software every month and data every other month as part of normal system
+upkeep. This is in addition to the major projects mentioned below. During
+this time I interviewed and hired 6 employees. Manage user requests from
+dispatchers and firefighters by evaluating and prioritizing those requests
+and creating project plan to track their implementation. Management of the
+necessary tasks requires tracking all requests from the users (in this
+case, Dispatchers and Fire Officers), evaluating those requests and their
+possible impact on the system, and deciding on a plan for their
+implementation.
+
+Develop and Implement Touch-Screen based status terminal for the Firehouse.
+
+Project required writing of communication protocol software, evaluation of
+available Touch-Screens, creation of Interface software, configuration of
+PC, and Selection of testing sites. Development was done using Visual Basic
+for the interface and Visual C++ for DLL development.
+
+Made use of PC based project management packages such as Harvard and
+Microsoft Project to track the many tasks that must be completed.
+
+Management of the staff requires assigning tasks to individuals and
+monitoring their progress. It requires performance evaluations and the
+setting of goals. I began using a PC based project management package
+(Harvard Total Project Manager) in 1986. Since this package did not do all
+I needed, I wrote software using Microsoft's 'C' compiler to add functions
+for my particular needs. Today I use Microsoft's Windows based PROJECT. I
+also use Microsoft's Schedule+.
+
+Wrote drivers that implemented protocols such as DDCMP, Bisync, and some
+custom asynchronous protocols.
+
+The dispatch system uses DDCMP to link 6 different locations together. This
+is the transparent WAN protocol used by Digital before TCP/IP became
+available. It uses various custom protocols for the local link to terminals
+and other processors, and for the data links to the firehouses.
+
+PDP-11/84 Upgrade
+
+Upgraded PDP-11/70 purchasing all new hardware, rewriting all drivers and
+porting applications.
+
+In 1988, work began on replacing the aging PDP-11/70's with the newer
+PDP-11/84's. It started with awarding a contract for a feasibility study.
+Once the study showed the plan workable, the process of soliciting bids was
+started, and vendors were chosen to supply and deliver the equipment. I was
+a principal in all the preceding steps.
+
+The new system required that all device drivers had to be modified and many
+support programs had to be written or re-written. I supervised the
+programmers that performed this work and acted as an advisor to them.
+
+Mobile Data Terminals
+
+Managed project to install Mobile Data Terminals in all fire vehicles in
+the Departments 600 vehicle fleet. This included all necessary application
+changes to the dispatch system.
+
+The project to install mobile data terminals in the fire trucks began in
+November, 1989. This required writing a Request For Proposal and evaluating
+the responses. After choosing which vendors would supply the radio system
+(Motorola) and the interface to that radio system, I had to write a data
+link between that interface and the dispatch system. City-wide
+implementation was completed in January of 1994.
+
+I wrote the device drivers on the PDP-11/84 for the data link, and
+supervised the application software that would run on the dispatch system
+for this implementation. I also had to write software on the MicroVax 3300
+for the data link.
+
+I was the principal contact for discussions concerning contract management
+and most technical issues with the 2 vendors.
+
+The system uses Ethernet and FDDI to link 2 MicroVax 3300's. The Ethernet
+is used for the terminals servers and links to other processors in the
+room, while the FDDI forms a loose cluster between the 2 3300's.
+
+Certified First Responder
+
+Managed the implementation of a data link between the Fire Department and
+the Emergency Medical Service for the purposes cooperative response to
+cardiac arrests.
+
+Starting in the summer of 1993, FD began responding to all Cardiac Arrests
+in the borough of Brooklyn. This required that a BISYNC data link be
+established between our two agencies. This project ran for 18 months prior
+to the start date and required the writing of an RFP, evaluation of the
+responses, selecting the vendor, setting the functional design, and
+implementing the pilot project. I was a principal in each of the above
+steps.
+
+New dispatch protocols had to be written along with the software to
+implement them. Reports had to be provided to evaluate the effectiveness of
+the project and software was designed to collect the necessary information.
+I was party to the writing of the protocols, and supervised the writing of
+all the software.
+
+Microsoft Access was used to produce the original reports. This entailed
+extracting the relevant data from the mainframe and importing it into
+Access. Subsequently daily reports were produced using this database. Using
+the SQL builder allowed quick response to requests for data and analysis
+during the early days of the program.
+
+PC/ATS
+
+Managed a project to Emulate our custom acknowledgement panels using a PC
+with a touch screen. Using Visual Basic we reproduced all the functionality
+of the existing device.
+
+Communications had to be written so that the central computers sa no
+difference between the 2 devices.
+
+A visual interface was designed that beared a strong resemblance to
+existing devices yet made use of the newer technology by providing a window
+for incoming messages. It was also designed to be efficient as a
+touch-screen device as this requires properly sized buttons.
+
+These devices are currently being tested in one site and the plan to
+complete the rollout to the remaining firehouses.
+
+Starfire II
+
+Participated as a team member in the project to replace the existing
+dispatch system. This included writing the Request For Proposal, reviewing
+the subsequent bids, choosing the winning vendor, and managing the contract
+once it began.
+
+Starfire II is a project in progress to replace the entire existing
+dispatch system. The new system has been partially delivered, and training
+of the FD staff has been proceeding for over a year. This system uses
+ULTRIX workstations (DEC's UNIX) running X-Windows/Motif. The networking is
+provided through DECnet using Ethernet for local transport, and TCP/IP for
+transport between 9 disparate sites. FD chose DECmcc as the network
+management package which is being combined with IBM's Netview.
+
+The designing of the new system has been completed. One of the tasks in
+this project has been the complete design of the database that will replace
+the myriad files and tables of the existing system. StarfireII will be
+using DEC's Rdb, a relational/distributed database. Because of my through
+knowledge of the existing system and the data kept on the UNISYS system
+(CIHIS), I was an integral part of this design process.
+
+I have taken courses in X/Motif at NYU in preparation for this project,
+along with Network management courses at DEC's training facility here in
+New York.
+
+January, 1982 -> June, 1986
+Bureau of Information & Computer Services, Fire Department, New York City
+System Programmer
+Starfire Dispatch System
+Digital PDP-11/70, PDP-11/34
+MACRO-11, 'C', COBOL, RSX-11M+
+Starfire uses a operating system created solely to dispatch the
+department's fire apparatus. It is not in use anywhere else. As system
+programmer, I was responsible for every device driver, all memory
+management software, all performance measurement, and evaluation of any new
+hardware or functions. I also acted as advisor to the application
+programmers when they encountered problems they could not solve. During
+this time I created a system dump analyzer, (as system dump reading was my
+primary diagnostic tool), analyzed and implemented the expansion of memory
+from 640 Kbytes to 1 Mbyte, Implemented split system functions for use on
+July 4th, and participated in writing a real-time link between the dispatch
+system and the administrative system using the BISYNC protocol.
+
+January, 1981 -> January, 1982
+Bureau of Information & Computer Services, Fire Department, New York City
+Application Programmer, FD Administrative System
+UNISYS 1100/70
+COBOL
+Wrote system of programs to accept the daily history of fire incidents from
+the dispatch system, archive them to tape, and track their status as they
+are reloaded for various purposes. This included reading the daily tapes
+which had been produced since 1978 and creating archive tapes. The programs
+were all written in COBOL and used UNISYS archive facilities to write the
+tapes. This system, known as CIHIS (Current Incident HIstory System),
+though expanded, is still in use today, and has become the core of the
+Department's daily report and statistical functions.
+
+During my time at the Fire Department I have been a user of our
+department-wide Novell network. While I have not been an administrator, I
+have worked closely with him and am very familiar with the features and
+functions.
+
+March, 1983 - August, 1984
+New York University Hospital
+
+Consultant to DR.Korien, Neurologist
+Digital PDP-11/34
+MACRO-11, RT-11
+
+Wrote MACRO-11 code to transfer EMG and EEG data collected from volunteer
+students for comparison between cerebral and muscular activity. This
+required sampling signals from a data feed, applying a fast Fourier
+transform, and storing on tape for shipment to the researchers. As I was
+the only person with computer experience, this required acting as
+programmer, operator and repair person (including repairing internal
+interface boards).
+
+June, 1985 - Present
+South Street Seaport Museum
+
+Master, Sailing Schooner Pioneer
+
+Since 1985, I have worked weekends as the master of a sailing schooner at
+South Street Seaport. In this job I manage between 4 and 15 paid crew and
+volunteers. This vessel carries up to 45 passengers for hire. While it
+involves sailing skill, the relevant skill here is leadership. I am a
+sought-after captain and enjoy the training of young crew as well as the
+sailing. I have also operated a number of power vessels with capacities up
+to 600 passengers. I have a Coast Guard issued Master's license for these
+positions.
+
+September, 1976 -> May, 1979
+Lewis Foods
+
+Shift Manager
+
+As shift manager I was responsible for all activities required to staff a
+shift and set the weekly schedule. During each shift, the manager must
+position the employees at the right times to provide the required level of
+service to match the actual demand. The labor costs must be monitored with
+adjustments being made for slow periods. I was responsible for hiring, crew
+training and evaluation, and discipline. When covering the closing shift, I
+was also responsible for the closing inventory.
+
+1st Assistant
+In addition to shift manager duties for the day shift I was required to
+write the store budget, take the opening inventory, the daily deposit, all
+daily paperwork including payroll, labor and food costs, and reordering all
+supplies.
+
+Back to Kevin Jones Home Page
+Updated 7/20/97

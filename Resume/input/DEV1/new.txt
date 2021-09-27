@@ -1,0 +1,59 @@
+                                           M ATTHEW  N EW
+
+                                  EMAIL: new@soda.csua.berkeley.edu
+                         (Address and Telephone Number available on request)
+
+---------------------------------------------------------------------------
+EDUCATION                     University of California, Berkeley
+                                   B.A. English , May 1996
+                                   with Computer Science and German coursework
+
+---------------------------------------------------------------------------
+EMPLOYMENT EXPERIENCE
+
+     1998-Present:      Starwave, Bellevue, Washington
+                        Sports Engineering (Program Manager)
+                           * Maintain all Sports Engineering project and product documentation.
+                           * Track project schedules and coordinate QA and code releases.
+                           * Communicate project status to production and coordinate template writing and
+                             live releases.
+                           * Evaluate the development cycle and implement improvements where needed.
+                           * Represent Sports Engineering at planning meetings
+                           * Managed the engineering process for the NHLGameCast project.
+                           * Assisted with engineering a dynamic solution for comparing NBA team
+                             statistics.
+                           * Maintained and enhanced existing Java applets for ESPN.com.
+                           * Engineered a dynamic solution for TV listings on ESPN.com.
+                           * Wrote production tools for NFL Draft, using active server pages and a java
+                             servlet.
+                           * Wrote a custom Java Doclet to document content objects for HTML page
+                             producers.
+     1996-1998:         Geoworks, Berkeley, California
+                        Lead Technical Writer
+                           * Hired and led documentation team for GEOS-SC operating system.
+                           * Managed documentation plans for entire team.
+                           * Wrote HTML documentation for components of GEOS-SC operating system,
+                             including database, graphics, and the user interface.
+                           * Created sample C++ code examples for documentation chapters.
+                           * Integrated HTML documentation with GEOS-SC SDK tools.
+                           * Maintained documentation tools for generating API reference from source.
+                           * Evaluated and requisitioned a commercial Java search engine.
+     1996:              Intercon Systems, Berkeley, California
+                        Assistant Product Manager:
+                           * Managed Existing Documentation.
+                           * Lead Quality Assurance for Windows Apps.
+                           * Show Experience at MacWorld Exposition.
+                           * Technical Writing for Internet Valet manuals.
+                           * Quality Assurance on Internet Valet and Snatcher.
+                           * Program Debugging and Technical Support.
+     -----------------------------------------------------------------
+     COMPUTER SCIENCE
+
+           Classes                * Structure & Interpretation of Computer Programs (Lisp)
+                                  * Data Structures (C++)
+                                  * Machine Structures (Assembly)
+           Languages              * HTML, Perl, JavaScript, ASP, Java Servlets
+                                  * Java
+                                  * C/C++
+           Platforms           MS DOS 6.2; Windows 95, NT, and 3.11, IBM OS/2 WARP, 2.1
+                               MacOS, LINUX, BSD, DYNIX, SunOS

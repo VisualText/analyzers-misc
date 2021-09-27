@@ -1,0 +1,178 @@
+[Headhunter.net Homepage] [Find Jobs] [Find Resumes] [My Stuff] [Get Help]
+
+  [Image]                              [Image]
+
+Find Résumés : Résumé Details
+
+Computer programmer
+ Ellen Braverman
+ Tel: (604) 876-9291
+ 109-3637 Cambie Street E-mail:ellen1@intergate.bc.ca
+ Vancouver, BC V5Z 2X3
+ Canada
+
+ Summary: I am a hard-working, self-motivated professional with a solid
+ fundamental background in computer programming. I have extensive
+ experience with Visual Basic, dating back to version 4. I specialize in
+ building n-tier database solutions, using Visual Basic to build
+ business rule servers and database access layers. I have worked with
+ SQL Server 7, Activex Data Objects (ADO), MTS, ASP, and HTML.
+
+ I have good communication skills and, as my references will attest, I
+ am an excellent team player.
+
+ Professional Profile :
+ Programmer
+ - Welcome to search. Search Engine ( VB-6, SQL Server 7,
+ ASP, HTML,Visual Modeler, MTS, COM, Business Objects )
+ - Foundation 2000 (C, C++, MFC)
+ - PD Software (C, Pascal)
+ - Procarry( Perl, HTML, Java )
+
+ Data Base Developer
+ Welcome to Search
+ PD Software
+
+ Web Developer
+ safesol.com
+ jfgv.com
+ iicvan.com
+ nq.com/dance
+ procarry.com
+
+ Education:
+
+ 1998 Fasttrack Software Engineering Program
+ UBC, Vancouver
+ (Software Engineering , Programming – C/C++).
+
+ 1997-1998 C, C++, VB5
+ VCC, Vancouver.
+
+ 1995 Microcomputer Business Application Diploma. (Graduated with
+ Honours.)
+ School of Business. Vancouver, Canada.
+ (Microsoft Access, Microsoft Excel, Paradox 7, Visual Basic 4,
+ dBaseIV).
+
+ 1993 C/ C++, Unix.
+ Tel-Aviv, Israel.
+
+ 1982-1988 M.Sc. Applied Mathematics.
+ Politecnical University, Leningrad, Russia/Chernovtsy State
+ University, Ukraine.
+ Specialization: Computer Programmer.
+
+ Work Experience:
+
+ 1998-Present PROGRAMMER
+ Welcome To Search, Vancouver.
+
+ ? Developed “Welcome To Search” engine software.
+ E-R Modeling, SQL Server 7.0, wrote stored procedures, wrote class
+ libraries to access a very large database, used ADO, ASP, HTML and MTS.
+
+ 1998 PROGRAMMER
+ Softrend, Vancouver.
+
+ ? Developed “Foundation 2000” software.
+ Coding, Testing Softrend Software for Accounting Companies
+ (C, C++, MFC )
+
+ 1998 WEB DEVELOPER
+ Intergate. Vancouver.
+
+ ? Created of Web Sites (CGI, MiniVend, HTML, Perl, JAVA
+ scripts)
+ ? Graphic Design (Photoshop, Corel Draw)
+
+ 1995-1997 PROGRAMMER
+ Printing Direct, Vancouver.
+
+ ? Developed program for Printing Direct software.
+ Coding ( C, Pascal) , Testing PD Software for Real Estate Companies
+ Creation of Database Applications ( M. Access and VB4 )
+ Maintain existing scripts (C, Pascal)
+
+ 1995-present WEB DEVELOPER
+ Access B.C. INC and Cambie Publishing. Vancouver.
+
+ ? Creation of Web Sites (CGI, MiniVend, HTML, Perl, JAVA
+ scripts)
+ ? Graphic Design (Photoshop, Corel Draw)
+
+ 1988-1993 PROGRAMMING ENGINEER
+ Institute of Automatic . Academy of Sciences.
+ Chernovtsy, UKRAINE.
+
+ LANGUAGES: Assember , Pascal, Fortran for mainframe computers.
+
+ WelcomeTo Search Engines Inc. (Project Summary)
+
+ In the fall of 1998, I was hired to help develop a regionalized
+ business directory for the Internet. In the first few weeks of the
+ project, I participated in design sessions that culminated in a project
+ plan and an entity-relationship diagram of the database we needed to
+ build.
+ While the database administrator built the database, I worked on a
+ team of 2 to design the class libraries we would use to access the
+ database. We also designed and coded a data import to bring data into
+ the database. Our import read records from a flat file and used the
+ class library to normalize the data, generating the foreign keys that
+ we used to create relationships between records. This phase of the
+ project employed ADO, DCOM, SQL statements and Visual Basic 6.
+ Of the original 6 developers who were hired to work on this project,
+ my team leader and I were the only members of the team who proved
+ adaptable enough to work on all phases of the project – the others were
+ asked to leave the team when they were unable to acquire new skills
+ fast enough to continue contributing.
+ After working on the data import routines, I went on to work on the
+ data management routines. This phase of the project was especially
+ challenging because we were required to write routines to drill down on
+ a database with millions of records. During this phase of the project,
+ I wrote SQL Server stored procedures – I was one of only two developers
+ who were able to understand the intricacies of the database well enough
+ to this.
+ By the time the final product was going to be delivered, WelcomeTo had
+ merged with an e-commerce company, and the business plan had changed.
+ In addition to providing an on-line business directory service,
+ WelcomeTo has become an e-commerce portal that provided links to
+ hundreds of e-commerce related resources on the Internet. Under very
+ severe time constraints, I helped build a Portal Link Management System
+ to manage new tables that had been added to the database. Again, I used
+ ADO and wrote SQL statements.
+ When the Portal Links Management System had been developed, I worked
+ with the web team to connect our web pages to the database. During this
+ phase of the project, I used VB Script to write Active Server Pages,
+ ADO and HTML.
+ During the final phases of the project, I am modifying our DLLs to
+ ensure statelessness so that the DLLs can be registered in Microsoft
+ Transaction Server.
+
+ During this project, I have come to appreciate the importance of
+ careful planning. I have also come to appreciate the power of Visual
+ Basic’s object-oriented features. I learned to write code to solve
+ specific problems, but I was also able to provide solutions to general
+ problems that were reused throughout the project. I have become a
+ stronger programmer because of my work at WelcomeTo.
+
+ Details
+   Desired Job Type:Full Time                     Location:CA-BC-Vancouver
+  Desired Employment
+               Type:Employee                      Relocate:LocalArea
+
+             Degree:Graduate                   Will Travel:Up to 50%
+                    Degree
+
+         Experience:At Least 3             Citizen/SecurityYes/No
+                    Years                        Clearance:
+ Contact
+            Company:
+              Email:ellen@wtsearch.net
+               Name:Ellen
+              Phone:(604)876-9291
+                Fax:
+       Contact Type:Job Seeker
+ Miscellaneous
+         Categories:Computer
+        Last Change:1999/08/09 18:00:43

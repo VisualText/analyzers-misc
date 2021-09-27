@@ -1,0 +1,491 @@
+afro \- american and african studies
+finance \, insurance and real
+exercise physiology \/ adult fitness
+atmospheric \, and planetary sciences
+writing and humanistic studies
+women \' s studies
+wildlife and fisheries science
+voice performance and pedagogy
+urban studies and planning
+urban and regional planning
+urban and environmental planning
+transportation systems and management
+student counseling and personnel
+soil and water science
+slavic languages and literatures
+romance languages and literatures
+recreation and park management
+quality and manufacturing management
+political and social thought
+petroleum and natural gas
+nuclear and radiological engineering
+microbiology and cell science
+library and information science
+insurance and real estate
+instructional technology and telecommunications
+industrial and systems engineering
+industrial and manufacturing systems
+industrial and manufacturing engineering
+health education and promotion
+foreign languages and literatures
+fisheries and aquatic sciences
+film and media studies
+family and consumer sciences
+exercise and sport sciences
+environmental planning and management
+engineering and applied science
+electrical and computer engineering
+decision and information sciences
+dairy and poultry sciences
+computing and information sciences
+computer science and engineering
+computer and information science
+coastal and oceanographic engineering
+clinical and school psychology
+clinical and health psychology
+civil and environmental engineering
+brain and cognitive sciences
+biological and agricultural engineering
+agricultural and biological engineering
+afro \- american studies
+afro \- american studies
+veterinary medical sciences
+training and development
+solid state science
+social studies education
+physical therapist assistance
+pharmacology and therapeutics
+natural resources conservation
+natural resource conservation
+mineral engineering management
+middle eastern languages
+middle east studies
+manufacturing engineering technology
+management information systems
+management and organization
+law and justice
+latin american studies
+laboratory animal medicine
+instruction and curriculum
+human resources management
+human resource management
+human resource development
+health services administration
+health science education
+health information technology
+health information administration
+health evaluation sciences
+health care management
+foundations of education
+foreign language education
+food service management
+film and video
+environmental pollution control
+environmental engineering sciences
+electric power engineering
+early childhood education
+curriculum and instruction
+cooperative education program
+clinical laboratory sciences
+clinical laboratory science
+banking and finance
+astronomy and astrophysics
+applied information technology
+american ethnic studies
+air force rotc
+agricultural technology management
+agricultural operations management
+aeronautics and astronautics
+adapted physical education
+workforce education
+wildlife science
+wildlife ecology
+voice performance
+visual arts
+veterinary science
+veterinary medicine
+urban studies
+urban planning
+urban development
+transportation systems
+tourism administration
+theatre arts
+textile design
+telecommunications studies
+teacher education
+systems engineering
+student counseling
+structural mechanics
+sports medicine
+sport psychology
+speech pathology
+speech communication
+special education
+solid state
+soil science
+software engineering
+social work
+social studies
+slavic languages
+science education
+school psychology
+russian studies
+rural sociology
+rotc programs
+romance languages
+restaurant management
+respiratory technology
+religious studies
+rehabilitation science
+rehabilitation counseling
+recreation resources
+recreation management
+real estate
+reading education
+radiological engineering
+radiologic technology
+quantitative analysis
+public relations
+public policy
+public health
+public administration
+polymer science
+political science
+police science
+plant sciences
+plant physiology
+plant pathology
+planetary sciences
+physical therapy
+physical therapist
+physical education
+pharmacy health
+pharmaceutical sciences
+pest management
+park management
+oral biology
+operations research
+operations management
+office technology
+ocean engineering
+occupational therapy
+occupational development
+nuclear engineering
+navy rotc
+motor learning
+molecular genetics
+molecular genetics
+molecular biology
+modern languages
+mining engineering
+mineral processing
+mineral engineering
+mineral economics
+military science
+metals science
+medicinal chemistry
+medical sciences
+medical school
+medical assistance
+media studies
+media arts
+mechanical engineering
+mathematics education
+materials science
+materials engineering
+mass communications
+mass communication
+manufacturing engineering
+management technology
+management science
+management information
+literary theory
+literary criticism
+liberal arts
+leisure studies
+legal assistance
+law enforcement
+landscape architecture
+labor studies
+labor relations
+jewish studies
+international studies
+international business
+interior design
+interior architecture
+interdisciplinary studies
+instructional technology
+institutional management
+information systems
+information science
+information management
+industrial relations
+industrial engineering
+individual studies
+human resources
+human nutrition
+human ecology
+human development
+human development
+hotel management
+hospitality management
+horticultural sciences
+horticultural science
+hebrew studies
+health services
+health sciences
+health science
+health policy
+health information
+health education
+health administration
+grain science
+gerontological studies
+germanic studies
+general studies
+forest resources
+foreign languages
+foreign affairs
+food service
+food science
+fisheries science
+fine arts
+film studies
+fashion design
+family studies
+exercise physiology
+european history
+ethnic studies
+environmental studies
+environmental sciences
+environmental science
+environmental planning
+environmental health
+environmental engineering
+english education
+engineering technology
+engineering science
+engineering physics
+engineering mechanics
+engineering management
+energy engineering
+elementary education
+electronics technology
+electrical engineering
+educational research
+educational psychology
+educational policy
+educational leadership
+educational evaluation
+educational administration
+earth sciences
+developmental biology
+dental sciences
+criminal justice
+creative writing
+counselor education
+cooperative education
+continuing education
+computer programming
+computer technology
+computer science
+computer engineering
+comparative literature
+comparative law
+community studies
+community education
+communicative disorders
+communication sciences
+communication disorders
+cognitive sciences
+cognitive science
+clinical sciences
+clinical psychology
+clinical ethics
+clinch valley
+civil engineering
+city planning
+chemical engineering
+ceramic science
+business logistics
+business law
+business administration
+building construction
+biomedical engineering
+biological sciences
+biological chemistry
+bilingual education
+aviation technology
+automotive technology
+atmospheric sciences
+athletic training
+asian studies
+asian languages
+asian history
+art history
+art education
+army rotc
+architecture school
+architectural history
+architectural engineering
+applied mechanics
+applied mathematics
+apparel textiles
+apparel textiles
+apparel design
+animal sciences
+animal science
+animal nutrition
+animal medicine
+animal husbandry
+american studies
+american history
+american ethnic
+agricultural technology
+agricultural operations
+agricultural engineering
+agricultural education
+agricultural economics
+agricultural communications
+african studies
+african studies
+aerospace engineering
+aeronautical engineering
+adult education
+zoology
+writing
+tourism
+theology
+theatre
+theater
+tesl
+telemedicine
+telecommunications
+teaching
+taxation
+statistics
+spanish
+sociology
+slavic
+science
+school
+russian
+religion
+rehabilitation
+recreation
+psychology
+portuguese
+physiology
+physics
+philosophy
+pharmacy
+pharmacology
+pharmaceutics
+pediatrics
+pedagogy
+pathology
+pathobiology
+optometry
+optics
+operations
+oceanography
+nutrition
+neuroscience
+nematology
+music
+mining
+mineralogy
+microbiology
+meteorology
+metals
+medicine
+media
+mechanics
+mathematics
+math
+marketing
+manufacturing
+management
+logistics
+lithuanian
+literature
+linguistics
+law
+latin
+languages
+kinesiology
+journalism
+japanese
+italian
+insurance
+immunology
+humanities
+hospitality
+horticulture
+history
+hebrew
+greek
+government
+gerontology
+german
+geosciences
+geophysics
+geology
+geography
+geochemistry
+genetics
+french
+forestry
+finance
+film
+fashion
+ethics
+epidemiology
+entomology
+english
+engineering
+electronics
+eecs
+ee
+economics
+econometrics
+ecology
+drama
+dietetics
+design
+dermatology
+dentistry
+demography
+cs
+counseling
+communications
+climatology
+classics
+chinese
+chemistry
+business
+botany
+biophysics
+biology
+bioengineering
+biochemistry
+banking
+aviation
+audiology
+astrophysics
+astronomy
+astronautics
+art
+architecture
+archaeology
+anthropology
+anatomy
+agronomy
+agribusiness
+africology
+aesthetics
+aeronautics
+advertising
+acoustics
+accounting
+accountancy

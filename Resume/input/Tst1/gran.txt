@@ -1,0 +1,107 @@
+                                 [Image]
+
+ Mailing Address:                               Internet Address:
+ 3740 N. Tillotson Rd Apt 355                   ragnar@cs.bsu.edu
+ Muncie, IN 47304                               http://ragnar.spinweb.net
+ (765) 214-0110
+
+-------------------------------------------------------------------------
+
+  OBJECTIVE:
+
+     Establish a career in Software Engineering utilizing modern
+     languages, such as Java, and modern techniques, such as
+     Object-Oriented design.
+
+  EDUCATION:
+
+     Bachelor of Science Degree
+     Computer Science, Ball State University
+     Expected Date of Graduation: May 1999
+
+  COMPUTER EXPERIENCE:
+
+     Operating Systems:  Unix, Mac OS, Windows (3.11,95, NT), VMS, DOS
+     Networks:           Novell, TCP/IP, AppleTalk
+     Internet:           Web Design partner with SpinWeb Net Designs
+     Hardware:           IBM compatibles, Macintosh, various UNIX systems
+     Languages:          Java, C, C++, Perl, Assembler, Unix Shell, Visual
+                         Basic, JavaScript
+     Software:           Netscape Navigator, Microsoft Internet Explorer
+                         and FrontPage 97, Adobe Photoshop and PageMaker,
+                         Microsoft Office, WordPerfect
+
+  WORK EXPERIENCE:
+
+     Kraft Foods Inc.                                     (Summer 1997)
+
+     Unix Security Administration Internship
+
+        * Evaluated security standards
+        * Recommended procedures for unix security auditing
+        * Designed and Implemented an auditing application for over
+          sixty servers
+
+     Ball State University                               (1995-Present)
+
+     Helpdesk Technical Support Internship
+
+        * Provided telephone technical support for students/faculty
+          on computer concerns
+        * Recommend effective solutions for connecting to the
+          university network
+        * Analyzed and solve a myriad of software and hardware
+          problems
+
+     Network Installation
+
+        * Implemented standards for Macintosh connectivity
+        * Installed & configured network services for PC and
+          Macintosh computers
+        * Scheduled times for installation
+
+     Graphics Lab Assistant
+
+        * Answered & solved user questions about graphics software
+          and hardware
+        * Maintained security of software and hardware
+        * Instructed users in basic and advanced computer
+          operations
+
+     Best Buy Company                                       (1993-1995)
+
+     Supervisor of Computer Department
+
+        * Scheduled hours for over twenty employees
+        * Increased sales of on-site service through training
+          sessions
+        * Improved competitive edge through better monitoring of
+          our market
+        * Affected employee morale through positive reinforcement
+        * Trained new employees on proper protocol of the company
+        * Interviewed & screened prospective employees
+        * Issued letters of commendation and discipline for
+          employee files
+
+  LEADERSHIP:
+
+        * Ball State Java User Group, President
+        * Student Government Association, Webmaster & Director of
+          Information
+        * National Residence Hall Honarary
+
+  REFERENCES:
+
+     UCS Helpdesk Supervisor, Kelly Sayre
+     UCS Assistant Director, Lavada Ruddick
+     HRL Network Installation Director, Jacqui Irwin
+
+-------------------------------------------------------------------------
+
+                         [PDF Version of Resumé]
+
+   For better viewing and printing, download an Adobe .pdf copy of this
+                                 resume.
+-------------------------------------------------------------------------
+
+                            [Navigation bar]

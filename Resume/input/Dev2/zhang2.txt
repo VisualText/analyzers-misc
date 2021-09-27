@@ -1,0 +1,82 @@
+Thomas Zhang
+Room 302, No.74, LuoYang QiCun
+750 Luoyang Road
+Shanghai 201100, P.R.China
+--------------------------
+Phone: +86-21-64129375(H) 64852828 ext.254(O)
+Email: tomprc@online.sh.cn
+URL:   http://www.angelfire.com/ok/tom
+
+Objective: Software Engineer; Software Developer; Programmer/Analyst
+
+Experience
+
+Aug. 1995-Present: Intel Architecture Development (Shanghai) Co.
+                   Software Engineer/Senior Software Engineer
+   * Ten days of intensive training in California, USA in December 
+     1998 for Intel Frequency ID project.
+   * Key software developer of "Intel E3D Graphics Card Utilities 2.0":
+     http://support.intel.com/support/graphics/express3d/E3DUEN02.htm
+   * "Intel CPUID Utility for Windows" Simplified Chinese Localization.
+   * Key role in the software localization project of Intel Express 3D
+     Graphics Card.
+   * Take charge of the development of "Multimedia Tutorial", version 
+     1.X/2.X, a major part of the "HomeCD" CD-ROM Title product.
+   * Designer of my university class homepage at members.xoom.com/1988.
+
+Feb. 1995-July 1995: Shanghai NetSea Computer System Engineering Co.
+                     Software Engineer
+   * One of the chief designers of "Container Shipment and 
+     Transportation System" for COSCO Shanghai, a system developed on 
+     DEC Alpha, WAN and Sybase. Full charge of ERS and IRS of 
+     documentation subsystem and customer management subsystem.
+
+Apr. 1993-Feb. 1995: Shanghai Pudong Software Park Development Co.
+                     Software Engineer
+   * Project leader of "CAI  for Marine Signals", a multimedia CAI
+     software running on MS Windows.
+   * Programmer of "CAI for Middle School Student".
+   * Programmer of "Map Information System of Pudong New Area".
+   * Obtained national Rank Certificate of Computer Software
+     (Programmer), and Qualification Certificate of Speciality
+     and Technology in Computer Software (same educational
+     level basis as BSCS).
+
+Aug. 1992-Apr. 1993: Shanghai Institute of Nuclear Research, CAS
+                     Assistant Researcher
+   * Charge of experimental data processing for the NNSF project 
+     "R-D Method and Nuclear lifetime".
+
+Education
+
+Sept. 1988-July 1992: Peking University
+   * Bachelor of Science; Majored in Nuclear Physics.
+   * Obtained certificates of CET4 and CET6 (National College English
+     Test).
+   * Computer related courses included: FORTRAN, Pascal, PC Technology.
+   * Continued self-study in Software Engineering, Data Structures, etc.
+
+Feb 1997: Microsoft(China) Co., Beijing 
+  * Microsoft Visual Basic 5.0 training.
+
+June 1993-July 1993: Simiens-Nixdorf Co. (SNI), Beijing
+  * Training of SIGRAPH CAD software and SGI workstation.
+
+Publication
+   "Simulation of Crystal Structure of Bismuth System Superconductor by
+   Empirical Potential Energy Function",  Acta Physico-Chimica Sinica,
+   No. 5, Vol. 9, 1993.
+
+Qualifications
+   * Microsoft Certified Solution Developer (MCSD);
+   * Strong VC++/VB/Windows/CD-ROM Title/Internationalization
+     development skills and experiences;
+   * Good Database/SQL development skills; Good knowledge of Internet;
+   * English Language: Excellent reading ability, fair conversational 
+     ability, good writing ability. 
+
+Personal Data
+   Born:           Dec 1971 in Jiangsu, P.R.China
+   Health:         Excellent, no physical limitations
+   IQ: 	           142 (*unofficial test)
+   Other:	   Able to drive

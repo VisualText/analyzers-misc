@@ -1,0 +1,72 @@
+
+CONTACT: 
+  
+First Name: Jeffrey   
+Middle Name: B.
+Last Name: Otterson
+Number:      3543
+Street:      Tritt Springs
+Road:        Way
+City:        Marietta
+State:       GA
+Zip:         30062
+
+Email:       otterson@mindspring.com.
+
+
+EDUCATION:
+
+Date: 1998   
+School Name: Southern Polytechnic State University
+School Location: Marietta, GA    
+Degree: BSCS
+Major: BSCS
+GPA:  3.85  
+Max GPA: 4.0
+
+Date: 1993  
+School Name: Daniel Webster College
+School Location: Nashua, NH   
+Degree: ASGS
+
+EXPERIENCE:
+
+Date: January, 1998 - Present
+Company: The Home Depot
+Position: Chief Systems Engineer
+
+Date: June 1997 - December 1997
+Company: Staffing Technology, Inc
+Position: Consultant
+Location: Atlanta, GA
+
+Date: February 1997 - June 1997
+Company: Security First Technologies
+Position: Member of the Technical Staff
+Location: Atlanta, GA
+
+Date: October 1994 - January 1997
+Company: Diversified Business Systems
+Position: Consultant
+Location: Dunwoody, GA
+
+Date: July 1993 - October 1994
+Company: Daugherty Systems
+Position: Software Development Specialist
+Location: Atlanta, GA
+
+Date: May 1991 - July 1993
+Company: Digital Equipment Corporation
+Position: Senior Software Engineer
+Location: Nashua, NH
+
+Date: January 1989 - May 1991
+Company: Digital Equipment Corporation
+Position: Senior Information Systems Analyst
+Location: Nashua, NH
+
+Date: June 1983 - December 1988
+Company: Production Process   
+Position: Programmer/Analyst
+Location: Londonderry, NH
+

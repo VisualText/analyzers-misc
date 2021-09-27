@@ -1,0 +1,340 @@
+CV of John Orendt - Software Engineer - Commenced in DP 1981
+
+Birth date: March 8th 1956
+Dual citizenship: United States of America and Australia.
+
+P.O. Box 680
+North Sydney NSW 2059 Australia
+Phone: 61-2-9981-5890 or Mobile 61-411-348700
+
+Internet E-mail: jorendt@ozemail.com.au or jorendt@bigfoot.com
+See http://www.ozemail.com.au/~jorendt
+
+Security Clearance: Secret, United States Department of Defense.
+
+DP Environment and Applications:
+
+5 - Extensive experience, 4 - Good experience, 3 - Average experience,
+2 - Basic Understanding, 1 - Theoretical knowledge only
+
+
+  Skill               No.    Year    Proficiency
+                      Years  last
+                             used
+
+  HW & O/S
+
+  Cyber               3      89      4
+
+  DEC                 1      92      3
+
+  DOS                 14     97      5
+
+  HP                  1      92      3
+
+  MAC                 12     97      5
+
+  PDP 11              3      86      3
+
+  SUN                 5      97      5
+
+  UNIX                5      97      5
+
+  VAX                 5      86      4
+
+  Windows NT          2      97      4
+
+  Design &
+  Programming
+
+  Basic               8      89      5
+
+  C++                 8      97      5
+
+  C++ Borland         3      93      4
+  Windows
+
+  C++ MacApp          4      92      3
+
+  C++ Object Windows  1      93      5
+  Library
+
+  C++ Visual          2      97      5
+
+  FORTRAN             12     92      5
+
+  Java                2      97      4
+
+  SQL Oracle          1      96      4
+
+  SQL Sybase          4      97      5
+
+  Applications
+
+  CAD                 4      92      4
+
+  Secure              2      97      4
+  communications
+
+  Missile Systems     6      89      5
+
+  Radar               6      89      5
+
+  Technical Trading   4      93      5
+  Models
+
+  Telephony           1      92      3
+
+
+
+EDUCATION:
+Bachelors of Electrical Engineering, 1981, Cleveland State University,
+Cleveland, Ohio. Dean's list.
+
+EXPERIENCE:
+
+(3/97-Present) [Colonial State Bank Logo][Treasury Logo]
+Colonial State Bank Pty Ltd., Sydney NSW, Treasury Services does Margin FX,
+Margin Lending, interest rate, options, swaps and derivatives dealing.
+Position: Contract SW Engineer, Treasury Systems. Team Environment.
+
+Sybase SQL, OOD, C++, Born shell, Teknekron, Perl DB, on UNIX Sun Client
+Servers integrated with sun and PC front ends.
+
+Prudential Statement C3: Treasury Risk Analysis for Reserve Bank of
+Australia (RBA) reporting requirements. Improved the MaX Zero curve
+building and evaluation engine to construct Zero curves based on market
+rates for New Zealand Dollar, Great Briton Pound, Swiss Franc, and
+Australian Dollar curves. Market rates included Cash, Bank Accepted Bills
+(BAB), Futures on BAB (BABF), and swaps. Improved the OMEGA system to
+increase the size of the variance matrix and automate it's running via cron
+job. Project completed.
+
+Foreign Exchange (FX): System improvements to reconcile FX Profit & Loss
+between State Trader, Front Office, Back Office, Taps, and Devon Systems
+and improve robustness.
+
+(9/96-3/97)[Ozemail Logo]
+OzEmail Limited, Sydney NSW, is an Internet Service Provider (ISP) with
+value added content. Position: Contract SW Engineer. Team environment.
+
+Java Apps and Applets, JDBC, Oracle. Wrote Australian Indices applet and
+server. The server queries an Oracle DB and pushes the updates to
+subscribed applets which display the data in real time. The server also
+pings the applets for connection management. Project Completed.
+
+Certified and installed https secure server via VeriSign. Project
+Completed.
+
+(10/95-9/96)[Austraclear Logo]
+Austraclear Ltd., Sydney NSW, Austraclear does Bank clearing. Project 2000
+does software development of cash and financial instrument real time
+clearing. Position: Contract SW Engineer. Team environment. See letter of
+recommendation.
+
+Visual C++, Distributed Object Oriented settlement and clearance system
+(Bink!), and Oracle SQL, on Windows NT, Pentium and Digital alpha
+platforms.
+
+Wrote Project 2000 security software using state of the art cryptographic
+algorithms. Implemented, key exchange protocols, symmetric and
+public/private key encryption, and decryption, Digital Signatures, One way
+hash functions, Cryptographically Secure Psuedo-Random Sequences, and
+Secret Sharing Algorithms. Skills involved C++, Number and Complexity
+theory, and multi precision math.
+
+Austraclear Ltd. has an average daily cash flow of 40 billion Australian
+dollars.
+
+(12/93-10/95) [Colonial State Bank Logo][Treasury Logo]
+Colonial State Bank Pty Ltd., Sydney NSW, Position: SW Engineer, Treasury
+Systems. Team Environment.
+
+Improved the Cash flow Blotter by adding three columns, NPV, P&L Today, and
+P&L Month to the display. Designed formulas and algorithms to compute the
+values for individual FX deals and holdings. The values were dependent upon
+rate sets for: End of Month, End of Day, and live market exchange and
+interest rates. The blotter would be updated in real time as dealers
+created, updated and/or canceled FX deals. A re-eval button was added,
+which when pressed would update the blotter to reflect changes in the live
+market rates. Skills involved Teknekron, OOD, C++, and SQL. Project
+completed.
+
+OMEGA is used to re-evaluate fixed interest rate products where the
+customer has the right to exercise certain predefined options. For example,
+ten year fixed interest rate loan with no Early Termination Interest
+Adjustment (ETIA), and a stepped Term Deposit (TD) where customers can
+withdraw their deposits at the end of any step with no penalty. The
+re-evaluation process uses a lattice engine. I designed and wrote the high
+level code which constructed a zero curve from market rates via MaX, read
+the deals from Sybase tables and submitted both to the lattice engine. The
+results from the lattice engine were written into a Sybase table. I wrote
+several SQL procedures and Perl DB scripts which produced various reports
+from the database tables. Skills involved Sybase SQL, OOD, C++, Perl DB,
+and tcl/tk. Project completed.
+
+FXFO and FXBO support during day and pager support at night. Troubleshoot,
+advise and consult customers. Analyzed and fixed a large variety of
+problems relating to both FO and BO FX trading. Wrote FX test plan for
+Teknekron RSF+ upgrade.
+
+(9/93-11/93)
+Sycomp Pty Ltd., Sydney NSW, does Executive Information System (EIS)
+software development. Position: Contract SW Engineer. Individual work
+environment. See letter of recommendation.
+
+Borland C++ and Windows GUI with Sybase server on UNIX Sun station.
+
+Developed and implemented scrollable multi-element dialogue box with edit
+and combo boxes. The dialogue box generated SQL queries for combo box fill
+up. OOD.
+
+Independent work environment. Project completed.
+
+(6/93-9/93)
+Astro Aerospace, Carpinteria California does mechanical design and
+fabrication of space structures and components. Position: Contract SW
+Engineer. Independent work environment. Project completed. See letter of
+recommendation.
+
+Borland C++ and Object Windows Library (OWL), Windows API.
+OOD using Raumbaugh.
+
+Designed and implemented from scratch demonstration software for testing of
+the American Freedom Space Station Mobile Transporter (MT). MS Windows
+features were demonstrated such as, system info dialogue, password
+dialogue, multiple line editable text command input window, multiple line
+read only output window. The MT output status dialog, contained buttons,
+static text, check boxes, and radio buttons.
+
+(3/93-5/93)[mini aniamation][Digital sound title]
+Digital Sound, Carpinteria California does design, manufacture and test of
+corporate voice messaging systems. Position: Contract Test Engineer. Team
+environment.
+
+UNIX, on Sun, C++, OOD using Raumbaugh.
+
+Executed and updated system test procedures. Wrote reports on failed tests.
+Advised on C++ and OOD methods for implementation of Cepstrum and Hidden
+Markov Modeling for DSP.
+
+(5/92-11/92)
+Auto-trol Technology, Denver Colorado does CAD software development.
+
+Position: Contract SW Engineer. Team environment. Project completed.
+
+ C++, UNIX, on Sun, HP and Decmips. OOD using Raumbaugh.
+
+Designed and wrote error detection, reporting, and handling software for a
+CAD platform. Error and/or message information is split into components
+facilitating internationalization, and deposited into a container class.
+The container class has various manipulation and query methods. Error
+detection is by test or UNIX signals. The signal, code, and platform
+information is used to generate a user friendly message compatible with the
+reporting software. For bus and segmentation violation errors the PC
+locations are indexed into symbol tables to report the class and method
+where the signal occurred.
+
+(3/91-5/92)
+Intelect Inc., Mililani Oahu Hawaii does design and manufacture of ISDN
+telephone digital switches for air defense and air traffic control. Team
+environment.
+
+Position: Contract SW Engineer. All projects completed. See letter of
+recommendation.
+
+Multiple processors. Real time, memory size and time loading critical, C++
+Object Oriented Programming (OOP), Microsoft Windows GUI, OOD using
+Rumbaugh.
+
+Wrote ISDN Telephone switch relational object oriented database. Timer
+Software, prioritizing scheduling software with variable tick rate. Use of
+virtual methods and classes, Multiple Inheritance, Polymorphism,
+Dictionaries, Sets and persistent objects. Wrote GUI software to facilitate
+testing of database software. GUI used file open, list boxes, and edit
+boxes.
+
+(8/89-12/93) Full & part time.
+Independent project for personal use J & R Consulting, Inc. Tucson Arizona
+as director.
+
+C++, MPW. GUI, Basic and MacApp on Macintosh.
+
+Designed Futures and Commodities and Stocks Forecasting software. System
+analysis, design and programming. Testing systems for profits, draw down,
+and risk. Analyzed Burning Match, and moving averages.
+
+(10/86-8/89)
+McLaughlin Research Corp. Camarillo California does Missile analysis and
+test for United States Navy. Position: Contract SW Engineer. All projects
+completed. Team environment.
+
+Hardware expertise: Cyber 175 & 860, Macintosh, and PC
+Software expertise: FORTRAN
+
+Advanced Medium Range Air to Air Missile (AMRAAM) analysis support.
+Developed various mathematical models of missile subsystems and
+environments. Software design, missile analysis consultations and
+presentations.
+
+Created detailed mathematical models for radar clutter spectral
+characteristics, bi-static clutter model for a terrain bounce study,
+clutter power and clutter statistics. Validated models with free flight
+launches. Designed a statistical radar target signature model, an N target
+point by M antenna element target signature model and an AMRAAM receiver
+model.
+
+Excelled as telemetry data analysis consultant in the Hardware in the Loop
+Lab, and live AMRAAM firings at PMTC.
+
+(8/83-10/86) [Hughes Aircraft logo]   [Hughs AMRAAM logo]
+Hughes Aircraft Company, Canoga Park, California. Missile Systems
+Evaluation Dept., Position: Systems Engineer. Team Environment. All
+projects completed. See Performance Appraisal.
+
+Expertise with the following hardware and software: AMRAAM data processor
+assembly language, FORTRAN, AMRAAM transmitter and receiver.
+
+Learned and disseminated tactical software operation to Missile free flight
+analysts via presentations and personal consultations. Designed and
+developed AMRAAM hardware test setups.
+
+Generated numerous technical presentations on AMRAAM tactical software.
+
+Provided missile performance evaluations including detailed missile system
+analysis, participation at design reviews and submission of alternate
+missile sub-system designs. Initiated a number of significant engineering
+changes.
+
+Designed and implemented programs to simulate actual launch profiles on the
+HAC Guided Test Vehicle hardware. This software used the HAC AMRAAM 6DOF as
+input and generated command files for HAC Target, Clutter, Altitude Return,
+IRU, Umbilical and Data link simulators. Team Leader.
+
+Created several hardware test set ups including Probability of Detection
+test, False Alarm test, and Receiver IQ Gain Imbalance test. These last two
+tests are currently used on all AMRAAM missiles in both the open guidance
+and the missile configuration. Received a letter of commendation for work
+on the Receiver IQ Gain Imbalance test.
+
+Integrated all of the HPRF ECCM modules such as target type classification,
+noise jammer detection, submode transition logic, detection zone logic and
+thermal noise reference calculation. Team Leader.
+
+Completely rewrote the ensemble average, threshold and detection modules.
+This resulted in large savings in both time loading and PM. Team Leader.
+
+ (6/80-8/83)[OPS]
+Optimized Program Service, Berea, Ohio does transformer and motor design
+consulting. Position: SW Engineer. Individual work environment. All
+projects completed. See letter of recommendation.
+
+Worked on the following projects: Transformer design, AI Expert systems,
+CADCAM, Circuit analysis system, and Thermal analysis system.
+
+Designed a data base configuration and management system for distributed
+systems and a 3 dimensional graphics system with automatic hidden line
+removal. Wrote a driver for a Tektronics plotter allowing the three
+dimensional graphics system to run without the use of any costly comshare
+proprietary graphics software. Used the sequential unconstrained
+minimization technique (SUMT) for transformer design optimization.

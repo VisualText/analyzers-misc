@@ -1,0 +1,47 @@
+
+CONTACT:
+
+First Name: Mark
+Middle Name: A  
+Last Name: Mason
+Suffix Name:    
+Email:       mark@okb.com
+
+EDUCATION:
+
+Date: 1993-1995
+School Name: University of Central Florida
+School Location: Orlando, FL
+Degree: M.B.A. Student
+Major: M.B.A.
+
+Date: 1980-1986
+School Name: University of Central Florida
+School Location: Orlando, FL
+Degree: B.S.
+Major: Computer Science
+Minor: Psychology
+
+
+EXPERIENCE:
+
+Date: 1988-March 1, 1999
+Company: TEAM Informational Services
+Position: LANSA Solutions Specialist
+Location: Lake Mary, FL
+
+Date: 1991-1998
+Company: ITT-TDS
+Position: Systems Analyst   
+Location: Palm Coast, FL
+
+Date: 1989- 1991
+Company: The Kirchman Corporation
+Position: Programmer
+Location: Altamonte Springs, FL
+
+Date: 1987-1989
+Company: J.W. Gant
+Position: Stockbroker
+Location: Maitland, FL
+

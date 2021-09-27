@@ -1,0 +1,192 @@
+[Image]
+
+Resumé of Joe E. Holler
+
+---------------------------------------------------------------------------
+
+Contents
+
+   * Contact Information
+   * Current Skills
+   * Education
+   * Employee Information
+   * Job Experience
+   * Biographical Information
+
+---------------------------------------------------------------------------
+
+Contact Information
+
+Street address
+2802 Kossuth Street
+Lafayette, IN 47904-3249
+
+Electronic mail address
+joe.holler@us.landisgyr.com
+
+Web address
+http://www.uky.edu/~holler/personal/joey.htm
+
+Home phone
+(765) 447-0311
+
+Back to Top
+
+---------------------------------------------------------------------------
+
+Current Skills
+
+Host Machines
+Windows 95, Office 97
+
+Target Machines
+NEC 78064, Rockwell Socket Modem
+
+High Level Languages
+C++
+
+Assembly Languages
+NEC Assembly
+
+Test Equipment
+RFL 5800 Meter Calibration System, Radian RS703A
+
+Back to Top
+
+---------------------------------------------------------------------------
+
+Education
+
+Graduate Courses:
+
+   * C++, Spring 1996
+   * Digital Signal Processing, Fall 1982
+
+Undergraduate: B.S., Electrical Engineering, Purdue University, 1979
+
+High School: Delta High School, Muncie, IN, 1974
+
+Back to Top
+
+---------------------------------------------------------------------------
+
+Employee Information
+
+Job title
+SENIOR PROCESS ENGINEER
+
+Job objective
+Programmer, Software Engineer
+
+Special capabilities
+
+   * Languages - C, C++, Intel Assembly Languages (8085, 8086, 8051),
+     Sperry Memory Processor Assembly Language, Motorola 6800, 68000 &
+     88000 Series Assembly Language, PASCAL, PLM, Jovial, Fortran, Advanced
+     Engineering Design Language (AED), DBASE, PLC's, CASE
+   * Host Operating Systems - UNIX, VAX/VMS Operating System, IBM Operating
+     System, MS-DOS.
+   * Target Operation System - IPI's Multi-Tasking Operating System, Sperry
+     Memory Processor Operating System.
+   * Target Hardware - Intel 8085, 8086, 8051, RCA 1802, Sperry Memory
+     Processor, Fairchild 9450, all associated peripheral hardware.
+   * Interfaces - IEEE 488, GPIB, ARINC 429, RS422, Mil Std. 1553.
+
+Back to Top
+
+---------------------------------------------------------------------------
+
+Job Experience
+
+LANDIS & GYR UTILITIES SERVICES, INC.
+System Analyst, January 1997 to Present
+
+     DUTIES: Performed engineering on utility metering products
+     including S4, ZMC, and Advanced Modem.  Responsibilities included
+     software design, code, and integration testing.  Used C++ as high
+     level language and NEC assembly language as well as NEC simulator
+     and emulator for code debugging.  Used RFL 5800 and Radian 703A
+     for integration testing.
+
+DELCO ELECTRONICS CORPORATION
+Senior Process Engineer, May 1989 to February 1990
+
+     DUTIES: Performed system testing on Corvette LCD/vacuum
+     fluorescent instrumentation cluster. Work included testing of
+     dimming lag algorithms in software.
+
+     Participated in procurement process for the purchase of a
+     continuous wave radar simulator.
+
+SUNDSTRAND CORPORATION
+Senior Design Engineer, March 1987 to April 1989
+
+     DUTIES: Performed engineering on aerospace engine starting and
+     aerospace actuation systems. Work included preparation of
+     Software Top Level Design Document, Software Detailed Design
+     Document, And Unit Test Descriptions According to Military
+     Standard 2167.
+
+MAGNAVOX GOVERNMENT & INDUSTRIAL
+Software Design Engineer, March 1983 to March 1987
+
+     DUTIES: Performed engineering on LORAN/NAVSAT fault isolation
+     software. Work included translation of assembly language from
+     Sperry CP890 to Sperry Memory Processor.
+
+     Performed engineering on electronic warfare simulator. Work
+     included software design, test, and coding for the threat
+     simulator.
+
+     Performed engineering on General Purpose Interface Bus (GPIB,
+     IEEE 488) device driver for a multi-tasking operation system.
+     Work included design, code and test of the software.
+
+     Performed engineering on several electronic warfare projects.
+     Responsibilities varied from design, code and test of software
+     primitives to design, code and test of total threats.
+
+     Participated in preparation of documents such as Program Design
+     Specifications and Program Performance Specifications as well as
+     management Planning tools such as manning estimation and program
+     schedules.
+
+ROCKWELL INTERNATIONAL
+Software Design Engineer, June 1979 to February 1983
+
+     DUTIES: Performed engineering on operator interface software for
+     satellite navigation test equipment. Work included module design
+     as well as module integration.
+
+     Performed engineering on board level using prom programming
+     techniques. Work included hardware design of interface adaptor
+     between a versatile prom programmer and manufactured board.
+
+     Performed engineering on advanced CRT avionics equipment. The
+     Engine Indicator and Crew Alerting System ( EICAS) and Caution
+     Annunciator Indicator (CAI) involved high resolution computerized
+     display graphics. The EICAS and CAI are now standard equipment on
+     new Boeing Airliners. Work included both high level and assembly
+     language design, code ant test. Responsible for the total CAI
+     software effort.
+
+Back to Top
+
+
+---------------------------------------------------------------------------
+
+Biographical Information
+
+Born: Muncie, IN, June 22, 1956
+
+Marital Status: divorced.
+
+Children: Son, Eric, born 1984.
+
+Back to Top
+
+---------------------------------------------------------------------------
+
+Last revised: 4/23/98
+
+This page has been accessed  [Image]   times since 4/23/98.

@@ -1,0 +1,207 @@
+                                Resume of Alexander Tarasul
+
+ [Certified developer logo]       E-mail:shleym@ripco.com      [Microsoft Certification]
+                            URL:http://pages.ripco.com/~shleym
+
+---------------------------------------------------------------------------
+
+OBJECTIVE: Research, design and development for client/server or
+distributed Windows systems.
+
+SUMMARY: Certified Delphi 3 Client/Server Developer, Microsoft Certified
+Solution Developer (SQL Server, Visual Basic), ten years experience as
+system analyst, computer programmer and consultant. Research, design and
+development experience. Strong expertise in Delphi Client/Server
+development, Database Design and programming, Object Oriented Programming,
+Component development, Windows API programming and Networking. Strong
+mathematical background.
+---------------------------------------------------------------------------
+LANGUAGES & SOFTWARE: DELPHI (all version), SQL( Transact-SQL), COM/DCOM,
+Microsoft Transaction Server, VISUAL BASIC, VBScript, MS WINDOWS API, C++,
+Java, UniBasic, UniQuery, UniSQL, FOXPRO FOR WINDOWS, PASCAL, PC Assembler.
+
+DATABASES: SQL server - design, programming, fine tuning, internals;
+ORACLE, Unidata (pick type server database), Paradox.
+
+INTERNET RELATED : Active Server Pages, ActiveX, ISAPI, HTML, CGI, socket
+programming
+
+OPERATING SYSTEMS: MS WINDOWS NT, MS WINDOWS 95, MS WINDOWS, MS-DOS, SCO
+UNIX
+
+HARDWARE: PC, HP NT Servers
+---------------------------------------------------------------------------
+
+EXPERIENCE:
+
+"Consulting Company" - Chicago, IL *
+
+01/1999 - present Project Leader
+
+While still working on my previous project I'm leading internet application
+project. The TruckTracking application will provide data flow and data
+modification for Vehicle Tracking business purposes, will be integrated
+with Geographic Positioning System, Mapping, Mobile devices, Wireless
+networks and Internet communication channels. Application will provide
+persistence of received and send information, transformation and reporting
+on this information, integrate mapping information and be configurable.
+Primary implementation technologies will involve Microsoft BackOffice,
+Internet Explorer and Inprise Delphi.
+Application integrate wireless networks middleware and mapping data
+components. Message flow will be implemented using clearly defined message
+format and data will be transformed using clearly defined business rules.
+The TruckTracking Host will serve data as a Web Server and will be capable
+to run both in Internet and Intranet scenario. The host will require
+external (WAN) connection in both cases to interface with wireless
+networks. Such implementation solution solves maintainability requirement
+by requiring that the only software installed on client will be standard
+Internet browser.
+For this project I'm doing project management, design, R&D, SQL server data
+design, DHTML custom solutions, SQL Server programming, Middleware
+integration, Delphi programming and Communications.
+
+09/1997 - 01/1999 Consultant
+
+Large scale client-server project with BackOffice backend and Delphi
+front-end for major international executive search company. I'm working in
+a team of Delphi and SQL Server programmers.
+
+My personal involvement include design of key module, Delphi components
+development, SQL server database programming and fine tuning.
+
+Some examples of my design and development:
+
+  1. Design and development of custom high-performance data mart kind
+     reporting system . more than 200 stored procedures, Delphi components,
+     OLE server integration.
+  2. Design and development of batch processes submission and execution
+     architecture.
+  3. Design and development of backbone of custom document management
+     system
+       1. Structured storage access for different versions of Windows and
+          applications
+       2. ROT - Running Object Table implementation for Delphi OLE Server
+       3. Exposing primary application as OLE Server to be accessable by MS
+          Office VBA.
+       4. Adobe Exchange automation
+       5. Microsoft Office (Word,Excel,Powerpoint) automation from Delphi
+       6. Visio automation from Delphi
+       7. Extender application written on VBA for Word, Excel, Powerpoint,
+          Visio and Delphi DLL to support them.
+       8. Number of batch processes supported batch printing, PDF
+          conversions, FTP transfers etc.
+       9. SQL Server stored procedures to support all this.
+  4. Porting whole project from Delphi 2 to Delphi 3
+  5. Integration with Microsoft office functionality using OLE
+  6. Client and Server performance optimization . fast client low level
+     procedures, optimization of SQL stored procedures.
+  7. Delphi component development
+       1. Sorted in memory database grid.
+       2. Custom draw control to support drag and drop query builder.
+       3. Data driven coloring of database controls
+       4. Data driven coloring of databound tree control
+       5. Network savvy loading of lookup datasets
+       6. Extended functionality of DBGrid (checkboxes, cell related hints,
+          tile bitmaps, etc)
+       7. Encapsulation of Windows TAPI (telephony) and CSAPI (spell
+          checking interface)
+       8. Customization of standard dialog (file open)
+       9. Windows sockets integration
+      10. Animation component for Delphi2
+      11. Splitter component for Delphi2
+  8. Form development
+  9. Evaluation (partial porting) from 2-tier to 3-tier architecture,
+     involved distributed datasets, DCOM
+ 10. SQL stored procedures to resolve tree structures.
+ 11. Memory leaks optimization (using BoundsChecker)
+ 12. Windows NT error logging.
+ 13. Microsoft Transaction Server - Delphi 3 integration
+ 14. Mailslots programming.
+ 15. Internet explorer - Delphi integration
+ 16. Beta test of Delphi 4
+ 17. Light-weight resource using for multiple form tabbed interface
+ 18. Client side pooling of large datasets
+ 19. Server ping encapsulation
+ 20. Global caching of bitmap resources to decrease resource consumption
+
+"Records Storage Company" - Chicago, IL *
+11/1996 - 9/97 Senior System Analyst
+05/1996 - 10/96 Software developer
+11/1995 - 05/1996 - Consultant
+
+Research and development for WWW projects. Testing and training with SQL
+Server, Oracle, Delphi3, ActiveX, Active Server Pages, COM/DCOM, Visual
+Basic and other technologies related to multi-tier client-server and
+internet / intranet projects. Completed Borland requirements for Certified
+Delphi 3 Client/Server developer.
+
+Design and implementation of all stages in global migration project.
+Project aim to migrate core company software to UNIDATA server database.
+Project include creation of DELPHI component library for access database
+middleware, creation of DELPHI business objects, server database
+configuration and tuning, server database programming, DELPHI low level
+development for TCP/IP client-server access, DELPHI client programming,
+UNIX server configuration and fine tuning , PC to UNIX TCP/IP connectivity
+configuration, development of server procedures for remote execution,
+interfacing with legacy software, development of WWW access to server
+database, HTML and Javascript WWW page development. My responsibilities in
+this project include partial involvement in business analysis, complete
+software analysis, project planning and full software implementation.
+
+Solely responsible for design, development and testing standalone DELPHI
+applications and company oriented components, including databases, barcode,
+communications, text file based client/server program (9 projects)
+
+Development of DELPHI extension to FOXPRO written program.
+
+Retail Company - Odessa, Ukraine *
+02 / 1993 - 07 / 1995 System Consultant
+
+Delphi controls development, Core business systems development , technical
+training for company employees. Technologies include Windows, Delphi, DOS
+based DBMS and others.
+
+Software Development Company Odessa, Ukraine *
+09 / 1987 - 02 / 1993 Senior Programmer/Analyst, Project leader
+
+Project leader and technical lead of multiple office automation database
+projects : payroll, inventory, row products tracking, hotel management,
+general ledger etc for food industry, exchange, hospital and other clients.
+Technologies include DOC, C, Assembler, DOS based DBMS, FOXPRO and others.
+
+Private School - Odessa, Ukraine *
+01 / 1990 -05 / 1995 Teacher, Computer Science
+
+Lectured and directed lab activities, elaborated new course. Taught courses
+of programming in C++, PASCAL, LOGOWRITER.
+
+CERTIFICATION: Certified Delphi 3 Client/Server Developer, Microsoft
+Certified Solution Developer (SQL Server, Visual Basic 5, Windows
+Architecture)
+
+CONFERENCES : Borland Developer Conference 97, Borland Developer Conference
+96, Unidata International User Conference 96, Microsoft NT conference.
+
+TECHNICAL TRAINING: Self-paced and on job (Books, MSDN, Microsoft mastering
+series, Keystone video, WWW Waite Group training) for Delphi, SQL Server,
+Visual Basic 5, UNIX, UNIDATA, TCP/IP, Windows NT.
+
+TECHNICAL MAGAZINES: Microsoft System Journals, Dr Dobbs' Journal, Windows
+Tech, Visual Basic Programmer Journal, C++ Report, Delphi Developer
+Journal, DBMS, Databased Advisor.
+
+EDUCATION:
+ODESSA UNIVERSITY Odessa, Ukraine
+1990 M.S. in Computer Science and Mathematics. Degree with Honor.
+
+Mathematical High School Odessa, Ukraine
+1983 Diploma with Honor.
+
+REFERENCES: Available upon request.
+
+---------------------------------------------------------------------------
+* online version of resume include only type and not real names of
+companies in my job history to prevent unauthorized use and distribution.
+Please contact Alexander Tarasul for printed version.
+---------------------------------------------------------------------------
+                                 Home page

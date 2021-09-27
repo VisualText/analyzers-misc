@@ -1,0 +1,51 @@
+
+CONTACT:
+
+Contact Name: Richard W. Wong
+First Name: Richard
+Middle Name: W   
+Last Name: Wong
+
+Email:       kablooey@yak.net
+
+EDUCATION:
+
+Date: June 1986   
+School Name: University of California
+School Location: Santa Barbara, California
+Degree: Bachelor of Arts   
+Major: Mathematics   
+
+EXPERIENCE:
+
+Date: 1999-present
+Company: InWorlds.com
+Position: Director of Engineering
+
+Date: 1995-1999
+Company: Fujitsu Systems Business of America
+Position: Engineering & Development manager
+
+Date: 1994-1995
+Company: Duet Development Corporation
+Position: Marquis de Software
+
+Date: 1992-1994
+Company: Storm Technology, Inc
+Position: Marquis de Software
+
+Date: 1985-1992
+Company: The Software Department, Inc
+Position: Software Deity
+
+Date: 1978-1991
+Company: Fran Wong Mechanicals, Inc
+Position: Production Artist/Computer Consultant
+
+Date: 1983
+Company: Heritage Computer and Tennis Camp
+Position: Head Computer Instructor/Counselor
+
+Date: 1983
+Company: CompuCamp
+Position: Counselor/Teaching Assistant

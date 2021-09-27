@@ -1,0 +1,150 @@
+                                JOE EDMONDS
+                               (joe@elem.com)
+
+Summary of Qualifications / Objective
+
+I have extensive experience in the area of software architecture and
+implementation. During my six years in the industry, I have enjoyed roles
+as both team player and leader, delivering on-time, bug-free solutions to
+problems in object-oriented design, real-time constraints, digital video,
+and software configuration management.
+
+I seek 1099 work on innovative projects in the Los Angeles, CA area with a
+creative, dynamic team of software engineers. Permanent positions at
+promising organizations offering equity packages will also be considered.
+
+Skills
+
+Software Development Languages
+     C++, Java, Perl, C-Shell, Bourne Shell, Lisp, HTML (including CGI),
+     various assemblers.
+Platforms and Libraries
+     Unix (Irix, Linux, Solaris, AIX), Win32, PowerTV OS, OS-9, RiscOS,
+     OpenGL, Xlib, Xt, CORBA distributed systems, Swing (JFC), JDBC.
+Tools and Software
+     All major Unix tools: emacs, CC, rcs, make (GNU, SGI, Sun), awk, sed,
+     tar, etc.
+     Additional Unix tools: X11R6, cvs, ssh, procmail, POV-ray (raytracing
+     tool), gnuplot, Adobe Postscript, Postgres95, Apache, NCSA httpd, CERN
+     httpd, C-Cube MPEG compression tools
+     Windows/Mac tools: Microsoft Developer Studio, SourceSafe, Rational
+     Rose, Adobe Photoshop, Quark XPress, Adobe Illustrator, Microsoft
+     Office, Visio.
+
+Employment History
+
+Software Elements, Inc.: Founder, Consultant ( 6/96 - present ): Los
+Angeles, CA
+
+     Source Consulting
+        + Designed and implemented embedded, real-time application
+          subsystems for Windows NT 4.0.
+        + Designed client/server Java (JDK 1.2) application and
+          implementated GUI portion.
+        + Responsible for automated build procedures and SourceSafe
+          administration.
+     Eco-Challenge Web Site
+        + Designed and implemented Perl-based CGI scripts for: online order
+          form, contest entry form / customer database, and online race
+          results pages.
+        + Customized Perl-based web bulletin board system.
+     CityWeb Architecture for Warner Bros. Online
+        + Completed a series of documents outlining the technical
+          architecture components of the CityWeb local television affiliate
+          web sites.
+        + Addressed the following decisions: OS platform, CPU, disk
+          subsystem, memory, HTTP server software, ORDBMS platform, asset
+          management tools, authoring tools, and advertisement management
+          system.
+     Pegasus RFP for Time Warner Cable
+        + Responsible for functional requirements specifications for
+          application and operating system software of ITV system.
+          (currently under production: Scientific Atlanta Explorer 2000)
+        + Coordinated applications and authoring tool portions of RFP.
+        + Designed and implemented set-top resident applications in C++
+          (PowerTV OS): Navigator and Components Manager.
+     Server Optimization for The Palace
+        + Profiled and modified multi-platform Unix server product to
+          optimize performance (latency, bandwidth, memory).
+     Internal Projects
+        + Designed and implemented a client-server group scheduling product
+          in Java, based on JDK 1.0.2. Client is applet, server is
+          application. Made extensive use of io, util, net, awt packages.
+        + Designed and implemented Java application which utilized HTTP/1.0
+          Basic Authorization scheme to download data and JDBC to insert
+          data into Postgres95 database.
+        + Responsible for system administration (Linux 2.0): Apache web
+          server, ssh administration, security analysis, sendmail
+          configuration, user management.
+
+Time Warner Cable Broadband Applications: Senior Software Engineer ( 11/93
+- 6/96 ): Burbank, CA
+
+Broadband Applications is a division of Time Warner Cable which specializes
+in interactive multimedia tools and applications, primarily for the
+interactive television market.
+
+     SITV NFL Interactive
+        + Designed and implemented multimedia class library for authoring
+          multi-threaded, real-time, multimedia applications in C++ for
+          Time Warner's Full Service Network.
+        + Designed protocol over CORBA IDL to transmit generic sports data
+          (scores) to set-top client through a multithread-safe mechanism.
+          Implemented set-top half of communications.
+        + Designed generic ``Video On Demand'' engine and implemented
+          set-top portion.
+     Multimedia Runtime Interpreter
+        + Lead set-top programmer (C++) for all TWCBBA applications
+          launched with the Orlando Full Service Network: Catalog1,
+          Spiegel, Eddie Bauer, Warner Bros. Studio Store, Williams Sonoma,
+          The Nature Company, Crate & Barrel, Time Warner Viewer's Edge,
+          The Sharper Image.
+        + Designed, implemented, profiled, and optimized platform-specific
+          code for proprietary multi-platform multimedia authoring tool.
+        + Profiled and optimized set-top code for runtime module.
+        + Provided technical advice to production teams: feasibility
+          assessment, multimedia file format conversion, custom runtime
+          modules.
+        + Responsible for object-oriented design and implementation (in
+          C++) of the following modules: ``button traversal'' algorithm,
+          drawing paradigm, MPEG video class, timer class, text class.
+          Helped design memory management class.
+        + Version control (cvs) administration, development of script-based
+          (csh, perl, etc.) development tools, set-top & server
+          configuration, training.
+
+Ampersand Design: Digital Prepress Operator ( 8/92 - 11/93 ): San
+Francisco, CA
+
+        + Responsible for system administration of a Macintosh network of
+          30 nodes.
+        + Assisted digital prepress for retail marketing projects.
+        + Generated a video presentation of a ``fractal condensation''.
+        + Interviewed digital artists and wrote articles for affiliated
+          magazine. (On Line Design)
+
+Education
+
+Brown University: Course Work ( 9/88 - 6/92 ): Providence, RI
+
+        + B.A. in Computer Science. Graduated June, 1992.
+        + Focused in software engineering, algorithm analysis, digital
+          hardware design
+     Academic Projects
+        + srx A speech-recognition macro package for X; Implemented
+          recognition algorithms using Hidden Markov Model. (C++)
+        + ADSP2100 Integrated a signal-processing CPU and memory subsystem
+          in a VMEbus system. Coded demonstration applications in ADSP2100
+          assembly.
+        + S.O.M. Assisted system administration of 50 node IBM RT (AIX)
+          network.
+
+Other
+
+Patents
+   o US5818440: Automatic execution of application on interactive
+     television
+   o US5805155: Virtual assets in an interactive television cable system
+
+  This resume is available online at http://www.elem.com/~joe/resume.html.
+                    As of $Date: 1999/01/29 02:19:05 $

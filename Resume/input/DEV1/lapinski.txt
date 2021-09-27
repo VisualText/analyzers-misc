@@ -1,0 +1,55 @@
+                                   Emery Lapinski
+                                1333 Thomas Ave #22
+                                San Diego, CA 92109
+                               e-mail: ewl@panix.com
+                                phone: 619.270.1728
+
+                                  Career History
+ Nicholas-Applegate Capital Management (via Cafésoft), San Diego, CA Jan 97-Feb 99
+   Designed and implemented internal Java applets and middleware.
+   Designed and implemented Java applet for report management project
+   using JDBC for Sybase and CGI scripts to generate reports with
+   Platinum InfoReports. Designed and implemented Java applet and server
+   for program trading group using CORBA and JDBC for Sybase. Currently
+   working with Middleware group to support application development.
+ General Instrument (via Technology Locator Corp), San Diego, CA     Dec 95-Dec 96
+   Lead GUI designer/developer of network management software for a
+   cable-modem project using SNMP to manage head-end equipment. Initial
+   development was done in Galaxy/C++; later development was done in Java
+   and designed to run as an applet. Attended the 1996 NCTA trade show as
+   a representative of GI.
+ GTE/TSI (via Computer Professional Staffing), Tampa, FL             May 95-Nov 95
+   Member of a team developing the ChurnManagerapplication. Helped design
+   aspects of the GUI. Implemented custom widgets and developed various
+   dialogs in Galaxy/C for the Windows and Windows NT platforms.
+   Connected dialogs to a database server via a network communications
+   layer written on top of Galaxy Distributed Application Services (DAS).
+ Morgan Guaranty Trust Company, New York, NY                         May 94-Mar 95
+   GUI technical development team member helping build a library of GUI
+   extensions in Galaxy/C for use on SunOS, MS-Windows, and Macintosh
+   platforms. Responsibilities also include internal consulting to
+   application developers needing GUI design advice and programming
+   assistance. Projects include enhancing a report generation tool and
+   assisting in the development of a touchpad-based trading application.
+ Fuji Capital Markets Corp, New York, NY                             Apr 93-May 94
+   Maintained and added features to a system used by traders to price
+   swaps and access database information. The application was written in
+   C for Sun workstations running SunOS 4.1.x. Helped redesign and
+   rewrite the user interface of the application in Galaxy/C++.
+ Loan Pricing Corp, New York, NY                                     Jul 92-Mar 93
+   Rewrote and optimized a program, written in C for MS-DOS, that
+   installed and updated data at customer sites. Also wrote a report
+   generation subroutine in C++ and ISAM for the loan browsing
+   application the company was developing. In addition, helped with
+   system administration of two Hewlett-Packard computers running Unix
+   and provided user support for customers.
+
+                                     Education
+ New York University, New York, NY                                   Sep 89-May 92
+   B.A. in Computer Science, May 92
+   Major G.P.A.: 3.5 Overall: 3.0
+ Purdue University, West Lafayette, IN                               Sep 88-May 89
+
+                                      Skills
+ Primary: Java, JDBC, RMI; CORBA; Unix (mainly Sun and Linux); Internet and WWW.
+ Secondary: C++ and C; HTML and CGI scripts; perl, Windows & Windows NT.

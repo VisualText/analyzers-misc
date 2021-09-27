@@ -1,0 +1,98 @@
+---------------------------------------------------------------------------
+
+                               MIRIAM M. FORD
+
+                        Email: miriamford@yahoo.com
+        Web page: http://www.geocities.com/TheTropics/Island/5771/
+
+---------------------------------------------------------------------------
+
+                           PROFESSIONAL OBJECTIVE
+
+To work in a challenging system- or application-level software development
+position.
+
+                          PROFESSIONAL EXPERIENCE
+
+Information Analyst
+Electronic Data Systems, Inc., Boca Raton, Florida (July 95 - Present)
+Currently working in a project for Delphi Automotive Systems.
+Responsibilities include:
+
+   * Software development of applications running on Windows/NT using
+     Visual Basic and Oracle.
+
+Previous to this project, I worked for three years supporting IBM's Global
+Embedded Production Solutions group in various functions:
+
+   * Software development for applications running on Windows/NT and AIX
+     operating systems using Visual Age Smalltalk, DB2 and the C
+     programming language.
+   * Ported software applications written in C from different Unix
+     operating systems (Motorola System V/68, HP-UX, Solaris and SunOS) to
+     AIX.
+   * System and component testing of software products running on AIX,
+     Solaris, HP-UX, OS/2 and Windows/NT operating systems.
+   * Unix system administration for various development and test machines
+     running AIX, Solaris and HP-UX operating systems.
+
+Member of Technical Staff II
+Encore Computer Corporation, Fort Lauderdale, Florida (December 92 - July
+95)
+Worked as junior software developer and Unix system administrator for over
+30 networked, high-performance, multi-user, Unix systems supporting over
+300 users. Responsibilities included:
+
+   * Design and develop software applications using Unix shell scripts, C
+     and 4th Dimension Relational Database for internal user support and to
+     improve administrative functions.
+   * Maintain, upgrade and configure Unix machines (System V.3, System V.4,
+     SunOS) with latest operating systems and applications for time-share
+     and development test use.
+   * Work with software development groups in the identification and
+     resolution of problems with new software releases.
+   * Provide direct user support for development personnel.
+
+Computer Lab Assistant
+Florida International University, Miami, Florida (January 92 - December 92)
+Worked in the University Computer Services laboratory which was composed of
+Sun workstations, PCs, Macintosh computers and an assortment of Unix and
+VAX systems. Responsibilities included:
+
+   * Help students in understanding software packages and programming
+     languages.
+   * Assist in hardware installation and data communications
+     troubleshooting.
+
+                            PROFESSIONAL SKILLS
+
+Operating Systems: Experienced in AIX, Solaris, SunOS, HP-UX, Windows/NT
+and OS/2.
+Programming Languages: Experienced in C, C++, Visual Age Smalltalk, Visual
+Basic, Java and Unix shell programming.
+Databases: Experienced in SQL and basic database administration on Oracle
+and DB2.
+Other: Knowledge of object oriented methodology and design. Direct
+experience in preparing HTML documents and coordinating a World Wide Web
+site. Trained in the Phillip Crosby Association Quality Improvement
+Process.
+
+                                 EDUCATION
+
+Nova Southeastern University, Fort Lauderdale, Florida (July 95 - October
+98)
+Received Master's Degree in Business Administration, October 1998.
+
+Florida International University, Miami, Florida (May 90 - August 92)
+Received Bachelor of Science Degree in Computer Science, August 1992.
+
+Miami Dade Community College, Miami, Florida (September 88 - April 90)
+Received Associate in Arts Degree in Computer Science, April 1990.
+Graduated with Honors.
+
+                                 REFERENCES
+
+                          Available upon request.
+
+---------------------------------------------------------------------------
+[Image]

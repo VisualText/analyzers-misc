@@ -1,0 +1,13 @@
+
+# AUTOMATICALLY GENERATED! EDITS WILL BE LOST!
+# FILE: e:\apps\resume\spec\EducationHeaderPhrase.pat
+# TIME: 10:08:02 09/02/01
+@NODES _LINE
+
+@PRE
+<1,1>	cap();
+@RULES
+
+# Ex:	Course\_:
+_EducationHeaderPhrase [layer=(_header )] <- Course [s] _xWHITE [star s] \: [s] @@
+
