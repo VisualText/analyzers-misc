@@ -1,2 +1,2 @@
-# analyzer-misc
+# analyzers-misc
 Miscellaneous analyzers
